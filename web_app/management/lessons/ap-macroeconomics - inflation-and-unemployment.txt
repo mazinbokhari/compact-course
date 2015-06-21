@@ -1,0 +1,93 @@
+<h2>Inflation</h2>
+Inflation is the increase in the general price level. Goods and services cost more money, but they don't actually increase in value. In fact, the value of money is the only thing that changes with inflation. Really all inflation does is <span style="color: #007fff;">decrease the purchasing power of money</span>. A dollar now can get you more than it will in the future. Deflation is the opposite of inflation. Price levels drop during times of deflation, although this is rare.
+<h3>Inflation Rate</h3>
+The inflation rate a quantitative measure of how much the general price level has changed from one year to another. It is found with a price index (price of basket of goods), such as the GDP deflator. However, the base year doesn't strictly have to be 100 to work. The equation for the inflation rate is:
+
+<img alt="{\color{blue} inflation \hspace{2mm} rate =\frac{CPI_{2}-CPI_{1}}{CPI_{1}}}" src="http://latex.codecogs.com/gif.latex?{\color{blue}&amp;space;inflation&amp;space;\hspace{2mm}&amp;space;rate&amp;space;=\frac{CPI_{2}-CPI_{1}}{CPI_{1}}}" align="absmiddle" />, where CPI<sub>1</sub> is the first price index of the base year, CPI<sub>2</sub> is the price index of a different year after the base year, and inflation rate is a decimal (multiply it by 100 to get the rate in % form). Ex: if the price index is 50 in one year and 55 in the next year, what was the rate of inflation between the two years?
+
+<img alt="\frac{55-50}{50}" src="http://latex.codecogs.com/gif.latex?\frac{55-50}{50}" align="absmiddle" /> = .1 = 10%
+
+You might get a chart with a basket of goods and each good's price listed on the AP exam. You should be able to calculate each year's price index and then calculate the inflation rate with your answers.
+
+Just to note, the equation above can be used to calculate the percent increase in anything. For example, if someone's real wages goes up from $10/hour to $14/hour, then the real wage increase rate would be 40%.
+<h3>Real, Nominal, and Inflation</h3>
+The equation above is useful for any "percent increase" calculation. You might need to calculate the percent change in real or nominal GDP. Just use the same method above. Speaking of, there is another general equation to know:
+
+<img alt="{\color{Blue} real \hspace{1 mm}rate=nominal\hspace{1 mm}rate-inflation\hspace{2 mm}rate}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;real&amp;space;\hspace{1&amp;space;mm}rate=nominal\hspace{1&amp;space;mm}rate-inflation\hspace{2&amp;space;mm}rate}" align="absmiddle" />
+
+The AP exam asks questions involving the above equation all the time. There are usually two types:
+<h4>GDP and Wage Rate</h4>
+Wage rates are often increased as a result of inflationary expectations; otherwise, workers would actually be losing <em>real wages</em>, or the actual purchasing power their wages have. You'll often be asked to calculate what workers' real wage rate increase is.
+
+Ex: If next year's wage rate will be 4% higher than this year and the inflation rate is 3%, what would be the percent increase in <em>real</em> wage rates?
+
+Easy, just plug stuff into the equation above: real rate = 4% - 3% = 1%. The real wage rate would increase by 1%.
+
+Ex: If, due to inflationary expectations, next year's wage rate was increased by 5%, but the inflation rate was 7%, would workers' real wages next year be greater than, less than, or equal to their real wages today?
+
+Once again, just use the equation: real rate = 5% - 7% = -2%. The real wage would increase by -2%, or <em>decrease by 2%</em> (both statements mean the same). So, their real wages next year would be less than today.
+<h4>Interest Rate</h4>
+Just like wages, interest rates are adjusted in order to account for inflation. If inflation rates weren't increased as a result of inflationary expectations, borrowers would be paying their lenders back with less valuable dollars. To understand this, think about someone giving you $1,000 without any expectation of you paying interest. If you pay him back two years later, wouldn't those dollars be less valuable than when you got them? The $1,000 you received could buy you 100 apples, but the $1,000 you paid back two years later could maybe only get your friend 60 apples. In this case, you were paying back negative real interest.
+
+Ex: If the inflation rate is 4%, and the nominal interest rate is 8%, what is the real interest rate?
+
+Use the same equation: real interest rate = 8% - 4% = 4%. The real interest rate is 4%.
+
+More often than not, the AP exam will use the phrase <span style="color: #007fff;">unexpected inflation</span>. Unexpected inflation will always help out borrowers because, as aforementioned, they pay back less valuable dollars. *This doesn't mean borrowers make money off their loans; it just means that they're technically paying back less than they were supposed to.
+
+Ex: Mark received a fixed-rate loan from a bank when the inflation rate was 2%. If the inflation rate quickly rises to 4%, who benefits from the unexpected inflation: Mark, the bank, both, or neither?
+
+As I wrote before, unexpected inflation always benefits the borrower because he pays back less valuable money than what he's supposed to. Mark clearly benefits over the the bank.
+<h3>Standard of Living</h3>
+Inflation is often used as an indicator of a country's standard of living. Since it decreases the purchasing power of money, if people aren't making more nominal money, they are making less real money. This is a good way to tell that a country's standard of living is dropping.
+
+Inflation can often be an inaccurate way to assess certain households' standard of living. Inflation is based on a price index calculated from the price of a basket of goods. If some households don't regularly consume goods in this basket, they <em>could</em> be relatively unaffected by inflation. Be aware of this.
+<h3>Types of Inflation</h3>
+I'm going to be honest with you by saying that you don't need to fully understand these two terms, but you should at least know them.
+<h4>Demand-Pull Inflation</h4>
+When people want a certain good, they're probably willing to pay for it. When <em>a lot </em>of people <em>really</em> want a certain good in limited supply, they're probably willing to pay <em>more</em> for it.<em></em> It's common sense: the more people want a limited good, the higher the price the good will go for, like in an auction. This describes demand-pull inflation. If demand for goods overall increases (called <span style="color: #007fff;">aggregate demand</span>), so will the general price level, marking inflation. Likewise, if the aggregate demand decreases, so will the general price level.
+
+Factors that affect aggregate demand will be discussed in a later chapter.
+<h4>Cost-Push Inflation</h4>
+As a businessman, if the prices to produce your goods goes up, would you take on the difference in profit, or would you pass this on to your customers by raising the prices of of your goods? Most would choose the latter. This describes cost-push inflation. Any time the <span style="color: #007fff;">per unit costs of production</span> of goods rises, so will the general price level. Likewise, if the per unit cost of production of goods lower, so will the general price level.
+
+Factors that affect per unit costs of production will be discussed in a later chapter.
+<h2>Unemployment</h2>
+<h3>The Workforce</h3>
+The workforce is defined as the total number of a country's citizens employed plus all those unemployed who are actively seeking work. The workforce includes all those in the armed forces, but <em>does not</em> include those who are institutionalized and those who are younger than 16 (or older than 64).
+<h3>Unemployment Rate</h3>
+The unemployment rate (in % form) equals <img alt="{\color{Blue} \frac{Number\hspace{1mm}of\hspace{1mm}people\hspace{1mm}unemployed}{Population\hspace{1mm}of\hspace{1mm}the\hspace{1mm}work\hspace{1mm}force}\times 100}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{Number\hspace{1mm}of\hspace{1mm}people\hspace{1mm}unemployed}{Population\hspace{1mm}of\hspace{1mm}the\hspace{1mm}work\hspace{1mm}force}\times&amp;space;100}" width="235" height="38" align="absmiddle" />.
+
+The unemployment rate is used to measure an economy's health. Obviously, lower unemployment rates are generally good. High unemployment rates occur during recessions.
+
+The unemployment rate can understate the severity of a recession due to an abundance <span style="color: #007fff;">discouraged workers</span>. Discouraged workers are those that are unemployed and have given up looking for jobs. Since they are not actively seeking work, they are not a part of the work force, and are therefore not technically considered unemployed. If a large amount of the unemployed became discouraged workers, the unemployment rate would actually drop, even though more people are <em>not</em> getting jobs. The drop in unemployment rate works out mathematically with the equation above; you don't need to understand the math - just understand why discouraged workers understate the severity of recessions.
+<h3>Types of Unemployment</h3>
+There are a few types of unemployment. The differences between them are basic, and you should know them for the AP exam.
+<h4>Seasonal Unemployment</h4>
+Around Christmas time, many people go out shopping. Therefore, many stores higher a few more employees to manage the sales. After this period of high traffic, stores let go of unneeded workers. This is an example of seasonal unemployment, unemployment due to changes in the season.
+<h4>Frictional Unemployment</h4>
+Frictional unemployment is unemployment that comes from changing jobs, careers, or location. Frictional unemployment comes voluntarily, instead of from an outside force such as a recession.
+<ul>
+	<li>Someone who just graduated college yesterday is frictionally unemployed, not because he <em>can't</em> find a job, but because he's just started looking for one.</li>
+	<li>Someone who quits his job because he finds it low-paying is frictionally unemployed. He wasn't let go due to a recession; he chose to quit in order to find a better job.</li>
+</ul>
+Frictional unemployment is considered as <span style="color: #007fff;">natural unemployment</span>. Yes, a couple of types of unemployment are indicators of a healthy economy. For example, an economy that has frictional unemployment is probably doing well because people are confident enough to quit their jobs in search for other ones.
+<h4>Structural Unemployment</h4>
+Structural unemployment comes from a change in demand of workers' skill sets. Workers for a type of job are just no longer needed anymore.
+<ul>
+	<li>For example, factory workers might be let go because a company bought a machine that can do the same job as them. Their "craft" is no longer needed anymore, so they are without employment.</li>
+	<li>The popularization of computers is another example. Typewriters are no longer needed, as people can do all their work on laptops and computers. Thus, typewriter manufacturing companies went bankrupt and left all their employees without work.</li>
+</ul>
+As you probably guessed, structural unemployment is usually the result of increases in technology. It is therefore considered the other type of natural unemployment. Increases in technology obviously have a profound affect on productivity, as well as economic growth (since it's a factor of production, remember?).
+<h4>Cyclical Unemployment</h4>
+Cyclical unemployment is the result of recessions (drops in real GDP). If real GDP decreases, that means less goods and services are being produced, and as a result, there is less need for workers. This is the type of unemployment I'll refer to in later chapters.
+<h3>Full Employment</h3>
+<img class="alignleft" alt="PPC Full Employment" src="http://www.compactcourse.com/images/PPC%20NAIRU.png" width="300" height="272" />Full employment does not refer to a time in which the unemployment rate is 0%. No, like I said above, structural and frictional types of unemployment are good for economies. Full employment refers to a period in which there is <span style="color: #007fff;"><strong>no cyclical unemployment</strong></span>. Full employment means that the economy is operating at its <em>optimum</em> capacity, <em>not its maximum</em>.
+
+<span style="font-size: 14px;">There is a term I'll use interchangeably with full employment, <span style="color: #007fff;">NAIRU</span>. It stands for non-accelerating inflation rate of unemployment. I know it probably seems confusing, but it's not. You'll learn later that inflation and unemployment are inversely proportional to each other; inflation happens during economic prosperity, while unemployment happens during recessions. An economy at NAIRU, or full employment, has lowest unemployment rate (0% cyclical) possible that won't cause large inflation.</span>
+
+As you can see on the graph to the left, an economy's maximum productive capacity is on the curve. This would entail absolutely no cyclical, structural, or frictional unemployment. This is not optimal for an economy, both because structural and frictional types of unemployment are indicators of good health <em>and</em> because this would cause large inflation. No, the optimal point the economy should be at is on the dashed line (don't draw this on a free response; it's just to help you understand). Once again, this means the economy is at NAIRU, full employment.
+
+If you remember in a previous section, I talked about shifting the PPC... Any shift in the PPC will also shift the NAIRU dashed line in the same direction. In case you forgot, any increase in the quantity of quality of factors of production will shift the PPC (and NAIRU) to the right because an economy will then have the ability to produce more.
+
+NAIRU is very important to understand, as there will be a bunch of graphs including the PPC that will all incorporate NAIRU. Throughout the course, I'll go through each one, and towards the end, you'll see them all link together. It'll make so much sense, you'll blow your load.

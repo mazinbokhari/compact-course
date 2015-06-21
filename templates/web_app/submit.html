@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% load static bootstrap3 %}
+
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+  <!-- Lobster font -->
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster"></link>
+
+  <!-- jQuery -->
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.js"></script>
+
+  <!-- Bootstrap -->
+  {% bootstrap_css %}
+  {% bootstrap_messages %}
+
+  <!-- Organic -->
+  <link rel="stylesheet" href="{% static 'css/course_page.css' %}"></link>
+  <link rel="stylesheet" href="{% static 'css/all.css' %}"></link>
+</head>
+<body>
+  <div class="container">
+    <br>
+    <div class="alert alert-danger">All forms are case and white-space sensitive!
+      Get exact names from the course pages.
+      You can only edit existing <b>sections</b>.
+    </div>
+
+    {% if success and not error %}
+
+      <form id="submit_form" action="/ap-courses/submit" method="post">
+        {% csrf_token %}
+        <p>
+          <label for="subject">Subject (AP Physics B, etc.)</label><br>
+          <input type="text" name="subject" id="id_subject" />
+        </p>
+        <p>
+          <label for="chapter">Chapter (Vectors, etc.)</label><br>
+          <input type="text" name="chapter" id="id_chapter" />
+        </p>
+
+        <br>
+        <hr><p><b>Lesson</b></p><hr>
+        <div>
+          <p>
+            <label for="section">Section (Vector Definitions, etc.)</label><br>
+            <input type="text" name="section" id="id_section" />
+            <br>
+            <br>
+            <label for="content">Section Content (raw HTML)</label><br>
+            <textarea rows="20" cols="150" type="text" name="content" id="id_content"></textarea>
+          </p>
+
+
+
+        <div class="panel-group" id="accordion">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse-one">
+                  Subsection (leave blank if none)
+                </a>
+              </h4>
+            </div>
+            <div class="panel-collapse collapse in" id="collapse-one" style="height: auto;">
+              <div class="panel-body">
+                <label for="subsection">Subsection (leave blank if none)</label><br>
+                <input type="text" name="subsection" id="id_subsection" />
+                <br>
+                <br>
+                <label for="sub_content">Subsection Content (raw HTML)</label><br>
+                <textarea rows="20" cols="150" type="text" name="sub_content" id="id_sub_content"></textarea>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+        <input type="submit" value="Submit" />
+      </form>
+
+    {% elif success and error == "POSTED" %}
+
+      <div class="alert alert-success">Success! <b>Hit back</b> to automatically fill in the form again.</div>
+
+    {% else %}
+
+      <div class="alert alert-error">Error! <b>{{ error }}</b></div>
+
+    {% endif %}
+
+  <br>
+  </div>
+
+{% bootstrap_javascript %}
+<script type="text/javascript">$(".collapse").collapse()</script>
+</body>
+</html>

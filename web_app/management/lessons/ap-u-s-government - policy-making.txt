@@ -1,0 +1,41 @@
+<h2 style="text-align: center;">The Budget and Financial Policies</h2>
+<h3>America's Economic System</h3>
+This is not that stressed by the AP exam, but I think that it is essential information to know anyway. The United States has a mixed capitalist, free market economy. This means that instead of the government controlling everything that is produced in the country, citizens control the vast majority of businesses (in what is known as the private sector). However, the government is still able to regulate the economy by overlooking businesses' practices.
+<h4>Classical Theory</h4>
+Classical economists believe in pure laissez faire economic systems. These types of economies feature absolutely no government intervention at all. They believe that the economy is self-regulating and does not need help from the government to stabilize itself.
+<h4>Keynesian Theory</h4>
+Keynesian economists believe that government intervention in the economy is essential for healthy growth. They still support the privatization of the economy, but think that in recessionary or inflationary periods of time, the government must guide the economy in the right direction. The United States is keynesian; any time taxes are altered or the government spends money, the economy is being affected.
+<h3>The Budget</h3>
+The federal budget is the annual statement of projected revenues (mainly through taxes) and expenditures of the country in a given year. The budget reflects what how the government believes its finances will play out; however, they don't always happen that way. People use the terms <span style="color: #007fff;">balanced budgets</span>, <span style="color: #007fff;">budget deficits</span>, and <span style="color: #007fff;">budget surpluses</span> to describe the three possible ways a budget can be made. A balanced budget is one in which the government spends the same amount of money as it consumes, hence the word "balanced." A budget deficit is a scenario in which the government will spend more money than it gains. A budget surplus is the opposite of a budget deficit, but it rarely occurs.
+
+&nbsp;
+<h3>Financial Policies</h3>
+There are two types of financial policies in the United States: monetary and fiscal.
+<h4>Monetary Policy</h4>
+Monetary policy deals with the changing of interest rates in an attempt to influence the economy. They are changed through the <span style="color: #007fff;">Federal Reserve Board</span>'s alteration of the amount of money in circulation, or the money supply.
+<h4>Fiscal Policy</h4>
+Fiscal policy deals with actions taken by elected government officials, such as lowering taxes or increasing government spending through new programs.
+<h3>Entitlement Programs</h3>
+Entitlement programs are mandated by federal law. The government does not have a choice whether or not to pay into them (unless action against the programs are taken, of course). Anyone who meets the requirements of  a certain program is entitled to its benefits. Entitlement programs are not the only forms of spending the government cannot control; however, it's important to note that they make up the majority of it.
+<h4>Social Security</h4>
+Social Security is one of the most discussed entitlement programs today. It gives payments to senior citizens. Unfortunately, Social Security as it is now will burden the future taxpayers of America. One main reason why is that the average life span has been steadily rising, which means beneficiaries will receive more overall payments than those before them. This is why government officials are pushing to increase the Social Security eligibility age. Another reason why is that the work force is depleting, while the number of retirees is increasing. This means that a small group of people are going to have to support Social Security for a large group of beneficiaries.
+<h4>Health Care</h4>
+Two of the other most expensive entitlement programs are:
+<ul>
+	<li><span style="line-height: 13px;"><span style="color: #007fff;">Medicare</span> - provides health insurance for the elderly</span></li>
+	<li><span style="color: #007fff;">Medicaid</span> - provides health insurance for those that have financial need</li>
+</ul>
+<h2 style="text-align: center;"><span style="font-size: 1.5em; text-align: center;">Divided Government</span></h2>
+<p style="text-align: left;">Divided government is a situation in which different political parties control the White House and either house of Congress. For example, in 2013, the Democrats held the majority in the Senate, while also having the presidency in Barrack Obama, but the Republicans had control of the House of Representatives. This is divided government. Divided government had been occurring more frequently since the election of Richard Nixon in 1968.</p>
+
+<h3>Potential Advantages of Divided Government</h3>
+I call the following potential advantages because they can easily be seen as drawbacks; to each his own:
+<h4>Moderate Policy</h4>
+When neither major party controls all of government, policy is less likely to be ideologically one-sided. For most Americans, this hinderance of radical change in the country is good.
+<h4>Weakening of Political Parties</h4>
+Due mainly to irritation with government during times of divided government (more on that below), the public has experienced party dealignment,  which is the shift away from major political parties towards moderate viewpoints. More people are starting to label themselves as independent rather than Democrat or Republican. This takes power away from political parties. Parties try to combat this by attempting to reduce <span style="color: #007fff;">split-ticket voting</span> (when people vote for candidates of different parties in a single election; see closed primaries in Elections).
+<h3>Disadvantages of Divided Government</h3>
+<h4>GridLock</h4>
+Instead of making compromises during divided government like we'd expect, the two major political parties have are stuck in gridlock. Neither party is willing to give in, which slows down the legislative process (<span style="color: #007fff;">filibusters</span> are a major tool for minority party members to stop the passage of a bill).
+<h4>Decline of Trust</h4>
+People become irritated with the lack of progress the government makes during divided government. This leads to drops of the public's trust in the government's ability to carry out its responsibilities. You learned about the decline of public trust in Political Beliefs.

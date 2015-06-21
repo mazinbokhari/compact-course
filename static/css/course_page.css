@@ -1,0 +1,66 @@
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navbar-default .navbar-nav>.active>a {
+  background: none;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 19px;
+  line-height: 40px;
+}
+
+@media (min-width: 768px) {
+  .container-narrow {
+    max-width: 730px;
+  }
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  border-bottom: 1px solid #e5e5e5;
+  text-align: center;
+}
+
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+}
+
+.bs-header {
+  margin-top: -20px;
+  margin-bottom: 20px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.bs-header h1 {
+  font-size: 72px;
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-default {
+  position: absolute;
+  margin-top: 20px;
+  width: 100%;
+  border: none;
+  background: none;
+}

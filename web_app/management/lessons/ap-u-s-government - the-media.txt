@@ -1,0 +1,12 @@
+<h2 style="text-align: center;">The Media's Political Functions</h2>
+The media is not that important know for the AP exam; however, there are a few main topics you should know about it. Even if it sounds rudimentary, it's worth saying that the vast majority of media is broadcast through the radio, television, and the Internet. The rise of technology meant the downfall for magazines and newspapers.
+<h3>Government Officials</h3>
+The media provide government officials a way to inform the public of their programs and agenda. Presidents regularly use the media for these tasks.
+<h3>The Public</h3>
+The media also provide the public with their own reports of news, mainly concentrated on campaigns. However, the real coverage is on the candidates more so than their platforms. The media focus on providing coverage of following:
+<ul>
+	<li><span style="line-height: 14px;">Day-to-day activities around the campaigns like rallies and protests</span></li>
+	<li>Poll numbers - this is referred to as <span style="color: #007fff;">horse-race journalism</span></li>
+	<li>Sound bites of debates and discussions rather than what they are about</li>
+</ul>
+The important thing to know is that the media does not actually provide the viewers with much coverage of the candidates' policies (the important stuff) - they mainly focus on the candidates themselves.

@@ -1,0 +1,46 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #3366ff;">Vector Definitions</span></h2>
+<span style="color: #3366ff;"><span style="text-decoration: underline;">Vector:</span> <span style="color: #000000;">Q</span></span>uantity that has magnitude and direction
+<ul>
+	<li><span style="line-height: 14px;">ex.) 30 miles per hour to the west</span><a style="font-style: normal; line-height: 22px; text-decoration: none;" href="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A.png">     </a></li>
+</ul>
+<span style="text-decoration: underline; color: #3366ff;">Scalar:</span> Quantity that has magnitude, but not direction
+<ul>
+	<li><span style="line-height: 14px;">ex.) 30 miles per hour</span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #3366ff;">Properties of a Vector</span></h2>
+<p style="text-align: left;">If A is a vector, it has a component in the x-direction and in the y-direction</p>
+
+<ul>
+	<li><img alt="{\color{Blue} A=\left \{ Ax,Ay \right \}=(A\cos \Theta )i+(A\sin \Theta )j}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;A=\left&amp;space;\{&amp;space;Ax,Ay&amp;space;\right&amp;space;\}=(A\cos&amp;space;\Theta&amp;space;)i+(A\sin&amp;space;\Theta&amp;space;)j}" align="absmiddle" /></li>
+</ul>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A3.png"><img class="alignnone size-full wp-image-1507" alt="Vector A" src="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A3.png" width="269" height="128" /></a>
+<ul>
+	<li><span style="line-height: 22px;"> i and j are symbols to show which component we are dealing with</span></li>
+</ul>
+<span style="text-decoration: underline; color: #3366ff;">Magnitude of a Vector:</span> C<span style="color: #000000;">an be found if the individual components are known through the equation</span>
+
+<span style="color: #000000;"><img style="margin: 5px auto; display: block; text-align: center;" alt="{\color{Blue} A=\sqrt{(Ax)^{2}+(Ay)^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;A=\sqrt{(Ax)^{2}+(Ay)^{2}}}" width="167" /></span>
+
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #3366ff;">Vector Manipulation</span></h2>
+Say we have a vector, vector A....
+<ul>
+	<li><span style="line-height: 14px;">If we multiply A by a positive constant, k, we are left with a new vector with the same direction as A, but with a new magnitude (kA)</span></li>
+</ul>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/Vector-kA.png"><img class="alignnone size-full wp-image-1466" style="margin: 5px auto; display: block; text-align: center;" alt="Vector kA" src="http://compactcourse.com/wp-content/uploads/2013/06/Vector-kA.png" width="500" /></a>
+<ul>
+	<li>If we multiply A by a negative constant, -k, we are left with a new vector with the opposite direction as A, and with a new magnitude (kA)</li>
+</ul>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/Vector-kA1.png"><img class="alignnone size-full wp-image-1475" style="margin: 5px auto; display: block; text-align: center;" alt="Vector -kA" src="http://compactcourse.com/wp-content/uploads/2013/06/Vector-kA1.png" width="500" /></a></p>
+Say we have another vector, vector B...
+<ul>
+	<li><span style="line-height: 14px;">If we add A to B, we are left with a new vector, vector A + B</span></li>
+	<li>If A = A<sub>x </sub>+ A<sub>y </sub>and B = B<sub>x</sub> + B<sub>y</sub>, A + B = (A<sub>x</sub> + B<sub>x</sub>)i + (A<sub>y</sub> + B<sub>y</sub>)j</li>
+</ul>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A+B.png"><img class="alignnone size-full wp-image-1486" style="margin: 5px auto; display: block; text-align: center;" alt="Vector A+B" src="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A+B.png" width="500" /></a>
+<ul>
+	<li><span style="line-height: 22px;">If we subtract B from A, we are left with a new vector, vector A + (-B)</span><span style="line-height: 22px;"> </span></li>
+	<li>If A = A<sub>x </sub>+ A<sub>y </sub>and B = B<sub>x</sub> + B<sub>y</sub>, A - B = (A<sub>x</sub> - B<sub>x</sub>)i + (A<sub>y</sub> - B<sub>y</sub>)j</li>
+</ul>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A-B.png"><img class="alignnone size-full wp-image-1505" style="margin: 5px auto; display: block; text-align: center;" alt="Vector A-B" src="http://compactcourse.com/wp-content/uploads/2013/06/Vector-A-B.png" width="500" /></a>

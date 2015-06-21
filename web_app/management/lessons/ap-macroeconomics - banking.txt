@@ -1,0 +1,258 @@
+<h2>Money</h2>
+<h3>Money</h3>
+In the broad sense, money is anything that is widely accepted as payment for goods and services. Usually, money takes the form of print (e.g. dollars) or coins. There are three functions of money:
+<h4>Medium of Exchange</h4>
+Money is used to buy and sell goods and services. Before money was used as currency, people used to have to barter by trading goods and services (e.g. one goat for three lambs). Money has made the process of obtaining goods and services much easier by being a medium of exchange.
+<h4>Unit of Account</h4>
+Money can be used to evaluate the worth of goods and services. For example, one might say that a tennis racket is worth $30. Using money as a means to appraise goods and services is essential to its use as a medium of exchange.
+<h4>Store of Value</h4>
+People keep money in banks or on hand as a means to store their wealth. It's better and more convenient to hold your fortune in money instead of buying $100,000 worth of laptops with it because money's value is retained over time (unlike laptops), and because money is liquid, or immediately available as a medium of exchange. Like the ones above, this is just kind of common sense.
+<h3>Types of Money</h3>
+Money is not always just dollar bills and coins. It can take several forms. The following forms of money are ordered in descending liquidity, or immediate availability to use. I'm going to be honest; these aren't extremely important to know, but here they are anyway:
+<h4>M0</h4>
+M0 is physical currency, such as bills and coins. This is the most liquid form of money because it's universally accepted as immediate payment for goods and services.
+<h4>M1</h4>
+M1 includes all of M0, along with demand deposits (checking accounts).
+<h4>M2</h4>
+M2 includes all of M1, along with money market funds, savings accounts, and small time deposits.
+<h4>M3</h4>
+M3 includes all of M2, along with large time deposits.
+<h2>Money Market</h2>
+<h3>Money Supply</h3>
+<img class="alignleft" alt="Supply of Money Curve" src="http://www.compactcourse.com/images/Sm.png" width="300" height="273" />
+
+The money supply represents the total amount of money in circulation, including mainly cash and checking accounts. It's synonymous with the curve known as the supply of money (Sm) on the money market graph.
+
+The Sm curve is completely controlled by actions of the Federal Reserve. It will only shift left or right when the Federal Reserve implements a monetary policy, which you will learn about next chapter.
+
+In general, just understand that anything that increases the amount of money in circulation will shift the supply of money curve to the right, increasing the supply of money. Likewise, anything that decreases the amount of money in circulation will shift the supply of money curve to the left, decreasing the supply of money.
+
+&nbsp;
+<h3>Demand of Money</h3>
+<img class="alignleft" alt="Demand of Money Curve" src="http://www.compactcourse.com/images/Dm.png" width="300" height="273" />
+
+&nbsp;
+
+The demand of money curve (Dm) represents how much a nation's people in general wish to hold their wealth as money. The Dm curve is inversely related to nominal interest rates. At higher nominal interest rates, people will want to invest in bonds and time deposits in order to make money, so the demand for money in liquid form - such as cash and demand deposits - is lower. The converse holds true as well.
+
+There are two types of demand of money. (Don't worry too much about the demand of money. The supply of money is much more important.)
+<h4>Transaction Demand</h4>
+We hold money because its convenient to use to purchase goods and services. The transaction demand just represents in general how much money a nation's people hold at any given time in order to buy goods and services.
+<h4>Asset Demand</h4>
+As you know, people keep money as an asset to store their wealth. At any given time, a nation's people in general will have a certain demand of money to keep as an asset.
+<h3>Money Market Graph</h3>
+<img class="alignleft" alt="Money Market Graph" src="http://www.compactcourse.com/images/Money Market.png" width="300" height="273" />The money market graph combines the Sm curve and the Dm curve. The equilibrium point (the intersection point) of this graph determines the quantity of money (AKA the money supply) and the <em>nominal</em> interest rate (not the real interest rate). Since the Sm curve <em>is</em> the money supply controlled by the Federal Reserve, there's no need to draw a dotted line to show the supply of money, as that would just be redundant.
+
+Even though we are referring to the nominal interest rate, for the sake of this course, when the nominal interest rate increases/decreases, so will the real interest rate. I'd hope this makes sense. If the inflation rate is constant, then by the equation:
+real rate = nominal rate - inflation rate
+
+If the nominal interest rate goes up, so will the real rate.
+
+&nbsp;
+<h4>Shifting the Dm Curve</h4>
+The Dm curve is dependent on the nominal GDP. If the nominal GDP increases, the Dm curve will shift to the right. If the nominal GDP decreases, the Dm curve will shift to the left. Nominal GDP can change if either the real GDP changes or if inflation changes.
+
+If inflation rate increases, price levels are higher, <img class="alignleft" alt="Dm Shift Right" src="http://www.compactcourse.com/images/Dm Shift Right.png" width="342" height="273" />which means that people will have to carry more money to buy goods and services.
+
+If the real GDP increases, people will have more wealth, which means the asset demand for money will increase because they'll need to store that increased wealth in money.
+
+Either way, you must make the determination if nominal GDP increases; that is the trigger for a shift in Dm.
+
+Ex: If aggregate demand increases, what will happen to the nominal interest rate?
+
+Answer: Using the AD-AS graph, shifting the AD curve to the right will yield higher price levels and higher real GDP. Thus, nominal GDP must increase as well. Therefore, the Dm curve will shift to the right, increasing the nominal interest rate.
+
+If you can understand what will increase/decrease the nominal GDP, you're in good shape. However, I need to remind you to stay in the question. Instead of asking you about nominal interest rates, the question above might have asked about the effect on unemployment instead. Don't whip out the money market graph unless you have to. Questions about the Dm curve are rare on the AP exam.
+<h4>Shifting the Sm Curve</h4>
+The supply of money curve is completely controlled by the Federal Reserve (the Fed) and its monetary policies. Anything the Federal Reserve does to increase the amount of money in circulation will increase the money supply, shifting the Sm curve to the right.
+
+Any money held by the Federal Reserve is not considered to be in circulation or part of the money supply. Therefore, if the Fed was to acquire money from banks, the money supply would decrease, and the Sm curve would shift to the left.
+
+Likewise, if the Federal Reserve gave money to banks, more money would be in circulation, so the money supply would increase, and the Sm curve would shift to the right.
+
+The Federal Reserve gives/takes money away from banks in order to control the money supply, which is how the Federal Reserve changes interest rates. You'll learn all the ways the Fed can give/take money from banks in the next chapter, but I'll give one example anyway:
+
+&nbsp;
+<h5>Bonds</h5>
+<img class="alignleft" alt="Sm Shift Right" src="http://www.compactcourse.com/images/Sm Shift Right.png" width="300" height="273" />
+
+The Federal Reserve (Fed) can buy and sell bonds to banks. Bonds are basically like loans but they pay interest to the owners . If the Federal Reserve <em>buys </em>bonds from banks, the Federal Reserve will <em>give </em>the banks money for the bonds. Therefore, the money supply will increase, shifting the Sm curve to the right, which will decrease nominal interest rates. At a constant general price level, this will also decrease real interest rates. The decrease in real interest rates will increase business investment due to high profitability of loans. This increase in business investment will increase aggregate demand, shifting the AD curve to the right and increasing both real GDP and price levels.
+
+See how many chain reactions this had? This is why it's important to understand every chapter of economics. However, if you truly do comprehend the actual concepts, you won't have to memorize what does what. It'll just make sense. If the above did not come naturally to you, you should consider reviewing the previous chapters of this course.
+<h2>Creation of Money</h2>
+The banking system actually has the potential to "create" money by loaning out the funds that are deposited by everyday people.
+<h3>Reserve Requirement</h3>
+When someone puts money into a checkable/demand deposit account (checking or savings accounts), banks loan out some of those funds in order to make money off of the interest rate. Banks are not allowed to loan all of the demand deposits, however.
+
+<span id="RRR">The required reserve ratio (RRR) is the minimum percentage (as a decimal) of demand deposits banks must keep in reserves. For example, if the required reserve ration is 0.1, then banks must keep 10% of demand deposits in their reserves (called "required reserves"). This also means that banks are allowed to loan out the other 90% of demand deposits.</span>
+
+Ex: The required reserve ratio is 0.2. A businessman deposits $20,000 into a bank. How much money can the bank loan out?
+
+Answer: To find the required reserve, just multiply the RR by the deposit amount: (0.2)($20,000) = $4,000. The amount the bank must keep as required reserves is $4,000. Therefore, the <em>excess </em>reserves, or the amount the bank currently holds that does not need to be kept, is $20,000 - $4,000 = $16,000. Thus, the bank can loan out $16,000.
+<p style="padding-left: 30px;">Tip: You won't have a calculator on the AP exam, so you'll have to do these calculations by hand. An easy way to multiply decimals is to make them into fractions and then multiply them.</p>
+<p style="padding-left: 60px;">0.2 = 2/10</p>
+<p style="padding-left: 90px;">∴(0.2)($20,000) = (2/10)($20,000) = (2)($2,000) = $4,000</p>
+<p style="padding-left: 120px;">*Once you convert 0.2 to 2/10, you can cancel the 10 in the denominator with a 0 in the numerator to get (2)($2000)</p>
+
+<h3>Making Money</h3>
+Banks can create money by loaning out their excess reserves. The person who deposits physical money into a bank is entitled to withdraw that amount at any time. Now, the bank can loan out some of that physical money to another person. This essentially "creates" money through borrowing on credit.
+
+Ex: The reserve requirement is 0.1. "Person" starts out with $1000. He deposits it all into Bank 1, which puts away $100 (10%) of that into required reserves. Now, the bank is left with $900 in excess reserves. Bank 1 decides to loan all of it out to Person B, who uses it to pay for the services of Person C, a carpenter.
+
+Person C deposits all of the $900 he receives from person B into Bank 2, which puts away $90 (10%) of that into required reserves. Now, Bank 2 is left with $810 in excess reserves. Bank 2 decides to loan all of it out to Person D, who uses it to pay for the services of Person E.
+
+Person E deposits all $810 into Bank 3, which puts away $81 (10%) of that into required reserves. Now, Bank 3 is left with $729 in excess reserves, which it decides to hold on to for the time being.
+
+<img class="alignright" alt="" src="http://www.compactcourse.com/images/Creating Money.png" width="500" height="187" />Now, let's add up all the money... "Person" is entitled to his demand deposit of $1,000. Person C is entitled to his demand deposit of $900. Person E is entitled to his demand deposit of $810. Lastly, Bank 3 physically holds $729 in excess reserves. Required reserves must be held by the banks, and are therefore not considered to be in circulation.
+
+Adding these together yields $3,439, which is $2,439 more than we started out with at $1,000. As you can see, the process of loaning out money on credit increases the total amount of money in circulation, thus increasing the money supply. The graphic above is a basic illustration of the process of the creation of money.
+<h3>Maximum Increase</h3>
+When a question involves banking and money, the AP exam usually asks test takers to find:
+<ul>
+	<li>The maximum total change in demand deposits in the banking system</li>
+	<li>The maximum total change in the money supply</li>
+</ul>
+They are very similar, but there is a slight difference between the two. In the example above, the total change in demand deposits in the banking system was $3,439 because originally, Banks 1, 2, and 3 all held $0, but after the deposit from "Person" and the creation of money by Banks 1 and 2, the sum of the demand deposits and excess reserves was $3,439.
+
+However, the increase in the <em>money supply</em> was only $2,439 because even though the total amount of money at the end was $3,439, the $1,000 that "Person" deposited into Bank 1 was originally already a part of the money supply.
+<h4>Money Multiplier</h4>
+The money multiplier (MM) is the tool used to find the maximum total changes in demand deposits and the money supply.
+
+$latex MM=\frac{1}{RRR}&amp;fg=007fff$
+
+Once again, you should convert the RRR to a fraction, and then calculate the MM.
+
+Ex: What is the money multiplier if the required reserve ratio is 0.2?
+
+Answer: RRR = 2/10 = 1/5
+<p style="padding-left: 30px;">∴ MM = 1/(1/5) = 5</p>
+
+<h4>Solving the Problem</h4>
+Once you have the money multiplier, calculating the maximum total changes in demand deposits and the money supply is easy.
+
+For any type of transfer of money into a bank, whether it be the purchase of a bond or a deposit, the maximum total change in demand deposits in the banking system is $latex (Amount)(MM)&amp;fg=007fff$
+
+The maximum total change in the money supply depends on whether or not the money transferred into the bank was already a part of the money supply.
+<ul>
+	<li>If the funds were already a part of the money supply, then the maximum total change in the money supply equals the maximum total change in demand deposits minus the original amount.</li>
+	<li>If the funds were not originally a part of the money supply, then the maximum total change in the money supply equals the maximum total change in demand deposits.</li>
+</ul>
+Ex: If the required reserve ratio is 0.5 and the Federal Reserve purchases $4,000 worth of bonds from a bank, what will be the maximum possible change in demand deposits in the banking system? What will be the maximum possible change in the money supply?
+
+Answer: RRR = 0.5 = 5/10 = 1/2
+<p style="padding-left: 60px;">MM = 1/RRR = 1/(1/2) = 2</p>
+<p style="padding-left: 60px;">Maximum possible change in demand deposits in the banking system = ($4,000)(MM) = ($4,000)(2) = $8,000</p>
+<p style="padding-left: 60px;">Maximum possible change in the money supply: The $4,000 wasn't originally a part of the money supply. Therefore, the maximum increase in the money supply is the same as the maximum increase in the demand deposits in the banking system, which equals $8,000.</p>
+Ex: Assume that the required reserve ratio is 20% and banks hold no excess reserves. A person deposits $300 of cash into his checking account. Calculate:
+<ol style="list-style-type: upper-roman;">
+<ol>
+	<li>The immediate change in demand deposits in the banking system</li>
+	<li>The immediate change in the money supply</li>
+	<li>The maximum possible change in demand deposits in the banking system</li>
+	<li>The maximum possible change in the money supply</li>
+</ol>
+</ol>
+Answer:
+<ol>
+<ol>
+	<li>The immediate change in demand deposits in the banking system is just $300. Money isn't created immediately; it takes time to be created through the process of loaning out funds. Pay attention to whether or not the question is talking about the immediate effect on something or the maximum effect on something.</li>
+	<li>Since the $300 existed as cash before the person deposited it into a bank account, it was already a part of the money supply. since no money is created instantly, the immediate change in the money supply is zero.</li>
+	<li>Since we're now talking about the <em>maximum possible change</em> in demand deposits, we can use the equation given above.
+RRR = 20% = 0.2 = 2/10 = 1/5
+MM = 1/RRR = 1/(1/5) = 5
+Maximum possible change in demand deposits in the banking system = ($300)(MM) = ($300)(5) = $1,500</li>
+	<li>Since the $300 was already a part of the money supply to begin with, the maximum possible change in the money supply is $1,500 - $300 = $1,200</li>
+</ol>
+</ol>
+<h4>Exception</h4>
+A deposit into a bank will only actually increase the money supply/demand deposits by the maximum possible amount if banks keep no excess reserves. If banks <em>do</em> keep excess reserves, then they won't loan out as much funds, which results in less money creation. This is a concept that has appeared on multiple choice questions before.
+<h3>Balance Sheets</h3>
+&nbsp;
+<table style="border-color: #007fff; border-width: 3px; border-style: solid; width: 70%; height: 116px;" border="3" cellpadding="3" align="left">
+<tbody>
+<tr style="background-color: #c1e0ff;" align="center">
+<td align="center">Assets</td>
+<td align="center">Liabilities</td>
+</tr>
+<tr>
+<td>Required Reserves: $20,000</td>
+<td>Demand Deposits: $100,000</td>
+</tr>
+<tr>
+<td>Excess Reserves: $30,000</td>
+<td></td>
+</tr>
+<tr>
+<td>Loans: $50,000</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+You might come across tables such as the one to the left in free response questions. Demand deposits are the money people have put into the bank. Required reserves are obviously the amount that the bank is required to keep in order to back the demand deposits. Excess reserves are any leftover funds that were not loaned out. The sum of the monetary amount on the left side should always equal the sum of the monetary amount on the right side. Questions like the examples above are often asked with the balance sheet of a bank.
+
+Ex: Use the balance sheet of a bank provided above to answer the following questions.
+<ol>
+<ol>
+	<li>What is the required reserve ratio?</li>
+	<li>Someone withdraws $10,000 from the bank
+<ol>
+	<li>By how much will the bank's reserves decrease?</li>
+	<li>How much will the bank have to keep in required reserves now?</li>
+	<li>What is the immediate impact on the money supply?</li>
+</ol>
+</li>
+	<li>Assume that the withdraw in part (b) did not take place. The bank buys $20,000 worth of bonds from the Federal Reserve.
+<ol>
+	<li>What is the immediate change in the demand deposits in that bank?</li>
+	<li>What is the immediate impact on the money supply?</li>
+	<li>What will happen to nominal interest rates?</li>
+</ol>
+</li>
+</ol>
+</ol>
+Answer:
+<ol>
+<ol>
+	<li>RRR = (required reserves)/(demand deposits) = ($20,000)/($100,000) = 0.2 = 20%</li>
+	<li>
+<ol>
+	<li>This is such an easy question that it seems confusing. The bank's reserves will decrease by the amount the person took out, $10,000</li>
+	<li>Since someone withdrew $10,000, the demand deposits will decrease by that amount. Thus, the demand deposits will sum to $90,000. Multiplying this by the RRR will yield the required reserves: ($90,000)(0.2) = $18,000</li>
+	<li>The bank has not loaned any money in this short time span, so no money has been created. The person transferred the $10,000 from the bank to cash in his pocket, both of which are part of the money supply. Therefore, the money supply won't change. All the person did was change the composition of part of the money supply from demand deposits to cash.</li>
+</ol>
+</li>
+	<li>Go through the steps... The bank <em>buys</em> bonds, so the bank <em>give</em>s<em></em> money to the Federal Reserve.
+<ol>
+	<li>The demand deposits on a bank's balance sheet only have to do with deposits/withdraws made by people. Thus, the demand deposits won't change. The bank will use its excess reserves to pay for the bonds, and the new balance sheet will look like:
+<table style="border-color: #007fff; border-width: 3px; border-style: solid; width: 70%; height: 116px;" border="3" cellpadding="3" align="center">
+<tbody>
+<tr style="background-color: #c1e0ff;" align="center">
+<td align="center">Assets</td>
+<td align="center">Liabilities</td>
+</tr>
+<tr>
+<td>Required Reserves: $20,000</td>
+<td>Demand Deposits: $100,000</td>
+</tr>
+<tr>
+<td>Excess Reserves: $10,000</td>
+<td></td>
+</tr>
+<tr>
+<td>Loans: $50,000</td>
+<td></td>
+</tr>
+<tr>
+<td>Bonds: $20,000</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><img class="alignright" alt="Sm Shift Left" src="http://www.compactcourse.com/images/Sm Shift Left.png" width="179" height="163" />Since the bank is <em>giving</em> money to the Federal Reserve, money is being put out of circulation, so the money supply would decrease by $20,000 (remember, this is the <em>immediate impact</em>; also, money can only be created by transferring money <em>to banks, </em>so you wouldn't use the money multiplier in this situation anyway)</li>
+	<li>If the money supply decreases, then the Sm curve will shift to the left. This will result in higher nominal interest rates.</li>
+</ol>
+</li>
+</ol>
+</ol>
+If that last part got you, it's more than understandable. I do not believe that the AP exam would have such an intricate problem on the free response. However, hopefully you understand it. To sum it up, you need to determine if the deposit/funds was a part of the money supply (or the banking system) in order to find the actual maximum possible increase in either. If you're getting the problems right, then you shouldn't worry about it.

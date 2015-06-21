@@ -1,0 +1,79 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Energy</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Energy:</span> Measurement of change done by forces
+<ul>
+	<li><span style="line-height: 22.22222328186035px;">Unit =&gt; Joule <img alt="\left (J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(J\right&amp;space;)" align="absMiddle" /></span><span style="line-height: 22.22222328186035px;">; Symbol =&gt; E</span></li>
+</ul>
+There are many different kinds of energies. These are explained below.
+<h3 style="text-align: center;">Kinetic Energy</h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Kinetic Energy:</span></span> The energy an object obtains when it is in motion
+<ul>
+	<li>Unit =&gt; Joule <img alt="\left (J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(J\right&amp;space;)" align="absMiddle" />; Symbol =&gt; KE</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} KE=\frac{1}{2}mv^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;KE=\frac{1}{2}mv^{2}}" align="absMiddle" /></p>
+<p align="center"><span style="color: #007fff;">where m is the mass and v is the velocity of the object</span></p>
+
+<h3 style="text-align: center;">Potential Energy</h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Potential Energy:</span></span> Energy that is stored within an object
+<ul>
+	<li>Unit =&gt; Joule <img alt="\left (J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(J\right&amp;space;)" align="absMiddle" />; Symbol =&gt; U</li>
+</ul>
+<h3 style="text-align: center;">Potential Energy due to Gravity</h3>
+<span style="text-decoration: underline; color: #007fff;">Potential Energy Due to Gravity:</span> Energy an object obtains when it exists in a gravitational field
+<ul>
+	<li>Unit =&gt; Joule <img alt="\left (J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(J\right&amp;space;)" align="absMiddle" />; Symbol =&gt; U<sub>g</sub></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} U_{g}=mgh}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;U_{g}=mgh}" align="absMiddle" /></p>
+<p align="center"><span style="color: #007fff;">where m is mass of the object, g is gravity, and h is the distance from the surface that creates the gravitational field</span></p>
+
+<h3 style="text-align: center;">Mechanical Energy</h3>
+<span style="text-decoration: underline; color: #007fff;"><span style="text-decoration: underline;">Mechanical Energy:</span></span> The sum of the potential and kinetic energies in a system
+<ul>
+	<li>Unit =&gt; Joule <img alt="\left (J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(J\right&amp;space;)" align="absMiddle" />; Symbol =&gt; ME</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} ME=KE+U}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;ME=KE+U}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where ME is the mechanical energy, KE is the kinetic energy, and U is the potential energy</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">First Law of Thermodynamics:</span> Energy is always conserved; initial energy is equal to final energy as seen in the equation below</p>
+<p style="text-align: center;"><img alt="{\color{Blue} E_{i}=E_{f}}\, \, \, \,=&gt;\, \, \, {\color{Blue} KE_{i} + U_{i} + W=KE_{f} + U_{f}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;E_{i}=E_{f}}\,&amp;space;\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;KE_{i}&amp;space;+&amp;space;U_{i}&amp;space;+&amp;space;W=KE_{f}&amp;space;+&amp;space;U_{f}}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where W is the work done which we will learn below, KE<sub>i</sub> and KE<sub>f</sub> are the initial and final kinetic energies, and U<sub>i</sub> and U<sub>f</sub> are the initial and final potential energies</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Work</span></h2>
+<span style="text-decoration: underline; color: #007fff;"><span style="text-decoration: underline;">Work:</span></span> Way in which energy is exchanged; scalar quantity that is the product of a force on an object over a distance
+<ul>
+	<li><span style="line-height: 22.22222328186035px;">ex.) Pushing a box does work on the box because you apply a force on the box to move it a distance</span></li>
+	<li>Unit =&gt; Newton-Meter known as the Joule <img alt="\left ( Nm, J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;Nm,&amp;space;J\right&amp;space;)" align="absMiddle" />; Symbol =&gt; W</li>
+	<li>When the direction of a force<em> is</em> parallel to the distance it is causing it to move, the amount of work done is equal to</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} W=Fd}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;W=Fd}" align="absMiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where F is the net force in the direction of motion and d is the distance in which this force acts</span></p>
+<p style="text-align: center;"> <a href="http://compactcourse.com/wp-content/uploads/2013/06/WFd-box.png"><img class="alignnone size-full wp-image-2447" alt="W=Fd box" src="http://compactcourse.com/wp-content/uploads/2013/06/WFd-box.png" width="352" height="176" /></a></p>
+
+<ul>
+	<li><span style="line-height: 22.22222328186035px;">When the direction of a force <em>is not</em> completely parallel to the distance it is causing it to move, the amount of work done is equal to</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} W=Fd\cos \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;W=Fd\cos&amp;space;\Theta&amp;space;}" align="absMiddle" /></p>
+<p align="center"><span style="color: #007fff;">where F is the net force, d is the distance in which this force acts, and Θ is the angle between the force and distance vectors</span></p>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/WFdcosΘ-box.png"><img class="alignnone size-full wp-image-2449" alt="W=FdcosΘ box" src="http://compactcourse.com/wp-content/uploads/2013/06/WFdcosΘ-box.png" width="427" height="180" /></a></p>
+
+<ul>
+	<li>When the direction of a force is perpendicular to the distance it is trying to make it move, the amount of work done is equal to 0 as <b>Θ = 90° and cos 90<b>° </b>= 0</b></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} W=Fd\cos \Theta = Fd\cos 90^{o} =0}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;W=Fd\cos&amp;space;\Theta&amp;space;=&amp;space;Fd\cos&amp;space;90^{o}&amp;space;=0}" align="absmiddle" /></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Power</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Power:</span> Rate at which work occurs
+<ul>
+	<li>Unit =&gt; Watt<img alt="\left (W\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(W\right&amp;space;)" align="absMiddle" />; Symbol =&gt; P</li>
+	<li>Since power is the rate at which work occurs, it can be given by the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} P=\frac{W}{t}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=\frac{W}{t}}" align="absMiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where W is the work done in a time period t</span></p>
+
+<ul>
+	<li>
+<div style="text-align: left;">Since <img alt="W=Fd" src="http://latex.codecogs.com/gif.latex?W=Fd" align="absmiddle" /> and <img alt="v=\frac{d}{t}" src="http://latex.codecogs.com/gif.latex?v=\frac{d}{t}" align="absmiddle" />, it is also very useful in this class to make the connection</div></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} P=\frac{W}{t}=\frac{Fd}{t}=F\frac{d}{t}=Fv}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=\frac{W}{t}=\frac{Fd}{t}=F\frac{d}{t}=Fv}" align="absMiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity of the system caused by the force acting on it, F</span></p>
+<p style="text-align: left;">ex.) What is the power output of a person lifting a 10kg block a distance of 1.5m in 3s?</p>
+<p style="text-align: left;"><span style="color: #ff0000;">Since the person is lifting it at a constant speed, the force they exert on it, F, equals the force gravity exerts on it, Fg. Therefore Fg can be substituted in our equation for F</span></p>
+<p style="text-align: left;"><img alt="{\color{Red} P=\frac{W}{t}=\frac{F_{g}d}{t}=\frac{mgd}{t}=\frac{(10kg)(9.8m/s^{2})(1.5m)}{3s}=49W}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;P=\frac{W}{t}=\frac{F_{g}d}{t}=\frac{mgd}{t}=\frac{(10kg)(9.8m/s^{2})(1.5m)}{3s}=49W}" align="absMiddle" /></p>

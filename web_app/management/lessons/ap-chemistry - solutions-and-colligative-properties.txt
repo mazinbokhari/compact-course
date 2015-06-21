@@ -1,0 +1,87 @@
+This chapter is one that links to several others, like Acids and Bases and Equilibrium. It shows up more on the multiple choice and sometimes on free response, but is almost always paired with an equilibrium problem when it is a frq topic.
+
+Some basic terms to start off... A <span style="color: #007fff;">solution</span> is made up of a <span style="color: #007fff;">solute</span> dissolved in a <span style="color: #007fff;">solvent</span>. A solute can be thought of as the substance with less mass or the part that is dissociated in the other substances. A solvent is the substance with more mass, or the dissolver of the solution.
+<h2 style="text-align: center;"><span style="color: #007fff;">Important Measurement Methods</span></h2>
+Measuring the concentration of a solution is one of the most important prerequisites to doing problems in this unit. There are three main concentrations:
+<ol>
+	<li><span style="color: #007fff;">Mole Fraction</span> - This is the fraction of moles of some element or molecule. This is used primarily with vapor pressure, which i will explain later.
+<ol>
+	<li>Formula - <img alt="Mole. Fraction (X) = \frac{Moles. of. Substance}{Total. Moles. in. Solution }" src="http://latex.codecogs.com/gif.latex?Mole.&amp;space;Fraction&amp;space;(X)&amp;space;=&amp;space;\frac{Moles.&amp;space;of.&amp;space;Substance}{Total.&amp;space;Moles.&amp;space;in.&amp;space;Solution&amp;space;}" align="absmiddle" /></li>
+</ol>
+</li>
+	<li><span style="color: #007fff;">Molality</span> - this is the concentration of a solution with respect to how much moles of solute by the mass of the solvent. This is heavily used with colligative property calculations.
+<ol>
+	<li>Formula - <img alt="Molality (m) = \frac{Moles. of. Solute}{Kilograms. of. Solvent}" src="http://latex.codecogs.com/gif.latex?Molality&amp;space;(m)&amp;space;=&amp;space;\frac{Moles.&amp;space;of.&amp;space;Solute}{Kilograms.&amp;space;of.&amp;space;Solvent}" align="absmiddle" /></li>
+</ol>
+</li>
+	<li><span style="color: #007fff;">Molarity</span> - this expresses solution concentration based on the volume of solvent rather than the mass. This is its main difference from molality.
+<ol>
+	<li>Formula - <img alt="Molarity (M) = \frac{Moles. of. solute}{Liters.of.solution}" src="http://latex.codecogs.com/gif.latex?Molarity&amp;space;(M)&amp;space;=&amp;space;\frac{Moles.&amp;space;of.&amp;space;solute}{Liters.of.solution}" align="absmiddle" /></li>
+</ol>
+</li>
+</ol>
+<h2 style="text-align: center;"><span style="color: #007fff;">Dissociation and Properties that Affect It</span></h2>
+One rule affects how things dissociate, which means to break into ions or monomers/ions. This is called "<span style="color: #007fff;">like dissolves like</span>." Due to the many intermoleular forces at work, solutes with similar polarity as their solvents will dissociate in them. Like polarities are dissociable. The same goes for nonpolar solutes in nonpolar solvents.
+
+Another thing that affects dissociation and more so solubility is <span style="color: #007fff;">van't Hoff factor (i)</span>. This tells us how many ions a solute molecule will break up into. Solutes that cant be dissociated are given a factor of 1, and the property increases up the scale depending on the number of ions it breaks up into.
+<h2 style="text-align: center;"><span style="color: #007fff;">Colligative Properties</span></h2>
+There are four main <span style="color: #007fff;">colligative properties</span>, or properties that vary by the number of solute particless in the solvent.
+<ol>
+	<li><span style="color: #007fff;">Boiling Point Elevation</span> - this is where boiling point increases with solute presence and concentration.
+<ol>
+	<li>Formula - <img alt="\Delta T = ik_{b} m" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;T&amp;space;=&amp;space;ik_{b}&amp;space;m" align="absmiddle" /> (where the change in temperature equals the van't Hoff factor times the Boiling point elevation constant (k) times the molality (m)</li>
+</ol>
+</li>
+	<li><span style="color: #007fff;">Freezing Point Depression</span>- basically the opposite of number 1 above...
+<ol>
+	<li>Formula - <img alt="\Delta T = ik_{f} m" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;T&amp;space;=&amp;space;ik_{f}&amp;space;m" align="absmiddle" /> (where the change in temperature equals the van't Hoff factor times the Freezing point depression constant (k) times the molality (m)</li>
+</ol>
+</li>
+	<li><span style="color: #007fff;">Decrease of Vapor Pressure</span> - involves the speed at which molecules hit and exert pressure on the walls of a container.
+<ol>
+	<li>Formula - <img alt="P= XP^{o}" src="http://latex.codecogs.com/gif.latex?P=&amp;space;XP^{o}" align="absmiddle" /> (where vapor pressure equals the mole fraction (X) times the Vapor Pressure of the Solvent</li>
+</ol>
+</li>
+	<li><span style="color: #007fff;">Osmotic pressure</span> - The pressure that must be exerted to prevent the movement of a pure solvent into a solution across a membrane.
+<ol>
+	<li>Formula - <img alt="\lambda =\frac{nRT}{V}i = MRTi" src="http://latex.codecogs.com/gif.latex?\lambda&amp;space;=\frac{nRT}{V}i&amp;space;=&amp;space;MRTi" align="absmiddle" />  (where osmotic pressure in atm is equal to moles of solute times the gas constant (R) times temperature in Kelvin over the volume of the solution in liters times the van't Hoff Factor; <img alt="\frac{n}{V}" src="http://latex.codecogs.com/gif.latex?\frac{n}{V}" align="absmiddle" />  can also be turned into M which is Molarity of the solution)</li>
+</ol>
+</li>
+</ol>
+***This one isnt a true colligative property but it should still be known about: Density.
+<p style="padding-left: 30px;">Density = <img alt="\frac{Mass (M)}{Volume (V)}" src="http://latex.codecogs.com/gif.latex?\frac{Mass&amp;space;(M)}{Volume&amp;space;(V)}" align="absmiddle" />; its affected by solute presence.</p>
+
+<h2 style="text-align: center;"><span style="color: #007fff;">Solubility and Equilibrium</span></h2>
+Most things dont dissociate completely in solution, but to a degree. In comes solubility product or <img alt="K_{sp}" src="http://latex.codecogs.com/gif.latex?K_{sp}" align="absmiddle" />, which describes to what degree a solute or an ion dissociate. Most of the time with problems involving <img alt="K_{sp}" src="http://latex.codecogs.com/gif.latex?K_{sp}" align="absmiddle" /> have to do with a salt.  The expression for solubility product is <img alt="K_{sp} = [A^{b+}]^{a}[B^{a-}]^{b}" src="http://latex.codecogs.com/gif.latex?K_{sp}&amp;space;=&amp;space;[A^{b+}]^{a}[B^{a-}]^{b}" align="absmiddle" />
+
+This means the <img alt="K_{sp}" src="http://latex.codecogs.com/gif.latex?K_{sp}" align="absmiddle" /> is the product of each consituent ion with its own charge and ratio in molecule. For example:
+
+If we work with the equation <img alt="MgCl^{2} \rightarrow Mg^{+2} + 2Cl^{-}" src="http://latex.codecogs.com/gif.latex?MgCl^{2}&amp;space;\rightarrow&amp;space;Mg^{+2}&amp;space;+&amp;space;2Cl^{-}" align="absmiddle" /> then... <img alt="K_{sp}" src="http://latex.codecogs.com/gif.latex?K_{sp}" align="absmiddle" /> = <img alt="[Mg^{+2}][Cl^{-}]^{2}" src="http://latex.codecogs.com/gif.latex?[Mg^{+2}][Cl^{-}]^{2}" align="absmiddle" />
+
+-<span style="text-decoration: underline;">Common Ion Effect</span>: where the solubility of an ion (from a solute) is decreased by the presence of that same ion in solution already.  Lets try a example problem...
+
+If the <img alt="K_{sp}" src="http://latex.codecogs.com/gif.latex?K_{sp}" align="absmiddle" /> of NaCl is 1.6 x <img alt="10^{-10}" src="http://latex.codecogs.com/gif.latex?10^{-10}" align="absmiddle" /> then,
+
+1.6 x <img alt="10^{-10}" src="http://latex.codecogs.com/gif.latex?10^{-10}" align="absmiddle" /> = <img alt="[Na^{+}][Cl^{-}]" src="http://latex.codecogs.com/gif.latex?[Na^{+}][Cl^{-}]" align="absmiddle" />
+
+1.6 x <img alt="10^{-10}" src="http://latex.codecogs.com/gif.latex?10^{-10}" align="absmiddle" /> = (a)(a)
+
+1.6 x <img alt="10^{-10}" src="http://latex.codecogs.com/gif.latex?10^{-10}" align="absmiddle" /> = <img alt="a^{2}" src="http://latex.codecogs.com/gif.latex?a^{2}" align="absmiddle" />
+
+a = [Na+]= [Cl-] = 1.3 x <img alt="10^{-5}" src="http://latex.codecogs.com/gif.latex?10^{-5}" align="absmiddle" />
+
+However, if we add some sort of salt with a common ion to NaCl, then the solubility of some ions decreases. When two salts with a common ion are mixed, the one with the smaller <img alt="K_{sp}" src="http://latex.codecogs.com/gif.latex?K_{sp}" align="absmiddle" /> precipitates first. Heres what I mean...
+
+If we put 0.1 M Cl- in the solution, the solubility of Na decreases dramatically.
+
+1.6 x <img alt="10^{-10}" src="http://latex.codecogs.com/gif.latex?10^{-10}" align="absmiddle" /> = <img alt="[Na^{+}][Cl^{-}]" src="http://latex.codecogs.com/gif.latex?[Na^{+}][Cl^{-}]" align="absmiddle" />
+
+1.6 x <img alt="10^{-10}" src="http://latex.codecogs.com/gif.latex?10^{-10}" align="absmiddle" /> = <img alt="[Na^{+}][0.1]" src="http://latex.codecogs.com/gif.latex?[Na^{+}][0.1]" align="absmiddle" />
+
+<img alt="[Na^{+}]= \frac{1.6x10^{-10}}{0.1}" src="http://latex.codecogs.com/gif.latex?[Na^{+}]=&amp;space;\frac{1.6x10^{-10}}{0.1}" align="absmiddle" />
+
+<img alt="[Na^{+}]= 1.6x10^{-9}" src="http://latex.codecogs.com/gif.latex?[Na^{+}]=&amp;space;1.6x10^{-9}" align="absmiddle" /> M
+
+&nbsp;
+
+Once again....Thats all folks!!!

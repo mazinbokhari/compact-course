@@ -1,0 +1,136 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Force</span></h2>
+<span style="text-decoration: underline; color: #3366ff;">Force:</span><span style="color: #000000;"> A push or pull exerted from an interaction between two objects</span>
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; F</li>
+</ul>
+Forces account for the movement of objects, such as when you push a box, you are exerting a force on it to make it move forward.
+
+<span style="text-decoration: underline; color: #007fff;">Mass:</span> Measurement of inertia that remains constant no matter what the location is
+
+ex.) A ball on Mars has the same mass as a ball on Earth
+<ul>
+	<li>Unit =&gt; Kilograms <img alt="(kg)" src="http://latex.codecogs.com/gif.latex?(kg)" align="absMiddle" /></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Newton's Laws</span></h2>
+1. An <span style="line-height: 21.81818199157715px;">object in motion will stay in motion unless it is acted upon by a force</span>
+<p style="padding-left: 30px;">ex.) A cart driving without friction or air resistance will keep going forever at the same speed</p>
+2. The sum of forces on the object is proportional to the mass of the object times the acceleration
+<p style="text-align: center;"><img alt="{\color{Blue} \sum F = ma} \, \, \, or\, \, \, {\color{Blue}F_{net} = ma}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F&amp;space;=&amp;space;ma}&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}F_{net}&amp;space;=&amp;space;ma}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass and a is the acceleration of the system</span></p>
+
+<ul>
+	<li><span style="line-height: 13.991477012634277px;">This is true for components in both the x and y directions so by branching off of this,</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \sum F_{x}= ma_{x}}\, \, \, and\, \, \, {\color{Blue} \sum F_{y} = ma_{y}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F_{x}=&amp;space;ma_{x}}\,&amp;space;\,&amp;space;\,&amp;space;and\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\sum&amp;space;F_{y}&amp;space;=&amp;space;ma_{y}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass, a<sub>x</sub> is the acceleration in the x-direction, and a<sub>y</sub> is the acceleration in the y-direction of the system</span></p>
+<p style="text-align: left;">3. For every action, there is an equal and opposite reaction</p>
+<p style="text-align: left; padding-left: 30px;">ex.) When a hammer hits a nail, the nail also hits the hammer</p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Different Forces</span></h2>
+In this class, we come across many different forces that we use in problems. We will first learn about these forces then learn how to apply them.
+<h3 style="text-align: center;">The Force of Gravity (Weight)</h3>
+Most people commonly mistake that weight and mass are the same thing. This is not true.
+
+<span style="color: #007fff; text-decoration: underline;">Weight:</span><span style="color: #000000;"> Measurement of gravitational force one body exists on another (the stronger the gravity, the more an object weighs)</span>
+<p style="padding-left: 30px;">ex.) A ball on the Earth has much more weight than a ball on the Moon because Earth's gravity is much larger</p>
+
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; W or F<sub>g</sub><sub> </sub></li>
+</ul>
+<ul style="text-align: left;">
+	<li><span style="line-height: 13.991477012634277px;">The force due to gravity (weight) can be written as</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} W=F_{g}=mg}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;W=F_{g}=mg}" align="absMiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass of the object and g is gravity</span></p>
+
+<h3 style="text-align: center;">The Normal Force</h3>
+So if an object that has weight, say a book, is resting on a table, shouldn't it accelerate downward because of the force due to gravity? <span style="color: #000000;">Since the weight pulls the book down, there has to be a force pushing it up to be in equilibrium. This is the </span><span style="color: #007fff;">normal force</span><span style="color: #000000;">. </span>
+
+<span style="color: #007fff; text-decoration: underline;">Normal Force:</span><span style="color: #000000;"><span style="color: #007fff;"> </span>The force component that is perpendicular to the surface that is being acted upon</span>
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; N or F<sub>n</sub><sub>
+</sub></li>
+</ul>
+<ul>
+	<li style="text-align: left;"><span style="line-height: 13.991477012634277px;">So in our above situation, the force due to gravity pulls the object down, but the table exerts a normal force on the book which pushes it up. Since these forces point in opposite directions, they cancel each other out and the book remains in place which means the acceleration is equal to 0.</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \sum F_{y} = ma_{y} }\, \, \, =&gt;\, \, \, {\color{Blue} F_{g} - F_{n} = m(0)}\, \, \, =&gt;\, \, \,{\color{Blue} F_{g} =F_{n} }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F_{y}&amp;space;=&amp;space;ma_{y}&amp;space;}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;F_{g}&amp;space;-&amp;space;F_{n}&amp;space;=&amp;space;m(0)}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,{\color{Blue}&amp;space;F_{g}&amp;space;=F_{n}&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F<sub>g</sub> is the force of gravity and F<sub>n </sub>is the normal force</span></p>
+
+<h3 style="text-align: center;">The Frictional Force</h3>
+Ever wondered why your car slows down when you aren't pushing on the gas? Well this mainly due to the force of friction.
+
+<span style="color: #007fff; text-decoration: underline;">Friction:</span> Force that slows down moving objects on rough surfaces
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Static Friction:</span></span> Friction that keeps an object from rest
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; F<sub>s</sub><sub>f</sub><sub>
+</sub></li>
+</ul>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Kinetic Friction:</span></span> Friction that acts when an object is moving
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; F<sub>k</sub><sub>f</sub></li>
+</ul>
+The strength of it depends on two things
+<p style="padding-left: 30px;">1. The <span style="text-decoration: underline;"><span style="color: #007fff;">C</span></span><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">oefficient of</span></span><span style="color: #3366ff;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;"> Friction:</span></span> <span style="color: #000000;">C</span><span style="color: #000000;">onstant that depicts how rough a surface is</span></span></p>
+
+<ul>
+<ul>
+	<li><span style="color: #000000;">Symbol =&gt; μ<sub>s</sub> for static friction and μ<sub>k</sub> for kinetic friction</span></li>
+</ul>
+</ul>
+<p style="padding-left: 60px;">ex.) The coefficient of friction is much greater for sand paper than that of ice</p>
+<p style="padding-left: 30px;">2. The Magnitude of the Normal Force</p>
+<p style="padding-left: 60px;">ex.) A heavier block will have a greater force of friction acting on it because the weight and therefore normal force is greater</p>
+<span style="line-height: 21.81818199157715px;">As a result of these two factors, the two friction formulas are</span>
+<p style="text-align: center;"><img alt="{\color{Blue} F_{sf} =\mu_{s} N}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{sf}&amp;space;=\mu_{s}&amp;space;N}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where μ<sub>s</sub> is the coefficient of static friction, and N is the normal force</span></p>
+<p style="text-align: center;"><img alt="{\color{Blue} F_{kf} =\mu_{k} N}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{kf}&amp;space;=\mu_{k}&amp;space;N}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where μ<sub>k</sub> is the coefficient of kinetic friction, and N is the normal force</span></p>
+
+<h3 style="text-align: center;">The Force of Tension</h3>
+<span style="text-decoration: underline; color: #007fff;">Tension:</span> Force that occurs when pulling ropes taught
+<ul>
+	<li><span style="line-height: 21.81818199157715px;">Unit =&gt; Newton </span><img style="line-height: 21.81818199157715px;" alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" /><span style="line-height: 21.81818199157715px;">; Symbol =&gt; T or F<sub>t</sub></span><sub style="line-height: 21.81818199157715px;"> </sub></li>
+</ul>
+<p style="padding-left: 30px;">ex.) Whenever you reel in a fishing line or use a pulley, you are seeing the force of tension at work.</p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Equilibrium</span></h2>
+<span style="color: #007fff; text-decoration: underline;"><span style="text-decoration: underline;">Equilibrium:</span></span> When an object or system has no acceleration in either the x-direction or y-direction
+<ul>
+	<li><span style="line-height: 13.993056297302246px;">Sum of forces in both directions equals 0 as the forces all cancel out with each other with a opposing forces</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \sum F_{x} =0=ma_{x} }\, \, \, and\, \, \, {\color{Blue} \sum F_{y} =0=ma_{y} }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F_{x}&amp;space;=0=ma_{x}&amp;space;}\,&amp;space;\,&amp;space;\,&amp;space;and\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\sum&amp;space;F_{y}&amp;space;=0=ma_{y}&amp;space;}" align="absmiddle" /></p>
+
+<ul>
+	<li><span style="line-height: 13.993056297302246px;">ex.) If two people are pulling on a box from the opposite sides with a 10 N force, they cancel out and it does not accelerate</span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Acceleration</span></h2>
+What about when the forces do not cancel out? Well, this makes the sum of forces not equal to 0 which means there is now <span style="color: #3366ff;"><span style="color: #007fff;">acceleration</span> </span>in the system.
+<ul>
+	<li><img alt="{\color{Blue} \sum F\neq 0}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F\neq&amp;space;0}" align="absMiddle" /></li>
+	<li><span style="line-height: 13.993056297302246px;">ex.) When someone accelerates a box by pushing it, the normal force the person exerts on the box is greater than the force of friction in the opposite direction</span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Free-Body Diagrams</span></h2>
+When dealing with many problems in this class, it is essential to draw free-body diagrams to visualize what is happening. <span style="color: #007fff;">Free-body diagrams</span> have arrows that depict the forces that are acting on an object or system. The steps for drawing a free-body diagram are shown below.
+<ol>
+	<li>Draw a dot to represent the object</li>
+	<li>Draw all arrows with their tails at the dot extending outward</li>
+	<li>Draw arrows to scale unless the problem says otherwise (for larger forces, draw longer arrows and for smaller forces, draw shorter arrows)</li>
+	<li>Unless the problem states otherwise, draw dashed lines for force components in the x and y directions (see example 2 below)</li>
+	<li>If two forces are equal, draw a marker on them to show the arrows are congruent</li>
+	<li>Label the forces with their symbols (F<sub>g</sub>, F<sub>n</sub>, F<sub>f</sub>, and F<sub>t</sub>)</li>
+</ol>
+The best way to learn how to do this is through examples
+
+1.) Draw a free-body diagram for the book that is at rest on a table (no acceleration)
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/1.png"><img class="alignnone size-full wp-image-1903" style="margin: 5px auto; display: block; text-align: center;" alt="1" src="http://compactcourse.com/wp-content/uploads/2013/06/1.png" width="349" /></a>
+
+2.) Draw a free-body diagram for a block being pulled up a rough surface (has friction) with a rope at a constant speed (no acceleration)
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/21.png"><img class="size-full wp-image-1907 aligncenter" alt="2" src="http://compactcourse.com/wp-content/uploads/2013/06/21.png" width="484" height="206" /></a>
+
+3.) Draw a free-body diagram for a mass being acclereated upwards with a string tied around it
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/ex-3-.png"><img class="alignnone size-full wp-image-3715" style="margin: 5px auto; display: block; text-align: center;" alt="ex 3" src="http://compactcourse.com/wp-content/uploads/2013/06/ex-3-.png" width="350" /></a>

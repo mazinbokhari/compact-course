@@ -1,0 +1,41 @@
+Genetics and Heredity are a study of how genes are passed from parent to offspring. Problems for this unit are heavily probability based. Most of the time, you will be using the <span style="color: #007fff;">multiplicative rule</span>, which states the probability of two independent events occurring together is the multiplication of each events individual probability. Before we jump into the types of genetic inheritance, lets review some terms...
+<h2 style="text-align: center;"><span style="color: #007fff;">Genetics and Heredity Overview</span></h2>
+Some common terms are needed to be learned to follow the explanations in this unit. Get ready for some reading, because there's a lot of them...
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">gene</span>- genetic material on a chromosome that holds the code for creating and building a trait or protein. </span></li>
+	<li><span style="color: #007fff;">allele</span>- one type of many different genes for a trait. For example, there is a gene for hair color and there are alleles for both black and brown hair.</li>
+	<li><span style="color: #007fff;">homologous chromosomes</span>- pair of chromosomes that contain the same genetic information and are basically copies of each other. During sexual reproduction, each parent gives one chromosome in the pair. When looked at under a microscope and slide, it looks like a "X"</li>
+	<li><span style="color: #007fff;">recessive</span> and <span style="color: #007fff;">dominant</span> genes- when parents give their offspring alleles, they may not contribute the same allele. When alleles are different, some alleles are expressed over others. Thus, they are termed dominant; alleles that are covered up are referred to as recessive.</li>
+	<li><span style="color: #007fff;">genotype</span>- written down representations of a persons actual alleles for a genetic trait. Usually, each allele contributed is represented by a letter. Each genotype only has 2 alleles. A dominant allele is written as a capital letter (B); a recessive one is written as a lower case letter (b). There are three genotypic conditions. <span style="color: #007fff;">Homozygous dominant</span> refers to having two dominant alleles (BB); homozygous recessive is the same thing only with recessive alleles (bb); heterozygous refers to having one dominant and one recessive allele (Bb).</li>
+	<li><span style="color: #007fff;">phenotype</span>- the actual expression of a trait. Examples include the color of your hair, eyes and skin.</li>
+</ul>
+<h2 style="text-align: center;"><span style="color: #007fff;">Mendelian Laws of Genetics</span></h2>
+A monk named Gregor Mendel studied the inheritance of traits, such as pea color,  in pea plants and was able to develop two laws that gave the randomness of genetic inheritance some order...
+<ol>
+	<li><span style="line-height: 14px;"><span style="text-decoration: underline;">Law of independent assortment</span>- a law which states that the migration of each sister chromatid during meiosis doesnt affect the movement of any other chromosomes. Hence, genes are affected by generally only one set of alleles</span></li>
+	<li><span style="text-decoration: underline;">Law of segregation</span>- each gamete contains only one copy of a chromosome, thus each copy of a allele separates to a different gamete</li>
+</ol>
+<h2 style="text-align: center;"><span style="color: #007fff;">Genetic Crossing</span></h2>
+There are generally two types of crosses that you will have to work with in this course: <span style="color: #007fff;">monohybrid</span> and <span style="color: #007fff;">dyhibrid</span> crosses. Crossing means taking two parents genotypes and mixing them as if they had mated. Punnet squares are the most common chart representation of a cross of genotypes. It shows possible genotypes of the offspring. A monohybrid cross is a cross involving only one set of alleles per parent in the cross. An example of this would be like BB x Bb (a homozygous dominant person's alleles are mixed with a heterozygous genotype). A dihybrid cross involves two sets of alleles per parent contributing to a genotype. An example would be AaBB x aaBb. A monohybrid cross would only have four squares; a dihybrid would have 16.
+<h2 style="text-align: center;"><span style="color: #007fff;">Inheritance</span></h2>
+There are multiple ways genes are inherited by an offspring. The type of inheritance that has already been covered is called <span style="color: #007fff;">complete dominance</span>. This is where one allele covers the other and the dominant phenotype always shows if a dominalant allele is present. <span style="color: #007fff;">Incomplete dominance</span> is where one allele doesn't completely cover another, but when two alleles come together in the heterozygous condition, blending of traits occurs. For instance, if a flower is red in the homozygous dominant condition but white color in a homozygous recessive, incomplete dominance would render the heterozygous flower pink. <span style="color: #007fff;">Codominance</span> is where the heterozygous will express both the recessive and dominant alleles. In the slower example, codominance would create a flower with some red and some white petals.
+
+In some cases, there are multiple genes for a trait. This most commonly occurs with blood type. Each different blood type (A, AB, B, and O) has its own genotype. There are two varieties of the dominant alleles (IA, IB) that are equally strong, and the homozygous recessive condition creates type O blood (ii).
+
+We're almost done! Hang in there. So... a couple more inheritance patterns. <span style="color: #007fff;">Epistasis</span> is when one gene affects another completely separate gene, like dependent inheritance. <span style="color: #007fff;">Pleiotropy</span> is when one gene affects several phenotypic traits. <span style="color: #007fff;">Polygenic inheritance</span> is the opposite, it's where multiple genes affect a single trait. An example of this is height!
+
+Sex-linked inheritance is when a trait is inherited from a sex chromosome. Some of these genes may be X-linked or Y-linked. Note that a female has two X chromosomes, and a male's sex genotype is XY.
+<h2 style="text-align: center;"><span style="color: #007fff;">Gene linkage</span></h2>
+Gene linkage refers to genes that are very close together on the same chromosome and are almost always inherited together as a result. These genes don't follow the law of segregation because of their proximity to each other on a chromosome. During crossing over in meiosis I, if two genes have a crossover rate about 50%, it generally points to gene linkage.
+<h2 style="text-align: center;"><span style="color: #007fff;">Test Crossing</span></h2>
+This is a technique used to figure out an unknown genotype by crossing that genotype with a homozygous recessive genotype, and then analyzing the offspring to deduce the unknown genotype.
+<h2 style="text-align: center;"><span style="color: #007fff;">Hardy-Wineburg Equilibrium</span></h2>
+These are really simple math problems found on the Grid-in portion of the AP exam. Hardy-Wineburg is a theoretical system that allows us to calculate the allelic frequencies and genotypic frequencies within a population. One allele is represented as "p" and the other as "q." The genotypes are represented as follows: homozygous dominant is p^2 (p squared), homozygous recessive is q^2 (q-squared), and heterozygous is pq. These are the main formula for figuring out these problems.
+
+<img alt="p^{2}+ 2pq + q^{2} = 1" src="http://latex.codecogs.com/gif.latex?p^{2}+&amp;space;2pq&amp;space;+&amp;space;q^{2}&amp;space;=&amp;space;1" align="absmiddle" />
+
+<img alt="p + q = 1" src="http://latex.codecogs.com/gif.latex?p&amp;space;+&amp;space;q&amp;space;=&amp;space;1" align="absmiddle" />
+
+What the first formula is saying is that the homozygous dominant, heterozygous, and homozygous recessive percentages of individuals in a population will always equal to 100 percent or 1. The second formula says that the allelic frequencies of each allele for a gene will always add up to 100 percent or 1.
+
+Damn, that was a looooonnnnggg lesson. Go take a break kiddo! Unless you're cramming for this exam...then i sadly must urge you to go the next lesson.

@@ -1,0 +1,70 @@
+Bonds and Intermolecular Attractive Forces (IMFs) are ways atoms join together and affect the way different atoms/compounds interact and react to form products. This topic shows up more on the multiple choice than the free response. Bonding and IMFs are topics that are built upon to understand more complex units to come.
+<h2 style="text-align: center;"><span style="color: #007fff;">Types of Bonds</span></h2>
+Since atoms are made of clouds of electrons, most IMFs and bonding occurs due to interactions of electrons which are called <span style="color: #007fff;">electrostatic forces</span>. These forces are basically the positively charged nucleus of one atom being attracted to the negatively charged electrons of another atom.
+
+There are two different types of main bonds:
+<ol>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">Covalent Bonding</span> - this involves two atoms sharing electrons; however, <span style="text-decoration: underline;">how they share these electrons causes variablity within bonding.</span>  The electrons shared are counted as a part of both bonding atoms valence shells. Covalent bonds usually occur between nonmetals.</span></li>
+	<li><span style="color: #007fff;">Ionic Bonding</span> - this consists of one atom completely giving up its electrons to another; this results in one atom becoming a cation and the other becoming an anion. Since these types of bonds occur mainly between nonmetals and metals, the metals become cations and the nonmetals in anions.</li>
+</ol>
+<h2 style="text-align: center;"><span style="color: #007fff;">Bond Order, Strength, and Length</span></h2>
+<p style="text-align: left;">When two atoms bond covalently, there can be an array of bond sizes, strenths, and lengths. First off there are three types of bondings possible: single, double, and triple. Single bonds are made up of a <span style="color: #007fff;">sigma bond</span>, a type of bond overlapping orbital. Double and Triple bonds include both sigma bonds and <span style="color: #007fff;">pi bonds</span>. The distinction between sigma and pi bonds is structural in its 3D shape, but this is outside the scope of this course. A Double bond is made up of one sigma and one pi bond; a triple bond is made up of one sigma and two pi bonds.</p>
+<p style="text-align: left;">The <span style="color: #007fff;">bond order</span> is a term that tells what level of bond exists somewhere in a molecule. Single bonds have a bond order of 1; double has an order of 2, and so on. Now, <span style="text-decoration: underline;">bond strength is inversely proportional to size</span>. Therefore, a stronger triple bond would be much shorter than a single bond.</p>
+
+<h2 style="text-align: center;"><span style="color: #007fff;">Intermolecular Forces</span></h2>
+Inter molecular forces (IMFs) are different from bonds. Bonds are very strong links that are created through chemical interactions; IMFs are attractive forces that occur naturally between molecules/atoms. There are several types of IMFs. Here they are, listed in order of increasing strength:
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">London Dispersion/Van Der Waals Forces</span> - these are the weaksest IMFs. they can occur between any molecules, but generally occur between nonpolar molecules (neutral). These forces are created through random motion of electrons within the interacting molecules to produce a charge creating a weak attractive force. </span></li>
+	<li><span style="color: #007fff;">Dipole-Dipole interactions</span> - ***Remember when i said that in covalent bonding the sharing of electrons doesnt have to necessarily share them equally? Well, if I didn't, now I am. In covalent bonding, two atoms CAN share electrons equally, but the degree of sharing actually comes down to the respective electronegativity of each atom. Atoms with stronger electronegativity will pull electrons closer towards themselves, causing an uneven sharing of electrons. This <span style="text-decoration: underline;">uneven sharing</span> is called a <span style="color: #007fff;">dipole moment</span>. Thus two dipole moments interacting causes a dipole-dipole interaction (#duh). These interactions occur mostly between polar molecules.
+<ul>
+	<li><span style="color: #007fff;"><span style="color: #000000;">Dipoles are actually the forces that cause a mechanism called <span style="color: #007fff;">Polarity</span>. Polarity is where there is an uneven distribution of charge created in one molecule. A prime example is a water molecule. The highly electronegative O atom pulls the shared electrons closer to itself. This gives it a slightly negative charge, while the H atoms have slightly positive charges. Thus, the molecule is polar because it contains multiple charges.</span></span></li>
+</ul>
+</li>
+	<li><span style="color: #007fff;">Hydrogen Bonds</span> (H Bonds) - hydrogen bonds are a stronger form of dipole dipole interactions. They consist of an H bonded to either an Nitrogen, Oxygen, or Fluorine atom. The logic here is that since N, O and F have such high electronegativities and H has a low one, the bond is extremely polar. This causes even stronger interactions with other polar molecules.</li>
+	<li><span style="color: #007fff;">Ion-Dipole Interactions</span> - the name says it all here. An ion and polar molecule interacting is stronger than dipole-dipole because the charge of the ion creates a stronger attractive force to the dipole.</li>
+	<li><span style="color: #007fff;">Network Covalent Bonds</span> - these are interactions between covalent bonds causing them to arrange themselves into a lattic structure. This allows lots of smaller bonds to act as one huge interactive molecule. One last thing, the lattice structure limits the motion of electrons, which makes the whole interaction stronger and a poor conductor of electricity.</li>
+</ul>
+<h2 style="text-align: center;"><span style="color: #007fff;">Molecular Geometry</span></h2>
+<p style="text-align: left;">This is an important concept for both sections of the exam. Since here I don't have enough tools to create all the individual diagrams, I will give descriptions of each shape and examples of these molecules. Its up to you to learn and read up on Lewis Dot diagrams and these 3D diagrams, as well as how to draw them. All of this follows the VSPER model.</p>
+<p style="text-align: left;">Molecular Geometries show us how a molecule looks after it comes together. The fact that electrons repel each other complicates these basic shapes. We're almost done with this lesson, so lets finish strong with a look at each shape...</p>
+
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">Linear</span> - this is where the central atom only has 2 electron pairs, and only 2 potential atoms bonded to it. An example would be CO2 </span></li>
+	<li><span style="color: #007fff;">Trigonal Planar</span> - the central atom has 3 electron pairs, and three potential atoms bonded to it. An example is BCl3
+<ul>
+	<li>if this has 1 lone pair (a set of unparied electrons), then it becomes a <span style="color: #007fff;">bent</span> shape. Example: SO2.</li>
+</ul>
+</li>
+	<li><span style="color: #007fff;">Tetrahedral</span> - the central atom has 4 electron pairs, an a maximum of 4 atoms bonded to it. Example: SiH4
+<ul>
+	<li>if there is 1 lone pair, then its called <span style="color: #007fff;">trigonal pyramidal</span>. Example: NH3</li>
+	<li>if there are 2 lone pairs, then its called bent again. Example: H2O</li>
+</ul>
+</li>
+	<li><span style="color: #007fff;">Trigonal Bipyramidal</span> - 5 electron pairs on the central atom. Example: PCl5
+<ul>
+	<li><span style="color: #007fff;">seesaw</span>: one lone pair with trigonal bipyramidal. Example: SF4</li>
+	<li><span style="color: #007fff;">T-shaped</span>: two lone pairs. Example: ICl3</li>
+	<li><span style="color: #007fff;">linear</span>: three lone pairs. Example: PF2</li>
+</ul>
+</li>
+	<li><span style="line-height: 22px;"> <span style="color: #007fff;">Octahedral</span> - 6 electron pairs on the central atom. Example: SF6</span>
+<ul>
+	<li><span style="color: #007fff;">square pyramidal</span>: one lone pair. Example: BrF5</li>
+	<li><span style="color: #007fff;">square planar</span>: two one pairs. Example: XeCl4</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;"><span style="color: #007fff;">Hybridization</span></h2>
+<p style="text-align: left;">This is a silly little last thing, but nonetheless important. Hybrization is a notation that describes the electron clouds mixing when a complex molecule is formed. It's just something to remember along with molecular geometry, and it's pretty easy.</p>
+
+<ul>
+	<li>Linear - sp (1 s cloud and 1 p cloud)</li>
+	<li>Trigonal Planar - <img alt="sp^{2}" src="http://latex.codecogs.com/gif.latex?sp^{2}" align="absmiddle" /></li>
+	<li>Tetrahedral - <img alt="sp^{3}" src="http://latex.codecogs.com/gif.latex?sp^{3}" align="absmiddle" /></li>
+	<li>Trigonal Bipyramidal - <img alt="sp^{3}d" src="http://latex.codecogs.com/gif.latex?sp^{3}d" align="absmiddle" /></li>
+	<li> Octahedral - <img alt="sp^{3}d^{2}" src="http://latex.codecogs.com/gif.latex?sp^{3}d^{2}" align="absmiddle" /></li>
+</ul>
+&nbsp;
+
+Well....Thats All folks!!! (i miss the loony toons :/ )

@@ -1,0 +1,119 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Definitions</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Fluid:</span> Liquids and gases that can form the shape of the container they are held in
+<ul>
+	<li><span style="line-height: 14px;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Liquid:</span></span> The atoms are very close to one another and move slowly; only take up part of the container</span></li>
+	<li><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Gas:</span></span> The atoms are spread out and move very fast; fill the whole container</li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Density</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Volume:</span> A measurement of how much 3D space an object takes up
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; <img alt="\left ( m^{3} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;m^{3}&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; V
+</span></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} \, V=lwh=Ah}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\,&amp;space;V=lwh=Ah}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where l is the length, w is the width, and h is the height of the space the object takes up</span></p>
+<span style="text-decoration: underline; color: #007fff;">Density:</span> How much mass of a substance exists in a certain volume
+<ul>
+	<li>Unit =&gt; <img alt="\left (\frac{kg}{m^{3}} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(\frac{kg}{m^{3}}&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; ρ</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \rho =\frac{m}{V}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\rho&amp;space;=\frac{m}{V}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass of the fluid and V is the volume</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Pressure</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Pressure:</span> How much of a force on a fluid exists over a certain area
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Pascal or Pa <img alt="\, \left (\frac{N}{m^{2}} \right )" src="http://latex.codecogs.com/gif.latex?\,&amp;space;\left&amp;space;(\frac{N}{m^{2}}&amp;space;\right&amp;space;)" align="absmiddle" /> ; Symbol =&gt; P</span></li>
+</ul>
+<p style="text-align: center;"><img alt="\, {\color{Blue} P=\frac{F}{A}}" src="http://latex.codecogs.com/gif.latex?\,&amp;space;{\color{Blue}&amp;space;P=\frac{F}{A}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F is the force over an area A</span></p>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Atmospheric Pressure:</span></span> How much pressure the atmosphere exerts at sea level
+<ul>
+	<li>Symbol =&gt; P<sub>atm</sub></li>
+	<li><span style="line-height: 14px;">P<sub>atm</sub> = 101,300 Pa</span></li>
+	<li>Since this is such a large number, scientists often refer to 1 P<sub>atm</sub> as just 1 <span style="color: #007fff;">atmosphere</span> <span style="color: #007fff;">(atm) <span style="color: #000000;">for simpler use</span></span></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Absolute Pressure (total pressure):</span> Total pressure being exerted on an area
+<ul>
+	<li>Symbol =&gt; P<sub>total </sub>or just P</li>
+	<li><span style="line-height: 14px;">Includes atmospheric pressure</span></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Gauge Pressure:</span> The total pressure on an area not including atmospheric pressure
+<ul>
+	<li><span style="line-height: 14px;">Symbol =&gt; P<sub>gauge</sub>
+</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} P_{gauge}=P_{total}-P_{atm}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P_{gauge}=P_{total}-P_{atm}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where P<sub>total </sub>is the absolute pressure and P<sub>atm </sub>is the atmospheric pressure</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Static Pressure</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Static Pressure:</span></span> Pressure fluids exert on containers
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Pascal or Pa <img alt="\, \left (\frac{N}{m^{2}} \right )" src="http://latex.codecogs.com/gif.latex?\,&amp;space;\left&amp;space;(\frac{N}{m^{2}}&amp;space;\right&amp;space;)" align="absmiddle" /> ; Symbol =&gt; P
+</span></li>
+	<li>Since <img alt="\,{\color{Blue} m=\rho V}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;m=\rho&amp;space;V}" align="absmiddle" />, we can substitute this into the equation <img alt="\,{\color{Blue} P=\frac{F}{A}=\frac{mg}{A}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;P=\frac{F}{A}=\frac{mg}{A}}" align="absmiddle" /> to get <img alt="{\color{Blue} P=\frac{\rho Vg}{A}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=\frac{\rho&amp;space;Vg}{A}}" align="absmiddle" /> . <img alt="\,{\color{Blue} V=Ah}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;V=Ah}" align="absmiddle" /> as seen from above so then <img alt="{\color{Blue} P=\frac{\rho Ahg}{A}=\rho hg}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=\frac{\rho&amp;space;Ahg}{A}=\rho&amp;space;hg}" align="absmiddle" /></li>
+	<li>This means static pressure can be found from the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} P=\rho gh}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=\rho&amp;space;gh}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where ρ is the density of the fluid, g is gravity, and h is the height of the fluid</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Buoyancy</span></h2>
+Ever wondered why boats float? Well this is a result of buoyancy.
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Buoyant Force:</span> Upward force that fluids exert that is equal to the weight of the fluid being displaced (Archimedes' Principle)</p>
+
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; F<sub>buoy</sub></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} F_{buoy}= \rho gV}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{buoy}=&amp;space;\rho&amp;space;gV}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where ρ is the density of the fluid surrounding the object, g is gravity, and V is the volume displaced fluid</span></p>
+
+<ul>
+	<li><span style="line-height: 14px;">A boat does not sink because this upward buoyant force cancels out with the downward force of gravity</span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Flow Rate</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Flow Rate:</span></span> The rate at which a volume of fluid passes though a certain area
+<ul>
+	<li>Unit =&gt; <img alt="\,\left (m^{3}/s \right )" src="http://latex.codecogs.com/gif.latex?\,\left&amp;space;(m^{3}/s&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; FR</li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue} FR=Av}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;FR=Av}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A is the cross sectional area in which a fluid passes with velocity v</span></p>
+<p style="text-align: left;">When a fluid passes through a tube with decreasing or increasing cross-sectional area, the flow rate will always be the same. This is seen with the situation below</p>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/Flow-Rate-2.png"><img class="alignnone size-full wp-image-3893" style="margin: 5px auto; display: block; text-align: center;" alt="Flow Rate 2" src="http://compactcourse.com/wp-content/uploads/2013/06/Flow-Rate-2.png" width="400" /></a></p>
+<p style="text-align: center;"><img alt="{\color{Blue} FR_{1}=FR_{2}} \, \, \, =&gt; \, \,\, {\color{Blue} A_{1}v_{1}=A_{2}v_{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;FR_{1}=FR_{2}}&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;=&gt;&amp;space;\,&amp;space;\,\,&amp;space;{\color{Blue}&amp;space;A_{1}v_{1}=A_{2}v_{2}}" align="absmiddle" /></p>
+<p style="text-align: center;">Since A<sub>1</sub> is small, v<sub>1</sub> will be very large to compensate for this. Since A<sub>2</sub> is large, v<sub>2</sub> will be small.</p>
+<p style="text-align: center;"><em>Think of this same concept when you put your thumb on a hose to make it spray farther.</em></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Bernoulli's Equation</span></h2>
+Bernoulli's Equation is demonstrating conservation of energy and is seen below
+<p style="text-align: center;"><img alt="\,{\color{Blue} P_{1}+\rho gh_{1}+\frac{1}{2}\rho v_{1}^{2}=P_{2}+\rho gh_{2}+\frac{1}{2}\rho v_{2}^{2}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;P_{1}+\rho&amp;space;gh_{1}+\frac{1}{2}\rho&amp;space;v_{1}^{2}=P_{2}+\rho&amp;space;gh_{2}+\frac{1}{2}\rho&amp;space;v_{2}^{2}}" align="absmiddle" /></p>
+
+<ul>
+	<li><span style="line-height: 14px;">If the one of the points do not contain either P, ρgh, or 1/2ρv<sup>2</sup>, simply substitute it for 0. </span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Pascal's Principle</span></h2>
+Pascal's principle states that the pressure through an enclosed fluid is undiminished
+<ul>
+	<li><span style="line-height: 14px;">If the pressure is undiminished, </span></li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue} P_{1}=P_{2}}\, \, \, =&gt;\, \, \, {\color{Blue} \frac{F_{1}}{A_{1}}=\frac{F_{2}}{A_{2}}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;P_{1}=P_{2}}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\frac{F_{1}}{A_{1}}=\frac{F_{2}}{A_{2}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F<sub>1</sub> and F<sub>2</sub> are the forces and A<sub>1</sub> and A<sub>2</sub> are the areas</span></p>
+<p style="text-align: center;">such as in the U-Tube example below</p>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/Pascals-P-21.png"><img class="alignnone size-full wp-image-3897" style="margin: 5px auto; display: block; text-align: center;" alt="Pascal's P 2" src="http://compactcourse.com/wp-content/uploads/2013/06/Pascals-P-21.png" width="550" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Torcelli's Theorem</span></h2>
+This theorem provides an equation for the speed of a fluid coming out of a hole from the bottom of a container, as seen in the situation below.
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/Torcellis.png"><img class="alignnone size-full wp-image-3900" style="margin: 5px auto; display: block; text-align: center;" alt="Torcelli's" src="http://compactcourse.com/wp-content/uploads/2013/06/Torcellis.png" width="400" /></a>
+
+&nbsp;
+
+From Bernoulli's Equation, we know that <img alt="\,{\color{Blue} P_{1}+\rho gh_{1}+\frac{1}{2}\rho v_{1}^{2}=P_{2}+\rho gh_{2}+\frac{1}{2}\rho v_{2}^{2}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;P_{1}+\rho&amp;space;gh_{1}+\frac{1}{2}\rho&amp;space;v_{1}^{2}=P_{2}+\rho&amp;space;gh_{2}+\frac{1}{2}\rho&amp;space;v_{2}^{2}}" align="absmiddle" />. With this, we can find the velocity of the fluid moving out of the container at Point 2.
+<ul>
+	<li><span style="line-height: 14px;">Since A<sub>1 </sub>is much greater than A<sub>2</sub>, we can assume that V<sub>1</sub> is much less than V<sub>2</sub>. This allows us to make the assumption that V<sub>1</sub>≈0 from the flow rate equation. Plugging this into our equation we are left with <img alt="\,{\color{Blue} P_{1}+\rho gh_{1}=P_{2}+\rho gh_{2}+\frac{1}{2}\rho v_{2}^{2}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;P_{1}+\rho&amp;space;gh_{1}=P_{2}+\rho&amp;space;gh_{2}+\frac{1}{2}\rho&amp;space;v_{2}^{2}}" align="absmiddle" />.
+</span></li>
+	<li>P<sub>1 </sub>and P<sub>2</sub> are both atmospheric pressure, so since its on both sides of the equation, they cancel out so we get <img alt="{\color{Blue}\rho gh_{1}=\rho gh_{2}+\frac{1}{2}\rho v_{2}^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}\rho&amp;space;gh_{1}=\rho&amp;space;gh_{2}+\frac{1}{2}\rho&amp;space;v_{2}^{2}}" align="absmiddle" />.</li>
+	<li>h<sub>1</sub> equals 0 since we set this point as the bottom of our container and h<sub>2</sub> equals x1 - x2. Plugging both these into our equation, we get <img alt="\,{\color{Blue}\rho gh_{1}=\frac{1}{2}\rho v_{2}^{2}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}\rho&amp;space;gh_{1}=\frac{1}{2}\rho&amp;space;v_{2}^{2}}" align="absmiddle" />.</li>
+	<li>Since ρ is on both sides of this equation, they both cancel which gives us <img alt="\,{\color{Blue}gh_{1}=\frac{1}{2}v_{2}^{2}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}gh_{1}=\frac{1}{2}v_{2}^{2}}" align="absmiddle" />.</li>
+	<li>Through algebraic manipulation, we are left with our final fluid velocity at point 2.</li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue}v_{2}=\sqrt{2gh_{1}}} \, \, \, or\, \, \, {\color{Blue}v_{2}=\sqrt{2g(x_{1}-x_{2})}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}v_{2}=\sqrt{2gh_{1}}}&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}v_{2}=\sqrt{2g(x_{1}-x_{2})}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where g is gravity and h<sub>1</sub> is the height of the fluid</span></p>

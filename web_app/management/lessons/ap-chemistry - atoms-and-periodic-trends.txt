@@ -1,0 +1,70 @@
+Atomic structure and periodic properties become very important on the multiple choice of the AP Chem exam, and do show up in application on usually only one free response question. ****<span style="text-decoration: underline;">HOWEVER, the AP chem exam format and style will be changing for the 2013-2014 school year</span>. So, make sure you stay up to date with the changes with your individual instructor. It is rumored the test will change in the same manner that Bio change, in that it will become more application and reading based.
+<h2 style="text-align: center;"><span style="color: #007fff;">The Chemist's Main Guide: the Periodic Table</span></h2>
+The <span style="color: #007fff;">periodic table</span> is a organizational tool that is used to sort all known elements. An <span style="color: #007fff;">element</span> is a pure substance made up only one type of atom. This is different from a <span style="color: #007fff;">compound</span>, which is made up of atoms of different elements chemically bonded to one another uniformly.
+
+Each column in the periodic table (vertical) is called a <span style="color: #007fff;">group</span>; horizontal rows are called <span style="color: #007fff;">periods</span>.
+
+On the perodic table, each element has its own little box. Within that space, three important things are displayed. At the top lies the elements <span style="color: #007fff;">atomic number</span>. The atomic number describes how many protons an atom has in its nucleus, Additionally, since atoms have no electrical charge, they have the same number of electrons as protons. Thus the atomic number can also state the number of electrons in an atom. Next, in the middle of the box is the element's symbol. This is the way chemists can universally identify an element. Finally, at the bottom of the box we find the elements <span style="color: #007fff;">molar mass</span>. Molar mass is the combination of protons and neutrons that create the nucleus of the atom. This mass is in grams and constitutes a whole mole of atoms of said element; a <span style="color: #007fff;">mole</span> is a measurement method that is used universally of 6.023 x <img alt="10^{23}" src="http://latex.codecogs.com/gif.latex?10^{23}" align="absmiddle" /> molecules.
+
+The number of protons determines the element of an atom, but not all atoms of an element have the same mass number. An <span style="color: #007fff;">isotope</span> is an atom with the same number of protons but a different number of neutrons. For example, Oxygen usually has an molar mass of 16 (O-16) but some atoms only have 12 neutrons, and thus are called oxygen-12 isotope. Although many isotopes may exist for an element, the molar mass will reflect the most common isotope of an element.
+<p style="text-align: center;"><span style="color: #007fff;">Atomic Structure and Electron Clouds</span></p>
+<p style="text-align: left;">Each atom is made up of a nucleus, formed through proton and neutron combinations, and an electron cloud which surrounds the nucleus. It's called a cloud because the electrons move around the nucleus randomly, but stay within a certain area. Often times, the whole cloud will be made up of several shells, subshells, and orbitals. I will explain below.</p>
+<p style="text-align: left;">- <span style="text-decoration: underline;">Electron's Quantum Numbers</span>:</p>
+
+<ol>
+	<li><span style="line-height: 14px;">Shells (n) - this is called the <span style="color: #007fff;">principal quantum number</span>. It states how far an electron is from the nucleus and how mch energy it contains. Stability is inversely proportional to distance, while energy is directly proportional. The numbers here will increase from 1 onward. Generally, the period number will tell you the number of shells. For example, if n=2 then the electron cloud has two shells. </span></li>
+	<li>Subshells (l) -this is callled the <span style="color: #007fff;">angular momentum quantum number</span>. It determines the shape of an individual electron cloud, or orbital. Subshells begin from 0 and incriment upwards. Remember, that "l=n-1." This means that if n=2, there would be two subshells: l=0 and l=1. Furthermore, each subshell has a name:
+<ol>
+	<li>s-cloud occurs when l=0; this contains one orbital, with two maximum in each orbital, totaling 2.</li>
+	<li>p-cloud occurs when l=1; this contains three orbitals, with two maximum in each orbital, totaling 6</li>
+	<li>d-cloud occurs when l=2; this contains five orbital, with two maximum in each orbital, totaling 10</li>
+	<li>f-cloud occurs when l=3; this contains seven orbital, with two maximum in each orbital, totaling 14</li>
+</ol>
+</li>
+	<li>Orbitals (<img alt="m_{l}" src="http://latex.codecogs.com/gif.latex?m_{l}" align="absmiddle" />)- this is the <span style="color: #007fff;">magnetic quantum number</span>. It states the orbitals orientation within the cloud. Here, all you need to know is that <img alt="m_{l}" src="http://latex.codecogs.com/gif.latex?m_{l}" align="absmiddle" /> = -l through +l</li>
+	<li>Spin (<img alt="m_{s}" src="http://latex.codecogs.com/gif.latex?m_{s}" align="absmiddle" />) - an electron can have a positive spin or a negative spin. This value is either +1/2 or -1/2</li>
+</ol>
+<h2 style="text-align: center;"><span style="color: #007fff;">Three Rules on Electron Interactions</span></h2>
+Electrons are highly mobile within the electron cloud. Their movement affects many of the properties that an element has. There are three principles that are important to remember, especially for the AP exam:
+<ol>
+	<li><span style="line-height: 14px;">Aufbau Principle - electrons will fill lower energy shells, subshells, and orbitals first</span></li>
+	<li>Pauli's exclusion principle - each electron will have its own unique set of quatum numbers; no two can have the same</li>
+	<li>Hund's rule - electrons will always try to fill an empty orbital before it pairs up with another in an orbital.</li>
+</ol>
+These rules are not only important to know in general, but also when you are writing electron orbital diagrams and writing out electrong configurations for elements (i.e. <img alt="1s^{2}2s^{2}2p^{3}" src="http://latex.codecogs.com/gif.latex?1s^{2}2s^{2}2p^{3}" align="absmiddle" /> which consequently is Nitrogen).
+<h2 style="text-align: center;"><span style="color: #007fff;">Periodic Trends!!!</span></h2>
+Knowing these trends are super important...but actually, learn them and love them. They will show up on both sections of the exam. These trends are all explained by a few common atomic mechanisms, which i have listed below. Remember, electrons are negatively charged and protons in the nucleus are postively charged. Therefore, since opposites attract in chemistry, electrons are attracted and held in the cloud by the nucleus' charge. And subsequently, electrons repell eachother.
+<ul>
+	<li><span style="line-height: 14px;"><strong>Electron Sheilding</strong> - this is an interaction where the electrons in the valence shell (outermost) are less attracted to the nucleus because they are simultaneously repelled by electrons in lower shells and blocked from the nucleus' charge</span></li>
+	<li><strong>Affective nuclear charge</strong> - electrons are more attracted the closer they are to the nucleus; the more protons in the nucleus, the stronger the attractive force</li>
+	<li>Stability is what atoms will naturally trend toward, thus full electron shells are more stable then partially filled ones. Atoms will exchange electrons in order to complete their respective shells.
+<ul>
+	<li>Side note- elements vary in their magnetism. When electron levels are filled completely, an element will be <span style="color: #007fff;">diamengentic</span> and have no charge. In other words, their electrons are all paired in their orbitals. When some orbitals are left unfilled, elements have some magnetic charge (it varies by how many orbitals are unparied or empty) and are called <span style="color: #007fff;">paramagnetic</span>.</li>
+</ul>
+</li>
+</ul>
+-<span style="text-decoration: underline;">Atomic Radius</span>: the distance from the center of the nucleus to the outer edge of the electron cloud
+
+<span style="text-decoration: underline;">Atomic radius increases down a group</span>. The explanation is simple; with each step down the group, a whole new shell of electrons is added to the cloud. However, <span style="text-decoration: underline;">atomic radius decreases across a period from left to right</span>. This is because as we move left to right in a period, an atom gains a proton. This increase the nuclear attractive force; the number of electron shells doesnt change though. This means, as we move across a period, the nucleus attracts the cloud closer and closer to it, decreasing the radius.
+
+Atomic radius varies by ions as well. Negative ions are called anions; they gain electrons to become negative. Anions are bigger thena their atom counterparts because the gain of electrons increase electron-electron repulsion, causing the valence electrons to move farther from the nucleus.
+
+Postive ions are called <span style="color: #007fff;">cations</span>; they lose electrons to become positive. Cations are smaller than their respective atoms because when they lose electrons, either (1) they lose an electon cloud or (2) their electron-electron repulsion between the the valence electrons and the inner electron clouds is reduced. Both of these result in the valence electron cloud moving closer to the nucleus.
+
+-<span style="text-decoration: underline;">Electron Affinity</span>: this is basically the opposite of Ionization Energy. Its defined as the energy turnover when an electron is added to an atom as opposed to taken away.
+
+There's a <span style="text-decoration: underline;">no real change down a group</span> for electron affinity. As for <span style="text-decoration: underline;">across a period, it increases</span> because affective nuclear charge increase as you go across a period, so that is more energy to overcome.
+
+-Electronegativity: the attractive force of an atoms nucleus on nearby electrons
+
+This <span style="text-decoration: underline;">decreases down a group</span>, simply due to the fact that there is more electron-electron repulsion and electron sheilding that blocks affective nuclear charge. <span style="text-decoration: underline;">Electronegativity increases across a period</span> because the number of protons in the nucleus increases as well.
+
+-<span style="text-decoration: underline;">Ionization energy</span>: the amount of energy needed to remove an electron from an atom.
+
+This property varies by how many valence electrons there are. <span style="text-decoration: underline;">Moving down a group, ionization energy increases</span> due to the fact that as the valence electron moves farther away from the nucleus (since they grow), there is less affective nuclear charge acting on them. Thus it takes less energy to pull one away.
+
+<span style="text-decoration: underline;">Moving left to right across a period, ionization energy increases</span>. This again has to do with affective nuclear charge. As the number of protons increases across a period, there is more affective nuclear charge as the nucleus attracts the electrons more. Therefore, its harder to pull electrons off.
+
+Finally (thank god, because this lesson is dragging...am i right?), since ionization energy depends on the valence electrons present, it will increase little by little untill a whole shell is taken off. The ionization energy jumps through the roof once a new shell is reached and we try to disrupt the stability of the complete shell. Remember, atoms like stability, taking stability away takes alot of energy.
+
+&nbsp;

@@ -1,0 +1,47 @@
+<h2 style="text-align: center;">Functions of Interest Groups</h2>
+An interest group is any organization that tries to influence public policy in order to reap the benefits. They do so by gaining access to government officials and supporting them and their campaigns financially.
+<h3>Financing Campaigns</h3>
+Interest groups often form what are known as <span style="color: #007fff;">political action committees</span> (PACs), which help candidates by raising money for their campaigns. Incumbent members of the House of Representatives specifically enjoy the benefits of PACs for their campaigns. However, laws have been put in place that sets a maximum of $5,000 total in contributions from one PAC to a certain candidate for an election.
+<h3>Lobbying</h3>
+Interest groups try to help finance candidates' campaigns in order to influence them on public policy. This process is known as lobbying. In addition to offering congressional candidates with financial resources, an important function of interest groups is to provide them with key information regarding <span style="color: #007fff;">specific </span>issues (clearly related to the members of the interest groups). Many people confuse interest groups' intentions with those of political parties. Interest groups are only concerned with certain issues pertaining to them; and they are very helpful to congressional candidates when offering them information about these issues.
+<h3>Influencing Other Branches of Government</h3>
+Interest groups have ways of influencing the judicial and executive branch as well. Interest groups can file amicus curiae briefs in court cases or even use litigation to directly sponsor a case. Interest groups are also very involved in the activities of regulatory agencies.
+<h2 style="text-align: center;">Attributes of Interest Groups</h2>
+There are three main factors that affect the success of interest groups: financial resources, intensity, and size. To be honest, they're all pretty much common sense, but the AP has asked about them on free-response problems before, so they're good to know.
+<h3>Financial Resources</h3>
+The more money, the more interest groups can aid PACs, sponsor court cases (litigation), and influence public policy in general.
+<h3>Intensity</h3>
+Interest groups that have members who truly care about the issues the groups are about and work diligently towards achieving their goals will obviously be more successful than interest groups with indifferent members.
+<h3>Size</h3>
+Interest groups that have a lot of people will have more reach than smaller interest groups. However, according to Olson's law of large groups, the larger the interest group, the more serious the free-rider problem. Free-riders are people not a part of an interest group yet still receive benefits from the work that interest group does.
+<h2 style="text-align: center;">Types of Interest Groups</h2>
+There are several types of interest groups, but knowing them is not particularly stressed by the AP exam. Nevertheless, I'll list some:
+<ul>
+	<li>Business interest groups</li>
+	<li>Labor interest groups</li>
+	<li>Environmental interest groups</li>
+	<li>Equality interest groups
+<ul>
+	<li>National Association for the Advancement of Colored People (NAACP)</li>
+	<li>National Organization for Women (NOW)</li>
+</ul>
+</li>
+</ul>
+If you ever are asked about a specific interest group on the AP exam, the answer should be easy to pick out. What you should know, however, is that in the past couple decades, the amount of business interest groups has risen greatly.
+<h2 style="text-align: center;">Iron Triangles and Issue Networks</h2>
+<h3>Iron Triangles</h3>
+Iron triangles are mutually beneficial collaborations (often called subgovernment) between an interest group, a bureaucratic agency, and a congressional committee.
+<h3>Issue Networks</h3>
+AN issue network is a collection of individuals - including interest groups, think tanks, and congressional staffs - who regularly discuss public policies.
+
+&nbsp;
+
+There is usually confusion between iron triangles and issue networks. Iron triangles are formed to politically benefit those involved, which issue networks are more about discussions more than anything.
+<h2 style="text-align: center;">Beliefs About Interest Groups</h2>
+There are theories concerning interest groups: pluralist, hyperpluralist, and elite.
+<h3>Pluralist Theory</h3>
+Public policies are the result of many interest groups competing to influence government. This is results in a healthy democratic compromise.
+<h3>Hyperpluralist Theory</h3>
+There are so many interest groups influencing politicians that public policies often conflict with each other, weakening government. Basically, an extreme, cynical form of pluralism.
+<h3>Elite Theory</h3>
+The majority of public policy is influenced by a small number of powerful interest groups comprised of wealthy elites.

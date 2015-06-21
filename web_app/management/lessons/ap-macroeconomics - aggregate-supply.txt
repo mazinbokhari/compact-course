@@ -1,0 +1,82 @@
+<h2>Aggregate Supply</h2>
+<h3>Definition</h3>
+Aggregate supply is basically the general willingness of business to produce goods and services in a country. If there are many businesses willing to produce goods and services, then a country's level of aggregate supply is high. If there are few businesses willing to produce goods and services, then a country's aggregate supply is low.
+<h3>AS Curve</h3>
+<img class="alignleft" alt="Aggregate Demand Curve" src="http://www.compactcourse.com/images/AS%20Curve.png" width="300" height="273" />The aggregate supply curve (AS) is upward sloping . When the general price level is low, businesses aren't as willing to produce goods and services because their profits would be low., As a result, output, real GDP, is low.
+
+When prices are high, businesses are more willing to produce goods and services because they have higher profit margins. As a result, real GDP is high.
+
+Just like aggregate demand, aggregate supply should seem easy to understand. As you can see on the graph to the left, if the general price level increases from PL1 to PL2, real GDP (output) increases from Y1 to Y2 because businesses are more inclined to produce at a higher price level in order to make big profit.
+
+This curve is meant to illustrate the tendencies of businesses as producers. Never will you actually see an economy "move along" the AS curve as pictured in the graph. An economy's state will always be at the intersection point of the AS curve, and the AD curve. You'll learn more about this in the next chapter.
+<h2>Shifting the AS Curve</h2>
+<h3><img class="alignleft" alt="Aggregate Demand Curve Shift" src="http://www.compactcourse.com/images/AS%20Shift.png" width="311" height="273" />Shifting the AS Curve</h3>
+This is the most important part of the chapter. It's way shorter than the aggregate demand chapter's section. The only thing that will shift the AS curve is a change in the <span style="color: #007fff;">per unit cost of production</span> of goods. Anything that changes this and only this, will shift the AS curve.
+
+A decrease in the per unit cost of production will shift the AS curve to the right like in the graph to the left. If the per unit cost of production decreases, businesses will have higher profit margins. Therefore, they will be more willing to produce <em>more</em> goods and services at every price level. This marks an increase in aggregate supply and a shift in the AS curve to the right.
+
+If the per unit cost of production increases, businesses will have lower profit margins, and will thus be less willing to produce goods and services at every price level, decreasing aggregate supply and shifting the AS curve to the left.
+
+I'll give some examples below. Make sure you understand them instead of trying to memorize all the scenarios.
+<ul>
+	<li>Scenario: The government increases excise taxes on tobacco.
+<ul>
+<ul>
+	<li>*Excise taxes are taxes on specific commodities, such as tobacco. They are applied to the producers of such goods. Yes, producers can pass the tax down and increase sale prices, but often producers still end up paying for it through a cut in their profit margins. Therefore, increasing excise taxes increases the per unit cost of production of such goods.</li>
+</ul>
+	<li>An increase in excise taxes would increase the per unit cost of production. This would decrease aggregate supply and shift the AS curve to the left.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The government increases subsidies for businesses across the country.
+<ul>
+<ul>
+	<li>*Subsidies are forms of grant money offered from the government <em>to</em> businesses producing certain commodities. They're essentially the opposite of excise taxes because they can <em>increase</em> businesses' profit margins by decreasing their expenses. Therefore, increasing subsidies decreases the per unit cost of production of such goods.</li>
+</ul>
+	<li>An increase in subsidies would decrease the per unit cost of production. This would increase aggregate supply and shift the AS curve to the right.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The price of oil decreases.
+<ul>
+<ul>
+	<li>*Businesses use oil to run factories, provide transportation, etc. If the price of oil dropped, businesses' expenses would decrease. Therefore, decreasing oil prices decreases the per unit cost of production.</li>
+</ul>
+	<li>A decrease in the price of oil would decrease the per unit cost of production. This would increase aggregate supply and shift the AS curve to the right.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: New technology increases the productivity of factory machines.
+<ul>
+	<li>If advances in technology increases the productivity of factory machines, the per unit cost of production will decrease. This would increase aggregate supply and shift the AS curve to the right.
+<ul>
+	<li>**I hope that some of you picked up on this. Technology is a factor of production. Better technology increases the quality of factors of production, which will result in long term economic growth. So, new technology can have two different effects.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The federal minimum wage is increased.
+<ul>
+<ul>
+	<li>*An expense all businesses have is wages to their employees. If the federal minimum wage is increased, businesses across the country would have larger expenses. Therefore, increasing the federal minimum wage would increase the per unit cost of production.</li>
+</ul>
+	<li>If the government increases the federal minimum wage, the per unit cost of production would increase. This would decrease aggregate supply and shift the AS curve to the left.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>*Challenge* Scenario: A 1000 square foot oil field is discovered in Texas.</li>
+</ul>
+<h4>Supply Shocks</h4>
+Supply shocks are events that cause large increases in resource costs, such as oil. These price increases raise the per unit cost of production; therefore, supply shocks decrease aggregate supply, which shifts the AS curve to the left.
+<h4>Summary</h4>
+By now, you should have an idea of aggregate supply can be changed and how it will shift the AS curve. The answers I gave are common to the scenarios presented, but by no means are they guaranteed to be true. The AP exam will usually phrase questions in such a way that you will know what they're looking for.
+
+For example, the exam may ask: "How could increasing the federal minimum wage decrease aggregate supply?" With this question, you know the answer I gave above is applicable because the end result answered the actual question. You'll never get one of the scenarios above without a direction for the answer.
+
+***My answers are pretty much exactly how you should phrase them when answering problems on the AP exam (and also just thinking about the problems in general). It may seem repetitive to write all of that for a question, but it's what I'd do if I were you.

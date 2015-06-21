@@ -1,0 +1,110 @@
+<h2 align="center"><span style="text-decoration: underline;">The Photoelectric Effect</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Photon:</span> Packet of energy that accounts for light when emitted
+<p style="text-align: left;">The energy of a photon can be found with the equation</p>
+<img class="aligncenter" alt="{\color{Blue} E=hf}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;E=hf}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where E is the energy of the photon, f is the frequency of the wave, and h is <span style="text-decoration: underline;">Planck's Constant</span> which is equal to roughly 6.63 x 10<sup>-34 </sup>J·s</span></p>
+<span style="text-decoration: underline; color: #007fff;">Photoelectric Effect:</span> Phenomenon of light of a certain frequency ejecting electrons from a metallic surface
+<ul>
+	<li><span style="line-height: 14px;">These electrons are known as <span style="color: #007fff;">photoelectrons</span></span></li>
+</ul>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Work Function:</span></span> The amount of energy needed to remove an electron from that metallic surface
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt;  ; Symbol=&gt; Φ</span></li>
+</ul>
+The maximum kinetic of a photoelectron can be found by the equation
+
+<img class="aligncenter" alt="{\color{Blue} KE_{max}=hf-\phi }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;KE_{max}=hf-\phi&amp;space;}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where f is the frequency of the wave, h is Planck's Constant, and Φ is the work function</span></p>
+<span style="text-decoration: underline; color: #007fff;">Threshold Frequency:</span> The minimum frequency needed for photons to remove electrons from that metallic surface
+<ul>
+	<li>Unit =&gt;  ; Symbol=&gt; ƒ<sub>o</sub></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} f_{o}=\frac{\phi }{h}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f_{o}=\frac{\phi&amp;space;}{h}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;"> where h is Planck's Constant and Φ is the work function</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Stopping Potential:</span></span> Potential necessary to stop electrons from moving</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt;  Volts <img alt="(V)" src="http://latex.codecogs.com/gif.latex?(V)" align="absmiddle" />; Symbol=&gt; V<sub>o</sub></span></li>
+</ul>
+The maximum kinetic energy of the emitted electrons can be found with the equation
+<p style="text-align: center;"><img alt="{\color{Blue} KE_{max}=eV_{o}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;KE_{max}=eV_{o}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where e is the charge of the electron and V<sub>o</sub> is the stopping potential</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Electronvolt:</span> The amount of energy change in an electron when it is accelerated through a potential difference of 1 volt</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt;  Joules <img alt="(J)" src="http://latex.codecogs.com/gif.latex?(J)" align="absmiddle" />; Symbol=&gt; eV
+</span></li>
+	<li>1 eV = 1.6 x 10<sup>-19</sup> J</li>
+</ul>
+<h3 style="text-align: center;">Graphic Depiction</h3>
+When we graph the photoelectric effect phenomenon, we get the graph
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/photoelectric-effect-2.png"><img class="alignnone size-full wp-image-4288" style="margin: 5px auto; display: block; text-align: center;" alt="photoelectric effect 2" src="http://www.compactcourse.com/wp-content/uploads/2013/06/photoelectric-effect-2.png" width="300" /></a>
+
+&nbsp;
+<ul>
+	<li>The x-intercept is the threshold frequency since the line equation is <img alt="KE_{max}=hf-\phi" src="http://latex.codecogs.com/gif.latex?KE_{max}=hf-\phi" align="absmiddle" /> and at KE<sub>max</sub> = 0, f comes to be Φ/h</li>
+	<li>The y-intercept is the negative work function since the line equation is <img alt="KE_{max}=hf-\phi" src="http://latex.codecogs.com/gif.latex?KE_{max}=hf-\phi" align="absmiddle" /> and at f = 0, KE<sub>max</sub> comes to be -Φ</li>
+	<li>The slope is equal to Planck's Constant because <img alt="\phi =hf_{o}" src="http://latex.codecogs.com/gif.latex?\phi&amp;space;=hf_{o}" align="absmiddle" /> so plugging this in we get <img alt="KE_{max}=hf-hf_{o} \, \, \, =&gt;Slope=\frac{KE_{max}}{f-f_{o}}=h" src="http://latex.codecogs.com/gif.latex?KE_{max}=hf-hf_{o}&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;=&gt;Slope=\frac{KE_{max}}{f-f_{o}}=h" align="absmiddle" /></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">The Bohr Model</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Ground State:</span> The lowest energy state (1)
+
+<span style="text-decoration: underline; color: #007fff;">Excited State:</span> Higher energy state
+
+<span style="text-decoration: underline; color: #007fff;">Ionization Energy:</span> The amount of energy needed to remove an electron from an atom
+
+<span style="text-decoration: underline; color: #007fff;">Energy Level Diagram:</span> Series of lines that depict different energy levels
+
+Electrons can move between different energy levels.
+<ul>
+	<li><span style="line-height: 14px;">When an electron moves to a higher energy level, energy is absorbed because a photon is absorbed</span></li>
+	<li>When an electron moves to a lower energy level, energy is released because a photon is released</li>
+</ul>
+These leaps in energy levels are called <span style="color: #007fff;">quantum leaps</span>
+
+The energy of the released photon, is equal to the difference of the energy levels the electron leaped from. This can be solved with the equation
+<p style="text-align: center;"><img alt="{\color{Blue} E = E_{i}- E_{f}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;E&amp;space;=&amp;space;E_{i}-&amp;space;E_{f}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where E is the change in energy of the electron, E<sub>i</sub> is the amount of energy in the initial energy level, and E<sub>f</sub> is the amount of energy in the final energy level</span></p>
+<p style="text-align: left;">Since <img alt="E=hf" src="http://latex.codecogs.com/gif.latex?E=hf" align="absmiddle" />, this equation can also be written as</p>
+<p style="text-align: left;"><img class="aligncenter" alt="{\color{Blue} f = \frac{E_{i}- E_{f}}{h}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f&amp;space;=&amp;space;\frac{E_{i}-&amp;space;E_{f}}{h}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where f is the frequency of the photon and h is Planck's Constant</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Lyman Series (ultraviolet):</span> Occurs when electrons drop to level 1</p>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Balmer Series (visible):</span> Occurs when electrons drop to level 2</p>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Paschen Series (infrared):</span> Occurs when electrons drop to level 3</p>
+<p style="text-align: left;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/energy-levels.png"><img class="alignnone size-full wp-image-4293" style="margin: 5px auto; display: block; text-align: center;" alt="energy levels" src="http://www.compactcourse.com/wp-content/uploads/2013/06/energy-levels.png" width="400" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Radioactive Decay</span></h2>
+<h3 style="text-align: center;">Alpha Radiation</h3>
+<span style="text-decoration: underline; color: #007fff;">Alpha Radiation:</span> Occurs when there are too many protons
+<ul>
+	<li>Alpha Rays are helium protons</li>
+	<li><span style="line-height: 14px;">Symbol =&gt; α
+</span></li>
+</ul>
+<h3 style="text-align: center;">Beta Radiation</h3>
+<span style="text-decoration: underline; color: #007fff;">Beta Radiation:</span> Occurs when the neutron to proton ratio is off
+<ul>
+	<li>Beta Rays are electrons</li>
+	<li>Symbol =&gt; β</li>
+</ul>
+<h3 style="text-align: center;">Gamma Radiation</h3>
+<span style="text-decoration: underline; color: #007fff;">Gamma Radiation:</span> Occurs when the energy in the nucleus is too high
+<ul>
+	<li>Gamma Rays are photons</li>
+	<li>Symbol =&gt; γ</li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Compton Effect</span></h2>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Compton Effect:</span></span> When an X-ray collides with a photon, the laws of conservation of momentum are obeyed</p>
+
+<ul>
+	<li><span style="line-height: 14px;">The impacted photon has a lower frequency after the collision</span></li>
+	<li>The momentum of the photon is given by the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} p=\frac{E}{c}=\frac{hf}{c}=\frac{h}{\lambda }}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;p=\frac{E}{c}=\frac{hf}{c}=\frac{h}{\lambda&amp;space;}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where E is the energy of the photon, c is the speed of light, h is Planck's Constant, f is the frequency, and λ is the wavelength of the photon</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">De Boglie Wavelength</span></h2>
+As we have seen, light behaves like waves with interference and diffraction, but also behaves like particles with the photoelectric effect. Since a wave can act like a particle, a particle can also behave like a wave. This particle can have a wavelength known as its <span style="color: #007fff;">de Boglie wavelength <span style="color: #000000;">while also having momentum at the same time. These are all related by the equation</span></span>
+<p style="text-align: center;"><img alt="{\color{Blue} \lambda =\frac{h}{p}=\frac{h}{mv}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lambda&amp;space;=\frac{h}{p}=\frac{h}{mv}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where h is Planck's Constant, p is the momentum, m is the mass, v is the velocity, and λ is the de Broglie wavelength of the particle</span></p>

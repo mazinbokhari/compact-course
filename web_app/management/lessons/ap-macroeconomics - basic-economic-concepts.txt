@@ -1,0 +1,71 @@
+Just as a precursor to AP Macroeconomics, I would just like to say that almost everything builds on the content before it, so make sure you actually understand each lesson before going on to the next. I do not know how your teachers organize and teach material, so it would be best to follow this all the way through. That said, I believe that macroeconomics is quite easy if you actually pay attention.
+
+One more thing. In macroeconomic analysis, we have to follow the Latin phrase <em>ceteris paribus</em>, which means "with other conditions remaining the same." All this means is that when a question on the AP exam proposes a certain change, just assume that what you are told is the only thing that changes. Instead of trying to overcomplicate things, stay within the question.
+<h2>Market Economy</h2>
+<h3>The United States' Economy</h3>
+The United States has a market economy, which basically means that citizens privately own the majority of businesses and property. This is unlike a command, or planned, economy, in which the government centrally controls all economic decision making. Adam Smith was the most well known early proponent of market economies, saying that these types of economies were more productive because people would work in their own self-interest to make a profit. Even if they weren't business owners, people working in a market economy would try to maximize their utility, an economist's way of measuring overall pleasure or satisfaction, by making choices that would most benefit them, and as a result, benefit the economy.
+<h3>The Fundamental Economic Problem</h3>
+The most fundamental economic problem is that you can't have it all. Humans have almost unlimited wants, but there are only a limited supply of resources to satisfy them. This idea represents scarcity: something is scarce when it is desirable but limited in quantity. Businesses face scarcity all the time.
+
+A business fully allocates all of its scarce resources to producing two goods: corn and wheat. If the business decides to produce more corn, it would have to reduce the amount of wheat it produces as well in order to free up more resources to be used for corn. The choice to make more corn had a cost: less wheat. This is called an opportunity cost, a term economists use to describe a trade-off. The opportunity cost is what you must give up to make a choice. For example, if you spend money on a new laptop, the opportunity cost could be the textbooks that you were supposed to buy with that money. It is the same idea with production in businesses and countries.
+<h3>Factors of Production</h3>
+This is a very important section to understand. The amount of production a country can have is based on the quantity and quality of its resources. These resources are known as factors of production:
+<h4>Land</h4>
+Land includes all natural resources, such as oil, lumber, and the ground itself to be built on.
+<h4>Labor</h4>
+Labor includes not only the size of the workforce, but the knowledge and skill set of the workers themselves
+<h4>Capital</h4>
+Capital includes machinery, equipment, and factory (tools and things that make other goods). Capital also includes technology.
+<h4>Entrepreneurship</h4>
+Entrepreneurs are the people that incorporate the other factors of production in their own business.
+<h2>Production Possibilities Curve</h2>
+<a href="http://compactcourse.com/wp-content/uploads/2013/07/PPC.png"><img class="size-full wp-image-3940 alignleft" alt="PPC" src="http://compactcourse.com/wp-content/uploads/2013/07/PPC.png" width="500" height="454" /></a>The production possibilities curve (PPC) illustrates the concepts of opportunity cost and factors of production. The PPC illustrated to the left shows two types of a country's goods: capital goods and the final goods that are made with the capital goods. Any point on this graph might represent the country's combination of capital goods and final goods. Points on the diagonal line (the "curve") represents the largest combinations of both goods a country can produce.
+
+The country can only be a point on this line if it is working at its max capacity, efficiently allocating <em>all</em> of its resources and labor to produce goods.
+
+The country can be at point c because it is <em>inside</em> the curve, meaning the the country is either not using all of its resources or is not using them efficiently.
+
+The country <strong><em>cannnot</em></strong><em> </em>be at point a because it is <em>outside</em> of the curve. The country would need more factors of production to be able to be at point a.
+
+As you can see, there is a trade-off between producing capital goods and producing final goods. Let's just estimate that at point b, the country can produce 15 capital goods and 10 final goods, and at point d it can produce 8 capital goods and 16 final goods. What is the main opportunity cost involved in going from point b to point d? The country must give up producing 7 capital goods to make the transition, so the opportunity cost is 7 capital goods.
+<h3>Capital vs. Final Goods</h3>
+One of the nuances of the PPC specifically shown above is how capital and final goods relate to the future. Capital goods are factors of production. The more factors of production a country has, the more it can produce overall (so the farther the curve goes out). A country that is producing more capital goods than final goods will have a more economic growth in the future than a country that decides to produce mostly final goods. I will extensively connect the dots of economic growth and factors of production throughout this course.
+<h3>Increasing Opportunity Costs</h3>
+<a href="http://compactcourse.com/wp-content/uploads/2013/07/Curved-PPC.png"><img class="alignleft size-full wp-image-3944" alt="Curved PPC" src="http://compactcourse.com/wp-content/uploads/2013/07/Curved-PPC.png" width="300" height="272" /></a>Unfortunately, PPCs don't always have straight curves; in fact, the AP will most likely only use PPCs with straight curves for questions that involve calculations because the opportunity costs in these graphs are <strong>constant</strong>. Most PPCs <span style="color: #007fff;">bow out</span> as a result of the <span style="color: #007fff;">Law of Increasing Opportunity Costs<span style="color: #000000;">. </span></span>All the law says is that the more any certain good is produced, the more opportunity cost it will take to increase the production of that good.
+
+For example, at point a, if you trace the curve a little to the right, you might see that you're increasing the amount of final goods without losing too many capital goods. However, at point d, there are already much more final goods than at point a. As a result, if you trace the curve a little to the right, you'll see a drastic drop in the amount of capital goods. That drop is your opportunity cost.
+
+&nbsp;
+
+&nbsp;
+<h2>Trade</h2>
+<a href="http://compactcourse.com/wp-content/uploads/2013/07/PPC-Country-X.png"><img class="alignleft size-full wp-image-3946" alt="PPC Country X" src="http://compactcourse.com/wp-content/uploads/2013/07/PPC-Country-X.png" width="300" height="274" /></a><a href="http://compactcourse.com/wp-content/uploads/2013/07/PPC-Country-Y.png"><img class="size-full wp-image-3947 alignright" alt="PPC Country Y" src="http://compactcourse.com/wp-content/uploads/2013/07/PPC-Country-Y.png" width="300" height="274" /></a>
+These two PPCs are for two different countries (X and Y) for the same two goods (bananas and oranges).
+
+Please refer to these when reading this section.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3>Absolute Advantage</h3>
+A country with an absolute advantage in the production of a good or service can produce that good or service at a cheaper per unit cost than any other country or entity. This is represented in PPCs by basically being the country that can produce more of a good than the country it's being compared to can. Of the two countries, Country X has an absolute advantage in the production of oranges. Coincidentally, Country X also has an absolute advantage in the production of bananas.
+<h3>Comparative Advantage</h3>
+A country with a comparative advantage in the production of a good or service can produce that good or service at a lower <em>opportunity cost</em> than any other country or entity. For example, if Country X went from producing 0 bananas to producing 15 bananas, the opportunity cost would be 20 oranges. So, the relative opportunity cost of one banana is  <img alt="\frac{20 \hspace{2 mm} oranges}{15 \hspace{2 mm} bananas}" src="http://latex.codecogs.com/gif.latex?\frac{20&amp;space;\hspace{2&amp;space;mm}&amp;space;oranges}{15&amp;space;\hspace{2&amp;space;mm}&amp;space;bananas}" align="absmiddle" />, which equals 4/3 oranges per banana. The opportunity cost of one banana in Country Y is <img alt="\frac{15\hspace{2 mm} oranges}{10\hspace{2 mm} bananas}" src="http://latex.codecogs.com/gif.latex?\frac{15\hspace{2&amp;space;mm}&amp;space;oranges}{10\hspace{2&amp;space;mm}&amp;space;bananas}" align="absmiddle" />, which equals 3/2 oranges per banana. Let's compare the two:
+<div style="float: left;">[table width="400"]
+Country,oranges per banana,oranges per banana (decimal)
+Country X,4/3,1.333
+Country Y,3/2,1.5
+[/table]</div>
+So, the opportunity cost of a banana is lower for Country X than for Country Y. This means that Country X has less to lose if it decided to produce a lot of bananas. This is called a comparative advantage. Country X has a comparative advantage in the production of bananas. Conversely, we would be able to say the Country Y has a comparative advantage in oranges. For the AP exam, know that if one country has a comparative advantage in the production of a good, the other country has a comparative advantage in the production of the other good. This is always be true unless you calculate each country's opportunity costs to be the exact same, in which case no one has a comparative advantage
+
+Notice how that even though Country X has an absolute advantage in the production of oranges, Country Y has a comparative advantage in the production of oranges. This is because comparative advantages are found by comparing the the two goods inside a country, while absolute advantages are found by comparing a good between two countries. If you still don't understand <em>why </em>they're different, that's okay; just make sure you know <em>that</em> they're different and how to find each.
+<h3>Specialization</h3>
+Specialization is basically focusing on the production of one good instead of trying to produce many other goods. Economists all agree that countries benefit when they specialize because they are able to increase their consumption possibilities.
+
+Specialization is based on comparative advantage. A country that has a comparative advantage in the production of a good should specialize in producing that good. Country X should specialize in producing bananas, and Country Y should specialize in producing oranges. Do not try to use the idea of absolute advantage when considering specialization. Yes, Country X may be better at producing both oranges and bananas than Country Y, but Country X is better at producing bananas than it is at producing oranges, which is why it should only produce bananas.
+<h4>Tariffs</h4>
+Tariffs are basically taxes on imported goods into the country. They generate additional revenue for the domestic government but are generally used more for the purpose of enticing citizens to by goods domestically. This impedes the processes of trade and specialization and is therefore looked down upon by economists.

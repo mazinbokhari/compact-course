@@ -1,0 +1,41 @@
+<h2 style="text-align: center;">The Three Types of Colonies</h2>
+<p style="text-align: left;">•Royal Colonies: Colonies directly controlled by the crown.</p>
+<p style="text-align: left;">•Proprietary Colonies: Ruled by individuals who were given a charter by the King. The King gave such charters to friends to use as a tool for nearly total control.</p>
+<p style="text-align: left;">•Corporate Colonies: Colonies that were formed by a group of colonists' funds, such as a joint stock company.</p>
+
+<h2 style="text-align: center;">The Formation of the New Colonies</h2>
+<h3 style="text-align: left;">Virginia</h3>
+<p style="text-align: left;">The royal colony of Virginia, one of the Chesapeake colonies, the first colony of England, was mainly established for economic purposes, although it faced many hardships throughout the duration of its early years as a colony. Tobacco was overproduced and low-priced, and poor leadership gave rise to rebellion and disorder. Virginia also faced labor shortages with just using indentured servitude, Indian slaves, and the Headright system, so the colony turned to enslaving African blacks. The headright system was a way of Virgina attracting English settlers by promising 50 acres of land to any settler that payed for their voyage to America. Virginia's royal governor, Sir William Berkeley, would largely ignore the needs of the farmers that were subject to Indian attacks on the frontier of the colony and instead focus on implementing policy that would help the more wealthy portion of the colony's population. Such acts on Berkeley's behalf angered the low-class farmer of Virgina, and in 1676, Nathaniel Bacon rounded up an army of farmers to raid Indian villages near the Virginia border in what was the event known as <span style="color: #007fff;">Bacon's Rebellion</span>. Governor Berkeley tried suppressing the army with his own forces, although they were defeated by Bacon's farmers. Within a short period of time, Nathaniel Bacon died, causing his army to disintegrate.</p>
+
+<h3 style="text-align: left;">Maryland</h3>
+<p style="text-align: left;">Maryland was a proprietary colony of the Chesapeake Colonies. It was formed by Lord Baltimore, also known as George Calvert once he was given a charter from King Charles I in 1632 in return for dutiful service. Lord Baltimore passed the charter on to his son Cecil Calvert. The colony was mainly made as a haven for Catholics, although under the <span style="color: #007fff;">Act of Toleration</span> it also gave religious freedom to all Christians.</p>
+
+<h3 style="text-align: left;">Connecticut</h3>
+<p style="text-align: left;">Reverend Thomas Hooker led a group Puritans that left the Massachusetts colony to colonize Hartford. <span style="color: #007fff;">The Fundamental Orders of Connecticut</span>, was the first American constitution created and was written by the colonists of Hartford. John Davenport led the colonization of New Haven, in land near Hartford. In 1665, New Haven and Hartford merged to form Connecticut under a royal charter.</p>
+
+<h3 style="text-align: left;">New Hampshire</h3>
+<p style="text-align: left;">New Hampshire was founded under a royal charter granted by King Charles II. The authorities of New Hampshire came up with the <span style="color: #007fff;">Halfway Covena</span><span style="color: #007fff;">nt</span> in order to solve the lack of engagement of young and teenage Puritans in the Puritan church. The Halfway Covenant stated that individuals could still participate in church involvements without publicly declaring their total belief in Christ.</p>
+
+<h3 style="text-align: left;">Rhode Island</h3>
+<p style="text-align: left;">The Rhode Island colony mainly consisted of misfits and individuals that were not accepted by the Puritan church because of their personal beliefs. The colony had complete toleration of all religions, and was founded by<span style="color: #007fff;"> Roger Williams</span> in 1644. Roger Williams was a Puritan minister who was banished from the Massachusetts Bay Colony because of his preaching about individual conscience being beyond the control of church authority.  <span style="color: #007fff;">Anne Hutchinson</span> was also banished by Puritan authorities because of her belief in antinomianism, the belief that the deeds one executed is less religiously important than the personal faith one has. She founded the colony of Portsmouth, which joined with Williams' former colony of Providence to form Rhode Island.</p>
+
+<h3 style="text-align: left;">North Carolina</h3>
+<p style="text-align: left;">North Carolina's land held multiple smaller tobacco farms, but not many large crop plantations because of its lack of easy access to harbors.</p>
+
+<h3 style="text-align: left;">South Carolina</h3>
+<p style="text-align: left;">Created mainly as a supplier of food that was home to many rice-growing plantations that operated under slavery.</p>
+
+<h3 style="text-align: left;">New York</h3>
+<p style="text-align: left;">The Duke of York, who would in the future become James II, took lands between New Hampshire and Virginia by force from the former Dutch colonists. With his powerful naval force, the Duke of York took the land easily and ordered his men to treat the former Dutch colonists well. At first closed-minded to assembly for the colony, he raised taxes which angered the colonists under the basis of taxation without representation. Noticing how his decisions angered the colonists, he eventually allowed them a representative assembly in 1683.</p>
+
+<h3 style="text-align: left;">New Jersey</h3>
+<p style="text-align: left;">Two colonies of East and West New Jersey were formed by proprietary charters under friends of the Duke of York, although the merged to make New Jersey in 1702 as to avoid the previous confusion of land and property lines. The colony allowed religious freedom as well as an assembly.</p>
+
+<h3 style="text-align: left;">Pennsylvania</h3>
+<p style="text-align: left;">In 1681, William Penn was the granted the land of Pennsylvania by the King as a way of repaying his dead father for his services to his country. Penn was a <span style="color: #007fff;">Quaker</span>, so he wanted to make his new colony a haven for other persecuted Quakers and people of other religious denominations.  Quakers, or the Society of Friends, were a religious group that believed one's own conscience is the most important element in determining one's own salvation. He wanted to grant the colony a representative assembly and religious freedom, and use his colony as an experiment for other liberal governmental theories, thus came the term: "<span style="color: #007fff;">Penn's Holy Experiment</span>".</p>
+
+<h3 style="text-align: left;">Delaware</h3>
+<p style="text-align: left;">Delaware was created in 1702 from a southern portion of land that was at first Pennsylvania.</p>
+
+<h3 style="text-align: left;">Georgia</h3>
+<p style="text-align: left;">Georgia was created with the purpose of taking prisoners from England to fill the colony to make it serve as a buffer zone for the other colonies. Formed as a royal colony in 1732, making it the last colony to be formed, Georgia restricted the consumption of alcohol as well as the use of slavery. Such bans were lifted in 1752, and Georgia started to have more plantations grown on the its land.</p>

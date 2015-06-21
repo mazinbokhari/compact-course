@@ -1,0 +1,43 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Centripetal Acceleration</span></h2>
+When we dealt with acceleration before, it was when something is speeding up or slowing down. In this chapter, we will deal with another form of acceration, <span style="color: #007fff;">centripetal acceleration</span>.
+
+<span style="text-decoration: underline; color: #007fff;">Centripetal Acceleration:</span> Acceleration caused by changing direction around a curved path
+<ul>
+	<li><span style="line-height: 13px;">Unit =&gt; Meters per Second Squared <img alt="\left (\frac{m}{s^{2}} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(\frac{m}{s^{2}}&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; a<sub>c</sub></span></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Centripetal Force:</span> Force directed towards the center of a curved path that causes the centripetal acceleration
+<ul>
+	<li>Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; F<sub>c</sub></li>
+	<li>The centripetal force vector points in the same direction as the direction of the centripetal accleration vector (towards the center of the curved path)</li>
+	<li>The velocity vector is tangent to the curved path</li>
+</ul>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/circle.png"><img class="alignnone size-full wp-image-2806" alt="circle" src="http://compactcourse.com/wp-content/uploads/2013/06/circle.png" width="356" height="293" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Newton's Second Law with Centipetal Acceleration</span></h2>
+Recall from previous chapters that Newton's Second Law states that <img alt="\sum F=ma" src="http://latex.codecogs.com/gif.latex?\sum&amp;space;F=ma" align="absMiddle" />. This law also works for centripetal acceleration which leads us to
+<p style="text-align: center;"><img alt="{\color{Blue} \sum F_{c}=ma_{c}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F_{c}=ma_{c}}" align="absMiddle" /></p>
+<p style="text-align: left;">Before our acceleration was derived from the equation <img alt="a[t]=\frac{v}{t}" src="http://latex.codecogs.com/gif.latex?a[t]=\frac{v}{t}" align="absMiddle" />. For this chapter though, our centripetal acceleration is now obtained from the equation</p>
+<p style="text-align: center;"><img alt="{\color{Blue} a_{c}=\frac{v^{2}}{r}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a_{c}=\frac{v^{2}}{r}}" align="absMiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity of the object and r is the radius of the curved path</span></p>
+<p style="text-align: left;">Plugging this into Newton's Second Law, we are left with</p>
+<p style="text-align: left;"><img class="aligncenter" alt="{\color{Blue} \sum F_{c}=\frac{mv^{2}}{r}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F_{c}=\frac{mv^{2}}{r}}" align="absMiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass, v is the velocity of the object and r is the radius of the curved path</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Torque</span></h2>
+<span style="color: #007fff; text-decoration: underline;">Fulcrum:</span> Point of the axis of rotation (on a seesaw the fulcrum is at the center)
+
+<span style="color: #007fff; text-decoration: underline;">Torque:</span><span style="color: #000000;"> Vector quantity that is the product of the distance from the fulcrum and the component of the force perpendicular to the distance</span>
+<ul>
+	<li>Unit =&gt; <img alt="\left (kg\cdot m^{2}/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m^{2}/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; Τ</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \tau =Fdsin\Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\tau&amp;space;=Fdsin\Theta&amp;space;}" align="absMiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where θ is the angle between the distance d and the force F</span></p>
+
+<ul>
+	<li>When a system is in equilibrium, the sum of the torques is equal to 0, just as when a system is in equilibrium when the sum of the forces is equal to 0</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \sum \tau =0}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;\tau&amp;space;=0}" align="absMiddle" /> when a system is in equilibrium</p>
+<p style="text-align: left;">ex.) When one block weighing 10kg is 1 meter from the fulcrum and another block weighing 1kg is 10 meters from the fulcrum, the net torque is 0 as seen below.</p>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/seesaw.png"><img class="size-full wp-image-2808 aligncenter" alt="seesaw" src="http://compactcourse.com/wp-content/uploads/2013/06/seesaw.png" width="484" height="240" /></a></p>
+<p style="text-align: center;">(10 kg)(9.8 m/s^2)(1 m) = (1 kg)(9.8 m/s^2)(10 m)</p>
+<p style="text-align: center;">98 Nm = 98 Nm</p>

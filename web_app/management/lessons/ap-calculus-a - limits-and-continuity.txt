@@ -1,0 +1,102 @@
+&nbsp;
+<h2 style="text-align: center;">Limits</h2>
+<span style="text-decoration: underline; color: #007fff;">Limit:</span> The value a function approaches or equals as its x-value gets arbitrarily close to a point
+<ul>
+	<li><span style="line-height: 14px;">We write the limit as </span></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} \lim_{x\rightarrow a}f(x)=L}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a}f(x)=L}" align="absmiddle" />
+<ul>
+	<li>The limit from the right side of a value is seen with a + above the value</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} \lim_{x\rightarrow a^{+}}f(x)=L}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a^{+}}f(x)=L}" align="absmiddle" />
+<ul>
+	<li>The limit from the left side of a value is seen with a - above the value</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} \lim_{x\rightarrow a^{-}}f(x)=L}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a^{-}}f(x)=L}" align="absmiddle" />
+
+For a limit to exist, the limit from the limit from the right has to equal the limit from the left
+<p style="text-align: center;"><img alt="{\color{Blue} \lim_{x\rightarrow a^{+}}f(x)=\lim_{x\rightarrow a^{-}}f(x)=L}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a^{+}}f(x)=\lim_{x\rightarrow&amp;space;a^{-}}f(x)=L}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Limit Properties</h3>
+There are many properties for limits that makes working with them much simpler. These properties are seen below
+<table border="0" align="center">
+<tbody>
+<tr>
+<td>Property</td>
+<td>Example</td>
+</tr>
+<tr>
+<td> <img style="line-height: 22px;" alt="{\color{Blue} \lim kf(x)=k\lim f(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim&amp;space;kf(x)=k\lim&amp;space;f(x)}" align="absmiddle" /></td>
+<td> <img alt="{\color{Red} \lim 5\left ( 4x^{5} \right )=4\lim \left ( 4x^{5} \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim&amp;space;5\left&amp;space;(&amp;space;4x^{5}&amp;space;\right&amp;space;)=4\lim&amp;space;\left&amp;space;(&amp;space;4x^{5}&amp;space;\right&amp;space;)}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td> <img alt="{\color{Blue} \lim [f(x)\pm g(x)]=\lim f(x)\pm \lim g(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim&amp;space;[f(x)\pm&amp;space;g(x)]=\lim&amp;space;f(x)\pm&amp;space;\lim&amp;space;g(x)}" align="absmiddle" /></td>
+<td> <img alt="{\color{Red} \lim [\left ( 3x^{2} \right )\pm \left ( 11x^{3/2} \right )]=\lim \left ( 3x^{2} \right )\pm \lim \left ( 11x^{3/2} \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim&amp;space;[\left&amp;space;(&amp;space;3x^{2}&amp;space;\right&amp;space;)\pm&amp;space;\left&amp;space;(&amp;space;11x^{3/2}&amp;space;\right&amp;space;)]=\lim&amp;space;\left&amp;space;(&amp;space;3x^{2}&amp;space;\right&amp;space;)\pm&amp;space;\lim&amp;space;\left&amp;space;(&amp;space;11x^{3/2}&amp;space;\right&amp;space;)}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td> <img style="line-height: 22px;" alt="{\color{Blue} \lim \left ( f(x)g(x)\right )=\lim \left ( f(x)\right )\lim \left ( g(x)\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim&amp;space;\left&amp;space;(&amp;space;f(x)g(x)\right&amp;space;)=\lim&amp;space;\left&amp;space;(&amp;space;f(x)\right&amp;space;)\lim&amp;space;\left&amp;space;(&amp;space;g(x)\right&amp;space;)}" align="absmiddle" /></td>
+<td> <img alt="{\color{Red} \lim \left ( \left ( 3x^{2} \right ) \left ( 11x^{3/2} \right )\right )=\lim \left ( 3x^{2}\right )\lim \left ( 11x^{3/2}\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim&amp;space;\left&amp;space;(&amp;space;\left&amp;space;(&amp;space;3x^{2}&amp;space;\right&amp;space;)&amp;space;\left&amp;space;(&amp;space;11x^{3/2}&amp;space;\right&amp;space;)\right&amp;space;)=\lim&amp;space;\left&amp;space;(&amp;space;3x^{2}\right&amp;space;)\lim&amp;space;\left&amp;space;(&amp;space;11x^{3/2}\right&amp;space;)}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td> <img style="line-height: 22px;" alt="{\color{Blue} \lim \left [ \frac{f(x)}{g(x)} \right ]=\frac{\lim f(x)}{\lim g(x)}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim&amp;space;\left&amp;space;[&amp;space;\frac{f(x)}{g(x)}&amp;space;\right&amp;space;]=\frac{\lim&amp;space;f(x)}{\lim&amp;space;g(x)}}" align="absmiddle" /></td>
+<td> <img alt="{\color{Red} \lim \left [ \frac{3x^{2}}{11x^{3/2}} \right ]=\frac{\lim 3x^{2}}{\lim 11x^{3/2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim&amp;space;\left&amp;space;[&amp;space;\frac{3x^{2}}{11x^{3/2}}&amp;space;\right&amp;space;]=\frac{\lim&amp;space;3x^{2}}{\lim&amp;space;11x^{3/2}}}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td> <img style="line-height: 22px;" alt="{\color{Blue} \lim_{x\rightarrow a}k=k}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a}k=k}" align="absmiddle" /></td>
+<td> <img alt="{\color{Red} \lim_{x\rightarrow 2}5=5}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim_{x\rightarrow&amp;space;2}5=5}" align="absmiddle" /><img alt="{\color{Red} \lim_{x\rightarrow 2}5=5}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim_{x\rightarrow&amp;space;2}5=5}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td> <img style="line-height: 22px;" alt="{\color{Blue} \lim_{\Theta \rightarrow 0}\frac{\sin \Theta }{\Theta }=1}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{\Theta&amp;space;\rightarrow&amp;space;0}\frac{\sin&amp;space;\Theta&amp;space;}{\Theta&amp;space;}=1}" align="absmiddle" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: center;">Asymptotes</h3>
+<ul>
+	<li>The line <img alt="y = b" src="http://latex.codecogs.com/gif.latex?y&amp;space;=&amp;space;b" align="absmiddle" /> on the graph of <img alt="y = f(x)" src="http://latex.codecogs.com/gif.latex?y&amp;space;=&amp;space;f(x)" align="absmiddle" /> is a <span style="color: #007fff;">horizontal asymptote</span> when</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \lim_{x\rightarrow \infty }f(x)=b}\, \, \, or \, \, \, {\color{Blue} \lim_{x\rightarrow -\infty }f(x)=b}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;\infty&amp;space;}f(x)=b}\,&amp;space;\,&amp;space;\,&amp;space;or&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;-\infty&amp;space;}f(x)=b}" align="absmiddle" /></p>
+
+<ul>
+	<li><span style="line-height: 14px;">The line <img alt="x = a" src="http://latex.codecogs.com/gif.latex?x&amp;space;=&amp;space;a" align="absmiddle" /> on the graph of <img alt="y = f(x)" src="http://latex.codecogs.com/gif.latex?y&amp;space;=&amp;space;f(x)" align="absmiddle" /> is a <span style="color: #007fff;">vertical asymptote</span> when</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \lim_{x\rightarrow a^{-}}f(x)=\pm \infty}\, \, \, or\, \, \, {\color{Blue} \lim_{x\rightarrow a^{+}}f(x)=\pm \infty}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a^{-}}f(x)=\pm&amp;space;\infty}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\lim_{x\rightarrow&amp;space;a^{+}}f(x)=\pm&amp;space;\infty}" align="absmiddle" /></p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/asymptotes.png"><img class="alignnone size-full wp-image-5598" alt="asymptotes" src="http://www.compactcourse.com/wp-content/uploads/2013/08/asymptotes.png" width="404" height="330" /></a></p>
+
+<h3 style="text-align: center;">Finding the Limit of a Quotient of Polynomials</h3>
+If we want to find <img alt="\lim_{x \rightarrow \infty }\frac{P(x)}{Q(x)}" src="http://latex.codecogs.com/gif.latex?\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{P(x)}{Q(x)}" align="absmiddle" /> if <img alt="P(x)" src="http://latex.codecogs.com/gif.latex?P(x)" align="absmiddle" /> and <img alt="Q(x)" src="http://latex.codecogs.com/gif.latex?Q(x)" align="absmiddle" /> are polynomials, we just need to divide the highest power of <img alt="P(x)" src="http://latex.codecogs.com/gif.latex?P(x)" align="absmiddle" /> by the highest power of <img alt="Q(x)" src="http://latex.codecogs.com/gif.latex?Q(x)" align="absmiddle" />.
+<ul>
+	<li><span style="line-height: 14px;"><span style="line-height: 14px;">If the highest powers of
+<img alt="P(x)" src="http://latex.codecogs.com/gif.latex?P(x)" align="absmiddle" /> and <img alt="Q(x)" src="http://latex.codecogs.com/gif.latex?Q(x)" align="absmiddle" /> are equal, </span></span><img style="line-height: 22px;" alt="\lim_{x \rightarrow \infty }\frac{P(x)}{Q(x)}=\frac{a_{n}}{b_{n}}" src="http://latex.codecogs.com/gif.latex?\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{P(x)}{Q(x)}=\frac{a_{n}}{b_{n}}" align="absmiddle" /> where <img alt="a_{n}" src="http://latex.codecogs.com/gif.latex?a_{n}" align="absmiddle" /> and <img alt="b_{n}" src="http://latex.codecogs.com/gif.latex?b_{n}" align="absmiddle" /> are the coefficients of the highest powers and the line <img style="line-height: 22px;" alt="y=\frac{a_{n}}{b_{n}}" src="http://latex.codecogs.com/gif.latex?y=\frac{a_{n}}{b_{n}}" align="absmiddle" /><span style="line-height: 22px;"> is a horizontal asymptote on the graph of </span><img style="line-height: 22px;" alt="y=\frac{P(x)}{Q(x)}" src="http://latex.codecogs.com/gif.latex?y=\frac{P(x)}{Q(x)}" align="absmiddle" />
+<ul>
+	<li>ex.) <img alt="{\color{Red} \lim_{x \rightarrow \infty }\frac{4x^{3}}{9x^{3}}=\frac{4}{9}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{4x^{3}}{9x^{3}}=\frac{4}{9}}" align="absmiddle" /></li>
+</ul>
+</li>
+	<li>If <img alt="P(x)" src="http://latex.codecogs.com/gif.latex?P(x)" align="absmiddle" /> has a higher power than <img alt="Q(x)" src="http://latex.codecogs.com/gif.latex?Q(x)" align="absmiddle" />, <img alt="\lim_{x \rightarrow \infty }\frac{P(x)}{Q(x)}=+\infty\, \, or\, \, -\infty" src="http://latex.codecogs.com/gif.latex?\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{P(x)}{Q(x)}=+\infty\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;-\infty" align="absmiddle" /> and there are no asymptotes on the graph of <img alt="y=\frac{P(x)}{Q(x)}" src="http://latex.codecogs.com/gif.latex?y=\frac{P(x)}{Q(x)}" align="absmiddle" />
+<ul>
+	<li>ex.) <img alt="{\color{Red} \lim_{x \rightarrow \infty }\frac{4x^{4}}{9x^{3}}=\infty}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{4x^{4}}{9x^{3}}=\infty}" align="absmiddle" /></li>
+</ul>
+</li>
+	<li> If <img alt="P(x)" src="http://latex.codecogs.com/gif.latex?P(x)" align="absmiddle" /> has a lower power than <img alt="Q(x)" src="http://latex.codecogs.com/gif.latex?Q(x)" align="absmiddle" />, <img alt="\lim_{x \rightarrow \infty }\frac{P(x)}{Q(x)}=0" src="http://latex.codecogs.com/gif.latex?\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{P(x)}{Q(x)}=0" align="absmiddle" /> and the line <img alt="y=0" src="http://latex.codecogs.com/gif.latex?y=0" align="absmiddle" /> is a horizontal asymptote on the graph of <img alt="y=\frac{P(x)}{Q(x)}" src="http://latex.codecogs.com/gif.latex?y=\frac{P(x)}{Q(x)}" align="absmiddle" />
+<ul>
+	<li>ex.) <img alt="{\color{Red} \lim_{x \rightarrow \infty }\frac{4x^{3}}{9x^{4}}=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\lim_{x&amp;space;\rightarrow&amp;space;\infty&amp;space;}\frac{4x^{3}}{9x^{4}}=0}" align="absmiddle" /></li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;">Continuity</h2>
+<ul>
+	<li>A function <img alt="y=f(x)" src="http://latex.codecogs.com/gif.latex?y=f(x)" align="absmiddle" /> is continuous at <img alt="x=a" src="http://latex.codecogs.com/gif.latex?x=a" align="absmiddle" /> if <img alt="\lim_{x\rightarrow a}f(x)=f(a)" src="http://latex.codecogs.com/gif.latex?\lim_{x\rightarrow&amp;space;a}f(x)=f(a)" align="absmiddle" /></li>
+	<li>A function is continuous over the closed interval <img alt="[a,b]" src="http://latex.codecogs.com/gif.latex?[a,b]" align="absmiddle" /> if it is continuous at every point between this interval</li>
+	<li>If <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> is continuous at <img alt="x=a" src="http://latex.codecogs.com/gif.latex?x=a" align="absmiddle" />, then
+<ul>
+	<li><img alt="\lim_{x\rightarrow a}f(x)=f(a)" src="http://latex.codecogs.com/gif.latex?\lim_{x\rightarrow&amp;space;a}f(x)=f(a)" align="absmiddle" /></li>
+	<li><img alt="\lim_{x\rightarrow a^{-}}f(x)=f(a)" src="http://latex.codecogs.com/gif.latex?\lim_{x\rightarrow&amp;space;a^{-}}f(x)=f(a)" align="absmiddle" /></li>
+	<li><img alt="\lim_{x\rightarrow a^{+}}f(x)=f(a)" src="http://latex.codecogs.com/gif.latex?\lim_{x\rightarrow&amp;space;a^{+}}f(x)=f(a)" align="absmiddle" /></li>
+</ul>
+</li>
+</ul>
+<h3 style="text-align: center;">Kinds of Discontinuities</h3>
+<span style="text-decoration: underline; color: #007fff;">Point Discontinuity:</span> Occurs when the limit exits, but the point is defined at another value other than at the limit
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/point.png"><img class="alignnone size-full wp-image-5601" alt="point" src="http://www.compactcourse.com/wp-content/uploads/2013/08/point.png" width="320" height="317" /></a></p>
+<span style="text-decoration: underline; color: #007fff;">Jump Discontinuity:</span> Occurs when the right-hand and left-hand limits exist, but are different
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/jump.png"><img class="alignnone size-full wp-image-5600" alt="jump" src="http://www.compactcourse.com/wp-content/uploads/2013/08/jump.png" width="308" height="318" /></a></p>

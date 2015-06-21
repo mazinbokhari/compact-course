@@ -1,0 +1,54 @@
+<h2 style="text-align: center;">Financing Elections</h2>
+The following applies both to presidential and congressional elections.
+
+As you know, interest groups form PACs in order to help finance candidates' campaigns. However, there are many more ways candidates receive contributions for their elections. The individual and organizational contributions toward campaigns is in the hundreds of millions. In fact, a bill was passed in order to put limits on individual contributions to presidential candidates.
+<h3>The Federal Election Reform Act</h3>
+This bill put limits on individual contributions to presidential candidates, but in return offers public funding to candidates for both the primaries and general elections.
+<h4>Self Contributions</h4>
+In the case <span style="color: #007fff;">Buckley v. Valeo</span>, the Supreme Court ruled that while limits should still exist for individual contributions to presidential candidates, the contributions that the candidates themselves make cannot be refined, as that is considered as a form of protected speech.
+<h3>527 Organizations</h3>
+527s are tax-exempt organizations that can engage in activities such as running advertisements or mobilizing citizens to vote.
+<h3>Hard Money</h3>
+Political contributions that are fully disclosed are referred to as hard money. Hard money are limited in amounts.
+<h3>Soft Money</h3>
+Soft money are undisclosed funds raised in unlimited amounts for the purposes of party building (such as advertising for the Democratic of Republican Party).
+<h4>Ban on Soft Money</h4>
+Soft money contributions were banned by the <span style="color: #007fff;">Bipartisan Campaign Reform Act</span>.
+<h2 style="text-align: center;">Presidential Elections</h2>
+<h3>Primaries and Caucuses</h3>
+Primary elections and caucuses determine the candidates for the major political parties. Most states hold primaries, but a few hold caucuses, which require voters to attend open meetings of party members in order to designate their choice of candidates. There are two types of primaries:
+<ul>
+	<li><span style="line-height: 14px;">An open primary allows anyone to vote in its election, even members of another party</span></li>
+	<li>A closed primary requires voters to be registered voters of that party</li>
+</ul>
+There are also two ways a candidate can get electors:
+<ul>
+	<li><span style="line-height: 14px;">Winner-take-all - if a candidate wins the popular vote in the state, he will receive all of that state's electors</span></li>
+	<li>Proportional - candidates receive a state's electors based on the proportion of votes they acquire. If a candidate gets 25% of a state's votes, he'll receive one-fourth of that state's electors</li>
+</ul>
+The first primary and caucus are held in New Hampshire and Iowa, respectively. Many people criticize this tradition because the two states receive too much attention for being first. This has resulted in other states pushing forward the dates of their primary elections, known as front-loading. A very small percentage of citizens actually vote in primaries and caucuses, which is why the systems are criticized for being unrepresentative of the people.
+<h4>National Party Conventions</h4>
+These used to be the actual places where presidential candidates were nominated; however, due to the rise of primaries and caucuses, they are just formalities. The candidates usually even know if they were nominated or not before the conventions.
+<h3>General Election</h3>
+Most American citizens only bother to cast their ballots in the general election. Originally, state legislatures chose their own state's electors. Today, each state's electors are chosen by the political party that gets the most votes in each state. By voting for Barrack Obama in Illinois, one is technically voting for the Democratic Party to have the ability to select all 20 electors in the state of Illinois. It goes without saying that the electoral college system is winner-take-all in each state. A state's electoral votes will only be given to the candidate who receives the most votes in that state. Because of this, it is very difficult for third party candidates to win the general election. As aforementioned, a third party candidate could hypothetically receive 20% of votes in every state and still receive zero electoral votes. Another result of the winner-take all system is that candidates will spend much more time in swing states, where the votes could go either way, instead of in states where the candidate is a sure winner or loser.
+<h4>Reforming the Electoral College</h4>
+Many people dislike the electoral college because, mathematically, a candidate could win the general election without winning the popular vote. However, it is difficult to reform the electoral college for the following reasons:
+<ul>
+	<li><span style="line-height: 14px;">It benefits several powerful interest groups</span></li>
+	<li>It requires an amendment to be reformed</li>
+	<li>It gives small states with smaller populations a disproportional influence, so it will be hard to garner their support in any reform</li>
+</ul>
+<h2 style="text-align: center;">Congressional Elections</h2>
+There is one main idea of congressional elections that you must take away: incumbents almost always win, especially in the House of Representatives. There are several reasons for such the big advantage for incumbents:
+<h3>Reputation</h3>
+Since incumbents are office holders during their time of reelection, they're inherently more well known than their challengers are.
+<h3>Privileges</h3>
+Incumbents have three special privileges that contribute to their advantage over incumbents.
+<h4>Franking</h4>
+Incumbents are allowed to send mail to their constituents free of charge.
+<h4>Pork-Barrel</h4>
+Incumbents try to put pork-barrel in legislation, which brings projects to their districts (and thus jobs their constituents), primarily in the hopes of gaining their constituents' support.
+<h4>Casework</h4>
+Incumbents sometimes help individual citizens out by "cutting through bureaucratic red tape" to help solve their problems. This gives incumbents a good image, helping gain the support of people they don't even directly help.
+<h3>Campaign Financing</h3>
+Incumbents receive more contributions (especially from interest groups) to their campaigns than do their challengers.

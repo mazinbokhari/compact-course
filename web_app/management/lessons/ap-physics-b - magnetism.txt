@@ -1,0 +1,99 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Magnetic Fields</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Magnetic Field (B-Field):</span> Field that is caused from moving charges
+<ul>
+	<li>Unit =&gt; tesla (T); Symbol =&gt; B</li>
+	<li>When the field is directed into the page, the schematic for this is an x (think of an arrows' fins when looking from behind)</li>
+	<li>When the field is directed out of the page, the schematic for this is a dot (think of an arrow's tip when looking from the front)</li>
+</ul>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/magnetism-schematics.png"><img class="alignnone size-full wp-image-3732" style="margin: 5px auto; display: block; text-align: center;" alt="magnetism schematics" src="http://compactcourse.com/wp-content/uploads/2013/06/magnetism-schematics.png" width="390" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Moving Charges</span></h2>
+<h3 style="text-align: center;"><span style="color: #007fff;">Magnetic Force on a Moving Charge</span></h3>
+<span style="text-decoration: underline; color: #007fff;">Magnetic Force on a Moving Charge:</span> Force felt on a moving charge when it comes into contact with a magnetic field
+<ul>
+	<li>Unit =&gt; (N) Symbol =&gt; F<sub>B</sub></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} F_{B}=qvb\sin \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{B}=qvb\sin&amp;space;\Theta&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity of the particle, q is the magnitude of the charge, Θ is the angle between v and B, and B is the magnitude of the B-Field</span></p>
+
+<ul>
+	<li>The direction of the force is found using the right hand rule, which is seen below</li>
+</ul>
+<h3 style="text-align: center;"><span style="color: #007fff;">Right-Hand Rule for Moving Charges</span></h3>
+To find the direction of the magnetic force,
+<ul>
+	<li>Stick your right thumb in the direction of the velocity of the charge</li>
+	<li>Stick your other fingers in the direction of the magnetic force</li>
+	<li>And the direction of the force is the direction your palm points</li>
+</ul>
+NOTE: This is only when the charges are POSITIVE, so when the charge is negative, use your left hand instead and use the same concept
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/RHR-force-on-moving-charges-.png"><img style="margin: 5px auto; display: block; text-align: center;" alt="RHR force on moving charges" src="http://compactcourse.com/wp-content/uploads/2013/06/RHR-force-on-moving-charges-.png" width="378" /></a>
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Current-Carrying Wires</span></span></h2>
+<h3 style="text-align: center;"><span style="color: #007fff;">Magnetic Field From a Current-Carrying Wire</span></h3>
+Since current-carrying wires contain moving charges, they create a magnetic fields around them.
+<ul>
+	<li>The magnetic field lines are concentric circles about the center of the wire</li>
+	<li>The magnitude of this field can be found from the equation below</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} B=\frac{\mu_{o}I}{2\pi r}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;B=\frac{\mu_{o}I}{2\pi&amp;space;r}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where μ<sub>o</sub> is a permability of free space constant, I is the amount of current in the wire, and r is the distance from the wire</span></p>
+<p style="text-align: center;">μ<sub>0</sub> = 4∏ x 10<sup>-7</sup> Tm/A<sup>2</sup></p>
+
+<h3 style="text-align: center;"><span style="color: #007fff;">Magnetic Force on a Current-Carrying Wire</span></h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Magnetic Force on a Current-Carrying Wire:</span></span> Since current-carrying wires contain moving charges (current) it also feels a force when it comes into contact with a magnetic field
+<ul>
+	<li>Unit =&gt; (N) Symbol =&gt; FB</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} F_{B}=BIL\sin \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{B}=BIL\sin&amp;space;\Theta&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where I is the amount of current, L is the length of the wire, Θ is the angle between L and B, and B is the magnitude of the B-Field</span></p>
+
+<ul>
+	<li>The direction of the magnetic force is found using the same right hand rule for moving charges, this time pointing your thumb in the direction of the current</li>
+	<li>The direction of the magnetic field is found using the right hand rule for current-carrying wires, which is seen below</li>
+</ul>
+<h3 style="text-align: center;"><span style="color: #007fff;">Right-Hand Rule for Current-Carrying Wires</span></h3>
+To find the direction of the magnetic field <span style="text-decoration: underline;">around a wire</span>,
+<ul>
+	<li>Stick your right thumb in the direction of the current</li>
+	<li>Curl your other fingers and your fingers point to the direction of the magnetic field</li>
+</ul>
+To find the direction of the current <span style="text-decoration: underline;">in a wire</span>,
+<ul>
+	<li>Curl your fingers to where they line up with the swirl of the magnetic field</li>
+	<li>Your thumb points in the direction of current flow</li>
+</ul>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/RHR-for-B-direction-in-wires.png"><img class="alignnone size-full wp-image-3735" alt="RHR for B direction in wires" src="http://compactcourse.com/wp-content/uploads/2013/06/RHR-for-B-direction-in-wires.png" width="271" height="341" /></a></p>
+To find the direction of the magnetic field <span style="text-decoration: underline;">from a loop of wire</span>,
+<ul>
+	<li>Curl your fingers in the direction of the current</li>
+	<li>Your thumb points to the direction of the magnetic field</li>
+</ul>
+To find the direction of the current <span style="text-decoration: underline;">in a loop of wire</span>,
+<ul>
+	<li>Stick your right thumb in the direction of the the magnetic field</li>
+	<li>Curl your other fingers and your fingers curl in the direction of the current flow</li>
+</ul>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/RHR-for-loops.png"><img class="alignnone size-full wp-image-3736" alt="RHR for loops" src="http://compactcourse.com/wp-content/uploads/2013/06/RHR-for-loops.png" width="222" height="376" /></a></p>
+
+<h3 style="text-align: center;"><span style="color: #007fff;">Same Direction Current Flows </span></h3>
+Take two wires next to each other that have the same directions for current flow...
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/Helping-wires.png"><img alt="Helping wires" src="http://compactcourse.com/wp-content/uploads/2013/06/Helping-wires.png" width="269" height="357" /></a></p>
+<p style="text-align: left;">As we can see, the B-Field</p>
+
+<ul>
+	<li><span style="line-height: 14px;">out of the page to the left of wire 1 is made greater from both wires adding same direction B-Fields</span></li>
+	<li>between the wires is made smaller from the wires as they subtract from each other</li>
+	<li>into the page to the right of wire 2 is made greater from both wires adding same direction B-Fields</li>
+</ul>
+<h3 style="text-align: center;"><span style="color: #007fff;">Opposite direction Current Flows</span></h3>
+Now take two wires next to each other that have the opposite directions for current flow...
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/Hurting-Wires.png"><img class="alignnone size-full wp-image-3740" alt="Hurting Wires" src="http://compactcourse.com/wp-content/uploads/2013/06/Hurting-Wires.png" width="270" height="357" /></a></p>
+As we can see, the B-Field
+<ul>
+	<li>out of the page to the left of wire 1 is made smaller from the wires as they subtract from each other</li>
+	<li>between the wires is made greater from both wires adding same direction B-Field</li>
+	<li>out of the page to the right of wire 2 is made smaller from the wires as they subtract from each other</li>
+</ul>

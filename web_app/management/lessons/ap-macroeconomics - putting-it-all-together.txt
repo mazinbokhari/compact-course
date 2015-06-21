@@ -1,0 +1,101 @@
+<h2>A Few More Things</h2>
+This section will just touch on some things that I felt weren't <em>extremely</em> important for the AP exam. It might be helpful to go back to relevant chapters if you're having trouble remembering some ideas.
+<h3>Bond Prices</h3>
+Bond prices are inversely related to interest rates. When interest rates go up, bond prices fall, and vice-versa. Don't worry about the explanation... but I'll add it on anyway. Let's say I bought a bond that gave me a 5% yield/interest rate. If the real interest rate goes up, new bonds will offer yields higher than 5%, maybe 7% or something. These new bonds are obviously more attractive to people because they give them larger payouts. Now, my 5% bond will still only give me a 5% yield. Which bond is someone going to want to buy, the 5% bond or the 7% bond? Clearly the 7% bond! This means that I'll have to lower the price of my 5% bond in order to get someone to want to buy it over the 7% bond. As you see, as the real interest rate increases, the prices of existing bonds decrease because they're less valuable.
+<h3>Stagflation</h3>
+The AP exam might refer to the term "stagflation." This is a phenomenon marked by the simultaneous increase of both inflation and unemployment (the economy is "stagnating" and suffering "inflation"). Stagflation occurs when short-run aggregate supply decreases (the AS curve shifts to the left). Try it out, and you'll see that real GDP will decrease, while price levels will increase. This is synonymous with the increase of both inflation and unemployment.
+<h3>Federal Funds Rate</h3>
+The federal funds rate is the interest rate that commercial banks charge for loans that they take out from each other. The Federal Reserve can target a federal funds rate through open market operations. The federal funds rate changes in the same way as real interest rates. When the Fed sells bonds to banks, banks <em>give</em> money to the Fed for the bonds. Thus, their excess reserves decrease, which increases the federal funds rates because loanable funds will be in limited supply. When the Fed buys bonds from banks, banks <em>get</em> money from the Fed for the bonds. Thus, their excess reserves increase, which increases the federal funds rates because there will be an abundance of loanable funds. The Fed doesn't use its other tools to target the federal funds rate; it only uses open market operations. When the federal funds rate is lower, loans are cheaper for banks to take out from other banks. This enables banks to lower the real interest rate that they charge normal people for loans as well. This, of course, has a chain effect that will ultimately end up in the increase in aggregate demand. On the other hand, when the federal funds rate is higher, real interest rates increase, which decreases aggregate demand.
+<h3>Equation of Exchange</h3>
+The equation of exchange is: $latex MV=QP&amp;fg=007fff$
+<p style="padding-left: 30px;">where M is the total amount of money in circulation in a country (the money supply), V is the velocity of money, P is the price level, and Q is real GDP.</p>
+Technically, real GDP times the price level equals nominal GDP, so the right side of the equation is just equivalent to the nominal GDP in a nation. You'll probably only really see this on a multiple choice question. A good example of a question might be:
+<p style="padding-left: 30px;">If the velocity of money is stable, an increase in the money supply will result in which of the following?</p>
+
+<ol style="list-style-type: lower-alpha;">
+<ol>
+	<li>a decrease in the inflation rate</li>
+	<li>a decrease in the unemployment rate</li>
+	<li>a decrease in real GDP</li>
+	<li>an increase in government spending</li>
+	<li>an increase in nominal output</li>
+</ol>
+</ol>
+Well, if V is constant, and M increases, then the quantity QP must increase as well. QP = nominal GDP, so (e) is the correct answer.
+<h3>Circular Flow</h3>
+<img class="alignright" alt="Circular Flow Model" src="http://www.compactcourse.com/images/Circular Flow.png" width="300" height="188" />The circular flow model just describes how money "flows" through the economy. Businesses, or firms, provide households (consumers) with goods and services in return for their money. Households provide businesses with factors of production, such as land and labor. In return, businesses compensate households with wages, rent, etc.
+<h4>Leakages/Injections</h4>
+Money can be injected into the circular flow of the economy, or it can be leaked from it. Things like government transfer payments, export revenues, and increases in loans are examples of injections into the circular flow of a nation's economy because they help create more production and spending. Things like imports, personal income taxes, and increased savings of money in banks are examples of leakages from the circular flow because they reduce production and spending.
+<h3>Debt</h3>
+Some people get confused between the debt and the deficit. Every year, the federal government has a budget, which determines the government's projected revenues and expenses. When the government spends more money than it receives in a year, then the government is facing a budget deficit. When the government spends less money than it receives in a year, the government has a surplus. The national debt is the accumulation of past and current budget deficits and surpluses. So while deficits and surpluses are annual figures, the debt is the total difference between expenses and revenues in the United States' history.
+<h3>National Bank</h3>
+The College Board won't always use the United States in its questions. In case you didn't know, the Federal Reserve is America's national bank. Other countries' national banks operate in the same way that the Fed does.
+<h3>Hyperinflation</h3>
+Hyperinflation is just really high and out of control inflation. It most often takes place as a result of continuous expansion of the money supply in order to finance budget deficits.
+<h2>Example 1</h2>
+The rest of this chapter will just be examples that will incorporate ideas from many different chapters.
+<ol>
+	<li>Assume that France's economy is currently in a recession.
+<ol>
+	<li>Draw a correctly labeled graph of aggregate supply, aggregate demand, and long-run aggregate supply.</li>
+	<li>Draw a correctly labeled graph of the short-run and long-run Phillips curves.</li>
+	<li>Identify a supply-side fiscal policy that the federal government should implement.
+<ol>
+	<li>Show the effect of this policy on the the graphs drawn in part (a) and part (b)</li>
+</ol>
+</li>
+	<li>Suppose that instead of a fiscal policy, the government implements a monetary policy to solve the recession.
+<ol>
+	<li>Which open market policy should the Federal Reserve pursue?</li>
+	<li>Using a correctly labeled graph of the market for loanable funds, show how the policy in part (d)(i) affects real interest rates.</li>
+	<li>Show the effect of the monetary policy chosen on the graphs drawn in part (a) and part (b)</li>
+</ol>
+</li>
+	<li>How could the monetary policy chosen in part (d) effect the growth rate of France's economy?
+<ol>
+	<li>Show this effect on the graphs drawn in part (a) and part (b)</li>
+</ol>
+</li>
+	<li>Now suppose that the government chose to take neither a fiscal policy nor a monetary policy in response to the recession.
+<ol>
+	<li>What will happen to short-run aggregate supply in the long-run? Explain.</li>
+	<li>What will happen to the price level as a result of this?</li>
+</ol>
+</li>
+	<li>Assume that the United States openly trades with France.
+<ol>
+	<li>Using a correctly labeled graph of the foreign exchange market for the euro (France's currency), show how the change in price levels in part (f) affects the exchange rate of the U.S. dollar and the euro.</li>
+	<li>If the United States' current account balance with France was initially zero, how will the price level change in part (f) affect the American current account in the short-run?</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+Let me preface the answer by saying that you'll in all likelihood never see a problem as long as this one. Also, I will give more in-depth explanation than needed to score points on the AP exam. The text in blue is just to help your comprehension of the answer; you wouldn't have to write it on the AP exam to score full points.
+
+(a)<img class="alignright" alt="Recession LRPC" src="http://www.compactcourse.com/images/LRPC.png" width="299" height="276" /><img class="alignright" alt="Recession AD-AS" src="http://www.compactcourse.com/images/LRAS.png" width="300" height="275" /> <span style="color: #007fff;">An economy in a recession is producing less than it would at full employment, so the equilibrium point should be to the left of the long-run aggregate supply curve.</span>
+
+(b) <span style="color: #007fff;">If an economy is producing less than it would at full employment, than it actually has less <em>than</em> full employment. Thus, the unemployment rate should be higher than NAIRU, the natural rate of unemployment (once again, this is just full employment).</span>
+
+(c) <span style="color: #007fff;">In order to get the economy back to full employment, we'd have to increase aggregate supply.</span> If the government increased subsidies for businesses, the per unit cost of production would decrease, and thus aggregate supply would increase, shifting the AS curve to the right and getting the economy back to full employment.
+<p style="padding-left: 30px;"><img class="alignright" alt="Along PC Left" src="http://www.compactcourse.com/images/PC Shifts Left.png" width="299" height="276" /><img class="alignright" alt="AS Shift Right" src="http://www.compactcourse.com/images/AS Shift Right.png" width="315" height="275" />(i) <span style="color: #007fff;">Increasing aggregate supply shifts the AS curve to the right, which increases real GDP and lowers the price level. This is synonymous with lowering both unemployment and inflation. The only way this can be achieved on the Phillips curve graph is by shifting the PC to the left. Now, both graphs show that France's economy is at full employment.</span></p>
+&nbsp;
+
+&nbsp;
+
+<img class="alignright" alt="SLF Right" src="http://www.compactcourse.com/images/LF Market SLF Right.png" width="299" height="278" />(d)(i) France's national bank should buy bonds. <span style="color: #007fff;">If France's national bank buys bonds, it will <em>give</em> money to commercial banks. This will increase the money supply and the supply of loanable funds, which, as you'll see below, will reduce real interest rates. The reduction in real interest rates will increase business investment due to greater profitability on loans. The increase in business investment will then increase aggregate demand, bringing France's economy back to full employment.</span>
+<p style="padding-left: 30px;">(ii) <span style="color: #007fff;">No explanation is needed. The logic behind this step is explained above.</span> The real interest rate would fall.</p>
+<p style="padding-left: 30px;">.</p>
+<p style="padding-left: 30px;">.</p>
+<p style="padding-left: 30px;">.</p>
+<p style="padding-left: 30px;"><img class="alignright" alt="Along PC Left" src="http://www.compactcourse.com/images/Along PC Left.png" width="299" height="276" /><img class="alignright" alt="AD Shift Right" src="http://www.compactcourse.com/images/AD Shift Right.png" width="327" height="275" />(iii) <span style="color: #007fff;">As said before, the reduction in real interest rates would increase business investment, which would increase aggregate demand, shifting the AD curve to the right. This would results in higher output and price levels, which would mean higher inflation and lower unemployment. This is illustrated on the Phillips curve graph by moving along the curve to the left.</span></p>
+&nbsp;
+
+<img class="alignright" alt="LRPC Shifts Left" src="http://www.compactcourse.com/images/LRPC Shifts Left1.png" width="300" height="277" /><img class="alignright" alt="LRAS Shifts Right" src="http://www.compactcourse.com/images/LRAS Shifts Right.png" width="300" height="252" />(e) <span style="color: #007fff;">Remember that business investment is always in factors of production.</span> The increase in business investment due to interest rate changes will increase factors of production, which will stimulate long-run economic growth.
+<p style="padding-left: 30px;">(i) <span style="color: #007fff;">Long-run economic growth is synonymous with the increase in long-run aggregate supply, so the LRAS curve will shift to the right. Likewise, the natural rate of unemployment will decrease as a result of this, so the LRPC will shift to the left.</span></p>
+(f)(i) In a recession, price levels are normally lower, which means that workers with fixed wages have high real wages. Therefore, it is acceptable for businesses to lower the nominal wages of workers in the long-run to get their real wages back to their original level. This decrease in nominal wages will lower businesses' expenses, and thus decrease the per unit cost of production. This will increase aggregate supply, which will bring the economy back to full employment.
+<p style="padding-left: 30px;">(ii) An increase in aggregate supply, illustrated by shifting the AS curve to the right, would decrease the price level in France.</p>
+<img class="alignright" alt="Euro D Right" src="http://www.compactcourse.com/images/Euro D Right.png" width="300" height="273" />(g)(i) <span style="color: #007fff;">A decrease in the price level in France would increase American spending in France because goods and services would be cheaper. In order to pay for the goods, Americans would have to convert their dollars to euros, so the demand for euros would increase, shifting the D curve in the Euro Market to the right. As you can see, $/euro (dollars <em>per</em> euro) would increase, so one euro would be able to get you more dollars. This means that the euro would have gotten stronger.</span> Therefore, the euro would have appreciated relative to the dollar.
+<p style="padding-left: 30px;">(ii) Since Americans would initially increase spending in France, America's imports would increase. This would decrease net exports for the United States. Therefore, America's current account balance would decrease in the short-run. <span style="color: #007fff;">Likewise, France's exports would increase, so France's net exports would increase as well. Therefore, France's current account balance with the United States would increase. Hopefully this makes sense; if one country's net exports go up, then the other country's net exports should go down. Pay attention to the which country's perspective you should take. </span></p>
+<p style="padding-left: 30px;"><span style="color: #007fff;">Just to add to part (g), yes, the initial effect would increase American spending in France. However, after the change in exchange rates, the euro would be more powerful against the dollar, so goods in France would become more expensive to Americans in the <em>long-run.</em> Therefore, in the long-run, American spending in France would decrease. Yes, it's like another market mechanism that tries to restore equilibrium in economics.</span></p>
+&nbsp;

@@ -1,0 +1,49 @@
+<h2 style="text-align: center;">Political Culture and Opinions</h2>
+A country's political culture consists of widely shared fundamental assumptions about how government and the political process should operate. This is different from a political ideology, which is a consistent set of views certain people have concerning the policies government puts in place. The basic principles of American political culture include liberty, equality, democracy, and individual responsibility.
+<h3>Liberty</h3>
+Americans believe, with some exceptions, that the government should not interfere with people's activities, as long as they do not hurt other people. These fundamentally include free speech and religion.
+<h3>Equality</h3>
+Americans collectively believe that everyone should have an equal vote, be treated equally under the law, and have an equal chance to succeed. It is important to note that while Americans believe in equality of opportunity, they do not believe in economic equality. Economic equality is more of a socialist idea than a liberal one.
+<h3>Democracy</h3>
+Americans believe that citizens have a duty to support their communities, but government officials also must be accountable to the people.
+<h3>Individual responsibility</h3>
+Americans believe that people are responsible for their own actions and decision; this is unlike a collectivist culture in which people identify more as groups.
+
+&nbsp;
+<h3>Mistrust of Government</h3>
+As aforementioned, there has been a general decline of American trust in government. This decline started since the 1950s and has not seemed to halt. Part of the reason for the decline of trust is the corresponding deterioration of American <span style="color: #007fff;">political efficacy</span>, the amount impact citizens think they have on the government.
+<h2 style="text-align: center;">Political Ideology</h2>
+Taken from above, a political ideology is a consistent set of views certain people have concerning the policies government puts in place. Even with the increase in identification as independents, political ideology is one of the biggest factors affecting voting patterns. There are two fundamental categories of American political ideology: conservatives and liberals.
+<h3>Conservatives</h3>
+Conservatives generally support:
+<ul>
+	<li><span style="line-height: 14px;">Increased military funding</span></li>
+	<li>Less government regulation of the economy</li>
+	<li>Religion in schools</li>
+</ul>
+while generally being against:
+<ul>
+	<li><span style="line-height: 14px;">Abortions</span></li>
+	<li>Social programs such as:
+<ul>
+	<li>Welfare</li>
+	<li><span style="color: #007fff;">Social Security</span></li>
+	<li>Universal healthcare</li>
+</ul>
+</li>
+</ul>
+<h3>Liberals</h3>
+Liberals generally support:
+<ul>
+	<li><span style="line-height: 14px;">Social programs such as the ones above</span></li>
+	<li>Free choice in getting abortions</li>
+	<li>Increased government regulation of the economy</li>
+	<li>Gay rights</li>
+</ul>
+while generally being against:
+<ul>
+	<li><span style="line-height: 14px;">Religion in schools</span></li>
+	<li>Increases in military funding</li>
+</ul>
+<h2 style="text-align: center;">Sources of Political Culture</h2>
+The process by which children and adolescents acquire political attitudes and opinions is called <span style="color: #007fff;">political socialization</span>. The media through which political socialization happens includes school and social media, but the most important by far is family at home. Children are likely to identify with their parents' political beliefs and values if those beliefs and values are strong.

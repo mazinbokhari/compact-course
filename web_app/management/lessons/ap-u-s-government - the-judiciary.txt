@@ -1,0 +1,52 @@
+<h2 style="text-align: center;">The Federal Court System Structure</h2>
+The Constitution only made provisions for one court: the Supreme Court. The <span style="color: #007fff;">Judiciary Act of 1789</span> erected the two other federal court levels: the District Courts and the Court of Appeals. Most of the United States' court cases are held in state and local courts.
+<h3>The District Courts</h3>
+There are 94 district courts, all of which collectively hear almost 90% of all federal cases.
+<h3>The Circuit Courts of Appeals</h3>
+These are (13) appellate courts given the responsibility of reviewing certain district court decisions. It is important to note that the courts of appeals only review cases and their decision; they do not hold separate trials.
+<h3>The Supreme Court</h3>
+The Supreme Court reviews cases from both the state supreme courts and the federal circuit courts of appeals. The decisions made by the Supreme Court are effective throughout the country, not just in that certain case.
+<h4>Judicial Review</h4>
+The Supreme Court enabled itself the capability of judicial review, which is the power to proclaim a piece of federal legislation as unconstitutional. This was established in the landmark case <span style="color: #007fff;">Marbury v. Madison</span>.
+<h4>Solicitor General</h4>
+The Solicitor General takes care of appeals to the Supreme Court, possibly compelling the Court to hear certain cases.
+<h2 style="text-align: center;">Influences on Justice Decisions</h2>
+<h3>Nominations</h3>
+Presidents have very obvious reasons for nominating a justice to the Supreme Court. They most often are some of the following:
+<ul>
+	<li><span style="line-height: 14px;">Political ideology - Presidents will usually pick people who they think will support themselves and their policies.</span></li>
+	<li>Race or gender - Presidents may pick a person of a certain minority group in order to gain the vote of that group.</li>
+	<li>Political aquecacy - Presidents also clearly must consider how well of a job an appointee will do. It will look bad on the president if an appointed justice shows incompetency.</li>
+</ul>
+<h3>Philosophy on Making Court Decisions</h3>
+Justices usually practice one of two philosophies: judicial restraint or judicial activism.
+<h4>Judicial Restraint</h4>
+Justices who practice judicial restraint believe that they should use <span style="color: #007fff;">precedent</span> (guidelines set by previous Court cases) and the Framers' original intentions when deciding a case. <span style="color: #007fff;">Stare decisis</span> (let the decision stand) is a popular phrase used when using precedent. Justices of this philosophy also believe in deferring to elected bodies of government when in doubt of a case.
+<h4>Judicial Activism</h4>
+Justices who practice judicial activism believe in voting based on political considerations, such as ideology. Often justices of this philosophy feel that they need to correct wrongdoings, regardless of the Framers' original intent or the widely accepted interpretation of the Constitution.
+<h3>The Public</h3>
+Since justices are appointed by the president and serve life terms, they are generally unswayed by the popular opinion of the public. However, they cannot go too out of favor from governing bodies elected by the public, as federal judges are still subject to impeachment.
+
+&nbsp;
+<h2 style="text-align: center;">The Process of Hearing a Supreme Court Case</h2>
+<h3>Jurisdiction</h3>
+There are two main types federal jurisdictions:
+<h4>Original Jurisdiction</h4>
+<span style="line-height: 22px;">Original jurisdiction is the ability to hear and try a case for the first time. The Supreme Court has original jurisdiction mainly when the case involves:</span>
+<ul>
+	<li><span style="line-height: 22px;">Multiple states</span></li>
+	<li>The governments of the United States and a state</li>
+</ul>
+<h4>Appellate Jurisdiction</h4>
+<span style="line-height: 22px;">Appellate jurisdiction is the ability to review a case and possibly change its decisions from a lower court. Most of the Supreme Court's cases are under appellate jurisdiction, coming to the Court in the form of a writ of certiorari. A writ of certiorari is an order issued by the Supreme Court to lower courts to send up the record of a case in question for review. The rule of four is a practice of the Supreme Court in which four of the nine Supreme Court justices must vote to hear the case in order to grant writ of certiorari.</span>
+<h3>Briefs</h3>
+Each side of the case files a brief, citing facts and arguments that supports their side. Also, third parties (such as interest groups) to the case may file <span style="color: #007fff;">amicus curiae</span> (friend of the court) briefs, which also provide relevant information to the case.
+<h3>Arguments</h3>
+After oral arguments are heard, the attorneys are given half and hour to speak on behalf of their clients.
+<h3>Voting and Opinions</h3>
+After discussion between the justices, they take a vote on the matter. A majority of at least 5 votes decides the case. Finally, the justices offer their opinions:
+<ul>
+	<li><span style="line-height: 14px;">The majority opinion explains the rationale for the Court's majority's decision on the case.</span></li>
+	<li>The minority opinion explains the rationale of those dissenting from the majority.</li>
+	<li>The concurrent opinion explains an alternative reason for why one sided with the majority.</li>
+</ul>

@@ -1,0 +1,126 @@
+<p style="text-align: center;"><span style="color: #ff0000;"><a href="http://www.compactcourse.com/courses/ap-physics-b/kinematics/kinematics-lesson/" target="_blank"><span style="color: #ff0000;">See AP Physics B - Kinematics - Lesson for Basic Information</span></a></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><b><span style="text-decoration: underline;">Displacement, Velocity, and Acceleration w</span></b>ith Calculus</span></h2>
+<h3 style="text-align: center;">Velocity</h3>
+<span style="color: #ff0000;">Recall average velocity equals <img alt="{\color{Red} v = \frac{\Delta x}{\Delta t}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v&amp;space;=&amp;space;\frac{\Delta&amp;space;x}{\Delta&amp;space;t}}" align="absmiddle" /> and average speed equals <img alt="{\color{Red} s = \frac{d}{\Delta t} }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;s&amp;space;=&amp;space;\frac{d}{\Delta&amp;space;t}&amp;space;}" align="absmiddle" />.</span>
+<p style="text-align: left;">With calculus, we can now find an object's <span style="color: #007fff;">instantaneous velocity<span style="color: #000000;">. </span></span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Instantaneous Velocity:</span></span> Velocity of an object at a specific point in time</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Meters per Second <img alt="\left ( \frac{m}{s}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;\frac{m}{s}\right&amp;space;)" align="absmiddle" />; Symbol =&gt; v
+</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} v = \frac{\mathrm{d} x}{\mathrm{d} t}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;x}{\mathrm{d}&amp;space;t}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where x is the displacement with respect t time</span></p>
+
+<h3 style="text-align: center;">Finding x by Integrating v</h3>
+<p style="text-align: left;">From this equation, we can now find the displacement of an <span style="color: #000000;">object</span> with respect to time through integration as seen below</p>
+
+<ul>
+	<li><img alt="v = \frac{\mathrm{d} x}{\mathrm{d} t}\, \, \, =&gt;\, \, \, v\, \mathrm{d} t=\mathrm{d} x" src="http://latex.codecogs.com/gif.latex?v&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;x}{\mathrm{d}&amp;space;t}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;v\,&amp;space;\mathrm{d}&amp;space;t=\mathrm{d}&amp;space;x" align="absmiddle" /> through algebraic manipulation</li>
+	<li><img alt="\int v\, \, \mathrm{d} t=\int \mathrm{d} x" src="http://latex.codecogs.com/gif.latex?\int&amp;space;v\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t=\int&amp;space;\mathrm{d}&amp;space;x" align="absmiddle" /> when we integrate both sides</li>
+	<li><img alt="\int \mathrm{d} x = x" src="http://latex.codecogs.com/gif.latex?\int&amp;space;\mathrm{d}&amp;space;x&amp;space;=&amp;space;x" align="absmiddle" /> so then we are left with the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} x=\int v\, \, \mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;x=\int&amp;space;v\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity with respect t time</span></p>
+
+<h3 style="text-align: center;">Acceleration</h3>
+<span style="color: #ff0000;">Recall average acceleration equals <img alt="{\color{Red} a= \frac{\Delta v}{\Delta t}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a=&amp;space;\frac{\Delta&amp;space;v}{\Delta&amp;space;t}}" align="absmiddle" /></span><span style="color: #ff0000;">.</span>
+
+With calculus, we can now find an object's <span style="color: #007fff;">instantaneous acceleration</span>.
+
+<span style="text-decoration: underline; color: #007fff;">Instantaneous acceleration:</span> Acceleration of an object at a specific point in time
+<ul>
+	<li>Unit =&gt; Meters per Second <img alt="\left ( \frac{m}{s^{2}}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;\frac{m}{s^{2}}\right&amp;space;)" align="absmiddle" />; Symbol =&gt; v</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} a = \frac{\mathrm{d} v}{\mathrm{d} t}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity with respect t time</span></p>
+
+<ul>
+	<li>Since <img alt="v = \frac{\mathrm{d} x}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?v&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;x}{\mathrm{d}&amp;space;t}" align="absmiddle" />, we can substitute this into <img alt="a = \frac{\mathrm{d} v}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?a&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}" align="absmiddle" /> to get</li>
+</ul>
+<p align="center"><img alt="{\color{Blue} a = \frac{\mathrm{d}\frac{\mathrm{d} x}{\mathrm{d} t}}{\mathrm{d} t}=\frac{\mathrm{d}^{2} x}{\mathrm{d} t^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a&amp;space;=&amp;space;\frac{\mathrm{d}\frac{\mathrm{d}&amp;space;x}{\mathrm{d}&amp;space;t}}{\mathrm{d}&amp;space;t}=\frac{\mathrm{d}^{2}&amp;space;x}{\mathrm{d}&amp;space;t^{2}}}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where x is the displacement with respect t time</span></p>
+
+<h3 style="text-align: center;" align="center">Finding v by Integrating a</h3>
+From the equation <img alt="a = \frac{\mathrm{d} v}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?a&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}" align="absmiddle" />, we can now find the velocity of an object with respect to time through integration as seen below
+<ul>
+	<li><img alt="a = \frac{\mathrm{d} v}{\mathrm{d} t}\, \, \, =&gt;\, \, \, a\, \mathrm{d} t=\mathrm{d} v" src="http://latex.codecogs.com/gif.latex?a&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;a\,&amp;space;\mathrm{d}&amp;space;t=\mathrm{d}&amp;space;v" align="absmiddle" /> through algebraic manipulation</li>
+	<li><img alt="\int a\, \, \mathrm{d} t=\int \mathrm{d} v" src="http://latex.codecogs.com/gif.latex?\int&amp;space;a\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t=\int&amp;space;\mathrm{d}&amp;space;v" align="absmiddle" /> when we integrate both sides</li>
+	<li><img alt="\int \mathrm{d} v = v" src="http://latex.codecogs.com/gif.latex?\int&amp;space;\mathrm{d}&amp;space;v&amp;space;=&amp;space;v" align="absmiddle" /> so then we are left with the equation</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} v=\int a\, \, \mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v=\int&amp;space;a\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where a is the acceleration with respect t time</span></p>
+<p style="text-align: left; padding-left: 30px;">ex.) An object of mass m moves in a straight line according to the equation <img alt="x=4t^{3}-7t^{2}-3t" src="http://latex.codecogs.com/gif.latex?x=4t^{3}-7t^{2}-3t" align="absmiddle" /> where x is in meters and t is in seconds. At what time is the net force on the object equal to 0?</p>
+
+<ul>
+	<li><img alt="{\color{Red} a =x{}''(t)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a&amp;space;=x{}''(t)}" align="absmiddle" />
+<ul>
+	<li><img alt="{\color{Red} x{}'(t)=12t^{2}-14t-3}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x{}'(t)=12t^{2}-14t-3}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} x{}''(t)=24t-14}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x{}''(t)=24t-14}" align="absmiddle" /></li>
+	<li><span style="color: #ff0000;">Therefore <img alt="{\color{Red} a(t)=24t-14}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a(t)=24t-14}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">The net force of the object will equal 0 when its acceleration equals 0 since <img alt="{\color{Red} F_{net}=ma}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;F_{net}=ma}" align="absmiddle" /></span>
+<ul>
+	<li><span style="color: #ff0000;">We set <img alt="{\color{Red} a(t)=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a(t)=0}" align="absmiddle" /> so <img alt="{\color{Red} 24t-14=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;24t-14=0}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} t=.58\, s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;t=.58\,&amp;space;s}" align="absmiddle" /></span></li>
+</ul>
+</li>
+</ul>
+<h3 style="text-align: center;">The Big Three</h3>
+<span style="color: #ff0000;">Recall that the main three equations we use in kinematics are </span>
+<p style="text-align: center;"><img alt="{\color{Red} v = v_{o} + at}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v&amp;space;=&amp;space;v_{o}&amp;space;+&amp;space;at}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Red} v \, = v_{o} + at}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v&amp;space;\,&amp;space;=&amp;space;v_{o}&amp;space;+&amp;space;at}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Red} v^{2}\, = v_{o}^{2} + 2a(x-x_{o})}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v^{2}\,&amp;space;=&amp;space;v_{o}^{2}&amp;space;+&amp;space;2a(x-x_{o})}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Red} x = x_{o}+v_{o}t + \frac{1}{2}at^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x&amp;space;=&amp;space;x_{o}+v_{o}t&amp;space;+&amp;space;\frac{1}{2}at^{2}}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Two Dimensional Motion</h3>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/2-D-Motion.png"><img class="alignnone size-full wp-image-4364" style="margin: 5px auto; display: block; text-align: center;" alt="2-D Motion" src="http://www.compactcourse.com/wp-content/uploads/2013/07/2-D-Motion.png" width="450" /></a>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Graphic Relationships with Calculus</span></h2>
+<span style="color: #ff0000;">Recall </span>
+<ol>
+	<li><span style="color: #ff0000; line-height: 14px;">The velocity graph plots the slope of the displacement graph at every single point</span></li>
+	<li><span style="color: #ff0000;">The acceleration graph plots the slope of the velocity graph at every single point</span></li>
+	<li><span style="color: #ff0000;">The area bounded by the curve above the x axis for the velocity graph equals the total distance traveled in the positive direction</span></li>
+	<li><span style="color: #ff0000;">The area bounded by the curve below the x axis for the velocity graph equals the total distance traveled in the negative direction</span></li>
+	<li><span style="color: #ff0000;">The area bounded by the curve above the x axis for the acceleration graph equals the amount of positive change in velocity</span></li>
+	<li><span style="color: #ff0000;">The area bounded by the curve below the x axis for the acceleration graph equals the amount of negative change in velocity</span></li>
+</ol>
+<h3 style="text-align: center;">Displacement and Velocity</h3>
+We learned that <img alt="v = \frac{\mathrm{d} x}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?v&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;x}{\mathrm{d}&amp;space;t}" align="absmiddle" />. What this means is that the velocity function is the derivative of the displacement function. This can be seen as
+<p style="text-align: center;"><img alt="{\color{Blue} v(t) = \frac{\mathrm{d} x}{\mathrm{d} t} }\, \, \, or\, \, \, {\color{Blue} v(t)={x}'(t)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v(t)&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;x}{\mathrm{d}&amp;space;t}&amp;space;}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;v(t)={x}'(t)}" align="absmiddle" /></p>
+
+<ul>
+	<li><span style="line-height: 14px;">This is the reason why 1. above is true because the derivative function plots the slope of another function at every point
+</span></li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/x-and-v-slopes.png"><img class="alignnone size-full wp-image-4357" style="margin: 5px auto; display: block; text-align: center;" alt="x and v slopes" src="http://www.compactcourse.com/wp-content/uploads/2013/07/x-and-v-slopes.png" width="700" /></a></p>
+We learned that <img alt="x=\int v\, \, \mathrm{d} t" src="http://latex.codecogs.com/gif.latex?x=\int&amp;space;v\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t" align="absmiddle" />. What this means is that the displacement function is the antiderivative of the velocity function. This can be seen as
+<p align="center"><img alt="{\color{Blue} x(t)=\int v(t)\, \, \mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;x(t)=\int&amp;space;v(t)\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where v(t) is the velocity function and x(t) is the displacement function</span></p>
+
+<ul>
+	<li>This is the reason why 3. and 4. above are true because the antiderivative function plots the area bounded above or below the x axis and the curve of another function</li>
+</ul>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/v-and-x-area.png"><img class="alignnone size-full wp-image-4360" style="margin: 5px auto; display: block; text-align: center;" alt="v and x area" src="http://www.compactcourse.com/wp-content/uploads/2013/07/v-and-x-area.png" width="700" /></a>
+<h3 style="text-align: center;" align="center">Velocity and Acceleration</h3>
+We learned that <img alt="a = \frac{\mathrm{d} v}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?a&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}" align="absmiddle" />. What this means is that the acceleration function is the derivative of the velocity function. This can be seen as
+<p align="center"><img alt="{\color{Blue} a(t) = \frac{\mathrm{d} v}{\mathrm{d} t} }\, \, \, or\, \, \, {\color{Blue} a(t)={v}'(t)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a(t)&amp;space;=&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}&amp;space;}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;a(t)={v}'(t)}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where a(t) is the acceleration function and v(t) is the velocity function</span></p>
+
+<ul>
+	<li>This is the reason why 2. above is true because the derivative function plots the slope of another function at every point</li>
+</ul>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/v-and-a-slopes.png"><img class="alignnone size-full wp-image-4359" style="margin: 5px auto; display: block; text-align: center;" alt="v and a slopes" src="http://www.compactcourse.com/wp-content/uploads/2013/07/v-and-a-slopes.png" width="700" /></a>
+
+We learned that <img alt="v=\int a\, \, \mathrm{d} t" src="http://latex.codecogs.com/gif.latex?v=\int&amp;space;a\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t" align="absmiddle" />. What this means is that the displacement function is the antiderivative of the velocity function. This can be seen as
+<p align="center"><img alt="{\color{Blue} v(t)=\int a(t)\, \, \mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v(t)=\int&amp;space;a(t)\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;t}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where a(t) is the acceleration function and v(t) is the velocity function</span></p>
+
+<ul>
+	<li>This is the reason why 5. and 6. above are true because the antiderivative function plots the area bounded above or below the x axis and the curve of another function</li>
+</ul>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/a-and-v-area.png"><img class="alignnone size-full wp-image-4358" style="margin: 5px auto; display: block; text-align: center;" alt="a and v area" src="http://www.compactcourse.com/wp-content/uploads/2013/07/a-and-v-area.png" width="700" /></a>
+
+&nbsp;

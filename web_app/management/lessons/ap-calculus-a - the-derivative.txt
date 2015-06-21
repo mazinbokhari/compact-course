@@ -1,0 +1,231 @@
+<h2 style="text-align: center;"><span style="line-height: 24px; text-align: start;">Tangent vs Secant</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Tangent Line:</span> The straight line that runs through a point on the graph and plots the slope of the graph at that point
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Secant Line:</span></span> The straight line that runs through two different points on the graph
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/tan-and-sec.png"><img class="size-full wp-image-5068 aligncenter" alt="tan and sec" src="http://www.compactcourse.com/wp-content/uploads/2013/08/tan-and-sec.png" width="373" height="291" /></a></p>
+
+<h2 style="text-align: center;">Average Rate of Change (AROC)</h2>
+<span style="text-decoration: underline; color: #007fff;">Average Rate of Change:</span> The slope of the secant line through two points on a graph
+<ul>
+	<li><span style="line-height: 14px;">The average rate of change can be found with the equation below</span></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} AROC=\frac{\Delta f(x)}{\Delta x}=\frac{f(x)-f(a)}{x-a}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;AROC=\frac{\Delta&amp;space;f(x)}{\Delta&amp;space;x}=\frac{f(x)-f(a)}{x-a}}" align="absmiddle" />
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/AROC-1.png"><img class="size-full wp-image-5069 aligncenter" alt="AROC 1" src="http://www.compactcourse.com/wp-content/uploads/2013/08/AROC-1.png" width="444" height="302" /></a></p>
+
+<ul>
+	<li> If we substitute x for a+h, where h=x-a, another form of the equation that we will use becomes</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} AROC=\frac{f(a+h)-f(a)}{h}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;AROC=\frac{f(a+h)-f(a)}{h}}" align="absmiddle" />
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/AROC-2.png"><img class="size-full wp-image-5070 aligncenter" alt="AROC 2" src="http://www.compactcourse.com/wp-content/uploads/2013/08/AROC-2.png" width="470" height="296" /></a></p>
+
+<h2 style="text-align: center;">Instantaneous Rate of Change (IROC) and the Derivative</h2>
+<span style="text-decoration: underline; color: #007fff;">Instantaneous Rate of Change:</span> The slope of the tangent line through one point on a graph
+
+This is also known as the <span style="color: #007fff;">derivative</span> of a function at a point
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Derivative:</span></span> How much a function is changing at a point
+<h3 style="text-align: center;">Notation for the Derivative</h3>
+There are many notations for which we symbolize the derivative of a function. These are seen below for the function y = f(x).
+
+<img class="aligncenter" alt="{f}'(x)={f}'={y}'=\frac{\mathrm{d} f}{\mathrm{d} x}=\frac{\mathrm{d} y}{\mathrm{d} x}" src="http://latex.codecogs.com/gif.latex?{f}'(x)={f}'={y}'=\frac{\mathrm{d}&amp;space;f}{\mathrm{d}&amp;space;x}=\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}" align="absmiddle" />
+<h3 style="text-align: center;">Finding the Derivative with Limits</h3>
+Say we want to find the derivative of a function at a point, point P. If another point, point Q, lies on the same function, the secant line between the two does not look like the tangent line to point P unless points P and Q are very close. This is seen with the graphs below.
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-1.png"><img class="alignnone size-full wp-image-5077" alt="sec becomes tan 1" src="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-1.png" width="363" height="290" /></a><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-2.png"><img class="alignnone size-full wp-image-5078" alt="sec becomes tan 2" src="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-2.png" width="354" height="292" /></a></p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-3.png"><img class="alignnone size-full wp-image-5079" alt="sec becomes tan 3" src="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-3.png" width="348" height="290" /></a><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-4.png"><img class="alignnone size-full wp-image-5080" alt="sec becomes tan 4" src="http://www.compactcourse.com/wp-content/uploads/2013/08/sec-becomes-tan-4.png" width="368" height="294" /></a></p>
+<p style="text-align: left;">As we can see, when P and Q become very close as h approaches 0, the secant and tangent lines look identical. This means that the average rate of change becomes the instantaneous rate of change (the derivative). So when we take the limit of the average rate of change as h approaches 0, we can find the derivative at the point.</p>
+
+<ul>
+	<li><span style="line-height: 14px;">This can be seen with the equation</span></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} {f}'(x)=\lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;{f}'(x)=\lim_{h\rightarrow&amp;space;0}\frac{f(x+h)-f(x)}{h}}" align="absmiddle" />
+<p style="text-align: center;">This is the definition of the derivative!</p>
+<p style="text-align: left; padding-left: 30px;">ex.) Find <img alt="{f}'(x)" src="http://latex.codecogs.com/gif.latex?{f}'(x)" align="absmiddle" /> if <img alt="f(x)=x^{2}" src="http://latex.codecogs.com/gif.latex?f(x)=x^{2}" align="absmiddle" />.</p>
+
+<ul>
+	<li><img alt="{\color{Red} {f}'(x)=\lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}=\lim_{h\rightarrow 0}\frac{(x+h)^{2}-x^{2}}{h}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=\lim_{h\rightarrow&amp;space;0}\frac{f(x+h)-f(x)}{h}=\lim_{h\rightarrow&amp;space;0}\frac{(x+h)^{2}-x^{2}}{h}}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} {f}'(x)=\lim_{h\rightarrow 0}\frac{x^{2}+2xh+h^2-x^{2}}{h}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=\lim_{h\rightarrow&amp;space;0}\frac{x^{2}+2xh+h^2-x^{2}}{h}}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} {f}'(x)=\lim_{h\rightarrow 0}\frac{h(2x+h)}{h}=\lim_{h\rightarrow 0}2x+h=2x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=\lim_{h\rightarrow&amp;space;0}\frac{h(2x+h)}{h}=\lim_{h\rightarrow&amp;space;0}2x+h=2x}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} {f}'(x)=2x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=2x}" align="absmiddle" /></li>
+</ul>
+<h2 style="text-align: center;">Common Derivatives</h2>
+In Calculus, there are many derivatives that are very common. These are seen below and they would be very useful to memorize.
+<table class=" alignleft" border="0">
+<tbody>
+<tr align="center">
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}k=0}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}k=0}" align="absmiddle" /></td>
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}ku=k\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}ku=k\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}u^{a}=au^{a-1}\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}u^{a}=au^{a-1}\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /> (Power Rule)</td>
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\ln u=\frac{1}{u}\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\ln&amp;space;u=\frac{1}{u}\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \, e^{u}=e^{u}\, \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\,&amp;space;e^{u}=e^{u}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \, a^{u}=a^{u} \ln a\, \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\,&amp;space;a^{u}=a^{u}&amp;space;\ln&amp;space;a\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}(u+v)=u\frac{\mathrm{d} }{\mathrm{d} x}+v\frac{\mathrm{d} }{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}(u+v)=u\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}+v\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}(u-v)=u\frac{\mathrm{d} }{\mathrm{d} x}-v\frac{\mathrm{d} }{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}(u-v)=u\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}-v\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;">  <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\sin u=\cos u\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\sin&amp;space;u=\cos&amp;space;u\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \sin^{-1}u=\frac{1}{\sqrt{1-u^{2}}}\, \frac{\mathrm{d} u}{\mathrm{d} x}}\, \, \, \, \, \, \, \, (-1&lt;u&lt;1)" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\sin^{-1}u=\frac{1}{\sqrt{1-u^{2}}}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;(-1&lt;u&lt;1)" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\cos u=-\sin u\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\cos&amp;space;u=-\sin&amp;space;u\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \cos^{-1}u=-\frac{1}{\sqrt{1-u^{2}}}\, \frac{\mathrm{d} u}{\mathrm{d} x}}\, \, \, \, \, \, \, \, (-1&lt;u&lt;1)" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\cos^{-1}u=-\frac{1}{\sqrt{1-u^{2}}}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;(-1&lt;u&lt;1)" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\tan u=\sec^{2} u\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\tan&amp;space;u=\sec^{2}&amp;space;u\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \tan^{-1}u=\frac{1}{1+u^{2}}\, \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\tan^{-1}u=\frac{1}{1+u^{2}}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\csc u=-\left (\csc u \right ) \left (\cot u \right )\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\csc&amp;space;u=-\left&amp;space;(\csc&amp;space;u&amp;space;\right&amp;space;)&amp;space;\left&amp;space;(\cot&amp;space;u&amp;space;\right&amp;space;)\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \csc^{-1}u=-\frac{1}{\left | u \right |\sqrt{u^{2}-1}}\, \frac{\mathrm{d} u}{\mathrm{d} x}}\, \, \, \, \, \, \, \, (\left | u \right |&gt;1)" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\csc^{-1}u=-\frac{1}{\left&amp;space;|&amp;space;u&amp;space;\right&amp;space;|\sqrt{u^{2}-1}}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;(\left&amp;space;|&amp;space;u&amp;space;\right&amp;space;|&gt;1)" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\sec u=\left (\sec u \right ) \left (\tan u \right )\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\sec&amp;space;u=\left&amp;space;(\sec&amp;space;u&amp;space;\right&amp;space;)&amp;space;\left&amp;space;(\tan&amp;space;u&amp;space;\right&amp;space;)\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \sec^{-1}u=\frac{1}{\left | u \right |\sqrt{u^{2}-1}}\, \frac{\mathrm{d} u}{\mathrm{d} x}}\, \, \, \, \, \, \, \, (\left | u \right |&gt;1)" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\sec^{-1}u=\frac{1}{\left&amp;space;|&amp;space;u&amp;space;\right&amp;space;|\sqrt{u^{2}-1}}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;(\left&amp;space;|&amp;space;u&amp;space;\right&amp;space;|&gt;1)" align="absmiddle" /></td>
+</tr>
+<tr align="center">
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}\cot u=-\csc^{2} u\frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}\cot&amp;space;u=-\csc^{2}&amp;space;u\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+<td style="text-align: center;"> <img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \cot^{-1}u=-\frac{1}{1+u^{2}}\, \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\cot^{-1}u=-\frac{1}{1+u^{2}}\,&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: center;">Chain Rule</h3>
+When we are taking the derivative of a function that has a function within it, we use the <span style="color: #007fff;">Chain Rule</span>. It states that to find the derivative of a composite function, we find the derivative of the outside function first, then multiply it by the derivative of the inside function as seen below.
+<p style="text-align: center;"><img alt="{\color{Blue} {(f(g(x)))}'={f}'(g(x))\cdot {g}'(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;{(f(g(x)))}'={f}'(g(x))\cdot&amp;space;{g}'(x)}" align="absmiddle" /></p>
+<p style="text-align: center;">If we substitute u for g(x), this can be rewritten as</p>
+<p style="text-align: center;"><img alt="{\color{Blue} {(f(g(x)))}'={f}'(u)\cdot {g}'(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;{(f(g(x)))}'={f}'(u)\cdot&amp;space;{g}'(x)}" align="absmiddle" /></p>
+<p style="text-align: center;">Another variation for the Chain Rule can be written as</p>
+<p style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} y}{\mathrm{d} x}=\frac{\mathrm{d} y}{\mathrm{d} u}\cdot \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}=\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;u}\cdot&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></p>
+<p style="text-align: left;">Ex.) Find the derivative of <img alt="\left (x^{3} +4x-3 \right )^{5}" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(x^{3}&amp;space;+4x-3&amp;space;\right&amp;space;)^{5}" align="absmiddle" />.</p>
+
+<ul style="text-align: left;">
+	<li style="text-align: left;"><span style="line-height: 14px;"><span style="color: #ff0000;">We take our <img alt="{\color{Red} u}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;u}" align="absmiddle" /> as <img alt="{\color{Red} \left (x^{3} +4x-3 \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(x^{3}&amp;space;+4x-3&amp;space;\right&amp;space;)}" align="absmiddle" />. We can substitute this to get <img alt="{\color{Red} \left ( u\right )^{5}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(&amp;space;u\right&amp;space;)^{5}}" align="absmiddle" />.</span>
+</span></li>
+	<li style="text-align: left;"><span style="color: #ff0000;">The derivative of <img alt="{\color{Red} \left ( u\right )^{5}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(&amp;space;u\right&amp;space;)^{5}}" align="absmiddle" /> is <img alt="{\color{Red} 5\left ( u\right )^{4}\cdot \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;5\left&amp;space;(&amp;space;u\right&amp;space;)^{4}\cdot&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" />. </span></li>
+	<li style="text-align: left;"><span style="color: #ff0000;">Since <img alt="{\color{Red} u=\left (x^{3} +4x-3 \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;u=\left&amp;space;(x^{3}&amp;space;+4x-3&amp;space;\right&amp;space;)}" align="absmiddle" />,  <img alt="{\color{Red} \frac{\mathrm{d} u}{\mathrm{d} x}=\left (3x^{2} +4 \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}=\left&amp;space;(3x^{2}&amp;space;+4&amp;space;\right&amp;space;)}" align="absmiddle" />.</span></li>
+	<li style="text-align: left;"><span style="color: #ff0000;">Plugging these into <img alt="{\color{Red} 5\left ( u\right )^{4}\cdot \frac{\mathrm{d} u}{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;5\left&amp;space;(&amp;space;u\right&amp;space;)^{4}\cdot&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}}" align="absmiddle" />, we get our final answer as </span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Red} 5\left ( x^{3} +4x-3 \right )^{4}\cdot \left (3x^{2} +4 \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;5\left&amp;space;(&amp;space;x^{3}&amp;space;+4x-3&amp;space;\right&amp;space;)^{4}\cdot&amp;space;\left&amp;space;(3x^{2}&amp;space;+4&amp;space;\right&amp;space;)}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Product Rule</h3>
+When we need to take the derivative of the product of two functions, we use the <span style="color: #007fff;">Product Rule</span>. This is seen below.
+<p style="text-align: center;"><img alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x}(uv)=u\frac{\mathrm{d} v}{\mathrm{d} x}+v\frac{\mathrm{d}u }{\mathrm{d} x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}(uv)=u\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;x}+v\frac{\mathrm{d}u&amp;space;}{\mathrm{d}&amp;space;x}}" align="absmiddle" /></p>
+<p style="text-align: left;">Ex.) Find the derivative of <img alt="\left (2x^{2} -7x\right )\left ( 3x^{3} -8x^{2}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(2x^{2}&amp;space;-7x\right&amp;space;)\left&amp;space;(&amp;space;3x^{3}&amp;space;-8x^{2}\right&amp;space;)" align="absmiddle" />.</p>
+
+<ul>
+	<li><span style="line-height: 14px; color: #ff0000;"><img alt="{\color{Red} \left (2x^{2} -7x\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(2x^{2}&amp;space;-7x\right&amp;space;)}" align="absmiddle" /> is our <img alt="{\color{Red} u}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;u}" align="absmiddle" /> and <img alt="{\color{Red} \left ( 3x^{3} -8x^{2}\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(&amp;space;3x^{3}&amp;space;-8x^{2}\right&amp;space;)}" align="absmiddle" /> is our <img alt="{\color{Red} v}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v}" align="absmiddle" />
+</span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} \frac{\mathrm{d} v}{\mathrm{d} x}=\left ( 9x^{2} -16x\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;x}=\left&amp;space;(&amp;space;9x^{2}&amp;space;-16x\right&amp;space;)}" align="absmiddle" /> and <img alt="{\color{Red} \frac{\mathrm{d} u}{\mathrm{d} x}=\left ( 4x-7\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}=\left&amp;space;(&amp;space;4x-7\right&amp;space;)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">When we plug these into the Product Rule, we get <img alt="{\color{Red} \left (2x^{2} -7x\right )\left ( 9x^{2} -16x\right )+\left ( 3x^{3} -8x^{2}\right )\left ( 4x-7\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(2x^{2}&amp;space;-7x\right&amp;space;)\left&amp;space;(&amp;space;9x^{2}&amp;space;-16x\right&amp;space;)+\left&amp;space;(&amp;space;3x^{3}&amp;space;-8x^{2}\right&amp;space;)\left&amp;space;(&amp;space;4x-7\right&amp;space;)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This can be simplified to our final answer</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Red} 30x^{4} -148x^{3}+168x^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;30x^{4}&amp;space;-148x^{3}+168x^{2}}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Quotient Rule</h3>
+When we need to take the derivative of the quotient of two functions, we use the <span style="color: #007fff;">Quotient Rule</span>. This is seen below.
+<p style="text-align: left;"><img class="aligncenter" alt="{\color{Blue} \frac{\mathrm{d} }{\mathrm{d} x} \left (\frac{u}{v} \right )=\frac{v\frac{\mathrm{d} u}{\mathrm{d} x}-u\frac{\mathrm{d} v}{\mathrm{d} x}}{v^{2}}}\, \, \, \, \, \, \, \left ( v\neq 0 \right )" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{\mathrm{d}&amp;space;}{\mathrm{d}&amp;space;x}&amp;space;\left&amp;space;(\frac{u}{v}&amp;space;\right&amp;space;)=\frac{v\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}-u\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;x}}{v^{2}}}\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\left&amp;space;(&amp;space;v\neq&amp;space;0&amp;space;\right&amp;space;)" align="absmiddle" /></p>
+Ex.) Find the derivative of <img alt="\frac{2x^{3}+4x}{x^{2}}" src="http://latex.codecogs.com/gif.latex?\frac{2x^{3}+4x}{x^{2}}" align="absmiddle" />.
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} \left (2x^{3}+4x\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(2x^{3}+4x\right&amp;space;)}" align="absmiddle" /> is our <img alt="{\color{Red} u}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;u}" align="absmiddle" /> and <img alt="{\color{Red} \left ( x^{2}\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(&amp;space;x^{2}\right&amp;space;)}" align="absmiddle" /> is our <img alt="{\color{Red} v}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} \frac{\mathrm{d} u}{\mathrm{d} x}=\left ( 6x^{2}+4\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;u}{\mathrm{d}&amp;space;x}=\left&amp;space;(&amp;space;6x^{2}+4\right&amp;space;)}" align="absmiddle" /> and <img alt="{\color{Red} \frac{\mathrm{d} v}{\mathrm{d} x}=\left ( 2x\right )}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;x}=\left&amp;space;(&amp;space;2x\right&amp;space;)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">When we plug these into the Quotient Rule, we get our answer as</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Red} \frac{\left ( x^{2} \right )\left ( 6x^{2}+4\right )-\left (2x^{3}+4x\right )\left ( 2x \right )}{x^{4}}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\left&amp;space;(&amp;space;x^{2}&amp;space;\right&amp;space;)\left&amp;space;(&amp;space;6x^{2}+4\right&amp;space;)-\left&amp;space;(2x^{3}+4x\right&amp;space;)\left&amp;space;(&amp;space;2x&amp;space;\right&amp;space;)}{x^{4}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #ff0000;">which can be simplified to</span></p>
+<p style="text-align: center;"><img alt="{\color{Red} \frac{2x^{2}-4}{x^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{2x^{2}-4}{x^{2}}}" align="absmiddle" /></p>
+
+<h2 style="text-align: center;">Differentiability and Continuity for Derivatives</h2>
+If a function <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> is differentiable (has a derivative) at <img alt="x= c" src="http://latex.codecogs.com/gif.latex?x=&amp;space;c" align="absmiddle" />, then <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> is continuous at <img alt="x= c" src="http://latex.codecogs.com/gif.latex?x=&amp;space;c" align="absmiddle" />.
+<ul>
+	<li><span style="line-height: 14px;">This stems from the definition of the derivative with <img alt="{f}'(c)" src="http://latex.codecogs.com/gif.latex?{f}'(c)" align="absmiddle" /> as</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{f}'(c)=\lim_{x\rightarrow c}\frac{f(x)-f(c)}{x-c}" src="http://latex.codecogs.com/gif.latex?{f}'(c)=\lim_{x\rightarrow&amp;space;c}\frac{f(x)-f(c)}{x-c}" align="absmiddle" /></p>
+
+<ul>
+	<li><span style="line-height: 14px;">So if the derivative <img alt="{f}'(c)" src="http://latex.codecogs.com/gif.latex?{f}'(c)" align="absmiddle" /> exists, then <img alt="\lim_{x\rightarrow c}f(x)=f(c)" src="http://latex.codecogs.com/gif.latex?\lim_{x\rightarrow&amp;space;c}f(x)=f(c)" align="absmiddle" /> which means <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> is continuous at <img alt="x= c" src="http://latex.codecogs.com/gif.latex?x=&amp;space;c" align="absmiddle" />
+</span></li>
+	<li>This means that there cannot be a hole, jump, vertical asymptote, vertical tangent, corner, or cusp at <img alt="x= c" src="http://latex.codecogs.com/gif.latex?x=&amp;space;c" align="absmiddle" /></li>
+</ul>
+<h2 style="text-align: center;">The Mean Value Theorem</h2>
+<span style="text-decoration: underline; color: #007fff;">Mean Value Theorem:</span> If a function <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> is
+<ol>
+	<li><span style="line-height: 14px;">continuous at every point on the closed interval <img alt="[a, b]" src="http://latex.codecogs.com/gif.latex?[a,&amp;space;b]" align="absmiddle" />
+</span></li>
+	<li>every point has a derivative on the open interval <img alt="(a, b)" src="http://latex.codecogs.com/gif.latex?(a,&amp;space;b)" align="absmiddle" /></li>
+</ol>
+<p style="padding-left: 30px;">then there is at least number <img alt="c" src="http://latex.codecogs.com/gif.latex?c" align="absmiddle" /> such that <img alt="a&lt; c&lt; b" src="http://latex.codecogs.com/gif.latex?a&lt;&amp;space;c&lt;&amp;space;b" align="absmiddle" /> where</p>
+<p style="text-align: center;"><img alt="{f}'(c)=\frac{f(b)-f(a)}{b- a}" src="http://latex.codecogs.com/gif.latex?{f}'(c)=\frac{f(b)-f(a)}{b-&amp;space;a}" align="absmiddle" /></p>
+<p style="text-align: center;">The diagram below depicts this theorem as the slope of the tangent line at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> equals the slope of the secant line between A and B</p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/Mean-Value-Theorem.png"><img class="size-full wp-image-5210 aligncenter" alt="Mean Value Theorem" src="http://www.compactcourse.com/wp-content/uploads/2013/08/Mean-Value-Theorem.png" width="361" height="300" /></a></p>
+<p style="text-align: left; padding-left: 30px;">ex.) Determine all the numbers <i>c</i> which satisfy the conclusions of the Mean Value Theorem for the function <img alt="f(x)=4x^{2}-2x+6" src="http://latex.codecogs.com/gif.latex?f(x)=4x^{2}-2x+6" align="absmiddle" /> over the interval <img alt="\left [ 3\, ,\, 5 \right ]" src="http://latex.codecogs.com/gif.latex?\left&amp;space;[&amp;space;3\,&amp;space;,\,&amp;space;5&amp;space;\right&amp;space;]" align="absmiddle" />.</p>
+
+<ul>
+	<li><img alt="{\color{Red} {f}'(x)=8x-2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=8x-2}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} {f}'(c)=\frac{f(5)-f(3)}{5- 3}=\frac{96-36}{5-3}=\frac{60}{2}=30}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(c)=\frac{f(5)-f(3)}{5-&amp;space;3}=\frac{96-36}{5-3}=\frac{60}{2}=30}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} 8c-2=30}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;8c-2=30}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} c=4}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;c=4}" align="absmiddle" /></li>
+</ul>
+<h2 style="text-align: center;">Approximating Derivatives</h2>
+Say we have a table of values for a function or just a function in general and we need to find the approximate derivative of the function at a point. To do this, we can use the values around the point to approximate the slope of the function (derivative) at that point. This is seen in the equation below
+<p style="text-align: center;"><img alt="{f}'(x)\simeq \frac{f(x+h)-f(x-h)}{2h}" src="http://latex.codecogs.com/gif.latex?{f}'(x)\simeq&amp;space;\frac{f(x+h)-f(x-h)}{2h}" align="absmiddle" /></p>
+<p style="text-align: left;">Ex.) Find the approximate derivative at <img alt="x= 4.5" src="http://latex.codecogs.com/gif.latex?x=&amp;space;4.5" align="absmiddle" /> using the table plotting values of <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> below.</p>
+
+<table border="0">
+<tbody>
+<tr>
+<td>x</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>f(x)</td>
+<td>0</td>
+<td>1</td>
+<td>1.41</td>
+<td>1.73</td>
+<td>2</td>
+<td>2.24</td>
+<td>2.45</td>
+<td>2.65</td>
+<td>2.83</td>
+</tr>
+</tbody>
+</table>
+<ul>
+	<li><span style="color: #ff0000;">To find the derivative at <img alt="{\color{Red} x= 4.5}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=&amp;space;4.5}" align="absmiddle" />, we will use h as .5 and x as 4.5</span></li>
+	<li><span style="color: #ff0000;">Plugging these into the equation above, we get <img alt="{\color{Red} {f}'(4.5)\simeq \frac{f(4.5+.5)-f(4.5-.5)}{2(.5)}\simeq \frac{f(5)-f(4)}{1}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4.5)\simeq&amp;space;\frac{f(4.5+.5)-f(4.5-.5)}{2(.5)}\simeq&amp;space;\frac{f(5)-f(4)}{1}}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} f(4)=2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(4)=2}" align="absmiddle" /> and <img alt="{\color{Red} f(5)=2.24}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(5)=2.24}" align="absmiddle" /> from the table above, so plugging these in, we get <img alt="{\color{Red} {f}'(4.5)\simeq \frac{2.24-2}{1}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4.5)\simeq&amp;space;\frac{2.24-2}{1}}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This can be simplified to our final answer</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Red} {f}'(4.5)\simeq .24}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4.5)\simeq&amp;space;.24}" align="absmiddle" /></p>
+<p style="text-align: center;"> <span style="color: #ff0000;">*The function is actually <img alt="{\color{Red} f(x)=\sqrt{x}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(x)=\sqrt{x}}" align="absmiddle" /> which has a derivative function as <img alt="{\color{Red} {f}'(x)=\frac{1}{2}\frac{1}{\sqrt{x}}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=\frac{1}{2}\frac{1}{\sqrt{x}}}" align="absmiddle" /> through the Power Rule. Plugging in <img alt="{\color{Red} x= 4.5}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=&amp;space;4.5}" align="absmiddle" />, the actual derivative comes out to <img alt="{\color{Red} {f}'(4.5)=\frac{1}{2}\frac{1}{\sqrt{4.5}}=.2357}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4.5)=\frac{1}{2}\frac{1}{\sqrt{4.5}}=.2357}" align="absmiddle" />, which is really close to  our approximated answer <img alt="{\color{Red} {f}'(4.5)\simeq .24}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4.5)\simeq&amp;space;.24}" align="absmiddle" />*</span></p>
+
+<h2 style="text-align: center;">Implicit Differentiation</h2>
+So far when we have dealt with functions, they have been in the form <img alt="f(x)=.\, .\, ." src="http://latex.codecogs.com/gif.latex?f(x)=.\,&amp;space;.\,&amp;space;." align="absmiddle" />. Yet when a function is in the form <img alt="F(x,y)=0" src="http://latex.codecogs.com/gif.latex?F(x,y)=0" align="absmiddle" />, we say it defines y <span style="color: #007fff;">implicitly</span> as a function of x. To find the derivative of these types of functions, we use <span style="color: #007fff;">implicit differentiation</span>.
+<h3 style="text-align: center;">Steps</h3>
+To see how to implicitly differentiate, we will outline the steps and try to differentiate the example function <img alt="y^{3}+3x=2y^{2}+4-6x^{2}" src="http://latex.codecogs.com/gif.latex?y^{3}+3x=2y^{2}+4-6x^{2}" align="absmiddle" />
+<ul>
+	<li><span style="text-decoration: underline;"><span style="line-height: 14px;">Differentiate both sides with respect to x</span></span>
+<ul>
+	<li><img alt="{\color{Red} 3y^{2}\frac{\mathrm{d} y}{\mathrm{d} x}+3=4y\frac{\mathrm{d} y}{\mathrm{d} x}-12x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;3y^{2}\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}+3=4y\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}-12x}" align="absmiddle" /></li>
+</ul>
+</li>
+	<li><span style="text-decoration: underline;">Solve for <img alt="\frac{\mathrm{d} y}{\mathrm{d} x}" src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}" align="absmiddle" /></span>
+<ul>
+	<li><img alt="{\color{Red} 3y^{2}\frac{\mathrm{d} y}{\mathrm{d} x}-4y\frac{\mathrm{d} y}{\mathrm{d} x}=-12x-3}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;3y^{2}\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}-4y\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}=-12x-3}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} \frac{\mathrm{d} y}{\mathrm{d} x} \left (3y^{2}-4y \right )=-12x-3}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}&amp;space;\left&amp;space;(3y^{2}-4y&amp;space;\right&amp;space;)=-12x-3}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} \frac{\mathrm{d} y}{\mathrm{d} x} =\frac{-12x-3}{3y^{2}-4y}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\frac{\mathrm{d}&amp;space;y}{\mathrm{d}&amp;space;x}&amp;space;=\frac{-12x-3}{3y^{2}-4y}}" align="absmiddle" /></li>
+</ul>
+</li>
+</ul>

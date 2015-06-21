@@ -1,0 +1,56 @@
+This chapter is completely built around math and conversions. This unit only shows up on the multiple choice, and there arent more than 5-6 questions on it. There are several very characteristic problems of this chapter that I will discuss below. But, first things first...rounding!
+<h2 style="text-align: center;"><span style="color: #007fff;">Significant Figures</span></h2>
+Significant Figures (sig-figs) are basically rounding rules for chemistry. They tell us to what degree of specificity we ought to report data. There are several sig fig rules. Firstly, lets cover what a sig-fig actually is...
+<ul>
+	<li><span style="line-height: 14px;">Nonzero digits and zeros sandwiched between nonzero digits are significant</span></li>
+	<li>Zeros that are at the end of a number and to the right of a decimal are considered significant</li>
+	<li>Zeros that are at the end of a number are not significant if the number is greater than one, unless there is a decimal after them.</li>
+	<li>All other zeros are NOT significant</li>
+</ul>
+Sig-fig rules still apply to mathematical operations like adding, subtracting, multiplying and dividing.
+
+-Addition and Subtraction: the answer should be rounded to the decimal place as the number with the least decimal places in the calculations.
+
+ex) 0.003 + 0.2 = 0.2
+
+-Muliplication and Division: the answer should have the same number of sig-figs as the number with the least number of sig figs in the calculation.
+
+ex) 1200 x 234 = 280800 = 280000
+<h2 style="text-align: center;"><span style="color: #007fff;">Useful Conversions</span></h2>
+This topic requires in depth knowledge of conversions between measurements. They will be your links between what you're given in a problem and how to get the unit of the answer. The most universal conversion is a <span style="color: #007fff;">mole</span>, or Avagadro's number.
+
+So....  1 mole = <img alt="6.022 x 10^{23}" src="http://latex.codecogs.com/gif.latex?6.022&amp;space;x&amp;space;10^{23}" align="absmiddle" /> molecules
+
+The biggest conversion with moles in chemistry is between moles and grams:
+
+# of moles = <img alt="\frac{grams}{molar.mass.of.element/molecule}" src="http://latex.codecogs.com/gif.latex?\frac{grams}{molar.mass.of.element/molecule}" align="absmiddle" />
+<h2 style="text-align: center;"><span style="color: #007fff;">The Most Common Problems with Stoichiometry</span></h2>
+<ol>
+	<li> <span style="text-decoration: underline;">Percent composition</span>: this is the percent by mass that one element makes up in a compound
+<ol>
+	<li>To calculate, deduce the molar mass of the compound, then divide by this molar mass to get the number of moles</li>
+	<li>then divide the number of moles of the compound by the number of moles of the desired element in that compound</li>
+	<li>finally, find the mass of the moles of this desired element  and divide it by the total mass of the original compound and muliply that by 100</li>
+</ol>
+</li>
+	<li><span style="text-decoration: underline;">Empirical Formulas</span>: the simplest chemical formula of a compound
+<ol>
+	<li>Generally, you will be given either the mass of each element in the compound or the moles of each. Let's say we are given the mass...</li>
+	<li>divide by the molar mass to determine moles of each substance</li>
+	<li>once you have moles, divide each number of moles by the smallest number of moles present among the elements</li>
+	<li>At this point, you should have some numbers close to whole numbers and one number that is one. These are the proportions of each element in the empirical formula. If the number is like 1.5 or something not close to a whole number, either you did something wrong or you need to multiply all the numbers by a common coefficient to get them all whole.</li>
+</ol>
+</li>
+	<li><span style="text-decoration: underline;">Balancing Chemical Equations</span>: simply put, the number of molecules for each element on the reactants side needs to equal that of the products side (due to the conservation of mass)
+<ol>
+	<li>You could to trial and error, but if it is a multiple choice test, start from the middle of the choices and work your way through them until one of the selections just clicks.</li>
+</ol>
+</li>
+	<li><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Limiting Reactant problems</span></span>: these are the baddest of the bunch. In chemical equations, usually one reactant runs out before the other when producing products. This reactant is justly called the <span style="color: #007fff;">limiting reactant</span>.
+<ol>
+	<li>There are a couple things you need to take care of before you solve this type of problem. The biggest two things are balancing the chemical equation and converting the reactants to moles</li>
+	<li>From here, use your molar ratios from your balanced equation to see which reactant would yeild how many moles of the product under question. Whichever reactant yeilds less...it limits the whole equation and thus is the limiting reactant</li>
+</ol>
+</li>
+</ol>
+***A final note about all of these types of questions. <em><span style="text-decoration: underline;">Remember to double check what exactly you are solving for</span></em>, its easy to get lost in these problems!!!

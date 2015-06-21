@@ -1,0 +1,33 @@
+<h2 style="text-align: center;">Powers of the President</h2>
+<h3>Veto</h3>
+The president can exercise a veto in two ways:
+<ul>
+	<li>A straight up veto to a bill. This can be overridden by a two-thirds vote in both houses of Congress (although, this is very rare).</li>
+	<li>Not signing a bill. If Congress is not in session after 10 days and the bill is still unsigned, it will be rejected in what is known as a "pocket veto."</li>
+</ul>
+Many have tried to allow the president to use a line-item veto in order to speed up the legislative process. A line-item veto is a partial veto of a bill. A government official would sign off on parts of the bill, and only those parts would become law. State governors often have this authority, but the Supreme Court ruled it unconstitutional for the president to have it as well.
+<h3>Appointments</h3>
+The president can make the following appointments:
+<ul>
+	<li>Federal judges, including Supreme Court justices</li>
+	<li>Cabinet members and heads of independent agencies</li>
+	<li>Diplomats/ambassadors</li>
+</ul>
+The president must abide by the custom of senatorial courtesy, or risk having the Senate deny his confirmation.
+<h4>Removal of Appointments</h4>
+The president may also remove any appointees under his administration other than heads of independent agencies and federal judges
+<h3>Commander-in-Chief</h3>
+As aforementioned, even though Congress has the constitutional power to declare war, the president is the commander-in-chief of the armed forces of the United States. Many American presidents have deployed troops without the approval of Congress.
+<h3>Chief Diplomat</h3>
+The president has the exclusive power to negotiate treaties with other nations. These treaties are subject to Senate approval. In order to avoid these, presidents often use executive agreements, which work like treaties, but are only guaranteed for the president's administration. The next president may choose to ignore any previously existing executive agreements.
+<h3>Executive Privilege</h3>
+The president and others in the executive branch cannot be forced to disclose information to the public or Congress if that information's disclosure may impede the actions of the executive branch. Basically, the president is able to withhold information from the public.
+<h3>Pardons</h3>
+The president is able to grant a presidential pardon, which is the forgiveness for a crime and the cancellation of its punishment.
+<h2 style="text-align: center;">Other Parts of the Executive Branch</h2>
+<h3>The White House Staff</h3>
+The White House Staff are the most loyal members of the executive branch to the president. They mainly manage the Oval Office and help advise the president about policies.
+<h3>The Office of Management and Budget</h3>
+This office is largely responsible for overlooking the federal budget.
+<h3>The Cabinet</h3>
+There are 15 executive departments, all of which have heads appointed by the president. It is important to note that often cabinet members are more loyal to their own departments than to the president.

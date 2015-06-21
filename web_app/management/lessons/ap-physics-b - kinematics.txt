@@ -1,0 +1,153 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #3366ff;">Motion Definitions</span></h2>
+<span style="text-decoration: underline; color: #3366ff;">Kinematics:</span> The study of how something moves in terms of its velocity and acceleration
+
+<span style="color: #3366ff;"><span style="text-decoration: underline;">Displacement</span>:</span> Vector quantity that defines an object's change in position
+<ul>
+	<li><span style="line-height: 21.81818199157715px;">Unit =&gt; Meter <img alt="(m)" src="http://latex.codecogs.com/gif.latex?(m)" align="absmiddle" />; Symbol =&gt; Δx</span></li>
+</ul>
+<span style="color: #3366ff;"><span style="text-decoration: underline;">Distance</span>:</span> Scalar quantity that defines how far an object has traveled
+<ul>
+	<li><span style="line-height: 13.991477012634277px;">Unit =&gt; Meter <img alt="(m)" src="http://latex.codecogs.com/gif.latex?(m)" align="absmiddle" />; Symbol =&gt; d</span></li>
+</ul>
+<span style="color: #3366ff;"><span style="text-decoration: underline;">Average Velocity</span>:</span> Vector quantity that is equal to the change in displacement over a time
+<ul>
+	<li><span style="line-height: 21.81818199157715px;">Unit =&gt; Meters per Second <img alt="\left ( \frac{m}{s}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;\frac{m}{s}\right&amp;space;)" align="absmiddle" />; Symbol =&gt; v</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} v = \frac{\Delta x}{\Delta t}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v&amp;space;=&amp;space;\frac{\Delta&amp;space;x}{\Delta&amp;space;t}}" align="absmiddle" /></p>
+<span style="color: #3366ff;"><span style="text-decoration: underline;">Average Speed</span>:</span> Scalar quantity that is equal to the total distance traveled over a time (cannot be negative)
+<ul>
+	<li><span style="line-height: 21.81818199157715px;">Unit =&gt; Meters per Second <img alt="\left (\frac{m}{s} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(\frac{m}{s}&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; s</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} s = \frac{d}{\Delta t} }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;s&amp;space;=&amp;space;\frac{d}{\Delta&amp;space;t}&amp;space;}" align="absmiddle" /></p>
+<span style="color: #3366ff;"><span style="text-decoration: underline;">Average Acceleration</span>:</span> Vector quantity that is equal to the change in velocity over a time
+<ul>
+	<li><span style="line-height: 21.81818199157715px;">Unit =&gt; Meters per Second Squared <img alt="\left (\frac{m}{s^{2}} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(\frac{m}{s^{2}}&amp;space;\right&amp;space;)" align="absmiddle" /></span><span style="line-height: 21.81818199157715px;">; Symbol =&gt; a</span></li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} a= \frac{\Delta v}{\Delta t}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a=&amp;space;\frac{\Delta&amp;space;v}{\Delta&amp;space;t}}" align="absmiddle" />
+
+<span style="text-decoration: underline; color: #3366ff;">Gravity:</span><span style="color: #3366ff;"> <span style="color: #000000;">C</span></span>reates acceleration due to Earth's mass and is equal to about 9.8 m/s<sup>2</sup>
+<ul>
+	<li><span style="line-height: 14px;">Symbol =&gt; g</span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Graphic Relationships</span></h2>
+As we can see from the equations above, distance, velocity and acceleration are all related. To demonstrate this, lets take a person throwing a ball up in the air as an example of this. The graphs below depict this situation.
+<h3 style="text-align: center;">Displacement Graph</h3>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/d-v-t.png"><img class="size-medium wp-image-1851 aligncenter" style="margin: 5px auto; display: block; text-align: center;" alt="d v t" src="http://compactcourse.com/wp-content/uploads/2013/06/d-v-t-300x179.png" width="300" /></a>
+<p style="text-align: center;"> As the ball is thrown, its displacement increases until it reaches its highest point. At this point the ball is neither gaining or losing altitude, which is why the velocity is equal to 0. It then begins to lose altitude until it falls back to its original position so there is no net change of displacement.</p>
+
+<h3 style="text-align: center;">Velocity Graph</h3>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/v-v-t.png"><img class="alignnone size-medium wp-image-1856" style="margin: 5px auto; display: block; text-align: center;" alt="v v t" src="http://compactcourse.com/wp-content/uploads/2013/06/v-v-t-300x192.png" width="300" /></a></p>
+<p style="text-align: center;">When the ball is first thrown, the velocity is the greatest because as it climbs, acceleration due to gravity resists its motion upwards. It eventually causes it to stop climbing and then begins to pull it back down to the ground. The initial and final velocities both have the same magnitude.</p>
+
+<h3 style="text-align: center;">Acceleration Graph</h3>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/a-v-t1.png"><img class="alignnone size-medium wp-image-1859" style="margin: 5px auto; display: block; text-align: center;" alt="a v t" src="http://compactcourse.com/wp-content/uploads/2013/06/a-v-t1-300x168.png" width="300" /></a>
+<p style="text-align: center;">The acceleration remains constant at -9.8 m/s^2 (gravity).</p>
+
+<h2 style="text-align: center;">Relationships</h2>
+<h3 style="text-align: center;">Slope Relationships</h3>
+<ul>
+	<li><span style="line-height: 14px;">The velocity graph plots the slope of the displacement graph at every single point</span></li>
+	<li>The acceleration graph plots the slope of the velocity graph at every single point</li>
+</ul>
+<h3 style="text-align: center;">Area for Velocity Graphs Relationships</h3>
+<ul>
+	<li>The area bounded by the curve <span style="text-decoration: underline;">above</span> the x axis for the velocity graph equals the total distance traveled in the <span style="text-decoration: underline;">positive direction</span></li>
+	<li>The area bounded by the curve <span style="text-decoration: underline;">below</span> the x axis for the velocity graph equals the total distance traveled in the <span style="text-decoration: underline;">negative direction</span></li>
+</ul>
+<h3 style="text-align: center;"> Area for Acceleration Graphs Relationships</h3>
+<ul>
+	<li>The area bounded by the curve <span style="text-decoration: underline;">above</span> the x axis for the acceleration graph equals the amount of <span style="text-decoration: underline;">positive change in velocity</span></li>
+	<li>The area bounded by the curve <span style="text-decoration: underline;">below</span> the x axis for the acceleration graph equals the amount of <span style="text-decoration: underline;">negative change in velocity</span></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #3366ff; text-decoration: underline;">Kinematic Equations</span></span></h2>
+When we are dealing with many kinematic problems, three equations become of much use. These equations are seen below. REMEMBER THESE!
+<p style="text-align: center;"><img alt="{\color{Blue} v = v_{o} + at}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v&amp;space;=&amp;space;v_{o}&amp;space;+&amp;space;at}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the final velocity, v<sub>o</sub> is the initial velocity, and a is the acceleration over a time t
+</span></p>
+<p style="text-align: center;"><img alt="{\color{Blue} v^{2} = v_{o}^{2} + 2a(x-x_{o})}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v^{2}&amp;space;=&amp;space;v_{o}^{2}&amp;space;+&amp;space;2a(x-x_{o})}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the final velocity, v<sub>o</sub> is the initial velocity, a is the acceleration over a time period t, x is the final position, and x<sub>o</sub> is the initial position</span></p>
+<p style="text-align: center;"><img alt="{\color{Blue} x = x_{o}+v_{o}t + \frac{1}{2}at^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;x&amp;space;=&amp;space;x_{o}+v_{o}t&amp;space;+&amp;space;\frac{1}{2}at^{2}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v<sub>o</sub> is the initial velocity, a is the acceleration over a time period t, x is the final position, and x<sub>o</sub> is the initial position</span></p>
+<p style="text-align: left; padding-left: 30px;">ex.) A car accelerates from 8.0 m/s to 12.0 m/s in 5.4 seconds. Determine the acceleration of the car and the distance traveled.</p>
+
+<ul>
+	<li><span style="color: #ff0000;">Givens</span>
+<ul>
+	<li><img alt="{\color{Red} v_{o}=8.0\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{o}=8.0\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} v_{f}=12.0\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{f}=12.0\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} t=5.4\, \, s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;t=5.4\,&amp;space;\,&amp;space;s}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} x_{o}=0\, \, m}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x_{o}=0\,&amp;space;\,&amp;space;m}" align="absmiddle" /></li>
+</ul>
+</li>
+	<li><img alt="{\color{Red} a= \frac{\Delta v}{\Delta t}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a=&amp;space;\frac{\Delta&amp;space;v}{\Delta&amp;space;t}}" align="absmiddle" /> <span style="color: #ff0000;">so <img alt="{\color{Red} a= \frac{12.0\, m/s\, \, - \, \, 4.0\, m/s}{5.4\, s}=1.48 \, m/s^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a=&amp;space;\frac{12.0\,&amp;space;m/s\,&amp;space;\,&amp;space;-&amp;space;\,&amp;space;\,&amp;space;4.0\,&amp;space;m/s}{5.4\,&amp;space;s}=1.48&amp;space;\,&amp;space;m/s^{2}}" align="absmiddle" /></span></li>
+	<li><img alt="{\color{Red} x = x_{o}+v_{o}t + \frac{1}{2}at^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x&amp;space;=&amp;space;x_{o}+v_{o}t&amp;space;+&amp;space;\frac{1}{2}at^{2}}" align="absmiddle" /> so <img alt="{\color{Red} x = 0\, m+(8.0\, m/s)(5.4\, s) + \frac{1}{2}(1.48\, m/s^{2})(5.4\, s)^{2}=64.8\, m}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x&amp;space;=&amp;space;0\,&amp;space;m+(8.0\,&amp;space;m/s)(5.4\,&amp;space;s)&amp;space;+&amp;space;\frac{1}{2}(1.48\,&amp;space;m/s^{2})(5.4\,&amp;space;s)^{2}=64.8\,&amp;space;m}" align="absmiddle" /></li>
+</ul>
+<p style="padding-left: 30px;">ex.) A ball is thrown straight up and has a hang time of 3.2 seconds. How high does the ball climb before it finally falls back down?</p>
+
+<ul>
+	<li><span style="color: #ff0000;">Givens</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{f}=0\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{f}=0\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /> because at its highest point, it is neither ascending or descending</span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} total\, time=3.2\, \, s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;total\,&amp;space;time=3.2\,&amp;space;\,&amp;space;s}" align="absmiddle" /> but the time we use is <img alt="{\color{Red} t=1.6\, \, s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;t=1.6\,&amp;space;\,&amp;space;s}" align="absmiddle" /> since the time it takes to reach the peak is one half of the total hang time</span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} a=g=-9.8\, \, m/s^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a=g=-9.8\,&amp;space;\,&amp;space;m/s^{2}}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img style="line-height: 22px;" alt="{\color{Red} x_{o}=0\, \, m}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x_{o}=0\,&amp;space;\,&amp;space;m}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v = v_{o} + at\, }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v&amp;space;=&amp;space;v_{o}&amp;space;+&amp;space;at\,&amp;space;}" align="absmiddle" /> so <img alt="{\color{Red} 0\, m/s = v_{o} + (-9.8\, m/s^{2})(1.6\, s)\, }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;0\,&amp;space;m/s&amp;space;=&amp;space;v_{o}&amp;space;+&amp;space;(-9.8\,&amp;space;m/s^{2})(1.6\,&amp;space;s)\,&amp;space;}" align="absmiddle" /> which means <img alt="{\color{Red} v_{o}=15.7\, m/s\, }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{o}=15.7\,&amp;space;m/s\,&amp;space;}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v^{2} = v_{o}^{2} + 2a(x-x_{o})}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v^{2}&amp;space;=&amp;space;v_{o}^{2}&amp;space;+&amp;space;2a(x-x_{o})}" align="absmiddle" /> so <img alt="{\color{Red} (0\, m/s)^{2} = (15.7\, m/s)^{2} + 2(-9.8\, m/s^{2})(x-0\, m)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;(0\,&amp;space;m/s)^{2}&amp;space;=&amp;space;(15.7\,&amp;space;m/s)^{2}&amp;space;+&amp;space;2(-9.8\,&amp;space;m/s^{2})(x-0\,&amp;space;m)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">With algebra, we solve for peak height as <img alt="{\color{Red} x=12.6\, m}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=12.6\,&amp;space;m}" align="absmiddle" /></span></li>
+</ul>
+<h2 style="text-align: center;">Two Dimensional Motion</h2>
+So far everything we have learned in this lesson only referred to one dimensional motion. What if an object now has motion properties in the x and y directions? To solve for these properties we can use the chart below.
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/2-D-Motion.png"><img class="alignnone size-full wp-image-4364" style="margin: 5px auto; display: block; text-align: center;" alt="2-D Motion" src="http://www.compactcourse.com/wp-content/uploads/2013/07/2-D-Motion.png" width="450" /></a>
+
+&nbsp;
+<ul>
+	<li>There is always acceleration in the y-direction due to gravity</li>
+	<li>The only way an object can accelerate in the x-direction is with a device such as a rocket</li>
+	<li>If no device acts upon an object, the speed in the x-direction will remain constant</li>
+</ul>
+<p style="padding-left: 30px;">ex.) A baseball is thrown at an initial speed of 32 m/s at an angle of 35 degrees from the horizontal.  Determine the time of flight, the horizontal displacement, and the peak height of the baseball.</p>
+
+<ul>
+	<li><span style="color: #ff0000;">Givens</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{o}=32.0\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{o}=32.0\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red}\Theta =35^{o}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}\Theta&amp;space;=35^{o}}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">x-direction</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{ox}=(32.0\, \, m/s)\cos 35^{o}=26.2\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{ox}=(32.0\,&amp;space;\,&amp;space;m/s)\cos&amp;space;35^{o}=26.2\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{ox}=v_{fx}=26.2\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{ox}=v_{fx}=26.2\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img style="line-height: 22px;" alt="{\color{Red} a_{x}=0\, \, m/s^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a_{x}=0\,&amp;space;\,&amp;space;m/s^{2}}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">y-direction</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{oy}=(32.0\, \, m/s)\sin 35^{o}=18.4\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{oy}=(32.0\,&amp;space;\,&amp;space;m/s)\sin&amp;space;35^{o}=18.4\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{oy}=-v_{fy}=-18.4\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{oy}=-v_{fy}=-18.4\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img style="line-height: 22px;" alt="{\color{Red} a_{y}=g=-9.8\, \, m/s^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;a_{y}=g=-9.8\,&amp;space;\,&amp;space;m/s^{2}}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">Time of flight</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v _{fy}= v_{oy} + a_{y}t}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v&amp;space;_{fy}=&amp;space;v_{oy}&amp;space;+&amp;space;a_{y}t}" align="absmiddle" /> so <img alt="{\color{Red} -18.4\, \, m/s= 18.4\, \, m/s + (-9.8\, \, m/s^{2})t}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;-18.4\,&amp;space;\,&amp;space;m/s=&amp;space;18.4\,&amp;space;\,&amp;space;m/s&amp;space;+&amp;space;(-9.8\,&amp;space;\,&amp;space;m/s^{2})t}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red}t=3.8\, \, s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}t=3.8\,&amp;space;\,&amp;space;s}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">Horizontal Displacement</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} \Delta x=v_{ox}t}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\Delta&amp;space;x=v_{ox}t}" align="absmiddle" /> so <img alt="{\color{Red} \Delta x= (26.2\, \, m/s)(3.8\, \, s) }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\Delta&amp;space;x=&amp;space;(26.2\,&amp;space;\,&amp;space;m/s)(3.8\,&amp;space;\,&amp;space;s)&amp;space;}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} \Delta x=99.6\, \, m }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\Delta&amp;space;x=99.6\,&amp;space;\,&amp;space;m&amp;space;}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">Peak Height</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{y}^{2}=v_{oy}^{2}+2a_{y}\Delta y}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{y}^{2}=v_{oy}^{2}+2a_{y}\Delta&amp;space;y}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">At the ball's peak height, <img alt="{\color{Red} v_{y}=0\, \, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{y}=0\,&amp;space;\,&amp;space;m/s}" align="absmiddle" /> so <img alt="{\color{Red} (0\, \, m/s)^{2}=(18.4\, \, m/s)^{2}+2(-9.8\, \, m/s^{2})\Delta y}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;(0\,&amp;space;\,&amp;space;m/s)^{2}=(18.4\,&amp;space;\,&amp;space;m/s)^{2}+2(-9.8\,&amp;space;\,&amp;space;m/s^{2})\Delta&amp;space;y}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} \Delta y=17.3\, \, m }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\Delta&amp;space;y=17.3\,&amp;space;\,&amp;space;m&amp;space;}" align="absmiddle" /></span></li>
+</ul>
+</li>
+</ul>

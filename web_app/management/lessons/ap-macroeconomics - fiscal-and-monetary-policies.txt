@@ -1,0 +1,119 @@
+Monetary and fiscal policies are implemented by the Federal Reserve and elected officials, respectively, to help aid the economy. Monetary and fiscal policies are, by definition, part of Keynesian economics because they involve government interference with the economy. The good news about this chapter is that you're already familiar with both types of policies.
+<h2>Fiscal Policy</h2>
+Fiscal policy has been used all throughout this course, so I will try not to be redundant. Fiscal policies are taken by elected officials, such as congressmen, and are usually involve either taxing or spending. The <a title="Aggregate Demand – Lesson" href="http://www.compactcourse.com/courses/ap-macroeconomics/aggregate-demand/aggregate-demand/">Aggregate Demand</a> and the <a title="Demand &amp; Supply – Lesson" href="http://www.compactcourse.com/courses/ap-macroeconomics/demand-supply/demand-supply-lesson/">Demand &amp; Supply</a> chapters primarily introduced the idea of fiscal policy.
+
+An example of a fiscal policy is lowering income taxes. This gives people more expendable income, results in an increase in consumer spending/consumption. This increase in consumption increases aggregate demand as well, shifting the AD curve to the right, resulting in higher price levels and higher real GDP.
+
+Fiscal policies can be on the demand side or the supply side of economics. The ones listed below are the most common types of fiscal policies.
+<h3>Demand Side</h3>
+Just to remind you, fiscal policies can affect aggregate demand by changing any one of the components of aggregate demand, but they'll usually affect consumption or government spending
+<h4><img class="alignleft" alt="AD Shift Left" src="http://www.compactcourse.com/images/AD-AS AD Shift Left.png" width="206" height="181" />Personal Income Taxes</h4>
+When the government raises personal income taxes, people are left with less expendable income. Therefore, consumer spending/consumption decreases, which decreases aggregate demand. This shifts the AD curve to the left, yielding lower price levels and lower output/real GDP. Remember that this is synonymous with lower inflation and higher unemployment.
+
+A decrease in personal income taxes will do the complete opposite of the above.
+
+&nbsp;
+<h4>Government Spending</h4>
+<img class="alignleft" alt="AD Shift Right" src="http://www.compactcourse.com/images/AD Shift Right.png" width="212" height="179" />
+
+Sometimes the AP exam will just say that the government increases spending on something. Well, that means that government spending increases, which increases aggregate demand as well. This shifts the AD curve to the right, yielding higher price levels and higher output. This also means that there is lower unemployment and higher inflation.
+
+Decreases in spending will do the opposite of above.
+<h5>Multipliers</h5>
+You know how money was created through the banking system due to loans? Well, when the government changes personal income taxes or changes its spending, the total amount of change in aggregate demand is actually a lot more than the initial amount the government used for the same reason. If someone received $5, they might spend $4 for a good or service. The person receiving those $4 might spend $3 of it on a good or service. The person receiving those $3 might spend $1 on a good or service. As you can see, the total amount of spending in this situation is $8, even though the initial amount injected into the economy was only $5. Money was multiplied.
+
+There are two more multipliers (other than the money multiplier in the last chapter) that you need to know:
+
+The spending multiplier: $latex SM=\frac{1}{MPS}&amp;fg=007fff$
+
+The tax multiplier: $latex SM=\frac{MPC}{MPS}&amp;fg=007fff$
+
+MPC and MPS are respectively the marginal propensities to consume and save. As you know, the higher the MPC in a country is, the more that nation's people will spend, and vice-versa. The MPC and MPS are both numbers ranging from 0 to 1, and they both add up to 1
+(MPS + MPC = 1). At least one of them will be given to you on the AP exam, and you'll have to use one or both to find the tax/spending multiplier.
+
+For example, if you were given: MPC = 0.75, and wanted to know the tax multiplier, you would do as follows:
+<p style="padding-left: 30px;">MPS + MPC = 1 =&gt; MPS = 1 - MPC = 1 - 0.75 =&gt; MPS = 0.25</p>
+<p style="padding-left: 30px;">MPC = 0.75 = 3/4 and MPS = 0.25 = 1/4</p>
+<p style="padding-left: 30px;">$latex TM=\frac{MPC}{MPS}= \frac{(3/4)}{(1/4)}=3$</p>
+The process above is a fair problem that you are expected to be able to do on the AP exam. Once you calculate either multiplier, to find the total change in aggregate demand, you multiply it by the initial spending/taxing amount.
+
+Ex: If the MPS = 0.8 and the government cuts personal income taxes by $100,000, what will be the total change in aggregate demand?
+
+Answer: MPC = 1 - MPS = 1 - 0.8 = 0.2
+<p style="padding-left: 60px;">MPS = 0.8 = 8/10 = 4/5 and MPC = 0.2 = 2/10 = 1/5</p>
+<p style="padding-left: 60px;">$latex TM=\frac{MPC}{MPS}=\frac{(1/5)}{(4/5)}=\frac{1}{4}$</p>
+<p style="padding-left: 60px;">Total = ($100,000)(SM) = ($100,000)(1/4) = $25,000</p>
+<p style="padding-left: 60px;">Now, you must determine whether aggregate demand increases or decreases. Well, the government is <em>cutting</em> taxes, which means that people will have <em>more </em>expendable income, so aggregate demand will increase by $25,000</p>
+<p style="padding-left: 90px;">Yes, sometimes the tax multiplier will actually result in a <em>lower</em> amount of aggregate demand change. This is because when the marginal propensity to save is very high, people will not spend the majority of the tax cuts they receive.</p>
+Often, the AP exam will combine conflicting demand side fiscal policies in one question, one policy to increase aggregate demand and one policy to decrease it:
+
+Ex: If the MPS = 0.5, and the government increases spending by $50,000 while increasing personal income taxes by the same amount, what will be the total change in aggregate demand?
+
+Answer: MPC = 1 - MPS = 1 - 0.5 = 0.5
+<p style="padding-left: 60px;">MPS = 0.5 = 1/2 and MPC = 0.5 = 1/2</p>
+<p style="padding-left: 60px;">$latex TM=\frac{MPC}{MPS}=\frac{(1/2)}{(1/2)}=1$</p>
+<p style="padding-left: 60px;">$latex SM=\frac{1}{MPS}=\frac{1}{(1/2)}=2$</p>
+<p style="padding-left: 60px;">Change due to taxing = ($50,000)(TM) = ($50,000)(1) = $50,000</p>
+<p style="padding-left: 60px;">Change due to spending = ($50,000)(SM) = ($50,000)(2) = $100,000</p>
+<p style="padding-left: 60px;">The increase in taxes leaves people with less expendable income, so aggregate demand decreases by $50,000. However, the increase in government spending increases aggregate demand by $100,000. Therefore, the total change in aggregate demand is an increase of $50,000.</p>
+<p style="padding-left: 90px;">Questions like these are common. Understand that government spending will always be stronger than tax changes of the same amount because government spending is a direct injection of money into the economy, while tax changes depend largely on the MPS and MPC.</p>
+
+<h3>Supply Side</h3>
+Remember that anything that changes the per unit cost of production will change aggregate supply.
+<h4><img class="alignleft" alt="AS Shift Left" src="http://www.compactcourse.com/images/AD-AS AS Shift Left1.png" width="207" height="184" /><img class="alignleft" alt="PC Shift Right" src="http://www.compactcourse.com/images/PC Shift Right.png" width="205" height="185" />Excise Taxes</h4>
+Excise taxes are added taxes on the production of certain goods and services. When the government raises excise taxes on the production of goods, the per unit cost of production increases, decreasing aggregate supply. This shifts the AS curve to the left, lowering output and increasing price levels. This also means that both inflation and unemployment increase.
+
+Decreasing excise taxes work to the opposite effect.
+
+<h4><img class="alignleft" alt="AS Shift Right" src="http://www.compactcourse.com/images/AD-AS AS Shift.png" width="206" height="183" /><img class="alignleft" alt="PC Shift Left" src="http://www.compactcourse.com/images/PC Shift Left.png" width="193" height="178" />Subsidies</h4>
+The government sometimes spends on subsidies, which are payments for the production of certain goods and services (pretty much the opposite of excise taxes). Even though the government does "spend" for the subsidies, the effect to look at is on the demand side. When the government increase subsidies, the per unit cost of production decreases, increasing aggregate supply. This shifts the As curve to the right, increasing output and lowering price levels. This also means that both inflation and unemployment decrease.
+<p style="padding-left: 450px;">Decreasing subsidies will do the opposite of above.</p>
+
+<h2>Monetary Policy</h2>
+Monetary policy is conducted by the Federal Reserve, which uses different methods to change the money supply. Changes in the money supply have one direct effect: interest rates (real and nominal). As you know, changes in real interest rates will also change business investment accordingly due to a change in the profitability of loans. Changes in business investment will then change aggregate demand. Therefore, <span style="text-decoration: underline;">all</span> monetary policy is on the demand-side of economics.
+<h3>Money Supply and Loanable Funds</h3>
+<img class="alignleft" alt="SM Shift Right" src="http://www.compactcourse.com/images/Sm Shift Right.png" width="165" height="150" /><img class="alignleft" alt="SLF Shift Right" src="http://www.compactcourse.com/images/LF Market SLF Right.png" width="160" height="148" /><img class="alignright" alt="Sm Shift Left" src="http://www.compactcourse.com/images/Sm Shift Left.png" width="161" height="145" /><img class="alignright" alt="SLF Shift Left" src="http://www.compactcourse.com/images/LF Market SLF Left.png" width="156" height="143" />The Federal Reserve changes interest rates by altering the money supply. Increasing the money supply not only shifts the Sm curve to the right on the Money Market graph, but it also shifts the S<sub>LF</sub> curve to the right on the Loanable Funds graph. Remember that the supply of loanable funds is basically the amount of money banks hold that are available to be loaned out. When the Fed increases the money supply, it does so by giving money to banks, which subsequently increases the supply of loanable funds. So make sure you understand that the two shifts to the left and to the right are synonymous.
+
+As you can see, increasing the supply of loanable funds and the money supply decreases nominal and real interest rates (shown on the graphs by shifting the Sm and S<sub>LF</sub> curves to the right). This increases business investment due to higher profitability of loans, which in turn increases aggregate demand as well, shifting the AD curve to the right. This yields higher price levels and output. This also means that there will be higher inflation and lower unemployment. The sequence is shown on the graphs below.
+
+<img alt="SM Shift Right" src="http://www.compactcourse.com/images/Sm Shift Right.png" width="229" height="208" /><img alt="SLF Shift Right" src="http://www.compactcourse.com/images/LF Market SLF Right.png" width="228" height="209" /><img class="alignnone" alt="AD Shift Right" src="http://www.compactcourse.com/images/AD Shift Right.png" width="223" height="211" /><img class="alignnone" alt="PC Along Left" src="http://www.compactcourse.com/images/PC Along Left.png" width="229" height="212" />
+
+Decreasing the supply of loanable funds and the money supply does the opposite. The shift of the Sm and S<sub>LF</sub> curves to the left results in higher nominal and real interest rates. This decreases business investment due to lower profitability of loans, which in turn decreases aggregate demand as well, shifting the AD curve to the left. This yields lower price levels and output. This also means that there will be lower inflation and higher unemployment.
+
+<img alt="SM Shift Left" src="http://www.compactcourse.com/images/Sm Shift Left.png" width="229" height="208" /><img alt="SLF Shift Left" src="http://www.compactcourse.com/images/LF Market SLF Left.png" width="228" height="209" /><img class="alignnone" alt="AD Shift Left" src="http://www.compactcourse.com/images/AD Shift Left.png" width="223" height="211" /><img class="alignnone" alt="PC Along Right" src="http://www.compactcourse.com/images/PC Along Right.png" width="229" height="212" />
+
+For the sake of your sanity (and mine), I'll show how each tool of the Fed will change the the money supply and supply of loanable funds. I won't continually repeat the following processes again and again for each problem. If you need to refer to this section again, then by all means, please do so. Understand the concept that decreasing the money supply and supply of loanable funds will decrease aggregate demand, while increasing the money supply and supply of loanable funds will increase aggregate demand.
+<h3>Open Market Operations</h3>
+The first of the Fed's three tools is open market operations, which is just buying and selling bonds.
+
+The Federal Reserve can sell bonds to commercial banks. By doing so, banks will <em>give</em> the Fed money for the bonds. This means that money will go out of circulation, and thus the money supply will decrease, along with the supply of loanable funds.
+
+When the Fed buys bonds from commercial banks, it <em>gives</em> banks money for the bonds, so the money supply and the supply of loanable funds both increase.
+<h3>Reserve Requirement</h3>
+As you know, banks are required to keep a certain amount of their demand deposits on reserve. These required reserves are to be held by the banks in order to have funds on demand for withdraws. Therefore, the required reserves are not technically considered part of the money supply. The Federal Reserve has control over the <a title="Banking – Lesson" href="http://www.compactcourse.com/courses/ap-macroeconomics/banking/lesson/#RRR">required reserve ratio (RRR)</a>, which determines the amount of required reserves.
+
+When the Federal Reserve lowers the RRR, the amount of required reserves decreases, and some of the required reserves is transferred over to the excess reserves. This transfer makes those funds part of the money supply and are now able to be loanable. Therefore, the money supply and the supply of loanable funds increase.
+
+When the Fed raises the RRR, the amount of required reserves increases, taking funds from the pool of excess reserves. This transfer takes those funds out of circulation, so the money supply and the supply of loanable funds decrease.
+<h3>Discount Rate</h3>
+Say a bank has one demand deposit of $100,000. If the RRR = 0.4, then the bank only has to keep $40,000 as required reserves. Say also that the bank loans all of its excess reserves. How would it be able to provide the adequate funds if the owner of that demand deposit withdrew $60,000? The bank would actually have to take a loan out from either another commercial bank or the Federal Reserve (the "lender of last resort"). The interest rate on loans from the Federal Reserve is known as the discount rate.
+
+If the Federal Reserve lowers the discount rate, then banks will be more willing to give out loans to businesses and consumers because they know that if they run out of reserves to transact withdraws, borrowing from the Fed will be cheap. It's like how business investment increases when real interest rates are lower because profitability of loans are greater. In this case, however, loans are the investment and banks are the businesses. This increase in loans will cause money multiplication, which will increase the money supply and supply of loanable funds.
+
+If the Fed raises the discount rate, banks will be less willing to loan off their excess reserves, so the process of money multiplication is restricted. This will decrease the money supply and supply of loanable funds.
+
+&nbsp;
+<h2>Expansionary vs. Contractionary Policies</h2>
+Many prep books will try to list which specific policies are expansionary and which policies are contractionary. The only thing you need to understand is that expansionary policies try to bring the economy out of a recession (they <em>expand</em> the economy) and that contractionary policies try to combat high inflation (they <em>contract</em> the economy). If you understand what a certain policy will do it's easy to classify it as expansionary or contractionary.
+
+Ex: What type of policy would the Federal Reserve be using if it sold bonds on the open market?
+
+Answer: If the Federal Reserve sold bonds to banks, banks would <em>give</em> money to the Federal Reserve to buy bonds. Therefore, money would be going out of circulation, so the money supply would decrease, shifting the Sm curve to the left and raising nominal interest rates.
+<p style="padding-left: 30px;">It's easy to generalize that increasing the supply of money will result in higher GDP, so it's implemented in expansionary monetary policies. Obviously, decreasing the supply of money would thus be implemented in contractionary monetary policy. If you want to "memorize" these, go ahead, but it's easier to just understand things.</p>
+&nbsp;
+
+The AP exam will often ask about combinations of policies. For example, you should understand that lowering the discount rate and decreasing personal income taxes <em>both</em> increase aggregate demand. Thus, both are good expansionary policies. If this doesn't come automatically to you, you should just go through the steps:
+<p style="padding-left: 30px;">Decreasing the discount rate will increase the amount of loans commercial banks take from the Federal Reserve. This will increase the money supply, shifting the Sm curve to the right and the S<sub>LF</sub> curve to the right (draw these out). This will decrease nominal and real interest rates, which will work to increase business investment due to higher profitability of loans. This will then increase aggregate demand. Obviously, an increase in government spending will increase aggregate demand as well. Walking through these steps should come quickly if you understand the underlying principles of each one.</p>
+&nbsp;
+
+&nbsp;

@@ -1,0 +1,42 @@
+The cell is the functional unit in which most of the chemical processes already talked about in this course occur. For the AP, its important to remember that the makeup of a cell wont have all the cell organelles listed below. That would be very inefficient. Additionally, the cell makeup will vary based on whether it's prokaryotic or eukaryotic.
+<h2 style="text-align: center;"><span style="color: #007fff;">Prokaryotic vs Eukaryotic Cells</span></h2>
+There are a few hallmark differences between prokaryotic and eukaryotic cells:
+<ul>
+	<li><span style="line-height: 13.993056297302246px;">prokaryotic cells have no nucleus or membrane bound organelles; eukaryotic cells do</span></li>
+	<li>prokaryotic cells have a region of clustered DNA that is unbounded, called the "nucleoid;" eukaryotic cells carry their DNA in the nucleus</li>
+	<li>Prokaryotic cells are usually bateria or archeabacteria, while eukaryotic cells can be animal, plant, or protist</li>
+	<li>Prokaryotic cells are much older, smaller and less complex than eukaryotic cells. It is said that eukaryotic cells have evolved from prokaryotes</li>
+</ul>
+Although very different, the two types of cells are similar in that they both have plasma membranes and are filled with a medium called cystol. Prokarytic cells are pretty simple so lets delve into the complexities of eukaryotes.
+<h2 style="text-align: center;"><span style="color: #007fff;">Cell Organelles</span></h2>
+Eukaryotic cells may contain an array of different organelles which carry out very specific cell functions. Not all cells will have all these organelles, but cell function will determine the structures within the cell. So here we go, there's quite a few of them...
+
+- <span style="text-decoration: underline; color: #007fff;">Membranes</span>: enclose the cell and several other organelles to create localized environments for the organelles to function and carry out their chemical reactions. This includes the cell membrane which is made up of a phospholipid bilayer
+
+- <span style="text-decoration: underline; color: #007fff;">Nucleus</span>: it holds the cells hereditary information in the form of DNA. Its surrounded by a double membraned <span style="color: #007fff;">nuclear envelope</span> to protect the DNA. This envelope is perforated by small holes called nuclear pores to allow movement of mRNA and ribosomes in and out of the nucleus. The center of the nucleus contains a <span style="color: #007fff;">nucleolus</span>, a thick structure responsible for the creation of ribosomal RNA and the construction of ribosomal subunits.
+
+- <span style="text-decoration: underline; color: #007fff;">Ribosomes</span>: made of protein and ribosomal subunits. Their main function is to read genetic information and build needed proteins according to the code sent from the nucleus
+
+***The following organelles are in the <span style="color: #007fff;">endomembrane system</span>, the system responsible for most of the cell's chemical activities.
+
+- <span style="color: #007fff;">Endoplasmic Reticulum (ER)</span>: There are two types of ER, the <span style="color: #007fff;">rough ER</span> and the <span style="color: #007fff;">smooth ER</span>. The main strutureal difference is that the rough ER has bounded ribsomes on its surface while the smooth ER doesn't. The two organelles surround the nucleus and have very different functions. The smooth ER contains enzymes that help synthesize steroid and phospholipids, metabolize carbs, detoxif drugs and poison, and release calcium ions during muscle contraction. The rough ER modifies many proteins that will be secreted from the cell, like glycoproteins.  IT also builds membranes for the cell, which are added to the cell membrane or other organelles through transport vesicles (little circular compartments built from the produced membrane).
+
+-<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Golgi Apparatus</span></span>: made up of flattened sacs and vesicles that produce and modify glycoproteins and other secretory molecules from the cell. The Golgi apparatus also tags these products for different locations, basically functioning as the shipping and tagging center of the cell.
+
+- <span style="text-decoration: underline; color: #007fff;">Lysomes</span>: small vesicles containing hydrolytic enzymes bounded by a membrane. They're found primarily in animal cells and are used for breaking down or digesting foreign invaders or macromolecules like food. Also can be important in <span style="color: #007fff;">autophagy</span>, programmed cell death.
+
+- <span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Vacuoles</span></span>: larger membrane bound compartments used for various functions, like holding food (food vacuole), pumping excess water out of the cell (contractile vacuoles), or simply storing water (central vacuoles in plants).
+
+***The endomembrane system ends here.
+
+- <span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Mitochondria</span></span>: carries out cellular respiration in cells without chloroplasts. Its main function is to produce ATP for the cells usage using oxidative phosphorylation. It has lots of folds in its membrane to increase its surface area.
+
+- <span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Chloroplasts</span></span>: captures solar energy and utilizes it to make ATP through photosynthesis. Usually found in plants and protists. Both the mitochondria and chloroplasts will be covered more in depth in the cell respiration and photosynthesis chapters.
+
+- <span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Cytoskeleton</span></span>: funtions in mechanical support and motility of a cell. It has three main components: <span style="color: #007fff;">microtubules</span>, <span style="color: #007fff;">microfilaments</span>, and <span style="color: #007fff;">intermediate filaments</span>. Microtubules support the cell's membrane and serve as tracks for motile organelles with the help of motor proteins. Cillia and Flagella on most protists are made out of microtublues. Microfilaments are larger and thicker than microtubules, and provide more solid structural support for the cell and many of its organelles. They are key in the structure of willi and muscle fibers. Intermediate filaments are in between microtubules and microfilaments in terms of size and thickness, and help maintain cell shape.
+
+- <span style="text-decoration: underline; color: #007fff;">Cell Wall</span>: composed of microfibrils and cellulose and found in plant cells and many bacteria cells. Its main function is to support the cell it encloses, which is very important in plants bring able to support their own wight without a skeletal system.
+
+- <span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Intercellular Junctions</span></span>: these are found only in multicellular organisms and serve the function of connecting the cystol in cells for communication purposes. In plants, they are known as <span style="text-decoration: underline;">plasmodesmata</span>. In animal cells, there are three types: <span style="text-decoration: underline;">tight junctions</span> (hold adjacent cells together), <span style="text-decoration: underline;">desmosomes</span> (support intermediate filaments to mesh cells into sheetlike structures), and <span style="text-decoration: underline;">gap junctions</span> (important in cell communications, just like plasmodesmata). These are important in inter cell communication in terms of triggering reactions  in a general cellular area.
+<h2 style="text-align: center;"><span style="color: #007fff;">Not all Cells are created the Same</span></h2>
+It's important to remember that a cells function will determine the type and quantity of each organelle it has. For example, a muscle cell will have more mitochondria and less ER since it needs ATP to power its contractions and secretes very few proteins. This will be very important on the AP.

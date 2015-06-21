@@ -1,0 +1,65 @@
+<h2>Introduction to GDP</h2>
+Gross Domestic Product is the value of all final goods and services produced within the borders of a country in a given year.
+<h3>Calculating GDP</h3>
+There are many ways to calculate a country's GDP, but the easiest way is by the expenditure approach.
+<h4>Expenditure Approach</h4>
+Calculating GDP by the expenditure approach is easy: all one must do is add up the all the spending on final goods and services in a given year. The GDP has four components, and it's important that you know all of them. They are: personal consumption (C), business investment (I), government spending (G), and net exports (X-M).
+<h5>Personal Consumption (C)</h5>
+I refer to it as consumer spending because that's exactly what it is: the total amount households (consumers) spend on goods and services. Consumer spending accounts for the largest portion of the GDP by far. There are two types of goods that consumers spend money on:
+<ul>
+	<li>Durable goods are things that last for a while, such as refrigerators and computers.</li>
+	<li>Non-durable goods are things that don't last for a while, such as food and tissues.</li>
+</ul>
+<h5>Business Investment (I)</h5>
+For the sake of this course, business investment refers to investment in factors of production. Any time you see business investment, you should immediately think of factors of production. An increase in factors of production, including technology, results in economic growth. This is very important to know later in this course, as the AP exam is starting to stress this idea.
+
+Business investment can include:
+<ul>
+	<li>spending on capital goods that enable it produce more</li>
+	<li>increases in inventory (goods not sold in the year they were produced)</li>
+</ul>
+<h5>Government Spending (G)</h5>
+Government spending includes any projects or programs that spend money on producing a good or service, such as the construction of highways or paying an official's salary. What's important to note is that transfer payments (money granted from the government to beneficiaries, such as people with pensions or entitled to Social Security) are <em><strong>not</strong></em><strong> </strong>included in the calculation of GDP. The reason why is that transfer payments aren't involved in production. (Paying an official's salary is different; the government is paying for his service.)<strong></strong>
+<h5>Net Exports (X-M)</h5>
+This is as simple as it sounds: the value of exports (X) minus the value of imports (M).
+<h5>GDP Equation</h5>
+So all of these components are used in an equation: GDP = C + I + G + (X-M). To be honest, you'll never probably "use" this equation; it should be common sense that the increase of a component should result in the increase of GDP.
+<h4>Income Approach</h4>
+The income approach includes labor income (salaries and wages), rent, interest, the profits of businesses, and statistical discrepancies. Instead of using outputs to measure GDP as in the expenditures approach, the income approach uses these inputs. Both approaches will yield the same GDP. Therefore, the GDP is often referred to as the national income as well.
+<h2>Real vs. Nominal</h2>
+<h3>Inflation and Real GDP</h3>
+Inflation makes the prices of goods rise, but it doesn't raise the actual <em>value</em> of those goods. All inflation does is decrease the purchasing power of money; a dollar this year won't be able to buy you as much if you spend it next year. Inflation also makes a country's <span style="color: #007fff;">nominal GDP</span> falsely represent what the country actually produces each year.
+
+Say a country's only production is apples, 5 last year and 4 this year. If the price of an apple was $1 last year and $3 this year, the country's GDP would have been $5 last year and $12 this year. This makes it look the the country produced more than it really did, even though it made less apples. What we just calculated was the country's nominal GDP, the total monetary value of goods and services produced each year. The <span style="color: #007fff;">real GDP</span>, on the other hand, is more telling of a country's production. Real GDP accounts for inflation and measures output based on what the final goods and services <em>would have </em>sold for in a "base year." If we chose last year to be the base year, then the real GDP would have been $5 last year and $4 this year.
+<h3>GDP Deflator</h3>
+The GDP deflator, or the GDP price index, is used to find the real GDP of a country. The GDP deflator is found by first making a basket of general goods, such as food, water, and other basic items that costs $100 in the base year. Then, one must calculate the price of the basket in a later year. The new price of the basket is the GDP deflator (just remove the $ sign from the number). The real GDP is calculated by the equation: <img alt="{\color{Blue} real \hspace{2mm} GPD =\frac{Nominal\hspace{2mm}GDP }{GDP\hspace{2mm}Deflator}\times 100}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;real&amp;space;\hspace{2mm}&amp;space;GPD&amp;space;=\frac{Nominal\hspace{2mm}GDP&amp;space;}{GDP\hspace{2mm}Deflator}\times&amp;space;100}" align="absmiddle" />
+
+Calculating the real GDP on free response problems is not bad. You will most likely either:
+<ul>
+	<li>be given the price of certain goods in the base year and another year, along with the quantity of goods sold in each year</li>
+</ul>
+OR
+<ul>
+	<li>be given the price of goods in a year, the quantity of goods sold in that year, and the GDP deflator</li>
+</ul>
+From this information, you should easily be able to calculate real GDP.
+<h2>Economic Growth</h2>
+Economic growth is the increase in real GDP over time. As aforementioned, economic growth is stimulated by an increase in factors of production through business investment. This is <em>very</em> important to know and understand.
+<h3>The Business Cycle</h3>
+Economies can fluctuate, undergoing short run growths and recession<a href="http://compactcourse.com/wp-content/uploads/2013/07/Business-Cycle.png"><img class="alignleft size-full wp-image-4051" alt="Business Cycle" src="http://compactcourse.com/wp-content/uploads/2013/07/Business-Cycle.png" width="291" height="243" /></a>s - the peaks and valleys, respectively. However, economic growth is the increase in real GDP <em>over time</em>. It is the growth in real GDP that you see when you look at the economy in the long run. To the left is a graph of the business cycle. You won't need to use this on the AP exam, but it is helpful to understand what long run economic growth looks like.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3>Economic Growth and The PPC</h3>
+<a href="http://compactcourse.com/wp-content/uploads/2013/07/PPC-Shift.png"><img class="alignleft size-full wp-image-4052" alt="PPC Shift" src="http://compactcourse.com/wp-content/uploads/2013/07/PPC-Shift.png" width="212" height="192" /></a>Business investment increases the quantity and quality of factors of production. Therefore, this enables a country to produce more, creating economic growth. The graph on the left illustrates a country undergoing long run economic growth. It has the ability to produce more goods than is could have before, which is why the <span style="color: #007fff;">PPC shifts to the right</span>. If you are ever asked to show economic growth on a PPC graph, this is what it should look like.
+
+&nbsp;
+
+&nbsp;
+<h3>Per Capita GDP</h3>
+Per capita GDP is a measure of a country's standard of living. It can be found by diving the real GDP of a country by that country's population. Per capita GDP is usually a better indicator of a country's productivity than real GDP is because it takes into account population. Therefore, economists would also define economic growth as the increase in per capita GDP over time as well as the definition given above.

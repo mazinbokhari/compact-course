@@ -1,0 +1,41 @@
+<p style="text-align: center;"><span style="color: #ff0000;"><a href="http://www.compactcourse.com/courses/ap-physics-b/simple-harmonic-motion/simple-harmonic-motion-lesson/" target="_blank"><span style="color: #ff0000;">See AP Physics B - Simple Harmonic Motion - Lesson for Basic Information</span></a></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Simple Harmonic Motion</span></h2>
+When an object is in simple harmonic motion, it exhibits a sinusoidal function
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Angular</span><span style="color: #007fff; text-decoration: underline;"> Frequency:</span></span> The number of circular revolutions an object completes in a certain time interval</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Hertz <img alt="\left ( s^{-1}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;s^{-1}\right&amp;space;)" align="absmiddle" />; Symbol =&gt; ω
+</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \omega =2\pi f}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\omega&amp;space;=2\pi&amp;space;f}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where f is the frequency</span></p>
+
+<ul>
+	<li><span style="color: #ff0000;">Recall <img alt="{\color{Red} T=2\pi \sqrt{\frac{m}{k}}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;T=2\pi&amp;space;\sqrt{\frac{m}{k}}}" align="absmiddle" />. </span>Since <img alt="f=\frac{1}{T}" src="http://latex.codecogs.com/gif.latex?f=\frac{1}{T}" align="absmiddle" />, this can be manipulated to the equation <img alt="f=\frac{1}{2\pi }\sqrt{\frac{k}{m}}" src="http://latex.codecogs.com/gif.latex?f=\frac{1}{2\pi&amp;space;}\sqrt{\frac{k}{m}}" align="absmiddle" />. We know that <img alt="f=\frac{\omega}{2\pi}" src="http://latex.codecogs.com/gif.latex?f=\frac{\omega}{2\pi}" align="absmiddle" /> from manipulating <img alt="\omega =2\pi f" src="http://latex.codecogs.com/gif.latex?\omega&amp;space;=2\pi&amp;space;f" align="absmiddle" />. When we plug this into <img alt="f=\frac{1}{2\pi }\sqrt{\frac{k}{m}}" src="http://latex.codecogs.com/gif.latex?f=\frac{1}{2\pi&amp;space;}\sqrt{\frac{k}{m}}" align="absmiddle" />, we are left with the equation<img class="aligncenter" alt="{\color{Blue} \omega =\sqrt{\frac{k}{m}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\omega&amp;space;=\sqrt{\frac{k}{m}}}" align="absmiddle" /></li>
+</ul>
+<p style="text-align: center;"><span style="color: #007fff;">where k is the spring constant and m is the mass of the object in simple harmonic motion</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Phase</span><span style="color: #007fff; text-decoration: underline;"> Shift:</span></span> How much the system is offset from its equilibrium position at t = 0</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Radians <img alt="\left ( rad\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;rad\right&amp;space;)" align="absmiddle" />; Symbol =&gt; Φ
+</span></li>
+	<li>Allows us to start the oscillator at any position and still have it fit the position equation with respect to time</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \phi =\sin^{-1}\left (\frac{x_{at\, \, t=0}}{A} \right )}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\phi&amp;space;=\sin^{-1}\left&amp;space;(\frac{x_{at\,&amp;space;\,&amp;space;t=0}}{A}&amp;space;\right&amp;space;)}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A is the amplitude and x<sub>at t=0</sub> is the x position when the time equals 0</span></p>
+
+<h3 style="text-align: center;">Position</h3>
+<p style="text-align: left;">We know that the graphs for an object looks like a sine graph. For this reason, we can derive an equation for the position of the object as a function of time. This equation is</p>
+<p style="text-align: center;"><img alt="{\color{Blue} x(t)=A\sin (\omega t+\phi )}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;x(t)=A\sin&amp;space;(\omega&amp;space;t+\phi&amp;space;)}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A is the amplitude, ω is the angular frequency, and Φ is the phase shift</span></p>
+
+<h3 style="text-align: center;">Velocity</h3>
+<p style="text-align: left;">We know that <img alt="v(t)={x}'(t)" src="http://latex.codecogs.com/gif.latex?v(t)={x}'(t)" align="absmiddle" /> from the kinematics chapter. So by taking the derivative of <img alt="x(t)=A\sin (\omega t+\phi )" src="http://latex.codecogs.com/gif.latex?x(t)=A\sin&amp;space;(\omega&amp;space;t+\phi&amp;space;)" align="absmiddle" />, we can find the velocity equation as a function of time. This equation is</p>
+<p style="text-align: center;"><img alt="{\color{Blue} v(t)=\omega A\cos (\omega t+\phi )}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v(t)=\omega&amp;space;A\cos&amp;space;(\omega&amp;space;t+\phi&amp;space;)}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A is the amplitude, ω is the angular frequency, and Φ is the phase shift</span></p>
+
+<h3 style="text-align: center;">Acceleration</h3>
+We know that <img alt="a(t)={v}'(t)" src="http://latex.codecogs.com/gif.latex?a(t)={v}'(t)" align="absmiddle" /> from the kinematics chapter. So by taking the derivative of <img alt="v(t)=\omega A\cos (\omega t+\phi )" src="http://latex.codecogs.com/gif.latex?v(t)=\omega&amp;space;A\cos&amp;space;(\omega&amp;space;t+\phi&amp;space;)" align="absmiddle" />, we can find the acceleration equation as a function of time. This equation is
+<p style="text-align: center;"><img alt="{\color{Blue} a(t)=-\omega^{2} A\sin (\omega t+\phi )}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a(t)=-\omega^{2}&amp;space;A\sin&amp;space;(\omega&amp;space;t+\phi&amp;space;)}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A is the amplitude, ω is the angular frequency, and Φ is the phase shift</span></p>

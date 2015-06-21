@@ -1,0 +1,82 @@
+<p style="text-align: center;"><span style="text-decoration: underline;"><a href="www.compactcourse.com/courses/ap-physics-b/vectors/vectors-lesson/"><span style="color: #ff0000; text-decoration: underline;">See AP Physics B - Vectors - Lesson for Basic Information</span></a></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">The Dot Product</span></h2>
+<span style="text-decoration: underline;"><span style="color: #3366ff; text-decoration: underline;">Dot Product:</span></span> Scalar quantity that is the magnitude of one vector's component that runs parallel to another vector
+<ul>
+	<li>The dot product of two vectors can be found through the equation <img class="aligncenter" alt="{\color{Blue} A\cdot B=\left | A \right |\left | B \right |\cos \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;A\cdot&amp;space;B=\left&amp;space;|&amp;space;A&amp;space;\right&amp;space;|\left&amp;space;|&amp;space;B&amp;space;\right&amp;space;|\cos&amp;space;\Theta&amp;space;}" width="160" /></li>
+</ul>
+<p style="text-align: center;"><span style="color: #007fff;">where |A| and |B| are the magnitudes of the two vectors and Θ is the angle between the two vectors</span></p>
+
+<ul>
+	<li>It can also be found with the formula</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} A\cdot B=(A_{x})(B_{x})+(A_{y})(B_{y})+(A_{z})(B_{z}))}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;A\cdot&amp;space;B=(A_{x})(B_{x})+(A_{y})(B_{y})+(A_{z})(B_{z}))}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where A<sub>x</sub>, A<sub>y</sub>, and A<sub>z</sub> are the components of vector A and B<sub>x</sub>, B<sub>y</sub>, and B<sub>z</sub> are the components of vector B</span></p>
+
+<h3 style="text-align: center;">Positive Dot Product</h3>
+When Θ is between 0º and 90º, the dot product is positive because the cosine of this angle has to be positive
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-+.png"><img class="alignnone size-full wp-image-4321" alt="cross product +" src="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-+.png" width="365" height="311" /></a></p>
+
+<h3 style="text-align: center;">Negative Dot Product</h3>
+When Θ is between 90º and 180º, the dot product is negative because the cosine of this angle has to be negative
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-.png"><img class="alignnone size-full wp-image-4320" style="margin: 5px auto; display: block; text-align: center;" alt="cross product -" src="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-.png" width="526" /></a>
+
+&nbsp;
+<h3 style="text-align: center;">Dot Product Equal to Zero</h3>
+When Θ equals 90º, the dot product is zero because the cosine of this angle has to be zero
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-0.png"><img class="alignnone size-full wp-image-4322" alt="cross product 0" src="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-0.png" width="408" height="270" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">The Cross Product</span></h2>
+<span style="text-decoration: underline;"><span style="color: #3366ff; text-decoration: underline;">Cross Product:</span></span> Vector quantity that is the magnitude of one vector's component that runs parallel to another vector
+<ul>
+	<li>The <span style="text-decoration: underline;">magnitude</span> of the cross product of two vectors can be found through the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \left |A\times B \right |=\left | A \right |\left | B \right |\sin \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\left&amp;space;|A\times&amp;space;B&amp;space;\right&amp;space;|=\left&amp;space;|&amp;space;A&amp;space;\right&amp;space;|\left&amp;space;|&amp;space;B&amp;space;\right&amp;space;|\sin&amp;space;\Theta&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where |A| and |B| are the magnitudes of the two vectors and Θ is the angle between the two vectors</span></p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-diagram.png"><img class="alignnone size-full wp-image-4325" style="margin: 5px auto; display: block; text-align: center;" alt="cross product diagram" src="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-diagram.png" width="350" /></a></p>
+
+<ul>
+	<li>The <span style="text-decoration: underline;">direction</span> of the cross product of two vectors can be found through the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} A\times B=(AxBy-AyBx)\widehat{k} + (AyBz-AzBy)\widehat{i }+ (AzBy-AxBz)\widehat{j} }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;A\times&amp;space;B=(AxBy-AyBx)\widehat{k}&amp;space;+&amp;space;(AyBz-AzBy)\widehat{i&amp;space;}+&amp;space;(AzBy-AxBz)\widehat{j}&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A<sub>x</sub>, A<sub>y</sub>, and A<sub>z</sub> are the components of vector A and B<sub>x</sub>, B<sub>y</sub>, and B<sub>z</sub> are the components of vector B</span></p>
+
+<ul>
+	<li>This above formula is the same thing as taking the determinant of the two vectors</li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-2.png"><img class="alignnone size-full wp-image-4304" style="margin: 5px auto; display: block; text-align: center;" alt="cross product 2" src="http://www.compactcourse.com/wp-content/uploads/2013/06/cross-product-2.png" width="400" /></a></p>
+
+<h3 style="text-align: center;">Right Hand Rule for the Cross Product</h3>
+To find the direction of the cross product vector,
+<ul>
+	<li>Use your right hand and stick your fingers in the direction of the first vector</li>
+	<li>Face your palm in the direction of the second vector</li>
+	<li>Your thumb points in the direction of the cross product vector</li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Derivatives</span></h2>
+<p style="text-align: center;">We are assuming there is some basic calculus knowledge for this part</p>
+
+<h3 style="text-align: center;">Chain Rule</h3>
+<p style="text-align: center;"><img alt="{\color{Blue} f(x)=kx^{n}}\, \, \,=&gt;\, \, \, \, {\color{Blue} f{}'(x)=nkx^{n-1}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=kx^{n}}\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=nkx^{n-1}}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Product Rule</h3>
+<img class="aligncenter" alt="{\color{Blue} f(x)=g(x)h(x)}\, \, \,=&gt;\, \, \, \, {\color{Blue} f{}'(x)=g(x)h{}'(x)+g{}'(x)h{}(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=g(x)h(x)}\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=g(x)h{}'(x)+g{}'(x)h{}(x)}" align="absmiddle" />
+<h3 style="text-align: center;">Quotient Rule</h3>
+<img class="aligncenter" alt="{\color{Blue} f(x)=\frac{g(x)}{h(x)}}\, \, \, \, =&gt;\, \, \, \, {\color{Blue} f{}'(x)=\frac{g{}'(x)h(x)-g(x)h{}'(x)}{(h(x))^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=\frac{g(x)}{h(x)}}\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=\frac{g{}'(x)h(x)-g(x)h{}'(x)}{(h(x))^{2}}}" align="absmiddle" />
+<h3 style="text-align: center;">Common Useful Derivatives</h3>
+<p style="text-align: center;"><img alt="{\color{Blue} f(x)=\sin (kx)}\, \, \,=&gt;\, \, \, \, {\color{Blue} f{}'(x)=k\cos (kx)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=\sin&amp;space;(kx)}\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=k\cos&amp;space;(kx)}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} f(x)=\cos (kx)}\, \, \,=&gt;\, \, \, \, {\color{Blue} f{}'(x)=-k\sin (kx)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=\cos&amp;space;(kx)}\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=-k\sin&amp;space;(kx)}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} f(x)=\ln (kx)}\, \, \,=&gt;\, \, \, \, {\color{Blue} f{}'(x)=k\frac{1}{x}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=\ln&amp;space;(kx)}\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=k\frac{1}{x}}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} f(x)=Ae^{-kx}}\, \, \,=&gt;\, \, \, \, {\color{Blue} f{}'(x)=-Ake^{-kx}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f(x)=Ae^{-kx}}\,&amp;space;\,&amp;space;\,=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;f{}'(x)=-Ake^{-kx}}" align="absmiddle" /></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Antiderivatives</span></h2>
+<p style="text-align: center;">We are assuming there is some basic calculus knowledge for this part</p>
+
+<h3 style="text-align: center;">Common Useful Antiderivatives</h3>
+<p style="text-align: center;"><img alt="{\color{Blue} \int k\, dx=ax+c}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\int&amp;space;k\,&amp;space;dx=ax+c}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} \int x^{n}\, dx=\frac{x^{n+1}}{n+1}+c\, \, \, \, \, }n\neq 1" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\int&amp;space;x^{n}\,&amp;space;dx=\frac{x^{n+1}}{n+1}+c\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;}n\neq&amp;space;1" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} \int \frac{1}{x}\, dx=\ln \left |x \right |+c}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\int&amp;space;\frac{1}{x}\,&amp;space;dx=\ln&amp;space;\left&amp;space;|x&amp;space;\right&amp;space;|+c}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} \int e^{x}\, dx=e^{x}+c\, \, \, \, \, }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\int&amp;space;e^{x}\,&amp;space;dx=e^{x}+c\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;\,&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} \int \sin (x)\, dx=-\cos (x)+c}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\int&amp;space;\sin&amp;space;(x)\,&amp;space;dx=-\cos&amp;space;(x)+c}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue}\int \cos (x)\, dx=\sin (x)+c}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}\int&amp;space;\cos&amp;space;(x)\,&amp;space;dx=\sin&amp;space;(x)+c}" align="absmiddle" /></p>

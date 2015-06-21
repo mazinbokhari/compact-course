@@ -1,0 +1,49 @@
+In order to support the vast amount of processes they do, cells need to take in nutrients and release waste products efficiently. The cell membrane structure solves for this huge demand. On the AP, the topics of <span style="color: #007fff;">water potential</span> and <span style="color: #007fff;">transport mechanisms</span> are generally most important.
+<h2 style="text-align: center;"><span style="color: #007fff;">Cell membrane Structure</span></h2>
+The cell membrane is <span style="color: #007fff;">selectively permeable</span> and a fluid mosaic. All these two words are saying is that cell membranes only let certain things in and out of the cell and that the membrane is constantly moving and fluid. A cell membrane maintains its selective permeability through its makeup and embedded transport structures.
+
+Cell membranes are usually made up a phospholipid bilayer. Hydrophilic heads face the outsides of the membrane and the hydrophobic tails make up the middle of the membrane. To give you a visual, the heads would be the cookie part of an oreo while the tails would be the white stuffing. However, this bilayer is filled with scattered proteins that serve various functions.
+
+The cell membrane is held together by hydrophobic interactions as the lipid bilayer is in constant motion. The phsopholipid layers move about each other; it looks like they are vibrating if viewed through a microscope. The proteins in the layer are attached to cytoskeleton structures. Now lets look a little more closely at these proteins. Note that their function varies by the type of cell that the membrane belongs to...
+
+- Membrane Proteins:
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">Integral proteins</span>: extend through the membrane with two hydrophobic ends</span></li>
+	<li><span style="color: #007fff;">Peripheral proteins</span>: attached to one of the surface of the membrane, often to an integral protein.</li>
+</ul>
+Often times, these proteins will have modified carbohydrates attached to them that function in cell-cell recognition. These are usually <span style="color: #007fff;">glycoproteins</span> or <span style="color: #007fff;">glycolipids</span>.
+<h2 style="text-align: center;"><span style="color: #007fff;">Membrane Permeability</span></h2>
+A cell membrane can naturally allow hydrophobic molecules through itself, but hydrophilic molecules have a harder time. This is due to the fact that the middle of the bilayer is made up of hydrophobic fatty acids. Thus, its simple for nonpolar molecules to move across the membrane.
+
+Transport proteins help polar molecules travel across the membrane. <span style="color: #007fff;">Channel proteins</span> are often specific for a specific molecule, like water or sodium ions. <span style="color: #007fff;">Carrier proteins</span> bind and transport molecules and then release them.
+<h2 style="text-align: center;"><span style="color: #007fff;">Passive transport</span></h2>
+<span style="color: #007fff;">Passive transport</span> or <span style="color: #007fff;">diffusion</span> is the movement of something from an area of high concentration to an area of location of low concentration, or along the <span style="color: #007fff;">concentration gradient</span>. No energy is used when a cell uses passive transport.
+
+<span style="color: #007fff;">Osmosis</span> is a type of passive transport, specifically regarding the movement of water. Water moves down its own concentration gradient, and this depends heavily of the solute concentration of where water is moving. This is due to the fact that a solute will bind to water, reducing the quantity of molecules able to move across a membrane.
+
+<strong><span style="color: #007fff;">Water potential</span></strong> is the measure of a sample of water to move from one are to another. The water potential of only water is 0. Water potential slowly gets more negative as solute is added, since less water is able to move. Also, remember water always moves from a less negative to a more negative water potential area.
+
+Three types of water environments are important to know for the AP test:
+<ul>
+	<li><span style="color: #007fff;">isotonic</span> - there are equal solute concentrations on either side of a membrane, thus tehre will be no net movement of water</li>
+	<li><span style="color: #007fff;">hypotonic</span> - the solute concentration inside a cell is greater than outside, thus water will move into the cell and cause swelling or even lysis (bursting) of the cell.</li>
+	<li><span style="color: #007fff;">hypertonic</span> - the solute concentration outside a cell is greater than inside, thus water will move out the cell and cause shriveling of the cell.</li>
+</ul>
+<h2 style="text-align: center;"><span style="color: #007fff;">Facilitated Diffusion</span></h2>
+This consists of polar molecules moving though a membrane with the help of transport proteins but without the use of energy. Water does this with protein channels called aquaporins, which speed up diffusion. Ion channels or gated channels function in this manner as well. Many of these proteins will change shape when a required molecule attaches to it, and this shape change moves this molecule across.
+<h2 style="text-align: center;"><span style="color: #007fff;">Active Transport</span></h2>
+Active transport is the movement of molecules across a membrane using energy. This involves movement of molecules from an area of low concentration to an area of high concentration, against the concentration gradient.
+
+- Specific Types of Active Transport:
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">sodium-potassium pump </span>- exchanges sodium and potassium ions across human and other animal cell membranes creating a high concentration of potassium and a low concentration of sodium within the cell; used heavily in the nervous system</span></li>
+	<li><span style="color: #007fff;">voltage gated channels</span> - protein channels that open only when there is an electrochemical gradient created across a membrane; they are opened to reduce the magnitude of the gradient and restore equilibrium</li>
+	<li><span style="color: #007fff;">cotransport</span> - active transport is indirectly driven by a pump that moves two substance against its gradient simultaneously</li>
+	<li><span style="color: #007fff;">exocytosis</span> - release of large molecules by fusion of vesicles with the cell membrane</li>
+	<li><span style="color: #007fff;">endocytosis</span> - the intake of a large molecule by pinching off of the cell membrane
+<ul>
+	<li><span style="color: #007fff;">phagocytosis</span> - endocytosis done with a food particle</li>
+	<li><span style="color: #007fff;">pinocytosis</span> - done with liquid molecules</li>
+</ul>
+</li>
+</ul>

@@ -1,0 +1,34 @@
+<h2 style="text-align: center;">Structure of the Bureaucracy</h2>
+The federal bureaucracy is basically huge institution of government with appointed officials rather elected politicians. The federal bureaucracy is organized by hierarchical discretionary authority. All this means is that there are certain levels of "status" for employees working in the bureaucracy.
+<h3>The Cabinet</h3>
+There are 15 executive cabinet departments, with a secretary leading each, except for the Department of Justice, which is led by the attorney general. As aforementioned, many cabinet members (including their leaders) do not have strong loyalty to the president. One reason for this is that often cabinet heads stay for several administrations, so the president in command is usually not the one who appointed them.
+<h3>Independent Agencies</h3>
+Independent agencies are appointed by the president and confirmed by the Senate just like other agencies, but the president may not remove them.
+<h4><span style="font-size: 10px; letter-spacing: 0.1em; line-height: 2.6em;">INDEPENDENT REGULATORY AGENCIES</span></h4>
+<p style="font-style: normal; line-height: 22px; color: #333333;">These agencies monitor certain regions of the economy. There are a few to know:</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Securities and Exchange Commission (SEC) protects investors in the securities market (basically stocks).</span></li>
+	<li>Federal Reserve Board sets monetary policy by controlling the money supply. This affects real interest interest rates, which have an effect on inflation and economic growth. The Federal Reserve Board is also insulated from the public as well as politics in general because it does not receive funding through the congressional budgetary process.</li>
+</ul>
+&nbsp;
+<h4>Independent Executive Agencies</h4>
+These agencies that oversee specific functions. It's not important to know much about them or any specific examples of them (like NASA).
+<h3>Government Corporations</h3>
+These are exactly what they sound like: businesses partially or fully owned by the government. They don't deal with the everyday sense of "government tasks." Anything government corporations do could be done by a private company. A good example of a government corporation is the United States Postal Service. The deliverance of mail is also done by private companies, such as FedEx and UPS.
+<h2 style="text-align: center;">Bureaucratic Authorities</h2>
+Bureaucratic agencies have some discretionary authority when making decisions, but the vast majority of their employees have specific jobs to and rules to follow. Many of the regulatory agencies' responsibilities are monitoring private businesses, their operating procedures, and what their effects are (such as on the environment). Often, the implementation of a policies of several bureaucratic agencies can overlap, causing a waste of financial resources.
+
+&nbsp;
+<h2 style="text-align: center;">Supervision over the Federal Bureaucracy</h2>
+<h3>Appointing Officials</h3>
+Since bureaucrats are appointed officials, they are subject to bias during the process of selecting them. The Pendleton Act created the civil service, which hires workers on the base of merit instead of any other reason such as loyalty. The spoils system is a good example of a system that selected employees based on their party loyalty.
+<h3>Congressional Oversight</h3>
+Congress can use its committees to monitor and regulate agencies by doing the following:
+<ul>
+	<li><span style="line-height: 14px;">Investigating agencies</span></li>
+	<li>Allocating responsibilities as a separation of power</li>
+	<li>Establishing rules and guideilnes for agencies to follow</li>
+</ul>
+<h3>Economic Authority</h3>
+Both the president and Congress have economic authority over the bureaucracy. The president can control an agency's budget through the Office of Management and Budget. Congress, however, is the body of government that appropriates (authorizes or sets aside) funds for bureaucratic agencies.

@@ -1,0 +1,29 @@
+<h2 style="text-align: center;">The Economy and Industry</h2>
+<h3 style="text-align: left;">The Industrial Revolution</h3>
+<p style="text-align: left;">The industrial revolution was made possible in the late 1800s due to the abundance of natural resources, the large amount of transportation that was made possible through waterways and railroads, the large amount of labor, and new technology in engines.</p>
+
+<h3 style="text-align: left;">Railroads</h3>
+<p style="text-align: left;">Another trait of the industrial revolution was the progress in the construction of railroads, where almost all of the railroads in the south were consolidated into the Pennsylvania railroad which bought out almost all of its competitors. All railroads were standardized and compatible which allowed for further expansion of railroad tracks.</p>
+
+<h3 style="text-align: left;">Energy</h3>
+<p style="text-align: left;">The demand for natural resources and energy ran high, with coal frequently being an answer.</p>
+
+<h3 style="text-align: left;">Competition in Business</h3>
+<p style="text-align: left;">The idea of "<span style="color: #007fff;">social darwinism</span>" became popular during the period, which applied principles of survival of the fittest that was commonly associated with nature to the world of business and industry. The idea that only the most competitive and intense businesses would be able to grow and succeed in the world defined the mentalities of companies at the time. The principle of social Darwinism also advocated a laissez-faire atmosphere among businesses, since leaving businesses to their intense and sometimes ruthless competition would lead to collateral improvements in methods and efficiency as each company is trying to outdo the other. This could only prove effective if the government did not interfere and try to play the role of a regulator or equalizer.</p>
+
+<h3 style="text-align: left;">Andrew Carnegie</h3>
+<p style="text-align: left;"><span style="color: #007fff;">Andrew Carnegie</span> was a very successful and powerful businessman who practically controlled the steel industry. He utilized the concept of vertical integration, where a company would control all the processes of manufacturing including the early stages of production of structures such as railroads. The idea would include the railroad company also taking control of the process for gathering the raw materials and making the steel; so in effect it would be able to completely control the industry. Andrew Carnegie rose from humble beginnings, being a poor Scottish immigrant before he became a powerful businessman. He believed in fierce competition among businesses and social darwinism, however in "The Gospel of Wealth" he also proclaimed that it was a successful man's duty to give back to society in the form of philanthropy, which he held to by the way he gave millions of dollars to build public structures for the good of society.</p>
+
+<h3 style="text-align: left;">Labor and Conditions</h3>
+<h4 style="text-align: left;">The Knights of Labor</h4>
+<p style="text-align: left;">Formed in 1869 by Terrence Powderly, it was a labor union that was at first secret then later went public. It extended membership to virtually all workers, regardless of gender, race, or skill, for it would take in both skilled and unskilled workers. THe union usually resorted to negotiations rather than the other commonly used tactic among other unions, striking, in order to obtain reform and improve conditions in the workplace. The union was destroyed by the <span style="color: #007fff;">Haymarket Riots</span> in 1886 where there was a very large peaceful collaboration of Knights who were striking for a standard 8-hour work day, when a bomb was thrown by an anarchists, killing Knights and police officers.</p>
+
+<h4 style="text-align: left;">The American Federation of Labor</h4>
+<p style="text-align: left;">Founded by Samuel Gompers in 1886, the AFL pursued higher wages and better conditions for its workers.  The AFL only extended membership to skilled workers and became the United States' biggest Union by the very first years of the 1900s.</p>
+
+<h4 style="text-align: left;">Strikes</h4>
+<h4 style="text-align: left;">The Homestead Strike</h4>
+<p style="text-align: left;">Upon the decision of one of Carnegie's managers in the steel industry to cut wages for workers, a strike was initiated. Guards were involved with the matter to break up the strike, they were attacked, and then the strike was broken. The Homestead Strike marked the end of union influence in the steel industry for quite some time.</p>
+
+<h4 style="text-align: left;">Pullman Strike</h4>
+<p style="text-align: left;">The Pullman Strike of 1894 was initiated once George Pullman, who was in charge of a railroad sleeping car manufacturing company, cut wages for workers. He fired all unions workers that attempted to bargain with him. The strike stopped up railway transportation throughout the whole country. The strike also proved to be  violent at times, with multiple workers being killed. Federals courts implemented an injunction that made it forbidden for the operations of the mail cars to be interfered with, which union leaders violated, which caused them to be jailed and also caused the Pullman Strike to come to an end.</p>

@@ -1,0 +1,15 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Newton's Law of Gravitation</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Newton's Law of Gravitation:</span> There exists an attractive gravitational force between any two objects in space that is equal to the equation below
+<p style="text-align: center;"><img alt="{\color{Blue} F_{g}=\frac{Gm_{1}m_{2}}{r^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{g}=\frac{Gm_{1}m_{2}}{r^{2}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where G is a gravitational constant, m1 and m2 are the masses of the objects, and r is the distance between the <span style="text-decoration: underline;">centers</span> of the two objects</span></p>
+
+<ul>
+	<li>G  = 6.67 x 10<sup>-11 </sup>Nm<sup>2</sup>/Kg<sup>2</sup> and is known as G<sub>c</sub> in the constants section in your TI 89</li>
+</ul>
+<h3 style="text-align: center;">Relationships</h3>
+Many problems in this course involve an object, such as a satellite, orbiting another object, such as a planet. This means that the satellite is exerting centripetal acceleration. The only force acting on the satellite to keep it in circular motion is the gravitational force. Therefore,
+<p style="text-align: center;"><img alt="{\color{Blue} \sum F_{c}=ma_{c}=\frac{m_{1}v^{2}}{r}=\frac{Gm_{1}m_{2}}{r^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;F_{c}=ma_{c}=\frac{m_{1}v^{2}}{r}=\frac{Gm_{1}m_{2}}{r^{2}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m1 is the mass of the satellite, m2 is the mass of the planet, and r is the distance from the satellite to the center of the planet</span></p>
+<p style="text-align: left;">Through algebraic manipulation, this leads us to</p>
+<p style="text-align: center;"><img alt="{\color{Blue} v^{2}=\frac{Gm_{2}}{r}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v^{2}=\frac{Gm_{2}}{r}}" align="absmiddle" /></p>
+<p style="text-align: center;">which we need to use to solve for a variable based on the question</p>

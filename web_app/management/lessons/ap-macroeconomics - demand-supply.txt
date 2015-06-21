@@ -1,0 +1,283 @@
+<h2>AD-AS Model</h2>
+<h3>Intro</h3>
+<img class="alignleft" alt="AD-AS" src="http://www.compactcourse.com/images/AD-AS.png" width="300" height="273" />As you can imagine, this model incorporates both the aggregate demand curve and the aggregate supply curve. This is a graph that you need to know and be able to use. The intersection point of these two curves (point a) represents the state of a corresponding nation's economy. This state is called the economy's equilibrium. At equilibrium, this economy's price level and real GDP are PL1 and Y1, respectively.
+
+Everything on this graph should be labeled the way it is. The title (AD-AS), the axis titles (Price Level and real GDP), labels on each curve (AD and AS), the equilibrium point (a), and labels of the price level and real GDP at equilibrium (PL1 and Y1).
+
+&nbsp;
+
+&nbsp;
+<h3>Shifting Curves</h3>
+It is essential to be able to shift the AD and AS curves and interpret the results. The good thing is that you've already done half of this in the previous two chapters. Interpreting the results has to do with three factors: the price level, output/real GDP, and unemployment. You can easily see the answers to all three by actually shifting a curve on a graph. I think an example is the best way to show you this.
+
+<img class="alignleft" alt="AD Shift to the Right" src="http://compactcourse.com/images/AD-AS%20AD%20Shift.png" width="313" height="273" />Scenario: How would an increase in government expenditures affect the economy?
+
+Answer: An increase in government expenditures would increase aggregate demand, shifting the AD curve to the right.
+<p style="padding-left: 150px;">Once you shift the curve, make sure you label the graph correctly, just like to the left. Now, look at the second equilibrium point. You'll see that price level <em>increased</em> from PL1 to PL2 and that real GDP <em>increased</em> from Y1 to Y2. The issue of unemployment is related to real GDP. From here on out, <span style="color: #007fff;">an <em>increase in</em> <em>real GDP</em></span> <span style="color: #007fff;">will be synonymous with a <em>decrease</em></span> <em><span style="color: #007fff;">in unemployment</span></em>. This should make sense, as businesses need to hire more employees when they produce more goods and services.</p>
+Full answer: An increase in government expenditures would increase aggregate demand, shifting the AD curve to the right. This would result in an increase in both real GDP and price level, while lowering unemployment.
+
+<img class="alignleft" alt="AS Shifts Left" src="http://www.compactcourse.com/images/AD-AS%20AS%20Shift%20Left1.png" width="308" height="273" />
+
+Let's try another one.
+
+Scenario: How would an increase in excise taxes affect the economy?
+
+Answer: An increase in excise taxes would increase the per unit cost of production. Therefore, aggregate supply would decrease, shifting the AS curve to the left. This would result in a decrease in real GDP, while increasing price level and unemployment.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3>Rant</h3>
+When doing these problems, don't try to memorize which shift increases what. Just find out if aggregate demand/supply increases or decreases, shift the curve accordingly, and then interpret the graph. If you do all of that, you won't need to memorize that a shift of the AS curve to the right increases real GDP and decreases price level and unemployment. You'll be able to figure that out in a couple seconds. This is why I'm not going through every possible scenario.
+<h2>Full Employment</h2>
+<h3>LRAS</h3>
+<img class="alignleft" alt="Long-Run Aggregate Supply" src="http://www.compactcourse.com/images/LRAS.png" width="300" height="275" />
+
+If you remember a couple chapters ago, I drew a dashed curve inside the PPC and called it the production when the economy is at full employment, or NAIRU. An economy at NAIRU is producing goods and services at its optimal level. Every economy strives to reach this point. The AD-AS graph actually has one more curve on it that represents NAIRU. The curve is called long-run aggregate supply (LRAS). It is a vertical line simply because it represents a nation's optimal real GDP output level, Y<sub>fe</sub>.
+
+The goal of an economy is to get it to full employment. An economy is at NAIRU when the equilibrium point is on the LRAS curve.
+
+When the equilibrium point is to the left of the LRAS curve, as depicted in the graph to the left, the nation's real GDP output (Y1) is <em>less</em> than the output the nation would have if it was at full employment (Y<sub>fe</sub>). This means that the nation is in a recession.
+
+When the equilibrium point is to the right of the LRAS curve, the nation's real GDP output is <em>more</em> than the output the nation would have if it was at full employment. This means that the nation is facing an inflationary situation.
+
+Obviously, if the equilibrium point is on the LRAS curve, the nation is at full employment. Sometimes, the College Board will refer to full employment as "long-run equilibrium." They both mean the same thing.
+
+(By the way, since LRAS is the long-run aggregate supply curve, the AS you've been seeing is technically the "short-run aggregate supply" curve, but as long as you specify LRAS as long-run, you won't have to worry about calling AS short-run.)
+<h3>Getting Back to Full Employment</h3>
+Clearly, you're going to have to shift some curves to move the equilibrium point. It should make sense that if the equilibrium point is to the left of LRAS, you need to move either the AD or the AS curve to the right. Likewise, if the equilibrium point is to the right of LRAS, you need to move either the AD or the AS curve to the left.
+
+I'm going to go through an AP exam similar problem to show you how easy it is.
+<ol>
+	<li>Assume that Germany's economy is currently in a recession.
+<ol>
+	<li>Draw a correctly labeled graph of aggregate demand and aggregate supply and show each of the following:
+<ol>
+	<li>The long-run equilibrium output, Yf</li>
+	<li>The current equilibrium output Y1</li>
+	<li>The current equilibrium price levels, PL1</li>
+</ol>
+</li>
+	<li>What is a supply side policy Germany's government can use to get its economy back to full employment?</li>
+	<li>Depict your answer to part (b) on the graph, labeling the new output and price levels, Y2 and PL2, respectively.</li>
+	<li>What would be the policy's effect on Germany's real GDP and unemployment rate?</li>
+</ol>
+</li>
+</ol>
+<img class="alignleft" alt="Recession" src="http://www.compactcourse.com/images/LRAS.png" width="300" height="275" />Answer: (1.)
+
+(a) A recessionary situation is one in which the equilibrium point is to the left of LRAS because the equilibrium output is <em>less</em> than output at full employment. Check.
+
+(b) You'll learn more about policies later, but I'm pretty sure you could have guessed it's something to do with the government. Either way, you know it has to do with the AS curve. In order to get to full employment, the AS curve would need to shift to the right. There are plenty of options you could choose:
+<ul>
+	<li>Increasing subsidies</li>
+	<li>Lowering excise taxes</li>
+	<li>Decrease minimum wage</li>
+</ul>
+Any of the above would lower the per unit cost of production. Thus, aggregate supply would be increased, shifting the AS curve to the right. Note: all you had to do is write down an applicable policy. Since the question did not ask for an explanation, you don't have to!
+
+(c)<img class="alignleft" alt="AS Shift Right to NAIRU" src="http://www.compactcourse.com/images/AS%20Right%20NAIRU.png" width="364" height="274" /> All you have to do is just draw an AS curve shifting to the right and label everything properly. Yes, you're right: the new AS curve <em>might not</em> intersect exactly on the LRAS in real life. It's asking for a possible fix, and it is possible, so just do it.
+
+&nbsp;
+
+(d) This is easy: just look at what you labeled on the graph! The policy would increse Germany's real GDP, while lowering its price levels.
+
+&nbsp;
+
+AP free-response questions are just as easy as the problem above!
+
+&nbsp;
+<h3>Shifting the LRAS Curve</h3>
+You've already know how to shift the LRAS curve. How did you shift the PPC? You changed either the quantity or quality of factors of production. The LRAS represents the same thing as the PPC (or at least that dashed line we drew that means that a nation is at NAIRU). The LRAS will shift to the right when factors of production increase and to the left when factors of production decrease.
+
+<img class="alignleft" alt="LRAS Shift Left" src="http://www.compactcourse.com/images/LRAS%20Shift%20Left.png" width="300" height="275" /><img class="alignright" alt="PPC Shift Left" src="http://www.compactcourse.com/images/PPC%20Shift%20Left1.png" width="300" height="275" />The graphs beside this paragraph both illustrate a nation's economy at the same time.
+
+Scenario: Explain what could happen if a large amount of the nation's workforce retires.
+
+Answer: The quality and population of a nation's workforce are factors of production. Since the nation's workforce is decreasing, the nation's factors of production are decreasing as well. This means that both LRAS and the PPC shift to the left.
+
+**Do you remember long-run economic growth?
+
+Economic growth ties in with the PPC and LRAS as well. A decrease in the nation's factors of production signifies reduced economic growth as well. In fact, all three of these things mean the exact same thing! They all represent a nation's output when it is at full employment/NAIRU. I hope this is all starting to make sense.
+<h3>Overlap Between AS and LRAS</h3>
+Anything that changes the per unit cost of production will change aggregate supply. Anything that changes the quantity or quality of factors of production will change long-run aggregate supply. Sometimes, changes in factors of production can also change aggregate supply. I'll list some examples:
+<ul>
+	<li>The United States loses half of its imports of oil due to an embargo against it.
+<ul>
+	<li>This decreases the amount of oil businesses can use, thus it decreases long-run aggregate supply.</li>
+	<li>Because oil is now scarce, its price is driven up quickly. This increases the per unit cost of production, decreasing short-run aggregate supply as well.
+<ul>
+	<li>*Drastic decreases in natural resources such as oil are called supply shocks.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Advances in technology create more efficient factory machines.
+<ul>
+	<li>Increases in technology also mean increases in factors of production. Thus, long-run aggregate supply would increase.</li>
+	<li>Higher productivity means that the per unit cost of production is lowered. Thus, short-run aggregate supply would increase as well.</li>
+</ul>
+</li>
+</ul>
+These are just a few examples. Don't get caught up in memorizing them. Just remember what changes AS and what changes LRAS, and you should be able to figure it out.
+<h2>Phillips Curve</h2>
+<h3>Trade-Offs</h3>
+<img class="alignleft" alt="Phillips Curve" src="http://www.compactcourse.com/images/Phillips%20Curve.png" width="299" height="276" />
+
+&nbsp;
+
+I've spoken before about how inflation and unemployment are inversely related. High inflation corresponds with low unemployment, and vice-versa. There is a graph that illustrates this relationship, called the Phillips curve.
+
+A nation's economy can represent any point on the curve. The initial point on the curve is not important. What you need to understand is how the point's location can change.
+
+&nbsp;
+
+&nbsp;
+<h3>Aggregate Demand</h3>
+<img class="alignleft" alt="AD Shift Left to NAIRU" src="http://www.compactcourse.com/images/AD%20Shift%20Left%20to%20NAIRU.png" width="309" height="273" />
+
+Let's just say that a nation's economy is experiencing an inflationary situation and is on the Phillips curve at point (a) above. You implement a demand side policy to get the economy back to full employment. Let's just say you raise personal income taxes. Now, consumers have less money to spend, so consumption decreases, also decreasing aggregate demand. Thus, the AD curve shifts to left and gets the economy back to full employment. From the graph, you can tell that both output and price levels drop. Since output drops, unemployment increases (remember, less output means less workers needed to produce). Since price levels drop, inflation essentially decreases as well.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img class="alignleft" alt="Move along the phillips curve" src="http://www.compactcourse.com/images/PC%20Along%20Right.png" width="299" height="276" />
+
+Illustrating these results on the Phillips curve is easy. Unemployment increases and inflation decreases. Thus, the economy just moves along the Philips curve to the right.
+
+If the country was in a recession, and we increased aggregate demand to combat this, unemployment would decrease, and inflation would increase. This would correlate with the economy moving along the Phillips curve to the left. Try going through all the steps!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3>Aggregate Supply</h3>
+<img class="alignleft" alt="AS Shift Right to NAIRU" src="http://www.compactcourse.com/images/AS%20Right%20NAIRU.png" width="364" height="274" />
+
+&nbsp;
+
+Let's just say that a nation's economy is experiencing a recession. You implement a supply side policy to get the economy back to full employment. Let's just say you increase business subsidies. Therefore, the per unit cost of production decreases, increasing aggregate supply and shifting AS to the right back to NAIRU. From the graph, you can tell that price levels decrease, but real GDP increases. As a result, both inflation and unemployment decrease.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img class="alignleft" alt="Phillips curve shifts left" src="http://www.compactcourse.com/images/PC%20Shift%20Left.png" width="299" height="276" />
+
+Finding a new point on the same Phillips curve is impossible because both unemployment and inflation decrease. The solution is to shift the Phillips curve in order to satisfy the change in unemployment and inflation. As you can see, this is only possible by shifting the Phillips curve to the left.
+
+If the country was experiencing high inflation, and we decreased aggregate supply to combat this, both inflation and unemployment would increase. This would correlate with a shift of the Phillips curve to the right.. Try going through all the steps!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3>Short Summary</h3>
+Don't try to over analyze or memorize this, but you should've picked up that changing aggregate demand will move a nation's economy along the Phillips curve, while changing aggregate supply will shift the Phillips curve itself. Once again, you don't need to memorize this; common sense will lead you in the right direction.
+<h3>Long-Run Phillips Curve</h3>
+<img class="alignleft" alt="Long-Run Phillips Curve" src="http://www.compactcourse.com/images/LRPC.png" width="299" height="276" />There is one more long-run curve to know, the long-run Phillips curve (LRPC). The LRPC ties in with LRAS, the PPC, economic growth, and NAIRU. In fact, the long-run Phillips curve actually is NAIRU, the optimal unemployment level that doesn't cause high inflation. As you can see, it is a vertical line, just like the LRAS, at a certain unemployment level. This unemployment level is NAIRU, or full employment. Just as we wanted the economy to lie on the LRAS in the AD-AS graph, we want the economy to be a point on the LRPC.
+
+If an economy is a point to the right of this line, like in the graph to the left, it has higher unemployment than at NAIRU, so it is in a recession.
+
+If an economy is a point to the left of this line, it has higher inflation than at NAIRU, so it is experiencing high inflation.
+
+If an economy is a point on this line, it is at NAIRU/full employment.
+
+The long-run Phillips curve implies that there is no trade-off between inflation and unemployment <em>in the long-run</em><em></em>, when an economy is at full employment.
+
+Once again, it is a goal to get an economy to be a point on this line, just as it is a goal to get an economy to rest on the LRAS line. They're both the same exact goals. I'll try to connect them together better in the last section.
+<h3>Shifting the LRPC</h3>
+<img class="alignleft" alt="LRPC Shifts Left" src="http://www.compactcourse.com/images/LRPC%20Shift%20Left.png" width="299" height="276" />
+
+The LRPC represents almost the same exact thing as the LRAS curve, right? It only makes sense that whatever shifts the LRAS will also shift the LRPC. This is correct. An increase factors of production will spark economic growth. This is illustrated by the shift of the LRAS to the right (the economy can produce <em>more</em> at full employment). The real GDP at full employment increases as a result of this shift. Thus, unemployment must decrease (remember that we said that increases in output also mean decreases in unemployment). So to speak, unemployment <em>at full employment</em> decreases. This just means that NAIRU, the lowest rate of unemployment that doesn't cause high inflation, can be even lower without causing high inflation. This is illustrated by a shift of the LRPC to the left.
+
+&nbsp;
+
+&nbsp;
+<h2>Example</h2>
+<h3>Example</h3>
+I think this will all make more sense if you see an example that incorporates almost every major concept you've learned.
+<ol>
+	<li>Assume that France's economy is in a recession.
+<ol>
+	<li>Draw and correctly label the following graphs' depiction of the situation.
+<ol>
+	<li>AD-AS Graph</li>
+	<li>Phillips Curve</li>
+</ol>
+</li>
+	<li>The real interest rate falls
+<ol>
+	<li>What will happen to aggregate demand?</li>
+	<li>Show the impact of this on both graphs drawn in part (a)</li>
+</ol>
+</li>
+	<li>What is the potential impact of part (b) on the economic growth rate?</li>
+	<li>Illustrate your answer to part (c) on the following:
+<ol>
+	<li>The AD-AS graph in part (a)</li>
+	<li>The Phillips Curve in part (a)</li>
+	<li>The nation's PPC</li>
+</ol>
+</li>
+</ol>
+&nbsp;</li>
+</ol>
+<img class="alignleft" alt="Recession AD-AS Graph" src="http://www.compactcourse.com/images/LRAS.png" width="300" height="275" /><img class="alignright" alt="Recession Phillips Curve" src="http://www.compactcourse.com/images/LRPC.png" width="299" height="276" />Answers:
+
+(a) In a recession, a nation's economy's output is less than it would have at full employment. This correlates with having higher unemployment than NAIRU. These two graphs are what you should draw.
+
+***Note: don't write (NAIRU) on the Phillips curve. I just put that there to help you understand the LRPC.
+
+&nbsp;
+
+<img class="alignleft" alt="AD Shift Right" src="http://www.compactcourse.com/images/AD%20Shift%20Right.png" width="327" height="275" /><img class="alignright" alt="Move along PC left" src="http://www.compactcourse.com/images/Along%20PC%20Left.png" width="299" height="276" />(b) (i) If the real interest rate falls, the profitability of loans businesses take out will increase. Therefore, business investment will increase, thus increasing aggregate demand.
+
+(ii) An increase in aggregate demand will shift the AD curve to the right. This will result in higher price levels and real GDP, which correlates with more inflation and lower unemployment. This is illustrated on the Phillips curve by moving along the curve to the left. The economy is now at full employment.
+
+(c) (*If you remember, increases in business investment are synonymous with increases in factors of production) The increase in business investment will increase the nation's factors of production. This will induce economic growth, so the economic growth rate will increase.
+
+(d) The increase in economic growth will:
+<p style="padding-left: 30px;">(i) Shift the LRAS curve to the right</p>
+<p style="padding-left: 30px;">(ii) Shift the LRPC to the left</p>
+<p style="padding-left: 30px;">(iii) Shift the PPC to the right</p>
+<img class="alignleft" alt="AD Shift Right and LRAS Shift Right" src="http://www.compactcourse.com/images/AD%20Shift%20Right%20LRAS%20Shift%20Right.png" width="265" height="223" /><img class="alignleft" alt="LRPC Shift Left" src="http://www.compactcourse.com/images/LRPC%20Shift%20Left2.png" width="242" height="223" /><img class="alignleft" alt="PPC Shift Right" src="http://www.compactcourse.com/images/PPC%20Shift%20Right1.png" width="243" height="221" />
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3>Connections</h3>
+I sure hope it's all coming together. The PPC, LRAS, and LRPC are all connected to each other. Increased business investment will increase factors of production, which induces economic growth (this means the same thing as increasing economic growth rate). This increase in long-run economic growth just means that a nation <em>can</em> produce more at full employment/NAIRU, hence the shift of the LRAS and PPC to the right. Furthermore, in order to actually <em>be able to</em> produce more goods and services at full employment, more people must be employed. This means that the unemployment rate when the nation's economy is at full employment/NAIRU must be smaller, hence the shift in the LRPC to the left.

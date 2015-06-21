@@ -1,0 +1,57 @@
+<h2 style="text-align: center;">The New Government</h2>
+<h3 style="text-align: left;">Congress</h3>
+<p style="text-align: left;">The members of Congress were elected in 1788 before the Constitution was ratified.</p>
+
+<h3 style="text-align: left;">The President</h3>
+<p style="text-align: left;">George Washington was unanimously elected president during the drafting of the Constitution</p>
+
+<h3 style="text-align: left;">The Judiciary</h3>
+<p style="text-align: left;">The Supreme Court was established in 1789 when Congress passed the Judiciary Act of 1789.</p>
+
+<h2 style="text-align: center;">Early problems</h2>
+<p style="text-align: left;">After the war, the nation was in a bit of a financial crisis due to the debt that it agreed to pay back to Britain in the Treaty of Paris, and also because American industry was still in its early years. Alexander Hamilton proposed a plan to get the nation on solid financial footing. His plan had three main parts</p>
+<p style="text-align: left;">•Establish a National Bank</p>
+<p style="text-align: left;">•Pay off all debts at face value</p>
+<p style="text-align: left;">•Set high protective tariffs</p>
+
+<h2 style="text-align: center;">American Involvements and Decisions under Washington</h2>
+<h3 style="text-align: left;">Neutrality</h3>
+<p style="text-align: left;">Washington declared the new nation of America to remain neutral in the French Revolution, even though it agreed to help out the French government in any future wars they had. Washington justified his decision with the French government by saying that because France was in the middle of a Revolution, it was no longer in the same state as it was when he made the agreement. One French diplomat broke the rules of formal diplomacy by personally convincing U.S. citizens in America to support the French government in the rebellion at his home country. Outraged by the gesture, Washington demanded that the French recall the diplomat to France, although the diplomat, Genet, refused and instead chose to live in America. Thus, the whole affair was referred to as "<span style="color: #007fff;">Citizen Genet</span>".</p>
+
+<h3 style="text-align: left;">Jay's Treaty</h3>
+<p style="text-align: left;">George Washington sent John Jay to negotiate with Britain to form a treaty that would arrange the British to leave some forts that they had still occupied along the western frontier.</p>
+
+<h3 style="text-align: left;">The Pinckney Treaty</h3>
+<p style="text-align: left;">Thomas Pinckney formed a treaty with Britain that allowed U.S. use of the Mississippi River's waterways for trade purposes.</p>
+
+<h3 style="text-align: left;"> The Whiskey Rebellion</h3>
+<p style="text-align: left;">The constitution and the ability of the new nation to quell domestic uprisings under its authority came to the test when a group of Pennsylvanian farmers refused to pay the federal excise tax on whiskey. Determined to smash the uprising in order to set an example for other potential rebellion; George Washington sent Alexander Hamilton and an army of over 10,000 Americans militiamen to deal with the rebellious farmers, which immediately ended the conflict in a peaceful manner.</p>
+
+<h3 style="text-align: left;">Native Americans</h3>
+<p style="text-align: left;">America defeated the native americans and gained new land for which to settle at the<span style="color: #007fff;"> B</span><span style="color: #007fff;">attle of Fallen Timbers</span>.</p>
+
+<h3 style="text-align: left;">Washington's Leadership and Legacy</h3>
+<p style="text-align: left;">Washington's presidency may not have included multiple complex implementations of policy, although he established a precedent by which many presidents after him followed for many years. He set this precedent through his words and actions as well as in his Farewell Address. Washington also set the example of leaving office after his two four-year terms, which was not required at the time.</p>
+
+<h2 style="text-align: center;">The Main Concerns in Washington's Farewell Address</h2>
+<p style="text-align: left;">•Stay neutral in European Affairs</p>
+<p style="text-align: left;">•Avoid political parties</p>
+<p style="text-align: left;">•Avoid national division and sectionalism</p>
+
+<h2 style="text-align: center;">The Formation of Political Parties</h2>
+<p style="text-align: left;">Washington also was against political parties from the start as soon as they emerged within the Federalists and Anti-Federalists over the idea of ratifying the Constitution. Even after the document's ratification, the two political parties remained organized with similar views and ideas, although the Anti-Federalists evolved into a new political party: The democratic-republicans. They were led by Thomas Jefferson and James Madison, who had switched from his earlier reposition on being a supporter of a strong central government to becoming a champion of states rights like Jefferson. The Federalists mostly merchants and bankers,  still supported a strong central government, and interpreted the Constitution loosely, while the <span style="color: #007fff;">Democratic-Republicans</span>, mostly farmers, favored states rights and advocated a strict interpretation of the constitution, and were also more sympathetic to the French.</p>
+
+<h2 style="text-align: center;">American Under John Adams</h2>
+<p style="text-align: left;">After being George Washington's vice president, John Adams had a near victory over Thomas Jefferson and took the presidential office in 1804 with Thomas Jefferson as his Vice President.</p>
+
+<h3 style="text-align: left;">French Diplomacy</h3>
+<p style="text-align: left;">After frustration with French warships seizing and attacking U.S. cargo ships, John Adams sent American diplomats to negotiate with the french. The American diplomats were met with three French Diplomats, nicknamed X, Y, and Z, who refused to deal with the American diplomats with the respect that they wished, and instead asked the Americans for bribes. The diplomats made the nation swell with pride by refusing bribery. The nation was on the brink of war with potential land to settle on the line, although Adams cut the conflict short in a peaceful manner. The whole incident was referred to as the <span style="color: #007fff;">XYZ affair</span>.</p>
+
+<h3 style="text-align: left;">The Federalists Dominate</h3>
+<p style="text-align: left;">Winning a majority in both the Senate and the House, the federalists planned to diminish their opponent party, the Democratic-Republicans, by passing policy known as the <span style="color: #007fff;">Alien and Sedition Acts</span>. The policy made it necessary for immigrants to live in America for 14 years before being naturalized, for immigrants tended to support the Democratic Republicans, as well as making it illegal for the media to criticize the government. It also made it legal for the government to deport any suspicious foreign aliens with the potential of being spies.</p>
+
+<h3 style="text-align: left;">The Democratic-Republicans Respond</h3>
+<p style="text-align: left;">James Madison and Thomas Jefferson thought that the Alien and Sedition Acts violated the Bill of Rights and the Constitution, so in the <span style="color: #007fff;">Virginia and Kentucky Resolutions of 1799</span>, they declared that the states could nullify the law. The Resolutions did not directly repeal the Sedition Acts, but they rather instead due to a loss of a Federalist majority in Congress as well as John Marshall's later establishment of Judicial Review.</p>
+
+<h3 style="text-align: left;"> John Adams Leaving of Office</h3>
+<p style="text-align: left;">By the election of 1800, John Adams had lost popularity because of the Alien and Sedition Acts as well as imposing high taxes. The two main candidates in the elections were the two democratic republicans, Aaron Burr and Thomas Jefferson, who tied after the first election of the presidential electors. According to the Constitution, the election was to be decided by going to the House where each state would be given one vote. The House election decided Jefferson as the winner. With John Adams and the defeat of the Federalists, there was the first example of a peaceful transition of power between two political parties. This transition of power is known as the <span style="color: #007fff;">revolution of 1800</span>.</p>

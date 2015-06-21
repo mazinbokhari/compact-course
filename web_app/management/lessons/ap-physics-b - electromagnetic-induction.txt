@@ -1,0 +1,31 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Magnetic Flux</span></span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Magnetic Flux:</span></span> The product of an area times the magnetic field perpendicular to that area
+<ul>
+	<li> Unit =&gt; Weber <img alt="\left (Wb \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(Wb&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; Φ</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \Phi =BA\cos \theta}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Phi&amp;space;=BA\cos&amp;space;\theta}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where B is the magnitude of the magnetic field, A is the amount of area the field is passing through, and θ is the angle between the area vectors and magnetic field vectors</span></p>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/flux.png"><img class="alignnone size-medium wp-image-3502" alt="flux" src="http://compactcourse.com/wp-content/uploads/2013/06/flux-300x231.png" width="300" height="231" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Faraday's Law and Lenz's Law</span></span></h2>
+<span style="text-decoration: underline; color: #007fff;">EMF:</span> Induced voltage in a circuit when there is a change in magnetic flux
+<ul>
+	<li>Unit =&gt; Volt <img alt="(\left V \right )" src="http://latex.codecogs.com/gif.latex?(\left&amp;space;V&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; ε or just emf</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Faraday's Law:</span> A change in flux in a circuit induces an emf in the circuit that is equal to the equation below
+
+<img class="aligncenter" alt="{\color{Blue} \varepsilon =-N\frac{\Delta\Phi }{\Delta t }}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\varepsilon&amp;space;=-N\frac{\Delta\Phi&amp;space;}{\Delta&amp;space;t&amp;space;}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where N is the number of turns, ΔΦ is the change in flux, and Δt is the change in time</span></p>
+<p style="text-align: center;">NOTE: The negative sign is from <span style="color: #007fff;"><span style="text-decoration: underline;"><span style="text-decoration: underline;">Lenz's</span></span><span style="text-decoration: underline;"> Law</span></span>, which states that the induced current flows in the opposite direction of the change in the magnetic field that produced it</p>
+
+<h3 style="text-align: center;"><span style="color: #007fff;">Finding the Direction of the Induced Current</span></h3>
+Lenz's Law is really displaying conservation of energy. By using your right hand, you can easily use this knowledge to find the direction of the induced current.
+<ul>
+	<li><span style="line-height: 14px;">If the flux is decreasing, flux in the same direction needs to be induced to keep the flux constant to conserve energy. Stick your thumb in the direction of the decreasing flux and curl your right hand fingers. They curl in the direction of the induced current.</span></li>
+	<li>If the flux is increasing, flux in the opposite direction needs to be induced to keep the flux constant to conserve energy. Stick your thumb in the direction opposite the increasing flux and curl your right hand fingers. They curl in the direction of the induced current.</li>
+</ul>
+<h3 style="text-align: center;"><span style="color: #007fff;">Manipulation</span></h3>
+Some problems in this chapter involve a conducting bar sliding down other conducting materials creating a circuit. There exists a magnetic field so an emf is induced due to the changing amount of flux. This emf can be obtained through the equation
+
+<img class="aligncenter" alt="{\color{Blue} emf=-\frac{\Delta\Phi }{\Delta t }=\frac{\Delta BA}{\Delta t}=Bl\frac{\Delta w}{\Delta t}=Blv}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;emf=-\frac{\Delta\Phi&amp;space;}{\Delta&amp;space;t&amp;space;}=\frac{\Delta&amp;space;BA}{\Delta&amp;space;t}=Bl\frac{\Delta&amp;space;w}{\Delta&amp;space;t}=Blv}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where l is the length, v is the velocity, and w is the width of the bar</span></p>

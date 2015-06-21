@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static bootstrap3 %}
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+    <!-- Lobster font -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster"></link>
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.js"></script>
+
+    <!-- Bootstrap -->
+    {% bootstrap_css %}
+    {% bootstrap_messages %}
+
+    <!-- Organic -->
+    <link rel="stylesheet" href="{% static 'css/chapter.css' %}"></link>
+    <link rel="stylesheet" href="{% static 'css/all.css' %}"></link>
+    <style>
+    .bs-header {
+      background: url({{ STATIC_URL }}media/{{ subject.title|slugify }}.png) no-repeat center center fixed;
+      background-size: cover;
+    }
+    </style>
+
+    <title>{{ subject.title }} &middot {{ chapter.title }}</title>
+</head>
+
+{% autoescape off %}
+<body>
+<div class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+      <span class="sr-only">Toggle Navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">CompactCourse</a>
+    </div>
+    <div class="navbar-collapse collapse" style="margin-right:10px;">
+      <ul class="nav navbar-nav">
+        <li id="nav-active" class="active"><a href="../../{{ subject.slug }}">{{ subject.title }}</a></li>
+
+        {% for subject_type in subject_types %}
+        <li class="dropdown" id="{{ subject_type.title|slugify }}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            {{ subject_type.title }}<b class="caret"></b>
+          </a>
+
+              <ul class="dropdown-menu">
+              {% for subject in subject_type.subjects.all %}
+                <li><a href="../../{{ subject.slug }}">{{ subject.title }}</a></li>
+              {% endfor %}
+              </ul>
+        </li>
+        {% endfor %}
+
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="bs-header">
+  <h1>{{ chapter.title }}</h1>
+  <br>
+  <br>
+
+  {% if chapter_type == 'lesson' %}
+    <div class="btn-group">
+        <button class="btn btn-md active" href="#">
+          Lesson
+        </button>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-md" onclick="window.location.href='./compact-review'" style="font-family:'Lobster',cursive;">CompactReview</button>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-md" onclick="window.location.href='./problems'">Problems</button>
+    </div>
+  {% elif chapter_type == 'compact-review' %}
+    <div class="btn-group">
+        <button class="btn btn-md" onclick="window.location.href='./lesson'">
+          Lesson
+        </button>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-md active" style="font-family:'Lobster',cursive;">CompactReview</button>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-md" onclick="window.location.href='./problems'">Problems</button>
+    </div>
+  {% elif chapter_type == 'problems' %}
+    <div class="btn-group">
+        <button class="btn btn-md" onclick="window.location.href='./lesson'">
+          Lesson
+        </button>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-md" onclick="window.location.href='./compact-review'" style="font-family:'Lobster',cursive;">CompactReview</button>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-md active" href="#">Problems</button>
+    </div>
+  {% endif %}
+
+</div>
+
+{% if chapter_type == 'lesson' %}
+<div class="col-md-3">
+<div class="bs-docs-sidebar hidden-print" role="complementary">
+    <ul class="nav bs-docs-sidenav">
+        <li style="font-family:'Lobster',cursive;">
+            <a id="show-button" href="#" style="font-size:12pt;">
+                Show Chapters
+            </a>
+        </li>
+        <hr style="margin-top:8px; margin-bottom:8px;"/>
+
+        {% for chapter in chapters %}
+        <li class="chapter" style="display:none;"><a href="../{{ chapter.title|slugify }}/lesson">
+            {{ chapter.title }}
+        </a></li>
+        {% endfor %}
+
+        {% for section in sections %}
+        <li class="section"><a href="#{{ section.title|slugify }}">
+            {{ section.title }}
+          </a>
+            {% if section.subsections.all %}
+               <ul class="nav">
+                {% for subsection in section.subsections.all %}
+                  <li class="section">
+                    <a href="#{{ subsection.title|slugify }}">
+                      {{ subsection.title }}
+                    </a>
+                  </li>
+                {% endfor %}
+               </ul>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+</div>
+
+<div class="col-md-9" role="main">
+    {% for section in sections %}
+        <h2 id="{{ section.title|slugify }}">{{ section.title }}</h2>
+        <hr>
+        {% autoescape off %}
+        <p>{{ section.content }}</p>
+            {% if section.subsections.all %}
+                {% for subsection in section.subsections.all %}
+                    <h3 id="{{ subsection.title|slugify }}">
+                      {{ subsection.title }}
+                    </h3>
+                    <hr>
+                    <p>{{ subsection.content }}</p>
+                {% endfor %}
+            {% endif %}
+
+        {% endautoescape %}
+    {% endfor %}
+</div>
+{% elif chapter_type == 'compact-review' %}
+
+<link rel="stylesheet" href="{% static 'css/compact_review.css' %}"></link>
+
+<br>
+<br>
+<div class="col-md-12">
+  <div class="panel-group" id="accordion">
+    {% for section in sections %}
+      <div class="panel panel-info">
+        <div class="panel-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ section.id }}">
+          <h3>{{ section.title }}</h3><i class="fa fa-level-down"></i>
+        </a>
+        </div>
+        <div class="panel-collapse collapse" id="collapse-{{ section.id }}" style="height: auto;">
+          <div class="panel-body">
+          {% autoescape off %}
+          {{ section.content }}
+          {% endautoescape %}
+          </div>
+        </div>
+      </div>
+      <br>
+    {% endfor %}
+  </div>
+</div>
+
+{% endif %}
+
+{% bootstrap_javascript %}
+<script type="text/javascript" src="{% static 'js/docs.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/chapter_after.js' %}"></script>
+</body>
+
+{% endautoescape %}
+
+</html>

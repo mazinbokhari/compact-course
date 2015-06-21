@@ -1,0 +1,44 @@
+<h2 style="text-align: center;">A Federalist Governing System</h2>
+The Framers of the Constitution decided to form a federal system of governing. It is easier to understand this by defining two other systems of governing:
+<ul>
+	<li><span style="line-height: 14px;">A <span style="color: #007fff;">confederate system</span> is one in which there is a weak national government with decentralized power. The Articles of Confederation is a good example; the states truly held all the power.</span></li>
+	<li>A <span style="color: #007fff;">unitary system</span> is one in which there is a very strong central government. England at this time was a very good example. The king of England held all the power throughout the country.</li>
+</ul>
+A federal government is in between both of these systems. A federal government puts its power in both its national level as well as its state level. The Framers were chose to not use a confederate system due to the weaknesses shown by Shays' Rebellion and chose not to use a unitary system for fear of tyranny, such as the rule in England at the time.
+<h3 style="text-align: left;">Enumerated Powers</h3>
+The Constitution granted specific powers to the Constitution (there are 27, but it is not necessary to know all of them). As aforementioned in the previous chapter, the most important powers given to Congress are the ability to levy revenue taxes and the ability to regulate interstate commerce.
+<h3>Implied Powers</h3>
+The last clause of the enumerated powers is the the necessary and proper (or elastic) clause. As you might imagine, this is used by the federal government to address issues that were not relevant at the time, such as the creation of the national bank.
+<h3>Reserved Powers</h3>
+The <span style="color: #007fff;">10<sup><span style="text-decoration: underline;">th</span></sup> Amendment</span> states that any powers not given to the federal government nor prohibited by the Constitution are reserved to the states. These are mostly local tasks, such as establishing public schools, hospitals, and local governments.
+<h3>Concurrent Powers</h3>
+These are powers held by both the federal and state governments. This is a great example of federalism: shared power between national and state level.
+<h3>Advantages to Federalism</h3>
+One of the most important attributes of federalism is that it increases political participation because of the lower levels of government (state and local). Even if someone is not running for office, there are most opportunities to get involved, such as helping someone else campaign for a local office position. Federalism also separates powers onto different levels, preventing any body of government from getting too big. Lastly, many federal policies are the result of prior implementation at the state and local levels. Federalism allows different levels of governments to experiment to possibly find a solution to a national issue much faster than just having one large body of government trying to solve the problem on its own.
+<h2 style="text-align: center;">Types of Federalism</h2>
+<h3>Cooperative Federalism</h3>
+This is a system of government in which the federal and state governments work cohesively on an issue or program. Concurrent powers is a good way to think of this; both levels of government share powers and work together. The most famous example of cooperative federalism is the interstate highway program.
+<h3>Dual Federalism</h3>
+This is a system of government in which the the federal and state government do not directly interact with each other about issues or programs. They have their own separate "spheres of influence."
+<h3>New Federalism</h3>
+This is a political philosophy of devolution, which is just a general transfer of powers from the federal government to states. The types of grants offered to the states is a way in which power can vacillate back and forth between state and local levels.
+<ul>
+	<li><span style="line-height: 22px;"> <span style="color: #007fff;">Block grants</span> are given to states with an extensive range of uses. The states can almost do anything (within reason) with block grants. Therefore, block grants support devolution by giving states more power and discretion.</span></li>
+	<li><span style="color: #007fff;">Categorical grants</span> are given to states for explicit intentions. States must follow specific guidelines for the purposes of the categorical grants. Thus, categorical grants hinder the process of devolution.</li>
+	<li><span style="color: #007fff;">Mandates</span> are requirements the federal government imposes on states usually as a condition of receiving grants. Mandates are usually to do with civil rights, environmental policy, or handicap protection (eg. building ramps).</li>
+</ul>
+<h2 style="text-align: center;">National Supremacy</h2>
+Even though federalism is a split between the national and the state level, the national government had grown more powerful since the ratification of the Constitution.
+<h3>McCulloch v. Maryland</h3>
+The state of Maryland had attempted to impose a tax on all notes of banks not chartered in Maryland, and in doing so, attempted to levy a tax on the Second National Bank of the United States. Chief Justice John Marshall made two rulings:
+<ul>
+	<li><span style="line-height: 14px;">Congress has the constitutional authority to charter a national bank through its implied powers.</span></li>
+	<li>The Maryland tax on the national bank was unconstitutional.</li>
+</ul>
+The implication of Marshall's rulings is that the national government is supreme to the states.
+<h3>Interstate Commerce Clause</h3>
+This clause of the Constitution has added to national supremacy in two ways:
+<h4>Gibbons v. Ogden</h4>
+The Court of Chancery of New York ruled that the defendant, Gibbons, could not operate a ferry service between New Jersey and New York because the plaintiff, Ogden, had been granted absolute rights to do so by the state of New York. However, Gibbons had received the license to operate the ferry from the <em>federal</em> government. Therefore, the Supreme Court ruled that Gibbons' ferry service was lawful because Congress has the sole right to regulate all interstate commerce.
+<h4>Civil Rights Act of 1964</h4>
+The Supreme Court ruled that the Civil Rights Act of 1964, which banned discrimination in public accommodations (including restaurants and movie theaters), was constitutional because Congress has the ability to regulate interstate commerce, which these places were partaking in all the time.

@@ -1,0 +1,82 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Charge</span></h2>
+There are two types of charges, negative and positive. If two charges have the same sign, they repel each other. If they have opposite signs, they are attracted to one another
+
+<span style="text-decoration: underline; color: #007fff;">Atom:</span> Basic structure that makes up all elements
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Coulomb (C):</span></span> Unit of measure for charges
+
+<span style="text-decoration: underline; color: #007fff;">Proton:</span> Particle inside the atom that has a positive charge
+<ul>
+	<li>Mass: 1.6726231 × 10<sup>-27</sup> kg</li>
+	<li>Mp in your unit section of the TI-89</li>
+	<li>Charge: +1.6 x 10<sup>-19</sup> C</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Electron:</span> Particle inside the atom that has a negative charge
+<ul>
+	<li>Mass: 9.1093897 × 10<sup>-31</sup> kg</li>
+	<li>Me in a calc in your unit section of the TI-89</li>
+	<li>Charge: -1.6 x 10<sup>-19</sup> C</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Neutron:</span> Particle inside the atom that has a neutral charge
+<ul>
+	<li>Mass: 1.6749286 × 10<sup>−27</sup> kg</li>
+	<li>Mn in a calc in your unit section of the TI-89</li>
+	<li>Charge: 0.0 C</li>
+</ul>
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Charge Interactions</span></span></h2>
+&nbsp;
+
+ELECTROSCOPE STUFF
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Coulomb's Law</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Coulomb's Law:</span> Two charged particles can cause an electric force of repulsion or attraction
+<ul>
+	<li>Units =&gt; (N). Symbol =&gt; FE</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Columb's Constant:</span> Constant that defines how easily charges are felt within material; for air it is 9x10<sup>9</sup> N m^2/C^2
+<p style="text-align: center;"><img alt="{\color{Blue} k_{o} = \frac{1}{4\pi \varepsilon _{o}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;k_{o}&amp;space;=&amp;space;\frac{1}{4\pi&amp;space;\varepsilon&amp;space;_{o}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">Where Eo is the permitivity of free space equal to 8.85 x 10<sup>-12</sup> C^2/Nm^2</span></p>
+<p style="text-align: center;"><img alt="{\color{Blue} FE = \frac{kq_{1}q_{2}}{r^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;FE&amp;space;=&amp;space;\frac{kq_{1}q_{2}}{r^{2}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">Where q1 and q2 are the magnitudes of the charges and r is the distance between them</span></p>
+<p style="text-align: center;"><span style="color: #007fff;"><i>Notice the similarities between the gravitational force between two bodies</i></span></p>
+&nbsp;
+
+<i>DRAWING OF CHARGES</i>
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Electric Field</span></span></h2>
+Just as large masses cause gravitational fields, charges cause electric fields
+
+<span style="text-decoration: underline; color: #007fff;">Electric Field:</span> ?????
+<ul>
+	<li>Units =&gt; (N/C). Symbol =&gt; E</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} E = \frac{F}{q} = \left ( \frac{kQQ}{r^{2}}\right )\left ( \frac{1}{Q} \right )= \frac{kQ}{r^{2\, }}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;E&amp;space;=&amp;space;\frac{F}{q}&amp;space;=&amp;space;\left&amp;space;(&amp;space;\frac{kQQ}{r^{2}}\right&amp;space;)\left&amp;space;(&amp;space;\frac{1}{Q}&amp;space;\right&amp;space;)=&amp;space;\frac{kQ}{r^{2\,&amp;space;}}}" align="absmiddle" /></p>
+
+<ul>
+	<li>Electric field lines show the direction in which a positive test charge would move</li>
+</ul>
+&nbsp;
+
+DRAWINGS
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Electric Potential Energy</span></h2>
+&nbsp;
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Electric Potential</span></span></h2>
+<span style="text-decoration: underline; color: #007fff;">Electric Potential (voltage):</span> Amount of electric potential energy per unit charge at a location
+<ul>
+	<li>Units =&gt; volt (V). Symbol =&gt; V</li>
+</ul>
+&nbsp;
+<h3 style="text-align: center;">Electric Potential in Space</h3>
+&nbsp;
+<p style="text-align: center;"><img alt="{\color{Blue} \Delta V=\Delta\frac{U_{E}}{q} =&gt; V = kQ/r}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Delta&amp;space;V=\Delta\frac{U_{E}}{q}&amp;space;=&gt;&amp;space;V&amp;space;=&amp;space;kQ/r}" align="absmiddle" /></p>
+&nbsp;
+<h3 style="text-align: center;">Electric Potential in Parallel Plates</h3>
+<p style="text-align: center;"><img alt="{\color{Blue} V= Ed}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;V=&amp;space;Ed}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">Where E is the magnitude of the e-field inside two plates separated by distance d</span></p>

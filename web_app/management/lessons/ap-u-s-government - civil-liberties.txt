@@ -1,0 +1,62 @@
+<h2 style="text-align: center;">Civil Liberties and Selective Incorporation</h2>
+<p style="text-align: left;">The term civil rights and civil liberties are thrown around so much that people can't quite distinguish between them. Civil liberties protect people from unfair acts of the government and are relevant to every citizen. Civil rights are more to prevent certain groups from being discriminated against, such as blacks and gays.</p>
+
+<h3 style="text-align: left;">The Constitution</h3>
+As you learned in the chapter covering the Constitution, the Bill of Rights was set in place to prevent a tyrannical government. More specifically, the Bill of Rights safeguards citizens from unfair acts of the federal government. However, it does nothing to protect civil liberties from the state governments.
+<h3>Selective Incorporation Through the 14<span style="text-decoration: underline;"><sup>th</sup></span> Amendment</h3>
+The 14<sup><span style="text-decoration: underline;">th</span></sup> Amendment was used by the Supreme Court to apply the Bill of Rights to the states in a process called selective incorporation. The 14<span style="text-decoration: underline;"><sup>th</sup></span> Amendment has two main components that were crucial to the process of selective incorporation: the <span style="color: #007fff;">Equal Protection Clause</span> and the <span style="color: #007fff;">Due Process Clause</span>.
+
+Civil liberties were gradually applied to the states through court cases using these two clauses instead of all at once. This is why the process is referred to as <span style="color: #007fff;">selective</span> incorporation. Most of the Bills of Rights applies to the states, but some amendments have yet to be incorporated, such as the second (the right to bear arms) and the eight (the protection against excessive fines).
+<h4></h4>
+<h2 style="text-align: center;">Freedom of Speech</h2>
+<h3>Freedom of Speech Protections</h3>
+<h4>THE FIRST INCORPORATION</h4>
+The state of New York arrested newsman Gitlow when he wrote a piece that advocated the eradication of the government through a revolution of workers. While Gitlow's conviction was upheld, the Supreme Court ruled - in <em><span style="color: #007fff;">Gitlow v. New York</span></em> - that freedom of speech and the press (part of the First Amendment) are protected from the states by the Due Process Clause of the 14<sup>th</sup> Amendment. This court case was the first in a long line of cases that would incorporate the Bill of Rights.
+<h4>Symbolic Speech</h4>
+The Supreme Court has ruled that certain forms of nonviolent and nonthreatening protest qualify for protection as symbolic speech. Some of these are: burning flags (<em>Texas v. Johnson</em>) and wearing armbands (<span style="color: #007fff;"><em>Tinker v. Des Moines</em></span> - the armbands were protests against the Vietnam War). However, some acts such as burning draft cards (<em>United States v. O'Brien</em>) are not considered protected forms of symbolic speech.
+<h3>Freedom of Speech Restrictions</h3>
+Freedom of speech is a basic right that all Americans should have. Clearly from the cases above, freedom of speech is necessary to protect the powerless. However, there are many times when Americans aren't allowed to say whatever they want. The best example is shown in the court case <span style="color: #007fff;"><em>Schneck v. United States</em></span>.
+<h4>Schneck v. United States</h4>
+Schneck was indicted for violating the Espionage Act after he sent thousands of letters advocating opposition to a military draft. Schneck appealed to the Supreme Court, which found his conviction to be constitutional despite restricting his First Amendment rights of free speech. The chief justice ruled that the First Amendment applies in most situations, unless use of free speech causes a "<span style="color: #007fff;">clear and present danger</span>." The rationale was that if one were to yell "fire!" in a theater, it would cause panic and ultimately danger (people can die from being trampled).
+<h4>Other Speech Restrictions</h4>
+The Supreme Court has also limited free speech in other ways. <span style="color: #007fff;">Libel</span> and <span style="color: #007fff;">slander</span> are written and spoken, respectively, forms of false, insulting speech. The Supreme Court has ruled that statements are only libel or slander if one can prove that "the statements in questions are made with actual malice." There is also no constitutional provision to protect all forms of <span style="color: #007fff;">obscenity</span>. Usually the communities are the bodies responsible for enforcing governmental guidelines for obscenity.
+<h2 style="text-align: center;">Freedom of the Press</h2>
+<p style="text-align: left;">The government has tried to control and restrict freedoms of the press. This usually happens in times of war, when the government would like the media not to report on certain happenings for the interests of national security or in order to not compromise its position in a war. One of the most important cases was <em>New York Times Co. v. United States</em>, which involved a leakage of American entanglement in Vietnam known as the Pentagon Papers. When the government tried to stop  the New York Times from printing any more related material, the Supreme Court ruled that the act of preventing material from being printed before it is actually released - known as <span style="color: #007fff;">prior restraint</span> - is unconstitutional.</p>
+
+<h2 style="text-align: center;">Freedom of Religion</h2>
+There are two clauses in the First Amendment that pertain to religion: the Free Exercise Clause and the Establishment Clause.
+<h3>The Free Exercise Clause</h3>
+The Free Exercise Clause guarantees that the government cannot obstruct a person from practicing his or her religion, unless the practice involves illegal activity. For example, a Mormon cannot be prevent by the government from attending his church, but the government can stop him from practicing polygamy (<span style="color: #007fff;"><em>Reynolds v. United States</em></span>), even though it is practiced in Mormonism, because polygamy is illegal in the United States. Some Native Americans ingest peyote (an illegal drug) as a part of their religious ceremonies, but the Supreme Court ruled that such an act is still illegal, regardless of its religious use (<span style="color: #007fff;"><em>Oregon v. Smith</em></span>).
+<h3>The Establishment Clause</h3>
+The Establishment Clause prevents the authorization of a national, state, or local religion. The AP regularly uses "<span style="color: #007fff;">A wall of separation between Church and State</span>" as a reference to the Establishment Clause. This clause has prevented the institution of school prayer in public schools (<span style="color: #007fff;"><em>Engel v. Vitale</em></span>); although, it is not unlawful for student clubs to hold prayers before or after school. Government funding for religious purposes is not black and white - parochial schools are allowed some subsidies for lunches and textbooks. In order to help insure that the government does not violate the Establishment Clause, guidelines were made in the court case <span style="color: #007fff;"><em>Lemon v. Kurtzman</em></span>. The guidelines were promptly named the <span style="color: #007fff;">Lemon Test</span>:
+<ol>
+	<li><span style="line-height: 14px; color: #007fff;">The activity must have a secular (nonreligious) purpose.</span></li>
+	<li><span style="color: #007fff;">The activity can neither advance nor inhibit religion.</span></li>
+	<li><span style="color: #007fff;">The activity cannot involve "excessive entanglement" between the government and religion.</span></li>
+</ol>
+<h2 style="text-align: center;"><span style="line-height: 22px;">Criminal Rights</span></h2>
+<span style="line-height: 22px;">Criminal rights are important to protect against the arbitrary use of government power.</span>
+<h3><span style="line-height: 22px;">The 4<sup><span style="text-decoration: underline;">th</span></sup> Amendment and the Exclusionary Rule</span></h3>
+The Fourth Amendment pertains to unlawful searches and seizures. Despite the fact that it was in the Constitution, the Fourth Amendment was ignored often, and information found in such illegal searches and seizures were used to as evidence to convict people of crimes.
+<h4><span style="line-height: 22px;">Weeks v. United States</span></h4>
+<span style="line-height: 22px;"> The Supreme Court ruled that any evidence obtained from illegal searches and seizures protected by the Fourth Amendment is inadmissible in a court of law. This is known as the <span style="color: #007fff;">exclusionary rule</span>.</span>
+<h4>Mapp v. Ohio</h4>
+The Supreme Court applied the exclusionary rule to the states (selective incorporation).
+<h3>The 6<sup><span style="text-decoration: underline;">th</span></sup> Amendment</h3>
+The Sixth Amendment pertains to every citizen's right to counsel (an lawyer) in court.
+<h4>Betts v. Brady</h4>
+The Supreme Court ruled that state governments were not required to provide defendants counsel even if they could not afford a lawyer.
+<h4>Gideon v. Wainwright</h4>
+The Supreme Court overruled the decision in Betts v. Brady by deciding that state governments must provide lawyers to those that cannot afford one.
+<h3>Miranda Rights</h3>
+In the court case Miranda v. Arizona, the Supreme Court ruled any evidence revealed during interrogation of criminal suspects who are not informed of their "Miranda rights" will be inadmissible in a court of law. You hear these Miranda rights every time an arrest is made on <em>Law and Order</em>.
+<h2 style="text-align: center;">Privacy Rights</h2>
+The right to privacy is actually not definitively mentioned in the Constitution - that includes all its amendments as well.
+<h3>Contraception</h3>
+<h4>Griswold v. Connecticut</h4>
+The state of Connecticut had a law that banned any forms of contraception (for all you young ins, contraception is a method to prevent pregnancy). In Griswold v. Connecticut, the Supreme Court stuck down the law, ruling that the Constitution implied the <span style="color: #007fff;">right to privacy</span>.
+<h3>Abortion</h3>
+<h4>Roe v. Wade</h4>
+Using the rationale of the right to privacy established in the previous case, the Supreme Court stuck down a Texas law that banned most abortions. Roe v. Wade legalized abortion in the states.
+<h4>Planned Parenthood v. Casey</h4>
+In this court case, the Supreme Court ruled that states can regulate abortions, as long as they don't impose an "<span style="color: #007fff;">undue burden</span>" on the patients. For example, a state cannot require the consent of a woman's partner in order to have an abortion.

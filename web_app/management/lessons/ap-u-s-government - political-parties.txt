@@ -1,0 +1,27 @@
+<h2 style="text-align: center;">America's Political Party System</h2>
+Political parties are groups that try to elect candidates to public offices. However, they are much more than that. They also determine public policy and agenda, as well as being media through which citizens can participate in politics. The Framers of the Constitution actually warned against political parties, but America quickly formed a <span style="color: #007fff;">two party system</span>, where two major parties fight for control of government.
+<h3>National, State, and Local Levels of Parties</h3>
+While there are leaders of political parties (such as Democrats and Republicans) at every level of government, organizations of these parties at each level are independent of each other. For example, the National Democratic Party has no real bearings on, say, the Democratic Party of Illinois. Even though they both stand for the same ideas, they are not directly linked to one another
+<h3>Single-Member Districts</h3>
+Single-member district elections feature a <span style="color: #007fff;">plurality</span>,<span style="color: #007fff;"> winner-take-all system</span>. This means that the candidate that acquires the most votes is elected into office. This is different from a majority election, in which the winning candidate must receive at least half of all votes cast. Winner-take-all means that the overall winner of the election wins the office or all of the seats offered on the ballot. The <span style="color: #007fff;">electoral college</span> uses the winner-take-all system. When President Obama won 57.6% of the vote in Illinois in the 2012 presidential election, he gained all 20 of Illinois' electors. <span style="line-height: 22px;">Almost all of the elections that take place in the United States are in single-member districts.</span>
+<h3>Third Parties</h3>
+Single-member district elections makes it hard for third party candidates to win. One of the main reasons why is that the Democratic and Republican Parties are household names that garner a lot of attention. Third party candidates have to petition to be placed on the ballot, while that is automatically done for candidates of the two major parties. The winner-take-all featured electoral college system makes it almost impossible for a third party candidate to win a presidential election. Even if a candidate received a modest percentage of votes in every state, he could still end up with zero electors. In addition, third party candidates are not even allowed to speak in presidential debates. The greatest impact third parties have is taking away support from another candidates. Support for Ralph Nader's Green Party took away from Al Gore's vote in the 2000 election.
+
+There are several types of third parties:
+<h4>Ideological Parties</h4>
+These tend to be of extremist political viewpoints. Good examples are the Socialist Party, the Communist Party, and the Libertarian Party.
+<h4>One-Issue Parties</h4>
+These often discuss a single issue, such as banning alcohol (the Prohibition Party) or banning abortions (the Right to Life Party).
+<h4>Factional Parties</h4>
+These often split off from major parties. Theodore Roosevelt's "Bull Moose" Progressive Party split the Republican Party in 1912.
+<h2 style="text-align: center;">The Rise and Fall of Political Parties</h2>
+<h3>The Federalists and Democratic-Republicans</h3>
+The Federalists supported a strong central government, as well as a national bank (which was not explicitly granted by the Constitution). However, the Democratic-Republican Party, which advocated smaller central government and no central bank, defeated the Federalists in the 1800 presidential election. The importance is that this was the first time power was peacefully given up following an election.
+<h3>Jacksonian Democracy</h3>
+Andrew Jackson led the Democrats, who advocated for universal male suffrage for whites, used the spoils system (mentioned in The Bureaucracy), and was against the National Bank.
+<h3>Slavery and the Republicans</h3>
+Abraham Lincoln led the Republican Party to become the only third party in American history to win a presidential election. This was largely due to the party split of the Democrats over the issue of slavery.
+<h3>Reform and the New Deal</h3>
+Democrat Franklin Delano Roosevelt pushed his economic reform plan, called the <span style="color: #007fff;">New Deal</span>. This time period was characterized by a <span style="color: #007fff;">party realignment</span>, as many blacks (who previously mainly voted for the Republicans) voted for the Democratic Party. This major shift of party loyalty happened in what is called as a <span style="color: #007fff;">critical election</span>.
+<h3>The Fall of Political Parties in the Nixon Era</h3>
+Just as blacks swayed towards the Democrats, Richard Nixon's "Southern strategy" worked in acquiring the votes of white conservatives in the South. However, Nixon's era was also branded as the inception of divided government (more on this later), which slowed down the legislative process of the federal government. This frustrated voters, and led to the decline in trust they had in government. The most important consequence of this is that an increasing number of people started to identify themselves as moderate independents, instead of Democrats or Republicans. This resulted in the decline of power political parties had in a process known as <span style="color: #007fff;">party dealignment</span>.

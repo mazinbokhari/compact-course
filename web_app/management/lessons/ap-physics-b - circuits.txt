@@ -1,0 +1,74 @@
+<h2 style="text-align: center;"> <span style="text-decoration: underline; color: #007fff;">Current</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Current:</span></span> Charge that moves through a conductor over a certain time period
+<ul>
+	<li>Units =&gt; Ampere <img alt="(A)" src="http://latex.codecogs.com/gif.latex?(A)" align="absmiddle" /> Symbol =&gt; I</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} I=\frac{\Delta Q}{\Delta t}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;I=\frac{\Delta&amp;space;Q}{\Delta&amp;space;t}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where ΔQ is the charge that moves through in a time, t</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Resistance</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Resistance:</span> Electrical friction within a conductor when current passes through it
+<ul>
+	<li>Units =&gt; Ohm <img alt="(\Omega )" src="http://latex.codecogs.com/gif.latex?(\Omega&amp;space;)" align="absmiddle" /> Symbol =&gt; R</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} R=\frac{V}{I}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;R=\frac{V}{I}}" align="absmiddle" /> which means <img alt="{\color{Blue} V=IR}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;V=IR}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where V is the voltage and I is the current through the conductor</span></p>
+
+<h3 style="text-align: center;"><span style="color: #007fff;">Resistivity</span></h3>
+The amount of resistance that occurs within an object depends on its properties. The resistance is found using the equation below
+<p style="text-align: center;"><img alt="{\color{Blue} R=\frac{\rho L}{A}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;R=\frac{\rho&amp;space;L}{A}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where A is the cross-sectional area of the object, L is the length, and ρ is the resistivity constant, which varies for different elements and will be given in most problems</span></p>
+&nbsp;
+<h3 style="text-align: center;"><span style="color: #007fff;">Internal Resistance</span></h3>
+.?????????????????????????????????
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Schematic Diagrams</span></h2>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/schematics.png"><img class="alignnone size-full wp-image-3511" alt="schematics" src="http://compactcourse.com/wp-content/uploads/2013/06/schematics.png" width="549" height="462" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Series Circuits</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Circuit:</span></span> Conducting path in which current can flow through when connected to a voltage source
+
+<span style="text-decoration: underline; color: #007fff;">Series Circuit:</span> Circuit that has only one path for current flow as seen below
+<h3 style="text-align: center;"><span style="color: #007fff;">Series Rules</span></h3>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/series1.png"><img class="aligncenter" alt="series" src="http://compactcourse.com/wp-content/uploads/2013/06/series1.png" width="500" /></a>
+<p style="text-align: center;"><img alt="{\color{Blue} V_{t}=V1+V2+V3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;V_{t}=V1+V2+V3}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} I_{t}=I1=I2=I3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;I_{t}=I1=I2=I3}" align="absmiddle" /></p>
+<img class="aligncenter" alt="{\color{Blue} R_{t}=R1+R2+R3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;R_{t}=R1+R2+R3}" align="absmiddle" />
+
+&nbsp;
+<h3 style="text-align: center;"><span style="color: #007fff;">Series Capacitor Rules</span></h3>
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/series-capacitor.png"><img class="alignnone size-full wp-image-3528" style="margin: 5px auto; display: block; text-align: center;" alt="series capacitor" src="http://compactcourse.com/wp-content/uploads/2013/06/series-capacitor.png" width="500" /></a>
+<p style="text-align: center;"><img alt="{\color{Blue} V_{t}=V1+V2+V3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;V_{t}=V1+V2+V3}" align="absmiddle" /></p>
+<p style="text-align: center;"> <img alt="{\color{Blue} Q_{t}=Q1=Q2=Q3\, }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;Q_{t}=Q1=Q2=Q3\,&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} \frac{1}{C_{t}}=\frac{1}{C1}+\frac{1}{C2}+\frac{1}{C3}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{1}{C_{t}}=\frac{1}{C1}+\frac{1}{C2}+\frac{1}{C3}}" align="absmiddle" /></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Parallel Circuits</span></span></h2>
+<span style="text-decoration: underline; color: #007fff;">Parallel Circuit:</span> Circuit that has two or more paths for current flow as seen below
+<h3 style="text-align: center;"><span style="color: #007fff;">Parallel Rules</span></h3>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/parallel2.png"><img alt="parallel" src="http://compactcourse.com/wp-content/uploads/2013/06/parallel2.png" width="500" /></a></p>
+<p style="text-align: center;"> <img alt="{\color{Blue} V_{t}=V1=V2=V3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;V_{t}=V1=V2=V3}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} I_{t}=I1+I2+I3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;I_{t}=I1+I2+I3}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} \frac{1}{R_{t}}=\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{1}{R_{t}}=\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;"><span style="color: #007fff;">Parallel Capacitor Rules</span></h3>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/parallel-capacitor.png"><img class="alignnone size-full wp-image-3527" style="margin: 5px auto; display: block; text-align: center;" alt="parallel capacitor" src="http://compactcourse.com/wp-content/uploads/2013/06/parallel-capacitor.png" width="500" /></a></p>
+<p style="text-align: center;"><img alt="{\color{Blue} V_{t}=V1=V2=V3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;V_{t}=V1=V2=V3}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} Q_{t}=Q1+Q2+Q3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;Q_{t}=Q1+Q2+Q3}" align="absmiddle" /></p>
+<p style="text-align: center;"><img alt="{\color{Blue} C_{t}=C1+C2+C3}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;C_{t}=C1+C2+C3}" align="absmiddle" /></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Kirchoff's Rules</span></h2>
+<h3 style="text-align: center;"><span style="color: #007fff;">Loop Rule</span></h3>
+<p style="text-align: center;">The sum of the positive and negative potentials around any closed loop is equal to 0</p>
+
+<h3 style="text-align: center;"><span style="color: #007fff;">Junction Rule</span></h3>
+<p style="text-align: center;"> The amount of current that enters a branch is equal to the current leaving it</p>
+&nbsp;
+
+Practice problems
+
+&nbsp;
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Power in Circuits</span></span></h2>
+The power outputted by a circuit can be given by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} P=VI=I^2R=\frac{V^2}{R}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=VI=I^2R=\frac{V^2}{R}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where R is the resistance, V is the voltage, and I is the current</span></p>
+<p style="text-align: center;">*Keep the previous power equation P = W / t in mind for certain problems.*</p>
+<i> </i>

@@ -1,0 +1,152 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Center of Mass</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Center of Mass:</span> Point that represents the average of mass for an object
+<h3 style="text-align: center;">X Center of Mass</h3>
+<table border="0" align="center">
+<tbody>
+<tr>
+<td>X Direction</td>
+<td><img alt="{\color{Blue} X_{cm}=\frac{\sum ^{N}_{i=1}m_{i}x_{i}\, }{M_{total}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;X_{cm}=\frac{\sum&amp;space;^{N}_{i=1}m_{i}x_{i}\,&amp;space;}{M_{total}}}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td>Y Direction</td>
+<td><img alt="{\color{Blue} Y_{cm}=\frac{\sum ^{N}_{i=1}m_{i}y_{i}}{M_{total}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;Y_{cm}=\frac{\sum&amp;space;^{N}_{i=1}m_{i}y_{i}}{M_{total}}}" align="absmiddle" /></td>
+</tr>
+<tr>
+<td>Z Direction</td>
+<td><img alt="{\color{Blue} Z_{cm}=\frac{\sum ^{N}_{i=1}m_{i}z_{i}}{M_{total}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;Z_{cm}=\frac{\sum&amp;space;^{N}_{i=1}m_{i}z_{i}}{M_{total}}}" align="absmiddle" /></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><span style="color: #007fff;">where m<sub>i</sub> is a mass at an x coordinate x<sub>i</sub>, y coordinate y<sub>i</sub>, and z coordinate z<sub>i </sub>and M<sub>total</sub> is the total mass</span></p>
+
+<h3 style="text-align: center;">Example</h3>
+Ex.) What is the center of mass coordinates for a system with three different masses at the following coordinates?
+<ul>
+	<li>m<sub>1 </sub>= 10 kg; r<sub>1</sub> = 2i + 3j - 6k</li>
+	<li>m<sub>3</sub><sub> </sub>= 1 kg; r<sub>2</sub> = -3i + 4j - 7k</li>
+	<li>m<sub>3</sub><sub> </sub>= 5 kg; r<sub>3</sub> = 4i+ 9j - 3k</li>
+</ul>
+Answer.)
+<p style="padding-left: 60px;"><img alt="{\color{Red} X_{cm}=\frac{(10kg)(2\hat{i})\, +\, (1kg)(-3\hat{i})\, +\, (5kg)(4\hat{i})}{10kg\, + \, 1kg\, +\, 5kg}=\frac{37kg\, \hat{i}}{16kg}=2.31 \hat{i}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;X_{cm}=\frac{(10kg)(2\hat{i})\,&amp;space;+\,&amp;space;(1kg)(-3\hat{i})\,&amp;space;+\,&amp;space;(5kg)(4\hat{i})}{10kg\,&amp;space;+&amp;space;\,&amp;space;1kg\,&amp;space;+\,&amp;space;5kg}=\frac{37kg\,&amp;space;\hat{i}}{16kg}=2.31&amp;space;\hat{i}}" align="absmiddle" /></p>
+<p style="padding-left: 60px;"><img alt="{\color{Red} Y_{cm}=\frac{(10kg)(3\hat{j})\, +\, (1kg)(4\hat{j})\, +\, (5kg)(9\hat{j})}{10kg\, + \, 1kg\, +\, 5kg}=\frac{79kg\, \hat{i}}{16kg}=4.94 \hat{j}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;Y_{cm}=\frac{(10kg)(3\hat{j})\,&amp;space;+\,&amp;space;(1kg)(4\hat{j})\,&amp;space;+\,&amp;space;(5kg)(9\hat{j})}{10kg\,&amp;space;+&amp;space;\,&amp;space;1kg\,&amp;space;+\,&amp;space;5kg}=\frac{79kg\,&amp;space;\hat{i}}{16kg}=4.94&amp;space;\hat{j}}" align="absmiddle" /></p>
+<p style="padding-left: 60px;"><img alt="{\color{Red} Z_{cm}=\frac{(10kg)(-6\hat{k})\, +\, (1kg)(-7\hat{k})\, +\, (5kg)(-3\hat{k})}{10kg\, + \, 1kg\, +\, 5kg}=\frac{-82kg\, \hat{k}}{16kg}=-5.13 \hat{k}\,}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;Z_{cm}=\frac{(10kg)(-6\hat{k})\,&amp;space;+\,&amp;space;(1kg)(-7\hat{k})\,&amp;space;+\,&amp;space;(5kg)(-3\hat{k})}{10kg\,&amp;space;+&amp;space;\,&amp;space;1kg\,&amp;space;+\,&amp;space;5kg}=\frac{-82kg\,&amp;space;\hat{k}}{16kg}=-5.13&amp;space;\hat{k}\,}" align="absmiddle" /></p>
+<span style="color: #ff0000;">So putting this together, our answer becomes <img alt="{\color{Red} r_{cm}=2.31 \hat{i}\, +\, 4.94 \hat{j}\, -\, 5.13 \hat{k}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;r_{cm}=2.31&amp;space;\hat{i}\,&amp;space;+\,&amp;space;4.94&amp;space;\hat{j}\,&amp;space;-\,&amp;space;5.13&amp;space;\hat{k}}" align="absmiddle" />.</span>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Rotational Kinematics</span></h2>
+<span style="color: #007fff;"><span style="text-decoration: underline;">Angular Displacement:</span> <span style="color: #000000;">Vector quantity that defines an object’s change in position about a circular path</span></span>
+<ul>
+	<li>Unit =&gt; Radians <img alt="\left ( rad \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;rad&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; Δθ</li>
+</ul>
+<p align="center"><img alt="{\color{Blue} \Delta \Theta =\frac{\Delta s}{r}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Delta&amp;space;\Theta&amp;space;=\frac{\Delta&amp;space;s}{r}}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where Δs is the arc length and r is the radius</span></p>
+<p align="center">*With manipulation, this is where we get the equation <img alt="C=2\pi r" src="http://latex.codecogs.com/gif.latex?C=2\pi&amp;space;r" align="absmiddle" /> for the circumference of a circle.*</p>
+<span style="text-decoration: underline; color: #007fff;">Angular Velocity:</span> Vector quantity that is equal to the change in angular displacement over a time
+<ul>
+	<li>Unit =&gt; Radians per Second <img alt="\left ( \frac{rad}{s} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;\frac{rad}{s}&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; ω</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Angular Acceleration:</span> Vector quantity that is equal to the change in angular velocity over a time
+<ul>
+	<li>Unit =&gt; Radians per Second Squared <img alt="\left ( \frac{rad}{s^{2}} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;\frac{rad}{s^{2}}&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol =&gt; α</li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/angular-circle.png"><img class="alignnone size-full wp-image-4558" alt="angular circle" src="http://www.compactcourse.com/wp-content/uploads/2013/07/angular-circle.png" width="307" height="295" /></a></p>
+
+<h3 style="text-align: center;">Translational vs Rotational</h3>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/eqs.png"><img class="alignnone size-full wp-image-4392" style="margin: 5px auto; display: block; text-align: center;" alt="eqs" src="http://www.compactcourse.com/wp-content/uploads/2013/07/eqs.png" width="451" /></a>
+<h3 style="text-align: center;">Translational and Rotational Connections</h3>
+When connecting translational and rotational properties, we can use the two equations below
+<p align="center"><img alt="{\color{Blue} v_{t}=r\omega }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v_{t}=r\omega&amp;space;}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where v<sub>t</sub> is the tangential velocity, r is the radius of the circle, and ω is the angular velocity</span></p>
+<p align="center"><img alt="{\color{Blue} a_{t}=r\alpha }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a_{t}=r\alpha&amp;space;}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where a<sub>t</sub> is the tangential acceleration, r is the radius of the circle, and α is the angular </span><span style="color: #007fff;">acceleration</span></p>
+ Since <img alt="a_{c}=\frac{v^{2}}{r}" src="http://latex.codecogs.com/gif.latex?a_{c}=\frac{v^{2}}{r}" align="absmiddle" /> and <img alt="v=r\omega" src="http://latex.codecogs.com/gif.latex?v=r\omega" align="absmiddle" />, we can use substitution to get the equation
+<p style="text-align: center;"><img alt="{\color{Blue} a_{c}=\frac{(r\omega )^{2}}{r}=\omega ^{2}r}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;a_{c}=\frac{(r\omega&amp;space;)^{2}}{r}=\omega&amp;space;^{2}r}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where a<sub>c</sub> is the centripetal acceleration, ω is then angular velocity, and r is the radius</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Rotational Inertia</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Rotational Inertia (Moment of</span><span style="color: #007fff; text-decoration: underline;"> Inertia):</span></span> The rotational equivalent to inertial mass
+<ul>
+	<li>Unit =&gt; Newton meters <img alt="\left ( N\cdot m\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;N\cdot&amp;space;m\right&amp;space;)" align="absmiddle" />; Symbol =&gt; I</li>
+	<li>Many times, it will be a given in the problem, but when you need to find it, use the equations below</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} I=\sum mr^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;I=\sum&amp;space;mr^{2}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the point mass at a distance r to the axis of rotation</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Continuous Masses:</span></span> Objects in which the mass is extended over an area or volume</p>
+<p style="text-align: center;"><img alt="{\color{Blue} I=\int r^{2}\, dm}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;I=\int&amp;space;r^{2}\,&amp;space;dm}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">for continuous masses where r is the distance to the axis of rotation</span></p>
+
+<h3 style="text-align: center;">Parallel Axis Theorem</h3>
+When we know the rotational inertia of an object at its center of mass, the rotational inertia of the object that is offset to an axis parallel to the first one can be found by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} I=I_{cm}+md^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;I=I_{cm}+md^{2}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where I<sub>cm</sub> is the rotational inertia at an axis through the center of mass, m is the total mass of the system, and d is the distance between the two parallel axes</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Rotational Kinetic Energy</span></h2>
+We know that a moving object has translational kinetic energy. When an object is rotating, it has <span style="color: #007fff;">rotational kinetic energy</span>.
+
+<span style="text-decoration: underline; color: #007fff;">Rotational Kinetic Energy:</span> Kinetic energy an object contains if it is rotating
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Joules <img alt="\left ( J\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;J\right&amp;space;)" align="absmiddle" />; Symbol =&gt; KE<sub>rot</sub>
+</span></li>
+</ul>
+Since rotational kinetic energy is the rotational equivalent to kinetic energy, rotational inertia is the rotational equivalent to mass, and angular velocity is the rotational equivalent to velocity, we rotational kinetic energy equation as
+<p style="text-align: center;"><img alt="{\color{Blue} KE_{rot}=\frac{1}{2}I\omega ^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;KE_{rot}=\frac{1}{2}I\omega&amp;space;^{2}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where I is the rotational inertia and ω is the angular velocity of the object</span></p>
+
+<h3 style="text-align: center;">Rolling Kinetic Energy</h3>
+When an object is moving forward by rolling, its total kinetic energy can be found by the equation below
+<p style="text-align: center;"><img alt="{\color{Blue} KE_{rolling}=KE_{translational}+KE_{rotational}=\frac{1}{2}mv_{cm}^{2}+\frac{1}{2}I_{cm}\omega ^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;KE_{rolling}=KE_{translational}+KE_{rotational}=\frac{1}{2}mv_{cm}^{2}+\frac{1}{2}I_{cm}\omega&amp;space;^{2}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass, v<sub>cm</sub> is the translational velocity of the center of mass, I is the rotational inertia at the center of mass and ω is the angular velocity of the object</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Torque</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Torque:</span></span> The force that is applied tangent to a rotating body
+<ul>
+	<li>Unit =&gt; Newton meters <img alt="\left ( N\cdot m\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;N\cdot&amp;space;m\right&amp;space;)" align="absmiddle" />; Symbol =&gt; Τ</li>
+	<li>Torque is the rotational equivalent to force</li>
+	<li><span style="line-height: 14px;">The torque only measures the component perpendicular to the displacement which gives us the equation</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \tau =F\times r=Fr\sin \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\tau&amp;space;=F\times&amp;space;r=Fr\sin&amp;space;\Theta&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F is the force, r is the distance from the point of rotation, and Θ is the distance between the force vector and  displacement vector</span></p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/TFr-sinθ.png"><img class=" wp-image-4458 aligncenter" alt="T=Fr sinθ" src="http://www.compactcourse.com/wp-content/uploads/2013/07/TFr-sinθ.png" width="414" height="209" /></a></p>
+
+<ul>
+	<li><span style="line-height: 14px;"><span style="text-decoration: underline;">Clockwise</span> rotation is <span style="text-decoration: underline;">negative</span> and <span style="text-decoration: underline;">into</span> the page
+</span></li>
+	<li><span style="text-decoration: underline;">Counterclockwise</span> rotation is <span style="text-decoration: underline;">positive</span> and <span style="text-decoration: underline;">out of</span> the page</li>
+</ul>
+<h3 style="text-align: center;">Sum of Torques</h3>
+Since <img alt="\sum F=ma" src="http://latex.codecogs.com/gif.latex?\sum&amp;space;F=ma" align="absmiddle" /> and since torque is the rotational equivalent to force, rotational inertia is the rotational equivalent to mass, and angular acceleration is the rotational equivalent to acceleration, we get the sum of torques equation as
+<p style="text-align: center;"><img alt="{\color{Blue} \sum \tau =I\alpha }\, \, \, or\, \, \, {\color{Blue} \tau_{net}=I\alpha}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;\tau&amp;space;=I\alpha&amp;space;}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\tau_{net}=I\alpha}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where I is the rotational inertia and α is the angular acceleration</span></p>
+
+<h3 style="text-align: center;">Torque Equilibrium</h3>
+<p style="text-align: left;">Torque equilibrium occurs when the sum of torques in the counterclockwise direction equals the sum of torques in the clockwise direction</p>
+<p style="text-align: center;"><img alt="{\color{Blue} \sum \tau_{ccw}=\sum \tau_{cw}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\sum&amp;space;\tau_{ccw}=\sum&amp;space;\tau_{cw}}" align="absmiddle" /></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Angular Momentum</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Angular Momentum:</span> The rotational equivalent to linear momentum
+<ul>
+	<li> Unit =&gt; <img alt="\left (kg\cdot m/s \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; L</li>
+</ul>
+<h3 style="text-align: center;">Rotational Relationship</h3>
+<ul>
+	<li><span style="line-height: 14px;">Since <img alt="p=mv" src="http://latex.codecogs.com/gif.latex?p=mv" align="absmiddle" /> and since rotational inertia is the rotational equivalent to mass and angular velocity is the rotational equivalent to velocity, we get the angular momentum equation as
+</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} L=I\omega }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;L=I\omega&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where I is the rotational inertia and ω is the angular velocity</span></p>
+
+<h3 style="text-align: center;">Translational Relationship</h3>
+<p style="text-align: center;"><img alt="{\color{Blue} L=r\times p=rmv_{t}=rmv\sin \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;L=r\times&amp;space;p=rmv_{t}=rmv\sin&amp;space;\Theta&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where r is the distance from the reference point, p is the linear momentum, m is the mass, v<sub>t</sub> is the tangential velocity, v is the velocity, and Θ is the angle between the velocity and tangential velocity vectors</span></p>
+<p style="text-align: left;">Since <img alt="v_{t}=r\omega" src="http://latex.codecogs.com/gif.latex?v_{t}=r\omega" align="absmiddle" />, we can use substitution to get another angular momentum equation as</p>
+<p style="text-align: center;"><img alt="{\color{Blue} L=mr^{2}\omega }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;L=mr^{2}\omega&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass, r is the distance from the reference point, and ω is the angular velocity</span></p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/angular-p.png"><img alt="angular p" src="http://www.compactcourse.com/wp-content/uploads/2013/07/angular-p.png" width="507" height="230" /></a></p>
+
+<h3 style="text-align: center;">Conservation of Angular Momentum</h3>
+We learned that <img alt="p_{i}=p_{f}" src="http://latex.codecogs.com/gif.latex?p_{i}=p_{f}" align="absmiddle" /> in the Impulse and Momentum chapter. This same concept holds for angular momentum.
+<ul>
+	<li>Since <img alt="\tau _{net}=\frac{\Delta L}{\Delta t}" src="http://latex.codecogs.com/gif.latex?\tau&amp;space;_{net}=\frac{\Delta&amp;space;L}{\Delta&amp;space;t}" align="absmiddle" />, if <img alt="\tau _{net}=0" src="http://latex.codecogs.com/gif.latex?\tau&amp;space;_{net}=0" align="absmiddle" />, then <img alt="\Delta L=0" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;L=0" align="absmiddle" /></li>
+	<li><img alt="\Delta L=L_{f}-L_{i}" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;L=L_{f}-L_{i}" align="absmiddle" /> so then <img alt="0=L_{f}-L_{i}" src="http://latex.codecogs.com/gif.latex?0=L_{f}-L_{i}" align="absmiddle" /></li>
+	<li>This can be manipulated to get our equation</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} L_{i}=L_{f}}\, \, \, or\, \, \, {\color{Blue} I\omega _{i}=I\omega_{f}}\, \, \, or\, \, \, {\color{Blue} rmv\sin \Theta _{i}=rmv\sin \Theta _{f}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;L_{i}=L_{f}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;I\omega&amp;space;_{i}=I\omega_{f}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;rmv\sin&amp;space;\Theta&amp;space;_{i}=rmv\sin&amp;space;\Theta&amp;space;_{f}}" align="absmiddle" />
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/Conservation-of-L-2.png"><img class="alignnone size-full wp-image-4562" alt="Conservation of L 2" src="http://www.compactcourse.com/wp-content/uploads/2013/07/Conservation-of-L-2.png" width="727" height="343" /></a></p>

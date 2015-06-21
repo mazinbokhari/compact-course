@@ -1,0 +1,58 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Intro to Waves</span></h2>
+In the Simple Harmonic Motion chapter, we gained some basic knowledge on waves such as amplitude, period, and frequency. In this chapter, we will further expand on this topic.
+
+<span style="text-decoration: underline; color: #007fff;">Crest:</span> Highest point the wave reaches
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Trough:</span></span> Lowest point the wave reaches
+
+<span style="text-decoration: underline; color: #007fff;">Wavelength:</span> The distance from one crest to the next (or one trough to the next)
+<ul>
+	<li>Unit =&gt; <img alt="\left (m\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(m\right&amp;space;)" align="absmiddle" />; Symbol =&gt; λ</li>
+</ul>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/Wave.png"><img class="alignnone size-full wp-image-4178" style="margin: 5px auto; display: block; text-align: center;" alt="Wave" src="http://www.compactcourse.com/wp-content/uploads/2013/06/Wave.png" width="700" /></a>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Traveling Waves</span></h2>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Traveling Waves:</span></span> Waves that have pulses moving along the length of the string
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/traveling-wave.png"><img class="alignnone size-full wp-image-4186" style="margin: 5px auto; display: block; text-align: center;" alt="traveling wave" src="http://www.compactcourse.com/wp-content/uploads/2013/06/traveling-wave.png" width="800" /></a>
+<h3 style="text-align: center;">Velocity of a Wave</h3>
+The pulse of a wave travel with a constant velocity. This velocity can be given by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} v=\lambda f}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v=\lambda&amp;space;f}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity, λ is the wavelength, and f is the frequency</span></p>
+
+<h3 style="text-align: center;">Velocity of a Wave for Strings</h3>
+When someone gives a taught string a quick whip, a pulse develops in the string. The velocity of this pulse is given by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} v=\sqrt{\frac{F_{t}}{M/l}}=\sqrt{\frac{F_{t}}{\mu }}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v=\sqrt{\frac{F_{t}}{M/l}}=\sqrt{\frac{F_{t}}{\mu&amp;space;}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F<sub>t</sub> is the force of tension in the string, M is the mass of the string, l is the length of the string, and <b>μ is </b>the linear density of the string equal to M/l</span></p>
+
+<h3 style="text-align: center;">Superposition</h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Superposition:</span></span> When two pulses meet, their resulting amplitude displacement is equal to the sum of the individual displacements
+
+<span style="text-decoration: underline; color: #007fff;">Constructive Interference:</span> When the sum of the displacements creates a bigger pulse
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/constructive-21.png"><img class="alignnone size-full wp-image-4193" style="margin: 5px auto; display: block; text-align: center;" alt="constructive 2" src="http://www.compactcourse.com/wp-content/uploads/2013/06/constructive-21.png" width="800" /></a>
+
+<span style="text-decoration: underline; color: #007fff;">Destructive Interference:</span> When the sum of the displacements creates a smaller pulse
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Standing Waves</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Standing Wave:</span> Fixed wave in which there are no pulses that travel down the string
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Node (N):</span></span> Point on a wave in which no displacement occurs
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Antinode (A):</span></span> Point on a wave in which maximum and minimum displacement occur
+
+Nodes and antinodes are all equally spaced from one another
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/Nodes.png"><img class="alignnone size-full wp-image-4184" style="margin: 5px auto; display: block; text-align: center;" alt="Nodes" src="http://www.compactcourse.com/wp-content/uploads/2013/06/Nodes.png" width="500" /></a>
+
+&nbsp;
+<h3 style="text-align: center;">Closed End Standing Waves</h3>
+When we have a closed end standing wave such as the one pictured above, the frequency of the wave can be given by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} f=\frac{nv}{2L}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f=\frac{nv}{2L}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where n is the harmonic number (number of holes in the diagram), v is the velocity of the wave, and L is the total length of the wave</span></p>
+
+<h3 style="text-align: center;">Open END STANDING WAVES</h3>
+When we have an open end standing wave, the frequency of the wave can be given by the equation
+
+<img class="aligncenter" alt="{\color{Blue} f=\frac{nv}{4L}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f=\frac{nv}{4L}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where n is the harmonic number (number of holes in the diagram), v is the velocity of the wave, and L is the total length of the wave</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Sound</span></h2>

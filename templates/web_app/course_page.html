@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static bootstrap3 %}
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+  <!-- Lobster font -->
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster"></link>
+
+  <!-- jQuery -->
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.js"></script>
+
+  <!-- Bootstrap -->
+  {% bootstrap_css %}
+  {% bootstrap_messages %}
+
+  <!-- Organic -->
+  <link rel="stylesheet" href="{% static 'css/course_page.css' %}"></link>
+  <link rel="stylesheet" href="{% static 'css/all.css' %}"></link>
+</head>
+<body>
+  <div class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle Navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">CompactCourse</a>
+      </div>
+      <div class="navbar-collapse collapse" style="margin-right:10px;">
+        <form action="/search/" class="navbar-form navbar-right" role="search">
+          <div class="form-group">
+            <input class="form-control" placeholder="Search" type="text" name="q" value="">
+          </div>
+          <div class="form-group">
+            <select class="form-control" name="type">
+              <option value="">Everything</option>
+            </select>
+          </div>
+          <input type="submit" class="btn btn-default" value="Go">
+        </form>
+        <ul class="nav navbar-nav">
+          <li id="nav-active" class="active"><a href="/{{ course_type.slug }}">{{ course_type.title }}</a></li>
+
+          {% for subject_type in subject_types %}
+          <li class="dropdown" id="{{ subject_type.slug }}">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              {{ subject_type.title }}<b class="caret"></b>
+            </a>
+
+            {% for subject in subject_type.subjects.all %}
+                <ul class="dropdown-menu">
+                  <li><a href="/{{ course_type.slug }}/{{ subject.slug }}">{{ subject.title }}</a></li>
+                </ul>
+            {% endfor %}
+          </li>
+          {% endfor %}
+
+        </ul>
+      </div>
+    </div>
+  </div>
+    <div id='{{ subject.slug }}' class="bs-header" style="background:url({{ STATIC_URL }}media/{{ subject.slug }}.png) no-repeat center center fixed; background-size:cover;">
+      <div class="container">
+        <h1>{{ subject.title }}</h1>
+        <p class="lead">{{ subject.preview }}</p>
+      </div>
+    </div>
+
+    <div class="container container-narrow">
+      <ul class="list-group">
+        {% for chapter in chapters %}
+        <a href="./{{ subject.slug }}/{{ chapter.slug }}/lesson" class="list-group-item" id="science-{{ subject.slug }}-{{ chapter.slug }}">
+        <h4 class="list-group-item-heading">{{ chapter.title }}</h4>
+        <p class="list-group-item-text">{{ chapter.preview }}</p>
+        </a>
+        {% endfor %}
+      </ul>
+    </div>
+
+{% bootstrap_javascript %}
+</body>
+</html>

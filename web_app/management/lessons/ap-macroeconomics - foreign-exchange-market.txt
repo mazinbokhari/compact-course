@@ -1,0 +1,69 @@
+<h2>Exchange Rates</h2>
+<h3>Introduction</h3>
+Foreign exchange rates compare the relative strengths of two nation's currencies. For example, the U.S. dollar exchange rate for the euro might be $5 for €1. This means that 1 euro can get you five U.S. dollars. In this case, the euro is stronger than the dollar. If the value of €1 increased to $8, then the euro would have been said to have increased in strength, or <span style="color: #007fff;">appreciated</span>. On the other hand, if the euro's value decreased, then it would have been said to have <span style="color: #007fff;">depreciated</span>. For the sake of this course, we will only compare the exchange rates of two currencies with each other.
+<h4>Appreciation vs. Inflation</h4>
+As you know, if inflation and the general price level in the United States increased, then the U.S. dollar's purchasing power would decrease because one dollar wouldn't be able to get you as much in the future when the prices of goods are higher. Many people assume that since the dollar's purchasing power would decrease, then the dollar would depreciate against other currencies, such as the euro, because the dollar's value is less. This is false; the dollar would only decrease in the United States alone, not in other countries. Inflation/deflation doesn't directly translate to depreciation/appreciation.
+
+Here's an example:
+
+The exchange rate of the dollar for the euro is $2 for €1. An apple in the United States costs $0.50. One dollar can get you two apples, and one euro can get you four apples. Inflation causes the price of an apple to rise to $1. Now, one dollar can only get you one apple, but one euro can now only get you two apples. As you can see, both the dollar <em>and</em> the euro became weaker in the United States. However, relative to each other, the value of the dollar and the euro stayed the same.
+
+&nbsp;
+<h3>Foreign Exchange Market</h3>
+Just like money, loanable funds, and overall output, there is a market for foreign currencies. The concepts of demand and supply curves are the same as with every graph we've done. When comparing two countries' currencies, we must make a graph of both countries' currencies' markets.
+
+<img class="alignleft" alt="Dollar Market" src="http://www.compactcourse.com/images/Dollar Market.png" width="300" height="273" />
+
+<img class="alignright" alt="Euro Market" src="http://www.compactcourse.com/images/Euro Market.png" width="299" height="273" />
+
+<span style="font-size: 13px;">The horizontal axes just represent the quantity of dollars or euros in supply. The vertical axes represent the exchange rate for each currency. For example, €/$ represents the value of the dollar. Think about it like this: "euros <em>per</em> dollar; how many euros can I get for <em>one</em> dollar?." On the AP exam, you can write symbols like €/$ however you want (e.x. euros/dollar or euros/$).</span>
+
+<span style="font-size: 13px;">I like to remember that the dollar market has "Dollars" on the bottom axis, so $ will be on the bottom of the fraction of the exchange rate in that market. The same goes for every other currency.</span>
+
+&nbsp;
+<h4>Demand</h4>
+When a foreign country spends (either through its government or its people) money in another country, it must convert its foreign currency to that country's currency. Thus, it has a certain <em>demand</em> for that currency. That's what the demand curve represents; the demand of a foreign country for another country's currency. In the case of the Euro Market, the demand curve represents how much U.S. citizens demand euros in order to buy European products.
+
+When foreign spending increases in another country, it must increase its conversion to that country's currency, so the demand for that currency increases. For example, if the price level of goods in the United States decreased, European people would want to buy more of American goods because they would be cheaper. In order to increase spending in America, Europeans would have to convert more euros to American dollars. Therefore, the demand curve of the dollar market would shift to the right.
+<h4>Supply</h4>
+When a foreign country increases its spending in a country, it needs to increase its conversion to that currency (so the demand curve in that market shifts right). When that foreign country converts to that currency, it <em>supplies</em> its own currency for that country's currency. Therefore, the supply curve of the foreign country would shift to the right. This will always be true: when the demand curve in one market shifts right, the supply curve in the <em>other</em> market will shift right as well.
+<h4>Example</h4>
+Of course, there's a 48% chance that you're confused, so I'll just give an example.
+
+<img class="alignleft" alt="Dollar Market" src="http://www.compactcourse.com/images/Dollar Market.png" width="300" height="273" /><img class="alignright" alt="Euro Market" src="http://www.compactcourse.com/images/Euro Market.png" width="299" height="273" />
+
+Here are the two markets for the dollar and the euro. The price level in the United States increases. Therefore, the goods and services are more expensive to everyone, including Europeans. Therefore, Europeans would decrease their spending in the United States.
+
+This means that they wouldn't need to convert to dollars to purchase goods and services as much, so the demand for the dollar would decrease. Therefore, the demand curve in the Dollar Market would shift to the left.
+
+Since Europeans would convert to dollars <em>less</em>, <img class="alignleft" alt="Dollar D Shift Left" src="http://www.compactcourse.com/images/Dollar D Left.png" width="300" height="273" /><img class="alignright" alt="Euro S Shift Left" src="http://www.compactcourse.com/images/Euro S Left.png" width="299" height="273" />they would supply <em>less</em> euros to convert. Thus, the supply curve in the Euro Market would shift to the left.
+
+The result of the shift in curves would be the same: euros/$ would decrease and $/euro would increase. You can analyze either to see which currency appreciates/depreciates.
+
+If euros/$ decreased, then one dollar would get you <em>less</em> euros than before. Thus, the dollar would be weaker, which means that it would depreciate relative to the euro.
+
+Obviously, since the dollar is weaker, the euro is stronger. Because the euro is stronger relative to the dollar, goods in the United States are now cheaper for Europeans using the euro. This means that foreign spending in the United States will increase. More specifically, the United States' <em>exports</em> to Europeans will increase.The depreciation of the dollar also means that European goods will be more expensive for Americans using the dollar. Thus,the United States' imports from foreign countries will decrease. Overall, the effect of the depreciation of the dollar is that the United States' net exports (X-M) will increase.
+
+Yes, I know it seems odd... First, foreign spending in the United States decreased, and then as a result of the change in exchange rates, foreign spending in the United States increased. Take note whether a question asks how aggregate demand changes in the short-run or in the long-run.
+<h2>Triggers of Exchange Rate Changes</h2>
+In general, anything that increases/decreases foreign spending in another country will change exchange rates. There are three main triggers that will cause this. For the sake of the lesson, I'll just use the United States dollar and the European euro as the two currencies (however, you could get other currencies on the AP exam).
+<h3>Price Levels</h3>
+The example above already touched on this. When the price levels in one country are higher, goods and services are more expensive for everyone, including foreign countries. Therefore, foreign countries decrease spending in that country, which means that there is less need for foreigners to convert their currency to that country's currency. This translates to the supply of the foreign currency decreasing and the demand of the other country's currency decreasing as well.
+
+Of course, if the price levels in a country decrease, the opposite holds true: the supply of the foreign currency and the demand for that country's currency would increase due to the same logic.
+
+e.x. If the price levels in the Europe increased, then goods and services would be more expensive to everyone, including Americans. Therefore, Americans would decrease their spending in Europe, which means that there is less need to convert dollars to euros. This means that the demand of euros and the supply of dollars would both decrease.
+<h3>Real Interest Rates</h3>
+Businesses don't like high real interest rates because they have to pay back more than they take out, known as interest. Investors, however, love high real interest rates because <span style="color: #007fff;">bonds </span>pay <em>them</em> a form of interest, known as a yield. When real interest rates increase in a country, foreign investors increase their investment in bonds because they are more "profitable" (yes, the opposite of loans, which are less profitable). In order to purchase these bonds, foreigners must convert more of their currency to that country's currency. This translates to the supply of the foreign currency increasing and the demand of the other country's currency increasing as well.
+
+If a country's real interest rates decrease, then the opposite holds true: the supply of the foreign currency and the demand for that country's currency would decrease due to the same logic.
+
+e.x. If the real interest rates in the United States increased, then bond would have higher yields (i.e. more profitable). Therefore, Europeans would increase their spending in America, which means that there would be a greater need to convert euros to dollars. This means that the demand of dollars and the supply of euros would both increase.
+<h3>National Income</h3>
+When a country's national income/real GDP increases, its people have more expendable income. Thus, they will increase spending in not only their own country, but in other countries as well. Therefore, they will need to convert more of their currency to a foreign country's currency. As a result, the demand for the currency of the foreign country increases, and the supply of the original country's currency rises as well.
+
+If a country's national income decreases , its people will have less expendable income and will thus decrease spending in a foreign country. Therefore, there is less need to convert to the foreign country's currency. Thus the demand of the foreign country's currency and the supply of the original country's currency both decrease.
+
+e.x. If the real GDP in the United States increased, then Americans would have more expendable income. Therefore, American spending in European countries would increase, which means that there would be a greater need to convert dollars to euros. This means that the demand of euros and the supply of dollars would both increase.
+<h2>Current and Capital Accounts</h2>
+Every country has a current account and a capital account. The current and capital accounts of a country must always sum to be zero. Therefore, when one goes up, the other must go down. The current account, which is more focused on by the AP exam, is basically net exports. For example, if the United States' exports to China increased, then America's net exports would increase as well. Assuming that the United States' current and capital accounts were both initially zero, America's current account would increase to a surplus, and its capital account would decrease to a deficit.

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static bootstrap3 %}
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+    <!-- Lobster font -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster"></link>
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.js"></script>
+
+    <!-- Bootstrap -->
+    {% bootstrap_css %}
+    {% bootstrap_messages %}
+
+    <!-- Organic -->
+    <link rel="stylesheet" href="{% static 'css/listing.css' %}"></link>
+    <link rel="stylesheet" href="{% static 'css/chapter.css' %}"></link>
+    <style>
+    .bs-header {
+      margin-top: -20px;
+      margin-bottom: 20px;
+      padding-top: 25px;
+      padding-bottom: 25px;
+      text-align: center;
+      background: url({{ STATIC_URL }}/media/{{ subject.title|slugify }}.png) no-repeat center center fixed;
+      background-size: cover;
+      border-bottom: #ddd solid 1px;
+    }
+
+    .bs-header h1 {
+      font-family: 'Lobster', cursive;
+      font-size: 48px;
+    }
+    </style>
+
+    <title>{{ subject.title }} &middot {{ chapter.title }}</title>
+</head>
+
+<body>
+<div class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+      <span class="sr-only">Toggle Navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">CompactCourse</a>
+    </div>
+    <div class="navbar-collapse collapse" style="margin-right:10px;">
+      <form action="/search/" class="navbar-form navbar-right" role="search">
+        <div class="form-group">
+          <input class="form-control" placeholder="Search" type="text" name="q" value="">
+        </div>
+        <div class="form-group">
+          <select class="form-control" name="type">
+            <option value="">Everything</option>
+          </select>
+        </div>
+        <input type="submit" class="btn btn-default" value="Go">
+      </form>
+      <ul class="nav navbar-nav">
+        <li id="nav-active" class="active"><a href="../../../{{ course_type.title|slugify }}">{{ course_type.title }}</a></li>
+
+        {% for subject_type in subject_types %}
+        <li class="dropdown" id="{{ subject_type.title|slugify }}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            {{ subject_type.title }}<b class="caret"></b>
+          </a>
+
+          {% for subject in subject_type.subjects.all %}
+              <ul class="dropdown-menu">
+                <li><a href="../../{{ subject.title|slugify }}">{{ subject.title }}</a></li>
+              </ul>
+          {% endfor %}
+        </li>
+        {% endfor %}
+
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="bs-header">
+<h1>{{ subject.title }} &middot {{ chapter.title }}</h1>
+</div>
+
+<div class="container">
+
+<ul class="nav nav-tabs nav-justified">
+  {% if chapter_type == 'lesson' %}
+    <li class="active">
+        <a href="#">
+          Lesson
+        </a>
+    </li>
+    <li>
+        <a href="./compact-review" style="font-family:'Lobster',cursive;">CompactReview
+    </a></li>
+    <li>
+        <a href="./problems">Problems</a>
+    </li>
+  {% elif chapter_type == 'compact-review' %}
+    <li>
+        <a href="./lesson">
+          Lesson
+        </a>
+    </li>
+    <li class="active">
+        <a href="#" style="font-family:'Lobster',cursive;">CompactReview
+    </a></li>
+    <li>
+        <a href="./problems">Problems</a>
+    </li>
+  {% elif chapter_type == 'problems' %}
+    <li>
+        <a href="./lesson">
+          Lesson
+        </a>
+    </li>
+    <li>
+        <a href="./compact-review" style="font-family:'Lobster',cursive;">CompactReview
+    </a></li>
+    <li class="active">
+        <a href="#">Problems</a>
+    </li>
+  {% endif %}
+</ul>
+
+<div class="row">
+<div class="col-md-3">
+<div class="bs-docs-sidebar hidden-print" role="complementary">
+    <ul class="nav bs-docs-sidenav">
+        <li style="font-family:'Lobster',cursive;">
+            <a id="show-button" href="#" style="font-size:12pt;">
+                Show Chapters
+            </a>
+        </li>
+        <hr style="margin-top:8px; margin-bottom:8px;"/>
+
+        {% for chapter in chapters %}
+        <li class="chapter" style="display:none;"><a href="../{{ chapter.title|slugify }}/lesson">
+            {{ chapter.title }}
+        </a></li>
+        {% endfor %}
+
+        {% for section in sections %}
+        <li class="section"><a href="#{{ section.title|slugify }}">
+            {{ section.title }}
+          </a>
+            {% if section.subsections.all %}
+               <ul class="nav">
+                {% for subsection in section.subsections.all %}
+                  <li class="section">
+                    <a href="#{{ subsection.title|slugify }}">
+                      {{ subsection.title }}
+                    </a>
+                  </li>
+                {% endfor %}
+               </ul>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+</div>
+
+<div class="col-md-9" role="main">
+    {% for section in sections %}
+        <h2 id="{{ section.title|slugify }}">{{ section.title }}</h2>
+        <hr>
+        {% autoescape off %}
+        <p>{{ section.content }}</p>
+            {% if section.subsections.all %}
+                {% for subsection in section.subsections.all %}
+                    <h3 id="{{ subsection.title|slugify }}">
+                      {{ subsection.title }}
+                    </h3>
+                    <hr>
+                    <p>{{ subsection.content }}</p>
+                {% endfor %}
+            {% endif %}
+
+        {% endautoescape %}
+    {% endfor %}
+</div>
+</div>
+</div>
+
+{% bootstrap_javascript %}
+<script type="text/javascript" src="{% static 'js/docs.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/chapter_after.js' %}"></script>
+</body>
+</html>

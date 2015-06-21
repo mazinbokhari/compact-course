@@ -1,0 +1,22 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Momentum</span></h2>
+<span style="color: #007fff; text-decoration: underline;">Linear Momentum:</span> Vector Quantity that is the product of an object's mass and its velocity
+<ul>
+	<li>Unit =&gt; <img alt="\left (kg\cdot m/s \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; p</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} p=mv}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;p=mv}" align="absMiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass and v is the velocity of the object</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Conservation of Momentum:</span></span> Momentum is always conserved; initial momentum is equal to final momentum as seen in the equation below</p>
+<p style="text-align: center;"><img alt="{\color{Blue} p_{i}=p_{f}}\, \, \, or\, \, \, {\color{Blue} mv_{i}=mv_{f}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;p_{i}=p_{f}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;mv_{i}=mv_{f}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where p<sub>i</sub> and p<sub>f</sub> are the initial and final momentums, m is the mass of the object, and v<sub>i</sub> and v<sub>f</sub> are the initial and final velocities of the object</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Collisions</span></h2>
+<h3 style="text-align: center;">Elastic Collisions</h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Elastic Collision:</span></span> Kinetic energy <em>is</em> conserved
+<h3 style="text-align: center;">Inelastic Collisions</h3>
+<span style="color: #007fff; text-decoration: underline;">Inelastic Collision:</span> Kinetic energy <em>is not</em> conserved
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Impulse</span></h2>
+<span style="color: #007fff; text-decoration: underline;">Impulse:</span> Vector quantity that is the product of force and the time for which the force acts; It is equal to the change in momentum of an object
+<ul>
+	<li>Unit =&gt; <img alt="\left (kg\cdot m/s \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; J</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} J=F\Delta t}\, \, \, or\, \, \, {\color{Blue} J=\Delta p}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;J=F\Delta&amp;space;t}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;J=\Delta&amp;space;p}" align="absmiddle" /></p>

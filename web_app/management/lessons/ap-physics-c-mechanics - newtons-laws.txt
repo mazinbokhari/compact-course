@@ -1,0 +1,74 @@
+<p style="text-align: center;"><span style="color: #ff0000;"><a href="www.compactcourse.com/courses/ap-physics-b/newtons-laws/newtons-laws-lesson/" target="_blank"><span style="color: #ff0000;">See AP Physics B - Newton's Laws - Lesson for Basic Information</span></a></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Newton's Second Law with Calculus</span></h2>
+<p style="text-align: left;"><span style="color: #ff0000;">Recall that <img alt="{\color{Red} F_{net} = ma}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;F_{net}&amp;space;=&amp;space;ma}" align="absmiddle" />.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">Before, we were limited to problems with constant acceleration. Now with our calculus knowledge, we can now solve problems that have changing accelerations.</span></p>
+
+<ul>
+	<li><span style="line-height: 14px;">Since <img alt="a =\frac{\mathrm{d}v}{\mathrm{d} t} =\frac{\mathrm{d}^{2} x}{\mathrm{d} t^{2}}" src="http://latex.codecogs.com/gif.latex?a&amp;space;=\frac{\mathrm{d}v}{\mathrm{d}&amp;space;t}&amp;space;=\frac{\mathrm{d}^{2}&amp;space;x}{\mathrm{d}&amp;space;t^{2}}" align="absmiddle" />, we can substitute </span>this into <img alt="F_{net} = ma" src="http://latex.codecogs.com/gif.latex?F_{net}&amp;space;=&amp;space;ma" align="absmiddle" /><span style="line-height: 14px;"> to get </span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} F_{net} = m\frac{\mathrm{d}v}{\mathrm{d} t} =m\frac{\mathrm{d}^{2} x}{\mathrm{d} t^{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{net}&amp;space;=&amp;space;m\frac{\mathrm{d}v}{\mathrm{d}&amp;space;t}&amp;space;=m\frac{\mathrm{d}^{2}&amp;space;x}{\mathrm{d}&amp;space;t^{2}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass, v is the velocity function, and x is the displacement function of the system</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Air Resistance</span></h2>
+In Physics B, we ignored air resistance even though it has a great effect on a falling object.
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Air</span><span style="color: #007fff; text-decoration: underline;"> Resistance:</span></span><span style="color: #000000;"> Force that slows down objects in motion when they come into contact with air molecules</span>
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Newton <img alt="\left (kg\cdot m/s^{2} \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(kg\cdot&amp;space;m/s^{2}&amp;space;\right&amp;space;)" align="absMiddle" />; Symbol =&gt; F<sub>air</sub>
+</span></li>
+	<li>Air resistance functions can vary, but one of the most common ones we see is</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} F_{air}=kv}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{air}=kv}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where k is a constant of proportionality and v is the velocity of the object</span></p>
+
+<h3 style="text-align: center;">Terminal Velocity</h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Terminal Velocity:</span></span> Velocity at which a falling object feels no net force (therefore acceleration) because the force of gravity cancels out with the air resistance force
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Meters per Second <img alt="\left ( \frac{m}{s}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;\frac{m}{s}\right&amp;space;)" align="absmiddle" />; Symbol =&gt; v<sub>t</sub></span></li>
+	<li>This is depicted below</li>
+</ul>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/term-vel1.png"><img class="alignnone size-full wp-image-4377" style="margin: 5px auto; display: block; text-align: center;" alt="term vel" src="http://www.compactcourse.com/wp-content/uploads/2013/07/term-vel1.png" width="149" /></a>
+<p style="text-align: left;">Since we know that the force of gravity and air resistance are equal at terminal velocity, we can find the equation for the terminal velocity of an object</p>
+
+<ul>
+	<li><span style="line-height: 14px;"><img alt="F_{air}=F_{g}" src="http://latex.codecogs.com/gif.latex?F_{air}=F_{g}" align="absmiddle" /> at terminal velocity </span></li>
+	<li>This means <img alt="kv_{T}=mg" src="http://latex.codecogs.com/gif.latex?kv_{T}=mg" align="absmiddle" /></li>
+	<li>Through algebraic manipulation, this leads us to the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} v_{T}=\frac{mg}{k}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v_{T}=\frac{mg}{k}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where k is a constant of proportionality, m is the mass of the object, and g is gravity</span></p>
+<p style="text-align: left; padding-left: 30px;">ex.) A falling object has a mass of 3.0 kg and a terminal velocity of 34 m/s. What is the value of its constant or proportionality?</p>
+
+<ul>
+	<li><span style="color: #ff0000;">Givens</span>
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} m=3.0\, kg}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;m=3.0\,&amp;space;kg}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} v_{T}=34\, m/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;v_{T}=34\,&amp;space;m/s}" align="absmiddle" /></span></li>
+</ul>
+</li>
+	<li><span style="line-height: 22px; color: #ff0000;"><img alt="{\color{Red} F_{air}=F_{g}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;F_{air}=F_{g}}" align="absmiddle" /> at terminal velocity so <img alt="{\color{Red} kv_{T}=mg}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;kv_{T}=mg}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This means <img alt="{\color{Red} k(34\, m/s)=(3.0\, kg)(9.8\, m/s^{2})}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;k(34\,&amp;space;m/s)=(3.0\,&amp;space;kg)(9.8\,&amp;space;m/s^{2})}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} k=0.86\, kg/s}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;k=0.86\,&amp;space;kg/s}" align="absmiddle" />
+</span></li>
+</ul>
+<h3 style="text-align: center;">Velocity Before Terminal Velocity</h3>
+When a falling object has not reached terminal velocity, the force of air resistance is not great enough to completely cancel out with the objects weight. This is depicted below
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/07/not-term-vel.png"><img class="alignnone size-full wp-image-4376" style="margin: 5px auto; display: block; text-align: center;" alt="not term vel" src="http://www.compactcourse.com/wp-content/uploads/2013/07/not-term-vel.png" width="130" /></a>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/terminal-velocity-graphs.png"><img class="aligncenter" alt="terminal velocity graphs" src="http://www.compactcourse.com/wp-content/uploads/2013/07/terminal-velocity-graphs.png" width="851" height="279" /></a></p>
+To find the velocity of the object in this stage as a function of time, we follow the steps below
+<ul>
+	<li><span style="line-height: 14px;">By Newton's Second Law <img alt="F_{net}=ma=F_{g}-F_{air}=mg-kv" src="http://latex.codecogs.com/gif.latex?F_{net}=ma=F_{g}-F_{air}=mg-kv" align="absmiddle" />
+</span></li>
+	<li>Since <img alt="a=\frac{\mathrm{d} v}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?a=\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}" align="absmiddle" />, we substitute this to get <img alt="m\frac{\mathrm{d} v}{\mathrm{d} t}=mg-kv" src="http://latex.codecogs.com/gif.latex?m\frac{\mathrm{d}&amp;space;v}{\mathrm{d}&amp;space;t}=mg-kv" align="absmiddle" /></li>
+	<li>This cab be arranged to <img alt="\frac{\mathrm{d} v}{mg-kv}=\frac{\mathrm{d} t}{m}" src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}&amp;space;v}{mg-kv}=\frac{\mathrm{d}&amp;space;t}{m}" align="absmiddle" />.</li>
+	<li>We can integrate both sides to get <img alt="\int_{0}^{v}\frac{\mathrm{d} v}{mg-kv}=\int_{0}^{t}\frac{\mathrm{d} t}{m}" src="http://latex.codecogs.com/gif.latex?\int_{0}^{v}\frac{\mathrm{d}&amp;space;v}{mg-kv}=\int_{0}^{t}\frac{\mathrm{d}&amp;space;t}{m}" align="absmiddle" />. The time goes from 0 to a time, t and the velocity goes from 0 to a velocity before its terminal velocity, v which gives us our limits of integration.</li>
+	<li>When we take the antiderivatives, we are left with <img alt="\left [\frac{\ \ln (mg-kv)}{-k} \right ]^{v}_{0}=\left [\frac{\ t}{m} \right ]^{t}_{0}" src="http://latex.codecogs.com/gif.latex?\left&amp;space;[\frac{\&amp;space;\ln&amp;space;(mg-kv)}{-k}&amp;space;\right&amp;space;]^{v}_{0}=\left&amp;space;[\frac{\&amp;space;t}{m}&amp;space;\right&amp;space;]^{t}_{0}" align="absmiddle" />.</li>
+	<li>This equals <img alt="ln (mg-kv)-ln (mg-0)=\ln (\frac{mg-kv}{mg})=\frac{\ -kt}{m}" src="http://latex.codecogs.com/gif.latex?ln&amp;space;(mg-kv)-ln&amp;space;(mg-0)=\ln&amp;space;(\frac{mg-kv}{mg})=\frac{\&amp;space;-kt}{m}" align="absmiddle" />.</li>
+	<li>To get rid of the natural log, we exponentiate to get <img alt="e^{\ln (\frac{mg-kv}{mg})}=e^{-\frac{\ kt}{m}}" src="http://latex.codecogs.com/gif.latex?e^{\ln&amp;space;(\frac{mg-kv}{mg})}=e^{-\frac{\&amp;space;kt}{m}}" align="absmiddle" />. This becomes <img alt="\frac{mg-kv}{mg}=e^{-\frac{\ kt}{m}}" src="http://latex.codecogs.com/gif.latex?\frac{mg-kv}{mg}=e^{-\frac{\&amp;space;kt}{m}}" align="absmiddle" />.</li>
+	<li>This can be algebraically manipulated to our final equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} v=\frac{mg}{k}(1-e^{-\frac{\ kt}{m}})}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v=\frac{mg}{k}(1-e^{-\frac{\&amp;space;kt}{m}})}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where v is the velocity before terminal velocity, k is a constant of proportionality, m is the mass of the object, t is time, and g is gravity
+</span></p>

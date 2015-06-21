@@ -1,0 +1,191 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Basic Ideas</span></h2>
+Just like in the waves and sound chapter, the velocity of waves can found with the equation
+<p style="text-align: center;"><img alt="{\color{Blue} v=f\lambda }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v=f\lambda&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where f is the frequency of the wave and λ is the wavelength</span></p>
+
+<ul>
+	<li><span style="line-height: 14px;">All electromagnetic waves in a vacuum travel at a speed of 3.00 x 10<sup>8 </sup>m/s, which is also known as just "c"</span></li>
+	<li>We can only see visible light, which occurs between 450 nm and 700 nm</li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Reflection and Refraction</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Normal:</span> Line perpendicular to the spot on the surface where a beam hits
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Incident Beam:</span></span> Beam that originally hits the surface
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Incident Angle:</span></span> Angle between the incident beam and the normal
+
+<span style="text-decoration: underline; color: #007fff;">Reflected Beam:</span> Beam that bounces off the surface
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Reflected Angle:</span></span> Angle between the reflected beam and the normal
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/incident-and-reflected.png"><img class="alignnone size-full wp-image-3908" style="margin: 5px auto; display: block; text-align: center;" alt="incident and reflected" src="http://compactcourse.com/wp-content/uploads/2013/06/incident-and-reflected.png" width="400" /></a></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Index of Refraction (n):</span></span> Shows how fast or slow light will move through different mediums</p>
+<p style="text-align: center;"><img alt="{\color{Blue} n=\frac{c}{v}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;n=\frac{c}{v}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where c is the speed of light and v is the speed of light through the medium</span></p>
+
+<ul>
+	<li>The smaller the index of refraction vale, the faster the light moves</li>
+	<li><span style="line-height: 14px;">The larger the index of refraction value, the slower the light moves</span></li>
+</ul>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Refraction:</span> The bending of light when it enters a different medium due to a change in speed of the light</p>
+
+<ul>
+	<li><span style="line-height: 14px;">When light moves faster in a new medium, the refracted angle moves away from the normal</span></li>
+	<li>When light moves slower in a new medium, the refracted angle moves toward from the normal</li>
+</ul>
+To remember this, remember the acronym F.A.S.T. which stands for
+<ul>
+	<li><span style="line-height: 14px;"><span style="text-decoration: underline;">F</span>aster =&gt; <span style="text-decoration: underline;">A</span>way</span></li>
+	<li><span style="text-decoration: underline;">S</span>lower =&gt; <span style="text-decoration: underline;">T</span>oward</li>
+</ul>
+<h3 style="text-align: center;">Snell's Law</h3>
+<span style="text-decoration: underline; color: #007fff;">Snell's Law:</span><span style="color: #000000;"> Depicts the relationship between the index of refractions and the incident and refracted angles </span><span style="color: #000000;">
+</span>
+
+<img class="aligncenter" alt="{\color{Blue} n_{1}\sin \Theta _{1}=n_{2}\sin \Theta _{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;n_{1}\sin&amp;space;\Theta&amp;space;_{1}=n_{2}\sin&amp;space;\Theta&amp;space;_{2}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where n<sub>1</sub> and n<sub>2</sub> are the two different index of refractions and θ<sub>1</sub> and θ<sub>2</sub> are the two angles</span></p>
+<p style="text-align: center;"><a href="http://compactcourse.com/wp-content/uploads/2013/06/snells-law.png"><img class="alignnone size-full wp-image-3914" style="margin: 5px auto; display: block; text-align: center;" alt="snells law" src="http://compactcourse.com/wp-content/uploads/2013/06/snells-law.png" width="300" /></a></p>
+<span style="text-decoration: underline; color: #007fff;">Critical Angle:</span> Where the angle of refraction becomes 90°
+<ul>
+	<li><span style="line-height: 14px;">Since the sin 90° = 1, the critical angle can be found by the equation</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} sin\, \theta _{crit}=\frac{n_{2}}{n_{1}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;sin\,&amp;space;\theta&amp;space;_{crit}=\frac{n_{2}}{n_{1}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where n<sub>1</sub> and n<sub>2</sub> are the two different index of refractions and θ<sub>crit</sub> is the critical angle</span><sub>
+</sub></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Interference and Diffraction</span></h2>
+<h3 style="text-align: center;">Double Slit Interference</h3>
+When light hits a barrier with two slits in it, we see a phenomenon called <span style="color: #007fff;">diffraction</span>.
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Diffraction:</span></span> The bending of waves when they come into contact with an obstacle
+
+Many problems in this chapter have to deal with light hitting two slits and observing the result on a screen.
+
+This situation is seen below.
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/double-slit.png"><img class="alignnone size-full wp-image-4085" style="margin: 5px auto; display: block; text-align: center;" alt="double slit" src="http://www.compactcourse.com/wp-content/uploads/2013/06/double-slit.png" width="600" /></a>
+
+<span style="text-decoration: underline; color: #007fff;">Path Difference:</span> The difference of the lengths of two waves (how much longer one wave had to travel than the other)
+<ul>
+	<li>Unit =&gt; Meter <img alt="\left (m\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(m\right&amp;space;)" align="absmiddle" />; Symbol =&gt; δ</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \delta =L1-L2}\, \, \, =&gt;\, \, \, {\color{Blue} \delta =d\sin \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\delta&amp;space;=L1-L2}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;\delta&amp;space;=d\sin&amp;space;\Theta&amp;space;}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where L1 and L2 are the lengths of waves 1 and 2, d is the distance between the slits, and Θ is the angle between the horizontal and first bright spot on the screen</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Central Maximum:</span> The bright spot directly across from the center of the slits</p>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Constructive Interference:</span></span> When waves combine crest to crest (in phase)
+<ul>
+	<li>Cause bright spots when they hit a screen</li>
+	<li>The path difference for destructive waves can be found with the equation</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} \delta =m\lambda }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\delta&amp;space;=m\lambda&amp;space;}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where m is the wave integer and λ is the wavelength</span></p>
+<span style="text-decoration: underline; color: #007fff;">Destructive Interference:</span> When waves combine crest to trough (out of phase)
+<ul>
+	<li>Cause dark spots when they hit a screen</li>
+	<li>The path difference for constructive waves can be found with the equation</li>
+</ul>
+<img class="aligncenter" alt="{\color{Blue} \delta =(m+\frac{1}{2})\lambda }" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\delta&amp;space;=(m+\frac{1}{2})\lambda&amp;space;}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where m is the wave integer and λ is the wavelength</span></p>
+
+<h3 align="center">Distance  Between Spots</h3>
+Because of the nature of waves, there does not exist just one bright spot on the screen. There are multiple spots each of decreasing intensity from the central maximum.
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/DS-and-BS.png"><img class="alignnone size-full wp-image-4101" style="margin: 5px auto; display: block; text-align: center;" alt="DS and BS" src="http://www.compactcourse.com/wp-content/uploads/2013/06/DS-and-BS.png" width="600" /></a>
+
+To find Δy from the previous diagram above, we can derive it from a couple basic steps
+<ul>
+	<li>Δy = L tan Θ as we can derive from the previous diagram</li>
+	<li>When Θ is relatively small, tan Θ approximately equals sin Θ so then Δy = L sin Θ</li>
+	<li>Through algebraic manipulation from the path difference equation above, sin Θ = mλ / d</li>
+	<li>Plugging sin Θ = mλ / d into Δy = L sin Θ, we get the equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} \Delta y=\frac{m\lambda L}{d}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Delta&amp;space;y=\frac{m\lambda&amp;space;L}{d}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where m is the wave integer, λ is the wavelength, L is the distance between the barrier and the screen, and d is the distance between the slits </span></p>
+
+<h2 align="center"><span style="text-decoration: underline;">Optics</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Real Image:</span> Image that is made up of light rays that focus the image
+<ul>
+	<li><span style="line-height: 14px;">Are always inverted (upside down)</span></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Virtual Image:</span> Image that is not made up from focused light
+<ul>
+	<li><span style="line-height: 14px;">Are always upright
+</span></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Vertex:</span> Where the axis hits the mirror or lens
+
+<span style="text-decoration: underline; color: #007fff;">Center of Curvature (C):</span> Point that would be the center of a sphere if the spherical mirror or lens went all the way around
+
+<span style="text-decoration: underline; color: #007fff;">Radius of Curvature (R):</span> The radius of a spherical mirror or lens
+
+<span style="text-decoration: underline; color: #007fff;">Focal Point or Focus (F):</span> Point that is midway between the center of curvature and the mirror or lens itself
+
+<span style="text-decoration: underline; color: #007fff;">Focal Length (f):</span> Distance equal to half the length of the radius of curvature
+
+<span style="text-decoration: underline; color: #007fff;">Magnification (M):</span> Ratio of the image size to the object size
+<h3 style="text-align: center;">Equations</h3>
+Some equations help explain some relationships for images. These equations are seen below.
+
+<img class="aligncenter" alt="{\color{Blue} \frac{1}{f}=\frac{1}{d_{o}}+\frac{1}{d_{i}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{1}{f}=\frac{1}{d_{o}}+\frac{1}{d_{i}}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where f is the focal length, d<sub>o</sub> is the distance from the object to the mirror, and d<sub>i</sub> is the distance from the image to the mirror</span></p>
+<img class="aligncenter" alt="{\color{Blue} M=\frac{h_{i}}{h_{o}}=\frac{-d_{i}}{d_o}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;M=\frac{h_{i}}{h_{o}}=\frac{-d_{i}}{d_o}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where M is the magnification, d<sub>o</sub> is the distance from the object to the mirror, d<sub>i</sub> is the distance from the image to the mirror, h<sub>o</sub> is the height of the object, and h<sub>i</sub> is the height of the image</span></p>
+<p style="text-align: center;">*The negative is there to signify that it can be negative.*</p>
+<p style="text-align: center;">*If M is positive, the image is upright. If M is negative, the image is inverted.*</p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Mirrors
+</span></h2>
+<ul>
+	<li>Real Image    = Image is in front of the mirror</li>
+	<li>Virtual Image = Image is behind the mirror</li>
+</ul>
+<ul>
+	<li><span style="line-height: 14px;">Concave (Converging) = f Positive</span></li>
+	<li>Convex  (Diverging)    = f Negative</li>
+</ul>
+<ul>
+	<li><span style="line-height: 14px;">D<sub>i</sub> = Positive if image is real</span></li>
+	<li>D<sub>i</sub> = Negative if image is virtual</li>
+</ul>
+<h3 style="text-align: center;">Diagram Drawing Steps</h3>
+<ol>
+	<li>Draw a line parallel to the axis from the top of the object to the mirror that is then reflected through the focal point</li>
+	<li>Draw a line from the top of the object that passes through the focal point to the mirror that is then reflected parallel to the axis</li>
+	<li>Draw a line from the top of the object that hits the vertex then reflects back at the same angle</li>
+</ol>
+The point where all these lines intersect is the top of the image
+<h3 style="text-align: center;">Concave Mirror Example</h3>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-1-.png"><img class="alignnone size-full wp-image-4157" alt="rays 1" src="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-1-.png" width="901" height="374" />
+</a>
+<h3 style="text-align: center;">Convex Mirror Example</h3>
+<h2 style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-21.png"><img class="alignnone size-full wp-image-4161" style="margin: 5px auto; display: block; text-align: center;" alt="rays 2" src="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-21.png" width="750" /></a><span style="text-decoration: underline;">Lenses</span></h2>
+<ul>
+	<li><span style="line-height: 14px;">Real Image    = Image is behind the lens</span></li>
+	<li>Virtual Image = Image is in front of the lens</li>
+</ul>
+<ul>
+	<li>Concave (Diverging)   = f Negative</li>
+	<li>Convex  (Converging) = f Positive</li>
+</ul>
+<ul>
+	<li>D<sub>i</sub> = Positive if image is real</li>
+	<li>D<sub>i</sub> = Negative if image is virtual</li>
+</ul>
+<h3 style="text-align: center;">Diagram Drawing Steps - Convex Lens</h3>
+<ol>
+	<li>Draw a line parallel to the axis from the top of the object to the lens that is then reflected through the <strong><span style="text-decoration: underline;">far</span></strong> focal point</li>
+	<li>Draw a line from the top of the object that passes through the <span style="text-decoration: underline;"><strong>near</strong></span> focal point to the lens that is then reflected parallel to the axis</li>
+	<li>Draw a line from the top of the object through the center of the lens</li>
+</ol>
+The point where all these lines intersect is the top of the image
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-3.png"><img class="alignnone size-full wp-image-4165" style="margin: 5px auto; display: block; text-align: center;" alt="rays 3" src="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-3.png" width="900" /></a>
+<h3 style="text-align: center;">Diagram Drawing Steps - Concave Lens</h3>
+<ol>
+	<li><span style="line-height: 14px;">Draw a line parallel to the axis from the top of the object to the lens that is then reflected through the <span style="text-decoration: underline;"><strong>near</strong></span> focal point
+</span></li>
+	<li>Draw a line from the top of the object that passes through the <span style="text-decoration: underline;"><strong>far</strong></span> focal point to the lens that is then reflected parallel to the axis</li>
+	<li>Draw a line from the top of the object through the center of the lens</li>
+</ol>
+The point where all these lines intersect is the top of the image
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-4.png"><img class="alignnone size-full wp-image-4166" style="margin: 5px auto; display: block; text-align: center;" alt="rays 4" src="http://www.compactcourse.com/wp-content/uploads/2013/06/rays-4.png" width="900" /></a>

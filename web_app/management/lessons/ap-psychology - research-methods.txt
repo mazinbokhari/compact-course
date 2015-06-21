@@ -1,0 +1,78 @@
+<h2 style="text-align: center;"><span style="color: #333333;">Experimental Method</span></h2>
+Research is led by hypotheses that can be controlled in a lab with experiments.There are laboratory experiments that are conducted in a lab and that have very controlled varibles while there are field experiements where the variables arent as stable. That are based around a dependent and independent variable
+<ul>
+	<li><span style="color: #3366ff;">Hypotheses <span style="color: #000000;">describe a relationship between two variables: the dependent variable and independent variable. </span></span></li>
+	<li><span style="color: #3366ff;"><span style="color: #000000;"><span style="color: #3366ff;">Dependent Variable <span style="color: #000000;">is the behavior or mental process that is being observed. Researchers will measure the change in this variable when they purposely change the independent variable.</span></span></span></span></li>
+	<li><span style="color: #3366ff;">Independent Variable <span style="color: #000000;">is what a researcher will manipulate to cause a change in the dependent variable.</span></span></li>
+	<li><span style="color: #3366ff;">Cofounding Variables <span style="color: #000000;">are any variables that will affect the dependent variable that are not the independent variable. These variables will skew the output of the research</span></span></li>
+</ul>
+When the dependent variable changes solely because of the change in the independent variable, the researchers can state a cause and effect relationship. Researchers want research to be valid and reliable.
+<ul>
+	<li><span style="color: #3366ff;">Valid <span style="color: #000000;">is a synonym to accurate. When research measure what the researcher wanted it to measure.</span></span></li>
+	<li><span style="color: #3366ff;">Reliable</span> is a synonym to consistent. Research is reliable when it can be repeated over and over again and it will produce the same results.</li>
+</ul>
+In order to create a scientifically significant research method, researchers must correctly sample who and what they want to research. In a sample there are <span style="color: #3366ff;">participants</span> or subjects. The group of participants is called a sample from the entire population of subjects who could be selected. <span style="color: #3366ff;">Random selection  <span style="color: #000000;">(i.e names out of a hat, random number generator, etc) </span><span style="color: #000000;">is when every subject in the population has an equal chance of being selected. Random selection creates a more reliable and valid conclusion because it creates a representative sample of the whole population. Another way to choose a sample is by <span style="color: #3366ff;">stratified</span> <span style="color: #3366ff;">random sampling <span style="color: #000000;">ensures an even more reliable conclusion because it divides people into groups of people with the same qualities (i.e races, gender, etc) and then random sampling occurs.</span></span></span></span>
+
+At the beginning of an experiment, the control group and experimental group must be established.
+<ul>
+	<li><span style="color: #3366ff;">Control Group</span> is the group of subjects that does not receive the treatment</li>
+	<li><span style="color: #3366ff;">Experimental Group</span> is the group that will receive the treatment that is stated in the independent variable.</li>
+</ul>
+After random selection of subjects, researchers must use <span style="color: #3366ff;">assignment <span style="color: #000000;">which is choosing which participants are put into the control group or experimental group. To ensure that subjects have an equal change of being selected for each group, researchers will use <span style="color: #3366ff;">random assignment<span style="color: #000000;"><span style="color: #000000;"> (i.e coin toss, dice roll, etc).</span></span></span></span></span>
+<h3>Eliminating Bias in an Experiment</h3>
+<span style="color: #3366ff;">Experimenter bias</span> happens during an experiment when a researcher is treating either the control or experimental group differently to enhance their chances of confirming their hypothesis<span style="color: #000000;">. Another way that can affect the outcome of the experiment is through demand characteristics. <span style="color: #3366ff;">Demand characteristics <span style="color: #000000;">are when subjects use cues to learn how they should respond to the treatments which can skew the data. To control the effects of experimenter bias and demand characteristics, researchers can run a single or double blind experiment.</span></span></span>
+<ul>
+	<li><span style="color: #3366ff;">Single-blind experiment</span> is when the subjects do not know if they are in the control or experimental group but the researcher does know what group they are in.</li>
+	<li><span style="color: #3366ff;">Double-blind experiment</span> is an experiment where neither the researcher or the subject know which group the subjects are in. There is an outside source that placed the subjects into each group and they will handle giving the treatments to the participants so that the researcher nor subjects know what group is what.</li>
+</ul>
+One way to control bias and demand characteristics is through a placebo. A <span style="color: #3366ff;">placebo</span> is a fake treatment (i.e pill, food, drug) that will have no affect on the subject. When the subject thinks that they have a better well-being or believe a change has occurred to them because of the placebo that is called the <span style="color: #3366ff;">placebo effect. </span>
+
+Some researchers use a design that allows the participants to be their own control. That is they take two different types of treatment and the effects are looked analyzed but the order in which they are taken can cause a problem so researchers use counterbalancing. <span style="color: #3366ff;">Counterbalancing</span> is when half the participants take one treatment first and the other half take the second treatment first. This eliminates the chance that the order in which the treatments are taken can cause a bias.
+<h2 style="text-align: center;"> Naturalistic Observation</h2>
+<p style="text-align: left;"><span style="color: #3366ff;">Naturalistic observation</span> is when a researchers does not interfere with the subjects and just observes them in their natural habitats. This allows the researcher to see the true behavior of subjects without manipulating anything.</p>
+
+<h2 style="text-align: center;"><span style="color: #000000;">Survey Method, Ex Post Facto, and Case Studies</span></h2>
+<span style="color: #3366ff;">Correlational method <span style="color: #000000;">is used to determine if the presence of one variable willl have the presence or absence of another variable.</span> Survey method</span> is when researchers hand out questionnaires to ask a large number of people questions about thoughts, behaviors, interests, etc. This is an easy was to gain a knowledge about a large number of people but in order to have an accurate conclusion the researcher must use a random sample which is difficult to do because the survey method has a low response rate. From a survey, researchers can look at the relationship between two variables but they can not imply a cause and effect relationship because their is no dependent and independent variable. <span style="color: #3366ff;">Ex post facto study</span> which look at the effect ad try to figure out the cause of the effect. <span style="color: #3366ff;">Case studies</span> is a method that uses a small amount of participants and looks how they evolve over time or to understand a specific problem with them. Because of the small number of participants, scientists can not generalize their findings to a larger population.
+<h2 style="text-align: center;">Statistics</h2>
+<h3>Descriptive Statistics</h3>
+<span style="color: #3366ff;">Descriptive statistics</span> describe a data set. Psychologists will summarize this data into a frequency distribution that will arrange the data to show the frequency of each answer. This can be represented as a <span style="color: #3366ff;">histogram</span> (bar graph) or a <span style="color: #3366ff;">frequency polygon</span> (line graph).
+
+The most common form of statistical measure is known as central tendency. This is comprised of mean, median, and mode.
+<ul>
+	<li><span style="color: #3366ff;">Mean</span> is the average of all the score in the data set.</li>
+	<li><span style="color: #3366ff;">Median</span> is the middle score.</li>
+	<li><span style="color: #3366ff;">Mode</span> is the score that is most frequent in the data set.</li>
+</ul>
+A <span style="color: #3366ff;">normal distribution</span> is when a bell shaped curve represents the data. That is that the mean is the center point of the data. A group of data may become skewed by outlier and the distribution no longer is bell shaped. An o<span style="color: #3366ff;">utlier</span> is an extreme value that is far away from the rest of the data (i.e data set= 1,1,1,1,3,2,,5,3,2,5,3,1,4,4,4,10... 10 is the outlier). If the skew is caused by a high score, then the distribution is <span style="color: #3366ff;">positively skewed</span> (skewed right) and if the skew is caused by a low score, the distribution is <span style="color: #3366ff;">negatively skewed</span> (skewed left).
+<h3><span style="color: #333333;"></span></h3>
+<h3> Measures of Variability</h3>
+There are different ways to see the variability in a distribution. The three main ways is through range, variance, and stadnard deviation.
+<ul>
+	<li><span style="color: #3366ff;">Range</span> is the difference between the highest and lowst scores in a data set</li>
+	<li><span style="color: #3366ff;">Variance</span> is the standard deviation squared. It measures the average distance of a score from the mean.</li>
+	<li><span style="color: #3366ff;">Standard</span> deviation also measures the average distance of a score from the mean.</li>
+</ul>
+All of these aspects can be accomodated using a z-score. A <span style="color: #3366ff;">z-score</span> is the distance left or right from the mean of the data set in terms of standard deviations. A negative z score is below the mean and a positive one is above the mean. In a normal distribution, there are percentiles which show how the proportions of scores are divided in terms of standard deviations. One standard deviation away from the mean in both positive and negative direction 68% of scores occur. Two standard deviations away is 95% and three standrd deviations is 99% of  scores occur.
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/distribution_normal.jpg"><img class="size-medium wp-image-2274 aligncenter" alt="distribution_normal" src="http://compactcourse.com/wp-content/uploads/2013/06/distribution_normal-300x178.jpg" width="300" height="178" /></a>
+<h2 style="text-align: center;"> Ethical Guidelines for Research</h2>
+For animal research the guidelines are:
+<ol>
+	<li>There must be a clear scientific purpose.</li>
+	<li>The research must be done so the least amount of harm occurs.</li>
+	<li>The animals must be taken care of in a humane way.</li>
+	<li>The acquirement of the subjects must be done legally.</li>
+</ol>
+For human research the guidelines are:
+<ol>
+	<li>Participation must be voluntary.</li>
+	<li>Subjects must know they are in a experiment and must provide consent.</li>
+	<li>All subjects name and information from the experiment must be kept confidential.</li>
+	<li>Participants cant be in danger of having any mental or physical health risk during the experiment.</li>
+	<li>After the study, subjects must be debriefed and told the purpose of the study and the scientifical significance.</li>
+</ol>
+&nbsp;
+
+<span style="color: #3366ff;"><span style="color: #000000;"><span style="color: #3366ff;">  </span></span></span>
+
+&nbsp;

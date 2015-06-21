@@ -1,0 +1,218 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Heat and Temperature</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Heat:</span> Energy in transit
+<ul>
+	<li>Unit =&gt; Joule <img alt="(J)" src="http://latex.codecogs.com/gif.latex?(J)" align="absmiddle" />; Symbol =&gt; Q</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Temperature:</span> Measurement of internal energy within an object
+<ul>
+	<li>Unit =&gt; Celsius (ºC), Kelvin (K), or Fahrenheit (ºF); Symbol =&gt; T</li>
+	<li>ºF = 9/5 ºC + 32</li>
+	<li>K  = ºC + 273</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Specific Heat:</span> Number that tells how much heat per unit mass is required to raise the temperature of a substance 1ºC
+<ul>
+	<li>Unit =&gt; <img alt="(\frac{J}{kg\, ^{o}C}=\frac{J}{kg\, ^{o}F}=\frac{J}{kgK})" src="http://latex.codecogs.com/gif.latex?(\frac{J}{kg\,&amp;space;^{o}C}=\frac{J}{kg\,&amp;space;^{o}F}=\frac{J}{kgK})" align="absmiddle" />; Symbol =&gt; c</li>
+</ul>
+<h3 align="center">Temperature Change</h3>
+When the temperature of a substance changes, the amount of heat that corresponds with this change is given by the equation
+<p align="center"><img alt="\,{\color{Blue} Q=mc\Delta T}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;Q=mc\Delta&amp;space;T}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where Q is the heat added or removed, m is the mass of the substance, c is the specific heat, and ΔT is the temperature change <span style="text-decoration: underline;">in degrees Celsius</span></span></p>
+<p align="center">*When ΔT is negative, heat is removed. When ΔT is positive, heat is added.*</p>
+
+<h3 align="center">Phase Change</h3>
+<span style="text-decoration: underline; color: #007fff;">Phase Change:</span> When a substance goes from a solid to a liquid or from a liquid to a gas or vice versa
+
+<span style="text-decoration: underline; color: #007fff;">Latent Heat of Transformation:</span> Number that tells how much heat per unit mass is required to cause a phase change within a substance
+<ul>
+	<li>Unit =&gt; <img alt="\,(\frac{J}{kg})" src="http://latex.codecogs.com/gif.latex?\,(\frac{J}{kg})" align="absmiddle" />; Symbol =&gt; L</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Heat of Fusion:</span> The L quantity we use when changing from a solid to a liquid or vice versa
+
+<span style="text-decoration: underline; color: #007fff;">Heat of Vaporization:</span> The L quantity we use when changing from a liquid to a gas or vice versa
+
+The amount of heat needed for a substance to go though a phase change can be given by the equation
+
+<img class="aligncenter" alt="{\color{Blue} Q=mL}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;Q=mL}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass of the substance and L is either the latent heat of fusion or latent heat of vaporization depending on the phase shift</span></p>
+<p style="text-align: center;">*When Q is negative, the substance is either being changed from a gas to a liquid or from a liquid to a solid. When Q is positive, the substance is either being changed from a liquid to a gas or from a solid to a liquid.*</p>
+This all can be depicted by the diagram below
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/phase-changes.png"><img class="alignnone size-full wp-image-4206" style="margin: 5px auto; display: block; text-align: center;" alt="phase changes" src="http://www.compactcourse.com/wp-content/uploads/2013/06/phase-changes.png" width="600" /></a>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Ideal Gas Law</span></h2>
+<h3 style="text-align: center;">Basic Info</h3>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Avogrado's Number:</span> Constant equal to 6.02 x 10<sup>23</sup> molecules</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Symbol =&gt; N<sub>A</sub></span></li>
+</ul>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Universal Gas Constant:</span> Constant equal to 8.31 J/mol·K</p>
+
+<ul>
+	<li><span style="line-height: 14px;">Symbol =&gt; R</span></li>
+</ul>
+<p style="text-align: left;"><span style="text-decoration: underline; color: #007fff;">Boltzmann's Constant:</span> Constant equal to 1.38 x 10<sup>-23 </sup>J/K</p>
+
+<ul>
+	<li>Symbol =&gt; k<sub>B</sub></li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue} k_{B}=\frac{R}{N_{A}}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;k_{B}=\frac{R}{N_{A}}}" align="absmiddle" /></p>
+The number of moles, n, of a substance can be found with the equation
+
+<img class="aligncenter" alt="{\color{Blue} n=\frac{N}{N_{A}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;n=\frac{N}{N_{A}}}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where N is the number of molecules, and N<sub>A</sub> is Avogrado's Number</span></p>
+
+<h3 style="text-align: center;">Ideal Gas Law Equation</h3>
+Pressure, Volume, and Temperature for gases all are related. This relationship can be given by the <span style="color: #007fff;">Ideal Gas Law Equation</span> equation
+<p style="text-align: center;"><img alt="\,{\color{Blue} PV=nRT}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;PV=nRT}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where P is the pressure, V is the volume, n is number of moles, R is the Universal Gas Constant, and T is the temperature <span style="text-decoration: underline;">in Kelvin</span></span></p>
+
+<ul>
+	<li><span style="line-height: 14px;"><img alt="\,{\color{Blue} k_{B}=\frac{R}{N_{A}}=\frac{R}{N/n}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;k_{B}=\frac{R}{N_{A}}=\frac{R}{N/n}}" align="absmiddle" /> which can be manipulated to <img alt="\,{\color{Blue} n=\frac{k_{B}N}{R}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;n=\frac{k_{B}N}{R}}" align="absmiddle" />. Plugging this into <img alt="\,{\color{Blue} PV=nRT}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;PV=nRT}" align="absmiddle" />, we are left with a different form of the Ideal Gas Law Equation equal to </span></li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue} PV=Nk_{B}T}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;PV=Nk_{B}T}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where P is the pressure, V is the volume, N is number of molecules, k<sub>B</sub> is Boltzmann's Constant, and T is the temperature <span style="text-decoration: underline;">in Kelvin</span></span></p>
+
+<h3 style="text-align: center;">Ideal Gas Law - Another Form</h3>
+<img alt="{\color{Blue} \frac{PV}{T}=nR}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{PV}{T}=nR}" align="absmiddle" /> and since nR is constant, the relationship for gas in a container at two stages is
+<p style="text-align: center;"><img alt="{\color{Blue} \frac{P_{1}V_{1}}{T_{1}}=\frac{P_{2}V_{2}}{T_{2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\frac{P_{1}V_{1}}{T_{1}}=\frac{P_{2}V_{2}}{T_{2}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where P<sub>1</sub> and P<sub>2</sub> are the pressures, V<sub>1</sub> and V<sub>2</sub> are the volumes, and T<sub>1</sub> and T<sub>2</sub> are the temperatures at the different stages <span style="text-decoration: underline;">in Kelvin</span> </span></p>
+
+<h3 style="text-align: center;">Internal Energy and Root Mean Square Velocity</h3>
+<span style="text-decoration: underline; color: #007fff;">Internal Energy:</span> Energy a gas contains due to the movement of its molecules
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; <img alt="(J)" src="http://latex.codecogs.com/gif.latex?(J)" align="absmiddle" />; Symbol =&gt; U
+</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} U=\frac{3}{2}Nk_{B}T=\frac{3}{2}nRT}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;U=\frac{3}{2}Nk_{B}T=\frac{3}{2}nRT}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where is k<sub>B</sub> is Boltzmann's Constant, N is the number of molecules, n is the number of moles, R is the Universal Gas Constant, and T is the temperature <span style="text-decoration: underline;">in Kelvin</span></span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Root Mean Square Velocity:</span></span> The square root of the average velocity-squared of the molecules in a gas</p>
+
+<ul>
+	<li>Unit =&gt; <img alt="(J)" src="http://latex.codecogs.com/gif.latex?(J)" align="absmiddle" />; Symbol =&gt; v<sub>rms</sub></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} v_{rms}=\sqrt{\frac{3k_{B}T}{M}}=\sqrt{\frac{3RT}{m}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;v_{rms}=\sqrt{\frac{3k_{B}T}{M}}=\sqrt{\frac{3RT}{m}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where is k<sub>B</sub> is Boltzmann's Constant, M is the mass of one of the molecules, m molecular mass, R is the Universal Gas Constant, and T is the temperature <span style="text-decoration: underline;">in Kelvin</span></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">First Law of Thermodynamics</span></h2>
+<p style="text-align: left;">This law basically states conservation of energy within a container of gas in a system and is seen with the equation</p>
+<p style="text-align: center;"><img alt="{\color{Blue} \Delta U=\Delta Q+W}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Delta&amp;space;U=\Delta&amp;space;Q+W}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where ΔU is the change in internal energy, ΔQ is the change in heat, and W is the work done on the system</span></p>
+
+<h3 style="text-align: center;">Work</h3>
+The work done on a system is equal to the area under the P vs V Graph as seen below
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/work-pv.png"><img class="alignnone size-full wp-image-4246" style="margin: 5px auto; display: block; text-align: center;" alt="work pv" src="http://www.compactcourse.com/wp-content/uploads/2013/06/work-pv.png" width="200" /></a>
+
+<img class="aligncenter" alt="\,{\color{Blue} W=Area=-P\Delta V}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;W=Area=-P\Delta&amp;space;V}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where P is the pressure, and ΔV is the difference between the final and initial volumes</span></p>
+
+<ul>
+	<li>When ΔV is <span style="text-decoration: underline;">positive</span>, the work is done <span style="text-decoration: underline;">by</span> the gas (volume increases) and the work is <span style="text-decoration: underline;">negative</span> due to the negative sign in the equation</li>
+	<li>When ΔV is <span style="text-decoration: underline;">negative</span>, the work is done <span style="text-decoration: underline;">on</span> the gas (volume decreases) and the work is <span style="text-decoration: underline;">positive</span> due to the negative sign in the equation</li>
+</ul>
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/work-chart-2.png"><img class="alignnone size-full wp-image-4250" style="margin: 5px auto; display: block; text-align: center;" alt="work chart 2" src="http://www.compactcourse.com/wp-content/uploads/2013/06/work-chart-2.png" width="667" /></a>
+<h3 style="text-align: center;">Isothermal</h3>
+<span style="text-decoration: underline; color: #007fff;">Isothermal:</span> Constant temperature
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/Isothermal.png"><img class="alignnone size-full wp-image-4242" style="margin: 5px auto; display: block; text-align: center;" alt="Isothermal" src="http://www.compactcourse.com/wp-content/uploads/2013/06/Isothermal.png" width="200" /></a>
+<ul>
+	<li><span style="line-height: 14px;">n, R, and T constant</span></li>
+	<li>P and V inversely related</li>
+	<li>ΔU = 0</li>
+	<li>ΔQ = +</li>
+	<li>W  = -</li>
+	<li><img alt="\Delta U=\Delta Q+W\, \, \, =&gt;\, \, \, 0=(+Q)+(-W)" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;U=\Delta&amp;space;Q+W\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;0=(+Q)+(-W)" align="absmiddle" /></li>
+</ul>
+<h3 style="text-align: center;">Isobaric</h3>
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Isobaric:</span></span> Constant pressure
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/Isobaric.png"><img class="alignnone size-full wp-image-4240" style="margin: 5px auto; display: block; text-align: center;" alt="Isobaric" src="http://www.compactcourse.com/wp-content/uploads/2013/06/Isobaric.png" width="200" /></a>
+<ul>
+	<li>n, R, and P constant</li>
+	<li>V and T directly related</li>
+	<li>ΔU = +</li>
+	<li>ΔQ = +</li>
+	<li>W  = -</li>
+	<li><img alt="\Delta U=\Delta Q+W\, \, \, =&gt;\, \, \, (+U)=(+Q)+(-W)" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;U=\Delta&amp;space;Q+W\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;(+U)=(+Q)+(-W)" align="absmiddle" /></li>
+</ul>
+<h3 style="text-align: center;">Isochoric</h3>
+<span style="text-decoration: underline; color: #007fff;">Isochoric:</span> Constant volume
+
+<a href="http://www.compactcourse.com/wp-content/uploads/2013/06/Isochoric.png"><img class="alignnone size-full wp-image-4241" style="margin: 5px auto; display: block; text-align: center;" alt="Isochoric" src="http://www.compactcourse.com/wp-content/uploads/2013/06/Isochoric.png" width="200" /></a>
+<ul>
+	<li>n, R, and V constant</li>
+	<li>P and T directly related</li>
+	<li>ΔU = -</li>
+	<li>ΔQ = -</li>
+	<li>W  = 0</li>
+	<li><img alt="\Delta U=\Delta Q+W\, \, \, =&gt;\, \, \, (-U)=(-Q)+0" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;U=\Delta&amp;space;Q+W\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;(-U)=(-Q)+0" align="absmiddle" /></li>
+</ul>
+<h3 style="text-align: center;">Adiabatic</h3>
+<span style="text-decoration: underline; color: #007fff;">Adiabatic:</span> No heat exchanged
+<p style="text-align: left;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/Adiabatic.png"><img class="size-full wp-image-4239 aligncenter" style="margin: 5px auto; display: block; text-align: center;" alt="Adiabatic" src="http://www.compactcourse.com/wp-content/uploads/2013/06/Adiabatic.png" width="200" /></a></p>
+
+<ul>
+	<li>n and R constant</li>
+	<li>PV directly related to T</li>
+	<li>ΔU = -</li>
+	<li>ΔQ = 0</li>
+	<li>W  = -</li>
+	<li><img alt="\,\Delta U=\Delta Q+W\, \, \, =&gt;\, \, \, (-U)=0+(-W)" src="http://latex.codecogs.com/gif.latex?\,\Delta&amp;space;U=\Delta&amp;space;Q+W\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;(-U)=0+(-W)" align="absmiddle" /></li>
+</ul>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Second Law of Thermodynamics</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Heat Engine:</span> A machine that transfers thermal energy into work
+
+<span style="text-decoration: underline; color: #007fff;">Second Law of Thermodynamics:</span>
+<ul>
+	<li>Heat engines can never work at 100% efficiency because its impossible to completely transfer all heat into work</li>
+	<li>Heat always flows from a hot body to a cold body</li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue} Q_{H}=Q_{C}+W}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;Q_{H}=Q_{C}+W}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where Q<sub>H</sub> is the heat coming in (H means hot), Q is the heat not extracted (C means cold), and W is the work done</span></p>
+
+<h3 style="text-align: center;">Efficiency</h3>
+Since some heat is not extracted from the engine, we can determine how efficient the engine is for transferring heat into work.
+
+<img class="aligncenter" alt="{\color{Blue} e=\left | \frac{W}{Q_{H}} \right |}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;e=\left&amp;space;|&amp;space;\frac{W}{Q_{H}}&amp;space;\right&amp;space;|}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where e is the efficiency, W is the work done, and Q<sub>H</sub> is the heat that enters the engine</span></p>
+
+<ul>
+	<li>As we learned from the First Law of Thermodynamics, <img alt="\Delta U=\Delta Q+W" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;U=\Delta&amp;space;Q+W" align="absmiddle" /></li>
+	<li><img alt="\Delta U=0" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;U=0" align="absmiddle" /> since the engine returns to its original state after the cycle (see Carnot Cycle below) so <img alt="\,0=\Delta Q+W\, \, \, =&gt;\, \, \, \Delta Q=-W" src="http://latex.codecogs.com/gif.latex?\,0=\Delta&amp;space;Q+W\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;\Delta&amp;space;Q=-W" align="absmiddle" /></li>
+	<li>Through manipulation, <img alt="\Delta Q=Q_{H}-Q_{C}\, \, \, =&gt;\, \, \, -W=Q_{H}-Q_{C}" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;Q=Q_{H}-Q_{C}\,&amp;space;\,&amp;space;\,&amp;space;=&gt;\,&amp;space;\,&amp;space;\,&amp;space;-W=Q_{H}-Q_{C}" align="absmiddle" /> so when we plug this back into our efficiency equation, we are left with</li>
+</ul>
+<p style="text-align: center;"><img alt="\,{\color{Blue} e=\left | \frac{W}{Q_{H}} \right |=\left | \frac{Q_{H}-Q_{C}}{Q_{H}} \right |=1-\frac{\left |Q_{C} \right |}{Q_{H}}}" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;e=\left&amp;space;|&amp;space;\frac{W}{Q_{H}}&amp;space;\right&amp;space;|=\left&amp;space;|&amp;space;\frac{Q_{H}-Q_{C}}{Q_{H}}&amp;space;\right&amp;space;|=1-\frac{\left&amp;space;|Q_{C}&amp;space;\right&amp;space;|}{Q_{H}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where e is the efficiency, W is the work done, Q<sub>H</sub> is the heat that enters the engine, and Q<sub>L</sub> is the heat not extracted</span></p>
+<p style="text-align: left;">Q is proportional to T so in degrees Kelvin, this equation is</p>
+<p style="text-align: center;"><img alt="{\color{Blue} e=\frac{T_{H}-T_{C}}{T_{H}} =1-\frac{T_{C} }{T_{H}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;e=\frac{T_{H}-T_{C}}{T_{H}}&amp;space;=1-\frac{T_{C}&amp;space;}{T_{H}}}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Carnot Cycle</h3>
+The Carnot Cycle depicts an engine that has the highest possible efficiency possible without violating the Second Law of Thermodynamics. It is seen below
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/06/carnot-3.png"><img class="size-full wp-image-4519 aligncenter" alt="carnot 3" src="http://www.compactcourse.com/wp-content/uploads/2013/06/carnot-3.png" width="799" height="476" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Methods of Heat Transfer</span></h2>
+<h3 align="center">Conduction</h3>
+<span style="text-decoration: underline; color: #007fff;">Conduction:</span> Process of heat transfer through contact with another object when there is a temperature difference between the two
+<p style="padding-left: 30px;">ex.) Heating a piece of metal by touching it with a hot piece of metal</p>
+
+<ul>
+	<li>The rate at which heat transfers through a slab of material can be given by the equation</li>
+</ul>
+<p align="center"><img alt="{\color{Blue} H=\frac{\Delta Q}{T}}\, \, \, or\, \, \, {\color{Blue} H=\frac{kA\Delta T}{L}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;H=\frac{\Delta&amp;space;Q}{T}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;H=\frac{kA\Delta&amp;space;T}{L}}" align="absmiddle" /></p>
+<p align="center"><span style="color: #007fff;">where ΔQ is the heat transferred in a time t, k is the thermal conductivity of the material, A is the cross-sectional area, ΔT is the change in temperature, and L is the thickness of the material</span></p>
+
+<h3 align="center">Convection</h3>
+<span style="text-decoration: underline; color: #007fff;">Convection:</span> Process of heat transfer from moving currents in a fluid
+<p style="padding-left: 30px;">ex.) Furnace heating a house</p>
+
+<h3 align="center">Radiation</h3>
+<span style="text-decoration: underline; color: #007fff;">Radiation:</span> Process of heat transfer when electromagnetic waves carry energy from one place to another
+<p style="padding-left: 30px;">ex.) Microwave heating up food</p>
+
+<h2 style="text-align: center;"> <span style="text-decoration: underline;">Thermal Expansion</span></h2>
+When a substance changes temperature, the size changes because the distance between the molecules changes. The change in the length of an object can be found by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} \Delta l=\alpha L_{o}\Delta T}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Delta&amp;space;l=\alpha&amp;space;L_{o}\Delta&amp;space;T}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where α is the coefficient of linear expansion that varies for each material, L<sub>o</sub> is the initial length of the object, and ΔT is the change in temperature within the object <span style="text-decoration: underline;">in degrees Celsius</span></span></p>
+<p style="text-align: left;">The change in the volume of an object can be found by the equation</p>
+<p style="text-align: center;"><img alt="{\color{Blue} \Delta V=\beta V_{o}\Delta T}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\Delta&amp;space;V=\beta&amp;space;V_{o}\Delta&amp;space;T}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where β is the coefficient of volume expansion that varies for each material, V<sub>o</sub> is the initial volume of the object, and ΔT is the change in temperature within the object <span style="text-decoration: underline;">in degrees Celsius</span></span></p>

@@ -1,0 +1,169 @@
+&nbsp;
+<h2 style="text-align: center;">Tangents and Normals to a Curve</h2>
+<h3 style="text-align: center;">Tangents</h3>
+The tangent line to a curve <img alt="y=f(x)" src="http://latex.codecogs.com/gif.latex?y=f(x)" align="absmiddle" /> at a point <img alt="Q(x_{1},y_{1})" src="http://latex.codecogs.com/gif.latex?Q(x_{1},y_{1})" align="absmiddle" /> can be given by the equation
+
+<img class="aligncenter" alt="{\color{Blue} y-y_{1}={f}'(x)(x-x_{1})}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;y-y_{1}={f}'(x)(x-x_{1})}" align="absmiddle" />
+<p style="text-align: center;">because the slope of the tangent line is equal to <img alt="{f}'(x)" src="http://latex.codecogs.com/gif.latex?{f}'(x)" align="absmiddle" /> at that point</p>
+
+<h3 style="text-align: center;">Normals</h3>
+The normal line to a curve <img alt="y=f(x)" src="http://latex.codecogs.com/gif.latex?y=f(x)" align="absmiddle" /> at a point <img alt="Q(x_{1},y_{1})" src="http://latex.codecogs.com/gif.latex?Q(x_{1},y_{1})" align="absmiddle" /> can be given by the equation
+
+<img class="aligncenter" alt="{\color{Blue} y-y_{1}=-\frac{1}{{f}'(x)}(x-x_{1})}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;y-y_{1}=-\frac{1}{{f}'(x)}(x-x_{1})}" align="absmiddle" />
+<p style="text-align: center;">because the slope of a normal line in the opposite reciprocal of the slope of the tangent line</p>
+
+<h2 style="text-align: center;">Critical Points</h2>
+We call a point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> a <span style="color: #007fff;">critical point</span> of a function <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> if <img alt="f(c)" src="http://latex.codecogs.com/gif.latex?f(c)" align="absmiddle" /> exists and if
+<p style="padding-left: 30px;">1. <img alt="{f}'(c)=0" src="http://latex.codecogs.com/gif.latex?{f}'(c)=0" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="text-decoration: underline;">OR</span></p>
+<p style="text-align: left; padding-left: 30px;">2. <img alt="{f}'(c)" src="http://latex.codecogs.com/gif.latex?{f}'(c)" align="absmiddle" /> does not exist</p>
+
+<h3 style="text-align: center;">Finding Critical Points</h3>
+Ex.) Find all the critical points on the function <img alt="f(x)=2x^{3}+3x^{2}-12x" src="http://latex.codecogs.com/gif.latex?f(x)=2x^{3}+3x^{2}-12x" align="absmiddle" />
+<ul>
+	<li><span style="color: #ff0000;">To find the critical points we have to first find the derivative of <img alt="{\color{Red} f(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(x)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This comes out to be <img alt="{\color{Red} {f}'(x)=6x^{2}+6x-12}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=6x^{2}+6x-12}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This can be rewritten as <img alt="{\color{Red} {f}'(x)=(3x-3)(2x+4)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=(3x-3)(2x+4)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Critical points occur when <img alt="{\color{Red} {f}'(c)=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(c)=0}" align="absmiddle" /> so we set <img alt="{\color{Red} {f}'(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)}" align="absmiddle" /> equal to 0 which gives us <img alt="{\color{Red} 0=(3x-3)(2x+4)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;0=(3x-3)(2x+4)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This means there are critical points at <img alt="{\color{Red} x= 1}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=&amp;space;1}" align="absmiddle" /> and at <img alt="{\color{Red} x=-2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=-2}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Critical points also occur where <img alt="{\color{Red} {f}'(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)}" align="absmiddle" /> does not exist, but there are no points on the function <img alt="{\color{Red} {f}'(x)=6x^{2}+6x-12}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=6x^{2}+6x-12}" align="absmiddle" /> where <img alt="{\color{Red} {f}'(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)}" align="absmiddle" /> does not exist</span></li>
+	<li><span style="color: #ff0000;">Therefore the only critical points occur at <img alt="{\color{Red} x= 1}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=&amp;space;1}" align="absmiddle" /> and at <img alt="{\color{Red} x=-2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=-2}" align="absmiddle" /></span></li>
+</ul>
+Ex.) Find all the critical points on the function <img alt="f(x)=(x-4)^{1/2}" src="http://latex.codecogs.com/gif.latex?f(x)=(x-4)^{1/2}" align="absmiddle" />
+<ul>
+	<li><span style="color: #ff0000;">To find the critical points we have to first find the derivative of <img alt="{\color{Red} f(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(x)}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">This comes out to be <img alt="{\color{Red} {f}'(x)=\frac{1}{(x-4)^{1/2}}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(x)=\frac{1}{(x-4)^{1/2}}}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Critical points occur when <img alt="{\color{Red} {f}'(c)=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(c)=0}" align="absmiddle" />, but there are no points here where <img alt="{\color{Red} {f}'(c)=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(c)=0}" align="absmiddle" />. Therefore the only critical points occur where <img alt="{\color{Red} {f}'(c)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(c)}" align="absmiddle" /> does not exist</span></li>
+	<li><span style="color: #ff0000;">This means that the only critical point occurs at <img alt="{\color{Red} x=4}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=4}" align="absmiddle" /> because the denominator of <img alt="{\color{Red} {f}'(4)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4)}" align="absmiddle" /> equal 0 which makes <img alt="{\color{Red} {f}'(4)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;{f}'(4)}" align="absmiddle" /> not exist</span></li>
+</ul>
+<h2 style="text-align: center;">Graphs</h2>
+<h3 style="text-align: center;">Increasing and Decreasing Functions</h3>
+<ul>
+	<li>If <img alt="{f}'(x)&gt; 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)&gt;&amp;space;0" align="absmiddle" /> for every x on some interval, <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> is increasing on that interval</li>
+	<li>If <img alt="{f}'(x)&lt; 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)&lt;&amp;space;0" align="absmiddle" /> for every x on some interval, <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> is decreasing on that interval</li>
+	<li>If <img alt="{f}'(x)= 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)=&amp;space;0" align="absmiddle" /> for every x on some interval, <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" /> is constant on that interval</li>
+</ul>
+<p style="text-align: center;">This is all demonstrated by the example function below</p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/x^2.png"><img class="alignnone size-full wp-image-5594" alt="x^2" src="http://www.compactcourse.com/wp-content/uploads/2013/08/x^2.png" width="334" height="327" /></a></p>
+
+<h3 style="text-align: center;">Maximums and Minimums</h3>
+<span style="text-decoration: underline; color: #007fff;">Extrema:</span> What we call maximum and minimum points of a function
+<p style="text-align: center;"><span style="color: #007fff;">Relative (Local) Maximums and Minimums</span></p>
+
+<ul>
+	<li>There is a relative (local) maximum at a point <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> if <img alt="f(c)\geq f(x)" src="http://latex.codecogs.com/gif.latex?f(c)\geq&amp;space;f(x)" align="absmiddle" /> for all x-values around <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /></li>
+	<li>There is a relative (local) minimum at a point <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> if <img alt="f(c)\leq f(x)" src="http://latex.codecogs.com/gif.latex?f(c)\leq&amp;space;f(x)" align="absmiddle" /> for all x-values around <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /></li>
+</ul>
+<p style="text-align: center;"><span style="color: #007fff;">The First Derivative Test</span></p>
+<p style="text-align: left;">If a point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is a critical point of <img alt="f(x)" src="http://latex.codecogs.com/gif.latex?f(x)" align="absmiddle" />,</p>
+
+<ul>
+	<li><span style="line-height: 14px;">If <img alt="{f}'(x)&gt; 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)&gt;&amp;space;0" align="absmiddle" /> to the right of <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> and <img alt="{f}'(x)&lt; 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)&lt;&amp;space;0" align="absmiddle" /> to the left of <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" />, then the point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is a relative minimum
+</span></li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/x^2.png"><img class="alignnone size-full wp-image-5594" alt="x^2" src="http://www.compactcourse.com/wp-content/uploads/2013/08/x^2.png" width="334" height="327" /></a></p>
+<p style="text-align: center;"><img alt="x=0" src="http://latex.codecogs.com/gif.latex?x=0" align="absmiddle" /> is a relative minimum</p>
+
+<ul>
+	<li>If <img alt="{f}'(x)&lt; 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)&lt;&amp;space;0" align="absmiddle" /> to the right of <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> and <img alt="{f}'(x)&gt; 0" src="http://latex.codecogs.com/gif.latex?{f}'(x)&gt;&amp;space;0" align="absmiddle" /> to the left of <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" />, then the point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is a relative maximum</li>
+</ul>
+<p style="text-align: center;"> <a href="http://www.compactcourse.com/wp-content/uploads/2013/08/x2.png"><img class="alignnone size-full wp-image-5596" alt="-x2" src="http://www.compactcourse.com/wp-content/uploads/2013/08/x2.png" width="328" height="320" /></a></p>
+<p style="text-align: center;"><img alt="x=0" src="http://latex.codecogs.com/gif.latex?x=0" align="absmiddle" /> is a relative maximum</p>
+
+<ul>
+	<li>If <img alt="{f}'(x)" src="http://latex.codecogs.com/gif.latex?{f}'(x)" align="absmiddle" /> is the same sign on both sides of <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" />, then the point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is neither a relative minimum or relative maximum</li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/x3.png"><img alt="x3" src="http://www.compactcourse.com/wp-content/uploads/2013/08/x3.png" width="336" height="319" /></a></p>
+<p style="text-align: center;"><img alt="x=0" src="http://latex.codecogs.com/gif.latex?x=0" align="absmiddle" /> is neither a relative minimum or relative maximum</p>
+<p style="text-align: center;"><span style="color: #007fff;">Absolute (Global) Maximums and Minimums</span></p>
+
+<ul>
+	<li>There is an absolute (global) maximum at a point <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> if <img alt="f(c)\geq f(x)" src="http://latex.codecogs.com/gif.latex?f(c)\geq&amp;space;f(x)" align="absmiddle" /> for all x-values between the closed interval <img alt="[a,b]" src="http://latex.codecogs.com/gif.latex?[a,b]" align="absmiddle" /></li>
+	<li>There is an absolute (global) minimum at a point <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> if <img alt="f(c)\leq f(x)" src="http://latex.codecogs.com/gif.latex?f(c)\leq&amp;space;f(x)" align="absmiddle" /> for all x-values between the closed interval <img alt="[a,b]" src="http://latex.codecogs.com/gif.latex?[a,b]" align="absmiddle" /></li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/max-and-min.png"><img class="aligncenter" alt="max and min" src="http://www.compactcourse.com/wp-content/uploads/2013/08/max-and-min.png" width="713" height="346" /></a></p>
+<p style="text-align: center;"><span style="color: #007fff;">Finding Maximums and Minimums</span></p>
+<p style="text-align: left;">To find <span style="text-decoration: underline;">relative</span> maximums and minimums of a function <img alt="{f}(x)" src="http://latex.codecogs.com/gif.latex?{f}(x)" align="absmiddle" />,</p>
+
+<ol>
+	<li><span style="line-height: 14px;">Find the derivative function</span></li>
+	<li>Set the derivative function equal to zero</li>
+	<li>Solve for the x-values that makes this equation hold true (find the critical points where <img alt="{f}'(c)=0" src="http://latex.codecogs.com/gif.latex?{f}'(c)=0" align="absmiddle" />)</li>
+</ol>
+<p style="text-align: center;">*In the above graph, the local maximums and minimums occur when the tangent line to the graph is perfectly horizontal (slope = 0) which is why we try to find where the derivative equals 0)*</p>
+To find <span style="text-decoration: underline;">absolute</span> maximums and minimums of a function <img alt="{f}(x)" src="http://latex.codecogs.com/gif.latex?{f}(x)" align="absmiddle" /> over a closed interval <img alt="[a,b]" src="http://latex.codecogs.com/gif.latex?[a,b]" align="absmiddle" />,
+<ol>
+	<li>Find the derivative function</li>
+	<li>Set the derivative function equal to zero</li>
+	<li>Solve for the x-values within the interval <img alt="[a,b]" src="http://latex.codecogs.com/gif.latex?[a,b]" align="absmiddle" /> that makes this equation hold true (find the critical points where <img alt="{f}'(c)=0" src="http://latex.codecogs.com/gif.latex?{f}'(c)=0" align="absmiddle" /> within the interval <img alt="[a,b]" src="http://latex.codecogs.com/gif.latex?[a,b]" align="absmiddle" />)</li>
+	<li>Solve for <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> at these points and then solve for <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> at <img alt="x=a" src="http://latex.codecogs.com/gif.latex?x=a" align="absmiddle" /> and <img alt="x=b" src="http://latex.codecogs.com/gif.latex?x=b" align="absmiddle" /></li>
+	<li>If there are any points on <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> that are defined, but for which <img alt="{f}'(c)" src="http://latex.codecogs.com/gif.latex?{f}'(c)" align="absmiddle" /> does not exist, solve for <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> at these points too</li>
+	<li>The largest value of <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> from all of these points is the absolute maximum; The smallest value of <img alt="f" src="http://latex.codecogs.com/gif.latex?f" align="absmiddle" /> from all of these points is the absolute minimum</li>
+</ol>
+<p style="padding-left: 30px;">ex.) Find the absolute extrema and relative extrema for the function <img alt="f(x)=x^{2}" src="http://latex.codecogs.com/gif.latex?f(x)=x^{2}" align="absmiddle" /> over the interval <img alt="\left [-2,3 \right ]" src="http://latex.codecogs.com/gif.latex?\left&amp;space;[-2,3&amp;space;\right&amp;space;]" align="absmiddle" />.</p>
+
+<ul>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} f{}'(x)=2x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f{}'(x)=2x}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} 2x=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;2x=0}" align="absmiddle" /> so there is a critical point at <img alt="{\color{Red} x=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=0}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;"><img alt="{\color{Red} f(0)=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(0)=0}" align="absmiddle" />, <img alt="{\color{Red} f(-2)=4}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(-2)=4}" align="absmiddle" />, and <img alt="{\color{Red} f(3)=9}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;f(3)=9}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Therefore there is a relative and absolute minimum at <img alt="{\color{Red} x=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=0}" align="absmiddle" /> and an absolute maximum at <img alt="{\color{Red} x=3}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=3}" align="absmiddle" />. There is not a relate maximum at <img alt="{\color{Red} x=-2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=-2}" align="absmiddle" /> since it is just an endpoint</span></li>
+</ul>
+<h3 style="text-align: center;">Concavity</h3>
+<p style="text-align: center;"><span style="color: #007fff;">Concave Up</span></p>
+
+<ul>
+	<li><span style="line-height: 14px;">A curve is concave up if the curve at a point is above the tangent line to the point</span></li>
+	<li>A curve is concave down if \(f''(x)&lt;0\)</li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/Concave-Up.png"><img class="size-full wp-image-5239 aligncenter" alt="Concave Up" src="http://www.compactcourse.com/wp-content/uploads/2013/08/Concave-Up.png" width="381" height="309" /></a></p>
+<p style="text-align: center;"><span style="color: #007fff;">Concave Down</span></p>
+
+<ul>
+	<li>A curve is concave down if the curve at a point is below the tangent line to the point</li>
+	<li>A curve is concave down if</li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/Concave-Down.png"><img class="size-full wp-image-5238 aligncenter" alt="Concave Down" src="http://www.compactcourse.com/wp-content/uploads/2013/08/Concave-Down.png" width="382" height="310" /></a></p>
+<p style="text-align: center;"><span style="color: #007fff;">Points of Inflection</span></p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Point of Inflection:</span></span> A point where the curve changes from concave down to concave up or from concave up to concave down</p>
+
+<ul>
+	<li><span style="line-height: 14px;">A point is a point of inflection if <img alt="f{}'{}'(c)=0" src="http://latex.codecogs.com/gif.latex?f{}'{}'(c)=0" align="absmiddle" /></span></li>
+</ul>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/Point-of-Inflection.png"><img class="alignnone size-full wp-image-5241" alt="Point of Inflection" src="http://www.compactcourse.com/wp-content/uploads/2013/08/Point-of-Inflection.png" width="374" height="253" /></a></p>
+<p style="text-align: center;"><span style="color: #007fff;">The Second Derivative Test</span></p>
+If a point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is a critical point of <img alt="f{}'(x)" src="http://latex.codecogs.com/gif.latex?f{}'(x)" align="absmiddle" /> such that <img alt="f{}'(c)=0" src="http://latex.codecogs.com/gif.latex?f{}'(c)=0" align="absmiddle" />,
+<ul>
+	<li>If <img alt="{f}'{}'(c)&lt; 0" src="http://latex.codecogs.com/gif.latex?{f}'{}'(c)&lt;&amp;space;0" align="absmiddle" />, then the point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is a relative maximum</li>
+	<li>If <img alt="{f}'{}'(c)&gt;0" src="http://latex.codecogs.com/gif.latex?{f}'{}'(c)&gt;0" align="absmiddle" />, then the point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> is a relative minimum</li>
+	<li>If <img alt="{f}'{}'(c)=0" src="http://latex.codecogs.com/gif.latex?{f}'{}'(c)=0" align="absmiddle" />, then the point at <img alt="x=c" src="http://latex.codecogs.com/gif.latex?x=c" align="absmiddle" /> can be a relative maximum, relative minimum, or neither</li>
+</ul>
+<h2 style="text-align: center;">Optimization</h2>
+We can start to apply what we learned in calculus so far to real life situations through optimization. We look for maximum or minimum values for a function that satisfies a constrain that has to be true no matter what. In a lot of these problems, there is a pattern on how to solve them. These steps are seen below
+<ol>
+	<li><span style="line-height: 14px;">Identify the constraint and the value to be optimized</span></li>
+	<li>Rearrange the constraint equation to solve for one of the variables</li>
+	<li>Plug this into the equation that needs to be optimized</li>
+	<li>Differentiate this equation and set it equal to 0</li>
+	<li>Solve for the values that make it equal to 0</li>
+	<li>Choose the value that is the maximum or minimum that we are looking for</li>
+	<li>Solve for the other variables</li>
+</ol>
+<p style="padding-left: 30px;">ex.) A gardener has 300 feet of fencing to enclose three equal sized rectangular garden plots. What dimensions x and y will maximize the total area?</p>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/08/Untitled.png"><img class="alignnone size-full wp-image-5592" alt="Untitled" src="http://www.compactcourse.com/wp-content/uploads/2013/08/Untitled.png" width="485" height="266" /></a></p>
+
+<ul>
+	<li><span style="color: #ff0000;">The constraint equation is <img alt="{\color{Red} 2x+4y=300}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;2x+4y=300}" align="absmiddle" /> and the optimization equation is <img alt="{\color{Red} Total\, \, Area = xy}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;Total\,&amp;space;\,&amp;space;Area&amp;space;=&amp;space;xy}" align="absmiddle" />.</span></li>
+	<li><span style="color: #ff0000;">We can rearrange the constraint equation to solve for y</span>
+<ul>
+	<li><img alt="{\color{Red} 2x+4y=300}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;2x+4y=300}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} 4y=300-2x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;4y=300-2x}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} y=\frac{300}{4}-\frac{2x}{4}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;y=\frac{300}{4}-\frac{2x}{4}}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} y=75-\frac{x}{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;y=75-\frac{x}{2}}" align="absmiddle" /></li>
+</ul>
+</li>
+	<li><span style="color: #ff0000;">Plug y into the optimization equation to get <img alt="{\color{Red} Total \, \, Area=x\left (75-\frac{x}{2} \right )=75x-\frac{x^{2}}{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;Total&amp;space;\,&amp;space;\,&amp;space;Area=x\left&amp;space;(75-\frac{x}{2}&amp;space;\right&amp;space;)=75x-\frac{x^{2}}{2}}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Differentiate this to get <img alt="{\color{Red} \left (Total \, \, Area \right ){}'(x)=75-x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\left&amp;space;(Total&amp;space;\,&amp;space;\,&amp;space;Area&amp;space;\right&amp;space;){}'(x)=75-x}" align="absmiddle" /> and set it equal to 0 to get <img alt="{\color{Red} 0=75-x}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;0=75-x}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">So <img alt="{\color{Red} x=75}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=75}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Plugging this into <img alt="{\color{Red} 2x+4y=300}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;2x+4y=300}" align="absmiddle" />, we get <img alt="{\color{Red} 2(75)+4y=300}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;2(75)+4y=300}" align="absmiddle" /> which means <img alt="{\color{Red} y=37.5}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;y=37.5}" align="absmiddle" /></span></li>
+	<li><span style="color: #ff0000;">Therefore our optimal dimensions are <img alt="{\color{Red} x=75}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;x=75}" align="absmiddle" /> and <img alt="{\color{Red} y=37.5}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;y=37.5}" align="absmiddle" /></span></li>
+</ul>

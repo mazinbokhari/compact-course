@@ -1,0 +1,69 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Springs</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Spring Constant:</span> Constant that depicts how stiff a spring is; the larger, the stiffer the spring
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Newtons per Meter <img alt="(\frac{N}{m})" src="http://latex.codecogs.com/gif.latex?(\frac{N}{m})" align="absmiddle" />; Symbol =&gt; k</span></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Point of Equilibrium:</span> Point where spring stays put with no forces acting on it
+<h3 style="text-align: center;">Hooke's Law</h3>
+<span style="text-decoration: underline; color: #007fff;">Hooke's Law:</span> Whenever a spring is stretched or compressed from its equilibrium position, a restoring force acts on it to try to bring it back to equilibrium. This force is given by
+<p style="text-align: center;"><img alt="{\color{Blue} F_{s} = -kx}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F_{s}&amp;space;=&amp;space;-kx}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F<sub>s</sub> is the force of a spring, k is the spring constant, and x is the distance to the point of equilibrium</span></p>
+<p style="text-align: center;">*There is a negative there to show that the directions of the force and the distance are opposite one another.*</p>
+
+<h3 style="text-align: center;">Potential Energy of a Spring</h3>
+<span style="text-decoration: underline; color: #007fff;">Potential Energy of a Spring:</span> Energy stored within a spring when it is stretched or compressed from its equilibrium point
+<ul>
+	<li>Unit =&gt; Joule <img alt="\left ( J \right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;J&amp;space;\right&amp;space;)" align="absmiddle" />; Symbol=&gt; U<sub>s</sub></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} U_{s}=\frac{1}{2}kx^{2}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;U_{s}=\frac{1}{2}kx^{2}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where k is the spring constant and x is the distance to the point of equilibrium</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #007fff;">Simple Harmonic Motion</span></h2>
+<span style="text-decoration: underline; color: #007fff;">Simple Harmonic Motion:</span> When an object oscillates back and forth
+
+<span style="text-decoration: underline;"><span style="color: #007fff; text-decoration: underline;">Period:</span></span> How long it takes an object to complete one full cycle when in simple harmonic motion
+<ul>
+	<li>Unit =&gt; Second <img alt="\left ( s\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;s\right&amp;space;)" align="absmiddle" />; Symbol=&gt; T<sub>
+</sub></li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Amplitude:</span> Maximum distance an object can stretch when in simple harmonic motion
+<ul>
+	<li>Unit =&gt; Meter <img alt="\left ( m\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;m\right&amp;space;)" align="absmiddle" />; Symbol=&gt; A</li>
+</ul>
+<span style="text-decoration: underline; color: #007fff;">Frequency:</span> How many cycles the system goes through every second
+<ul>
+	<li><span style="line-height: 14px;">Unit =&gt; Hertz <img alt="\left ( s^{-1}\right )" src="http://latex.codecogs.com/gif.latex?\left&amp;space;(&amp;space;s^{-1}\right&amp;space;)" align="absmiddle" />; Symbol=&gt; f</span></li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} f=\frac{1}{T}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;f=\frac{1}{T}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where T is the period of the system</span></p>
+
+<h3 style="text-align: center;">Pendulum</h3>
+The period for a pendulum can be given by the equation
+<p style="text-align: center;"><img alt="{\color{Blue} T=2\pi \sqrt{\frac{l}{g}}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;T=2\pi&amp;space;\sqrt{\frac{l}{g}}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where l is the length of the pendulum and g is gravity</span></p>
+
+<h3 style="text-align: center;">Mass on a Spring</h3>
+The period for a mass on a spring can be given by the equation
+
+<img class="aligncenter" alt="\,{\color{Blue} T=2\pi \sqrt{\frac{m}{k}}\, }" src="http://latex.codecogs.com/gif.latex?\,{\color{Blue}&amp;space;T=2\pi&amp;space;\sqrt{\frac{m}{k}}\,&amp;space;}" align="absmiddle" />
+<p style="text-align: center;"><span style="color: #007fff;">where m is the mass of the object and k is the spring constant</span></p>
+<p style="text-align: center;">*To find the frequency, you can substitute 1/f for T and use algebraic manipulation*</p>
+
+<h3 style="text-align: center;">Graphic Relationships</h3>
+Say we have a spring that is in simple harmonic motion. Possible graphs of this situation can be seen below.
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/x.png"><img class="size-medium wp-image-2902 aligncenter" alt="x" src="http://compactcourse.com/wp-content/uploads/2013/06/x-300x163.png" width="300" height="163" /></a>
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/v.png"><img class="size-medium wp-image-2903 aligncenter" alt="v" src="http://compactcourse.com/wp-content/uploads/2013/06/v-300x176.png" width="300" height="176" /></a>
+
+<a href="http://compactcourse.com/wp-content/uploads/2013/06/a.png"><img class="size-medium wp-image-2904 aligncenter" alt="a" src="http://compactcourse.com/wp-content/uploads/2013/06/a-300x174.png" width="300" height="174" /></a>
+
+&nbsp;
+
+As we can see above...
+<ul>
+	<li>The maximum and minimum x positions are at the amplitude, A</li>
+	<li>When the x position is at its maximum or minimum, the velocity is equal to 0</li>
+	<li>When the velocity is at its maximum or minimum, the acceleration is equal to 0</li>
+	<li>All of these graphs have the same period</li>
+</ul>

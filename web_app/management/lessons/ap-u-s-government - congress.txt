@@ -1,0 +1,79 @@
+<h2 style="text-align: center;">Congress and its Powers</h2>
+Congress has two houses: the Senate and the House of Representatives
+<h3>The Senate</h3>
+The Senate has 100 members (2 from each state). Senators must be at least 30 years old, a resident of the state he represents, and an American citizen for at least 9 years. Senators serve 6 year terms. Senators were originally elected by the state legislatures, so they essentially represented the states rather than their peoples. The <span style="color: #007fff;">17<sup><span style="text-decoration: underline;">th</span></sup> Amendment</span> changed the election of Senators to be by the direct vote of the people.
+
+The Senate holds three exclusive powers:
+<ul>
+	<li><span style="line-height: 14px;">Try (judge) impeachment trials</span></li>
+	<li>Confirm presidential appointments (including federal judges, Supreme Court judges, and cabinet heads)
+<ul>
+	<li>There is an unwritten custom when confirming appointments called senatorial courtesy. The Senate will only approve an appointment if the majority party senator(s) from the state the appointee is to serve is/are not opposed to the action.</li>
+</ul>
+</li>
+	<li>Ratify treaties made by the president</li>
+</ul>
+<h4>Leaders of the Senate</h4>
+The Constitution names the vice president as the leader of the Senate. Nevertheless, the president pro tempore, the Senator with the longest service in the majority party (the party that has the majority of the chairs), conducts meetings in the Senate most of the time because the vice president usually does not take this duty. However, the leader of the majority of the party (most often <span style="color: #007fff;">not</span> the president pro tempore) is the real leader of the Senate. The majority party reaps the following benefits:
+<ul>
+	<li><span style="line-height: 14px;">Holds the chairs and the majority of every committee</span></li>
+	<li>Assigns bills to committees</li>
+	<li>Sets the agenda</li>
+</ul>
+Both the majority and minority party leaders have Whips, who are people in each party who attempt to maintain party agreement on votes.
+<h3>The House of Representatives</h3>
+The House of Representatives has 435 members.  Members of the House must be at least 25 years old, a resident of the state he represents, and an American citizen for at least 7 years. Members of the House serve 2 year terms. Members of the House have always been directly elected by the people, which is why the House was known to represent the public's interest.
+
+The House of Representatives also holds three exclusive powers:
+<ul>
+	<li>Impeach any United States office holder (including the president)</li>
+	<li>Generate revenue tax bills</li>
+	<li>Choose the president when no candidate has a majority of electoral college votes</li>
+</ul>
+<h4>Leaders of the House of Representatives</h4>
+The Speaker of the House of Representatives conducts meetings in the House and is second to the vice president to take over the presidency should the president be unfit to do so. However, the majority leader is the true leader of the House. The majority party shares the same benefits as the majority party in the Senate, as well as choosing the Speaker of the House. Both the majority and minority party leaders have Whips, who are people in each party who attempt to maintain party agreement on votes.
+
+&nbsp;
+<h4>Reapportionment</h4>
+<img class="alignleft" alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Gerry-Mander_Edit.png/573px-The_Gerry-Mander_Edit.png" width="206" height="216" />
+
+Each state has representatives proportional to their populations, with a census taken every 10 years to apportion seats in the House. Congressional district lines in each state are drawn by state legislatures. Often during reapportionment, state legislatures use <span style="color: #007fff;">gerrymandering</span>, which is an attempt to redraw congressional district lines in order to benefit the majority party in control of the state legislature. Often, the lines are drawn like a puzzle, like the famous image to the left.  Many rules have been made about the process, but the Supreme Court has <span style="color: #007fff;">not</span> called gerrymandering for partisan political reasons unconstitutional.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3 style="text-align: left;">Checks and Balances</h3>
+Congress has many checks over the judicial and executive branch
+<h4>Checks over the Judicial Branch</h4>
+The most important power Congress has over the judicial branch is its power to amend the Constitution. Once an amendment has been ratified, it is the "supreme law over the land" and must be obeyed by the Supreme Court.
+<h4>Checks over the Executive Branch</h4>
+Congress has gained much power of the executive branch, including:
+<ul>
+	<li><span style="line-height: 14px;">The power to override a veto with a two-thirds vote in both houses</span></li>
+	<li>The requirement of Senate confirmation of presidential appointments</li>
+	<li>The passage of the <span style="color: #007fff;">War Powers Resolution Act of 1973</span>, which required the president to inform Congress within two days of the deployment of troops. This also requires the president to bring troops back within 90 days if Congress does not give him an extension. Remember that Congress has the power to declare war, but the president can still deploy troops without Congress' authority.</li>
+	<li><span style="color: #007fff;">Congressional oversight</span>, which allows Congress to budget, evaluate, and set guidelines for executive agencies</li>
+</ul>
+<h2 style="text-align: center;">Committees</h2>
+The House of Representatives and the Senate both have committees. As aforementioned, the majority parties have the majority in each committee as well as holding each committee's chair. There are several types of committees:
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">Select committees</span> are temporary committees created for a particular reason. The committee formed to investigate the Watergate Scandal is a good example.</span></li>
+	<li><span style="color: #007fff;">Standing committees</span> are permanent committees that specialize in a certain area, such as judiciaries or the armed forces.</li>
+	<li><span style="color: #007fff;">Conference committees</span> temporary committees that include members from both houses of Congress, formed to negotiate a compromise between the House and Senate's view on a particular bill.</li>
+	<li><span style="color: #007fff;">Joint committees</span> are committees comprised of members from both houses. They're normally used for communicating with or bringing something to the attention of the public.</li>
+</ul>
+Committee chairs used to be the longest serving members on the committees who are on majority party. Today, they are elected, but the general consensus among members of Congress is that seniority should still decide the committee chairs.
+<h3>The House Committee on Ways and Means</h3>
+This is possibly the most important committee, as it has the ability to generate tax revenue bills. It's important to note that this committee is in the House of Representatives, which we know has the sole power to generate taxing bills.
+<h3>The House Committee on Rules</h3>
+The Speaker of the House controls the House Committee on Rules, which sets schedules for voting and rules for floor debate. It is important to note that the House of Representatives has a much more controlled floor than the Senate due to its larger population.
+<h2 style="text-align: center;">Generating and Passing a Bill</h2>
+The passage of a bill is very difficult, as it must undergo strict scrutiny from both houses of Congress. Bills are usually written by members of the executive branch, but interest groups often write bills as well. Once a bill is written, a member of Congress will introduce it, and the bill will be sent to a committee. Most bills are rejected here, but the few that are approved by the committees will be put onto the floor of the committee's house of Congress, where it is debated.
+<h3>Filibuster</h3>
+Senators often use a filibuster to impede the passage of a bill they do not support. A filibuster is basically a speech with no time limit that halts all legislative processes in the Senate. Filibusters are regularly successful in stopping a bill. A vote of 60 senators must be taken to end a filibuster. The filibuster has essentially made it a requirement to have 60 senators support a major bill to ensure its passing in the Senate.
+<h3>Final Passage of a Bill</h3>
+If the bill does survive both the committee and the floor of a house, it will be sent to the other house of Congress to endure the same process. If it happens to make it out of the other house as well, the bill will be sent to a conference committee to resolve any differences between the two houses on the bill. Finally, the bill will be sent back two both houses to have a final decision.

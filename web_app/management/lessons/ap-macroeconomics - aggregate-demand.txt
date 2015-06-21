@@ -1,0 +1,105 @@
+<h2>Aggregate Demand</h2>
+<h3>Definition</h3>
+Aggregate demand is basically the general willingness of the population to buy goods and services produced in a country. If people in a country tend to be conservative with their money and like to save, that country has a low aggregate demand. Likewise, if people in a country like to spend most of their incomes, that country has a high aggregate demand.
+<h3>AD Curve</h3>
+<img class="alignleft" alt="Aggregate Demand Curve" src="http://www.compactcourse.com/images/AD%20Curve.png" width="300" height="273" />The aggregate demand curve (AD) is inversely proportional to the general price level (PL). When prices are low, people are willing to spend their money, and thus output, real GDP, is high. When prices are high, people aren't willing to spend as much, and thus real GDP is low. It's honestly just common sense. There are other reasons for why there's an inverse relationship, but I haven't seen it covered on any exams.
+
+As you can see on the graph to the left, if the general price level drops from PL1 to PL2, real GDP (output) increases from Y1 to Y2 because more people are inclined to spend at that lower price level. This curve is meant to illustrate the tendencies of people as consumers. Never will you actually see an economy "move along" the AD curve as pictured in the graph. An economy's state will always be at the intersection point of the AD curve, and another curve, which you will learn next chapter. Just understand why the AD curve is inversely proportional to price levels.
+<h2>Components of Aggregate Demand</h2>
+<h3>GDP</h3>
+If you know the equation for GDP, you know the components of aggregate demand. In case you've forgotten, the components are: consumer spending (C), business investment (I), government spending (G), and net exports (X-M). You must know this.
+<h3>Shifting the AD Curve</h3>
+<img class="alignleft" alt="Aggregate Demand Curve Shift" src="http://www.compactcourse.com/images/AD%20Shift.png" width="311" height="273" />This is the most important part of the chapter. It's pretty simple too. Scenario: a country has a certain level of aggregate demand. If that country's level of aggregate demand increases, the AD curve will shift to the right. This should make sense: if a country's level of aggregate demand increases, people are willing to spend <em>more</em> at every price level, hence the shifting of the curve to the right. The converse is true also. If aggregate demand decreased, the AD curve would shift to the left.
+
+This graph depicts exactly how the AD curve shifts to the right. The output of an economy would increase from Y1 to Y2 if it had a fixed general price level PL1 and the AD curve shifted to the right. This is consistent with with the paragraph above.
+
+So, what exactly <em>does</em> increases aggregate demand? Easy: any increase in the components of aggregate demand will increase aggregate demand itself, and thus shift the AD curve to the right. Once again, the converse of this is true as well. I will give many examples of change in aggregate demand below. It is necessary that you understand all of them.
+<h4>Consumer Spending</h4>
+<ul>
+	<li>Scenario: The government increases personal income taxes.
+<ul>
+	<li>If personal income taxes increase, people will have less money to spend. Therefore, consumer spending will decrease, thus decreasing aggregate demand and shifting the AD curve to the left.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The government increases transfer payments to welfare beneficiaries.
+<ul>
+	<li>An increase in transfer payments to welfare beneficiaries would increase the amount of money they have to spend. Therefore, consumer spending would increase, thus increasing aggregate demand and shifting the AD curve to the right.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The marginal propensity to save decreases.
+<ul>
+<ul>
+	<li>*This one may require some explanation. The tendencies for people to spend and save when income changes are called the marginal propensity to consume (MPC) and the marginal propensity to save (MPS), respectively.</li>
+	<li>Together, they form the equation: MPC + MPS = 1. It should make sense that an increase in one will lead to the decrease in the other.</li>
+</ul>
+	<li>Here's the answer: If the marginal propensity to save decreases, then the marginal propensity to consume will increase. This means that consumers will tend to spend more money. Therefore, consumer spending will increase, thus increasing aggregate demand and shifting the AD curve to the right.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The country is experiencing high unemployment.
+<ul>
+	<li>If there is high unemployment, people will be fearful of losing their jobs. Thus, they will start to save more money in case they do end up being let go (so they have money to fall back on). Therefore, consumer spending will decrease, thus decreasing aggregate demand and shifting the AD curve to the left.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The country is experiencing high inflation.
+<ul>
+	<li>If there is high inflation, people will try to spend their money <em>now</em> so it won't lose value later. Therefore, consumer spending will increase, thus increasing aggregate demand and shifting the AD curve to the right.</li>
+</ul>
+</li>
+</ul>
+<h4>Business Investment<img class="alignleft" alt="Investment Demand" src="http://www.compactcourse.com/images/Investment%20Demand.png" width="299" height="270" /></h4>
+<ul>
+	<li>Scenario: Real interest rates rise.
+<ul>
+<ul>
+	<li>*Most businesses get the money to invest through loans. It should make sense then that business investment will be high when real interest rates are low and vice-versa. This relationship is depicted by the investment-demand curve to the left. There is an inverse relationship between business investment and real interest rates (real i), just as we said.</li>
+</ul>
+</ul>
+</li>
+</ul>
+<ul>
+<ul>
+<ul>
+	<li>The "economic reason" for this is profitability. Businesses lose potential profits when they must pay back high interest loans, which is why high real interest rates cause lower business investment</li>
+</ul>
+	<li>Answer: If real interest rates rise, then business investment will decrease due to lower profitability of loans. Therefore, aggregate demand decrease, shifting the AD curve to the left.</li>
+</ul>
+</ul>
+Note: Consumers take out loans as well. Therefore, you could say that consumption would decrease as well as business investment. However, the main focus with real interest rates is business investment.
+<h4>Government Spending</h4>
+<ul>
+	<li>Scenario: The government passes a bill that will create interstate highways.
+<ul>
+	<li>The government will have to fund the creation of interstate highways. Therefore, government spending will increase, thus increasing aggregate demand and shifting the AD curve to the right.</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Scenario: The government decreases spending by $10 million.
+<ul>
+	<li>Honestly, most government spending questions will be obvious like this one. The exam will tell you the scenario, and you should say: Because government spending decreases, aggregate demand decreases as well, shifting the AD curve to the left. However, the question will have many other parts relating to other chapters. This piece of the problem should be the easy part.</li>
+</ul>
+</li>
+</ul>
+<h4>Net Exports</h4>
+These scenarios should be very easy to pick out, since they'll have to do with other countries.
+<ul>
+	<li>Scenario: The U.S. government places a tariff on foreign goods
+<ul>
+	<li>Because the tariff will tax imported goods, American citizens will stop purchasing, eventually decreasing the amount of imports into the country. This will <em>increase</em> net exports, thus increasing aggregate demand and shifting the AD curve to the right.</li>
+</ul>
+</li>
+</ul>
+<h4>Summary</h4>
+By now, you should have an idea of how components of aggregate demand will be changed and how this will affect aggregate demand. The answers I gave are common to the scenarios presented, but by no means are they guaranteed to be true. The AP exam will usually phrase questions in such a way that you will know what they're looking for.
+
+For example, the exam may ask: "How could a country experiencing high inflation have an increase in aggregate demand?" With this question, you know the answer I gave above is applicable because the end result answered the actual question. You'll never get one of the scenarios above without a direction for the answer.
+
+***My answers are pretty much exactly how you should phrase them when answering problems on the AP exam (and also just thinking about the problems in general). It may seem repetitive to write all of that for a question, but it's what I'd do if I were you.

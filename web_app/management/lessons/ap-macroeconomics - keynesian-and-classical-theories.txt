@@ -1,0 +1,162 @@
+Before I fully explain each theory, let me just tell you what each one is. Keynesian economics are all about government intervention. Not specifically government regulation, but government spending. Keynesian economists believe that the economy by itself will always be below full employment, in a recession, if you will. In order to increase output to get the economy to full employment, Keynesian economists advocate that the government spend money in order to increase aggregate demand, which will push the economy to full employment.
+
+Classical economists believe the complete opposite. They advocate no government interference in the economy. Classical economists regard market economies to be self-regulating. This means that an economy that is experiencing inflation or a recession will correct itself through <span style="color: #007fff;">market mechanisms</span> (natural "forces" of an economy) to bring itself back to full employment. They say that, in the long-run, an economy can always go back to full employment without government help. (That's why it's called long-run aggregate supply)
+
+Neither ideology is necessarily correct; that's why they're called <em>theories</em>. You must understand each point of view of economics and be able to use both theories. However, never will the AP exam explicitly ask you to "pick a side." Rather, you'll most likely be led into the direction of using a certain theory.
+<h1>Classical Economics</h1>
+<h2>Market Mechanisms</h2>
+Market mechanisms are basically natural forces in the economy that classical theorists believe will bring the economy back to full employment should it face recessions or high inflation.
+<h3>Price Wage Flexibility</h3>
+You learned before that nominal wages are the dollars a worker makes, but real wages are the actual value of that worker's income (exactly like nominal GDP versus real GDP). In the short-run, which means immediately after an economic event, nominal wages stay the same, or are "sticky". Workers can't ask their employers to raise their pay increase right away. As a result, workers' real wages can change in the short-run based on the effect an economic event has on inflation. However, in the long-run, workers' nominal wages will adjust accordingly to the level of inflation so that they are making the same as before the economic event. Wages in the long-run are therefore called "flexible."Once again, examples will help explain this:
+<h4>Recession</h4>
+Let's say that a nation that was previously at full employment experienced a drop in aggregate demand. Using the AD-AS graph, shifting the AD curve to the left would yield lower real GDP and lower price levels (if this doesn't come automatically to you, keep drawing the actual graph out). This would correlate with lower inflation and higher unemployment. Since workers' nominal wage rates stay the same and inflation is lower, real wages actually increase. Proof - Remember the rate equation: real rate = nominal rate - inflation rate. "Nominal rate" is the nominal wage increase rate, and it stays the same in the short run. Since the inflation rate decreases, the real wage increase rate goes up in the short-run. <img class="alignleft" alt="AD-AS Price Wage Flexibility" src="http://compactcourse.com/images/AD-AS%20Both%20Shift.png" width="319" height="280" />Anyway, this has two effects in the long-run:
+<ul>
+	<li>Because workers' real wage rates increase rate went up, it is understandable for employers to drop the nominal wage increase rate.</li>
+	<li>Because unemployment is so high, the demand for workers is not that high. Therefore, the "price" of employing a worker becomes lower because they're now willing to work for cheap. AKA, workers will accept lower nominal wage rates.</li>
+</ul>
+<p style="padding-left: 330px;">These two result in the decrease in the nominal wage rate. If you remember, I said that wages are part of businesses' expenses. Since nominal wage rates are decreasing, businesses' expenses are decreasing as well. Thus, the per unit cost of production is decreasing also. The decrease in per unit cost of production will increase aggregate supply, shifting the AS curve to the right. This shift will decrease price levels and increase real GDP to bring the economy back to full employment. The entire process is shown in the graph. Red is the first shift, and blue is the second shift.</p>
+
+<h4 id="Price Wage Inflation">Inflation</h4>
+Price wage flexibility works the same way with inflation. Let's say that a nation that was previously at full employment experienced an increase in aggregate demand. Using the AD-AS graph, shifting the AD curve to the right would yield higher real GDP and higher price levels. This would correlate with higher inflation and lower unemployment. Since workers' nominal wage rates stay the same and inflation is higher, real wages decrease. <img class="alignleft" alt="Inflation Price Wage Flexibility" src="http://www.compactcourse.com/images/AD-AS%20Both%20Shift3.png" width="320" height="320" />This has two effects in the long-run:
+<ul>
+	<li>Because workers' real wage increase rate went down, it is understandable for workers to ask for an increase in nominal wage rates.</li>
+	<li>Because unemployment is so low, the demand for workers is high. Therefore, the "price" of employing a worker becomes much higher because workers are scarce in quantity. AKA, employers are willing to increase nominal wages to keep/hire workers.</li>
+</ul>
+These two result in the increase in the nominal wage rate. Since nominal wage rates are increasing, businesses' expenses are increasing as well. Thus, the per unit cost of production is increasing also. The increase in per unit cost of production will decrease aggregate supply, shifting the AS curve to the left. This shift will increase price levels and decrease output to bring the economy back to full employment. The entire process is shown in the graph. Red is the first shift, and blue is the second shift. (As you can see, it's the complete opposite of the recessionary situation)
+<h4>Summary</h4>
+Hopefully you understand that both examples of price wage flexibility worked in the same way: workers' real wage rates are affected by the increase/decrease of inflation. In the long-run, workers' nominal wage rates will adjust in an attempt to correct this change. In doing so, businesses' expenses are affected, resulting in a change in the per unit cost of production. This will change aggregate supply, bringing the nation's economy back to full employment.
+
+I must stress again that this is a possible scenario. You won't use price wage flexibility to solve every problem on the AP exam. You'll be guided by the question into using price wage flexibility if that's what the problem calls for.
+
+Ex: Assume that France's economy is in a recession. In the absence of any changes in fiscal or monetary policies, what will happen to the price level in the long run? Here we know that the economy must be changed by a market mechanism because the question says that the government won't interfere with the economy. You could easily use the process of price-wage flexibility to determine that the aggregate supply curve would shift to the right, increasing output to full employment and decreasing the general price level.
+
+Note: Did you notice that because of price-wage flexibility, in the long-run, the price level will change, but output will not? This is the reason why the long-run Phillips curve is vertical - in the long-run, there is no trade off between the inflation and unemployment (changes in inflation won't affect the long-run unemployment rate, NAIRU ).
+<h3>Loanable Funds</h3>
+<h4>Preface</h4>
+I'm just prefacing this section by saying that any time you're asked about a market mechanism (like above), you should probably use price-wage flexibility unless what I'm going to show you definitely seems like it fits the problem. The loanable funds mechanism can still "work," but it's more involved than price-wage flexibility.
+<h4>Loanable Funds Market</h4>
+The loanable funds graph is all about how the supply or demand of loans will change real interest rates. The supply of loans can be thought of as the amount of money banks have available to loan out. For example, if the marginal propensity to <em>save</em> in a nation increased, people would start saving more of their money. Thus, the amount of money banks hold would increase. Then, banks would have more money to loan out to businesses and people. This is the same thing as saying that the <em>supply</em> of loanable funds would increase. The demand for loanable funds is simple too: it's based on the amount of people/businesses who want to take out loans. If, for some reason, people started to take out massive amounts of loans, the demand for loanable funds would increase.
+
+<img class="alignleft" alt="" src="http://www.compactcourse.com/images/LF Market.png" width="300" height="279" />The loanable funds graph works the same way as the AD-AS graph, but instead of goods and services, the market is for loans. There is no long-run supply of loanable funds or anything, just the supply of loanable funds (S<sub>LF</sub>) and the demand for loanable funds (D<sub>LF</sub>). The intersection of these two points will be the equilibrium of the loanable funds market, which will determine the quantity of loanable funds and the real interest rate (real i). You won't ever have to worry about the quantity of loanable funds; the real interest rate is the only outcome of the graph that you should know.
+
+The main idea of real interest rates changing is how that impacts business investment, which you have already learned about. When real interest rates decrease, loans become more profitable for businesses to take out. Therefore, business investment increases, which increases aggregate demand as well. When real interest rates increase, loans become less profitable for businesses to take out. Therefore, business investment decreases, which decreases aggregate demand as well. Once again, don't try to memorize these rules; try to conceptualize profitability as the link between real interest rates and business investment.
+
+&nbsp;
+<h5>Demand of Loanable Funds</h5>
+<img class="alignleft" alt="" src="http://www.compactcourse.com/images/LF Market DLF Right.png" width="300" height="266" />The following are common triggers that shift the demand for loanable funds curve:
+<ul>
+	<li>Increase/decrease in government spending will shift D<sub>LF</sub> to the right/left, respectively
+<ul>
+	<li style="text-align: center;">*Will learn more about later</li>
+</ul>
+</li>
+	<li>Increase/decrease in consumer demand for loans, particularly during periods of high inflation, will shift D<sub>LF</sub> to the right/left, respectively</li>
+</ul>
+As you can see, shifting the D<sub>LF</sub> curve will change real interest rates, which will set off the chain reaction described above. Don't memorize which shift direction will increase/decrease real interest rates. Just know how to shift the curve, and then interpret the graph. In the instance of the graph to the left, you'll see that shifting the D<sub>LF</sub> curve to the right increases real interest rates.
+<h5>Supply of Loanable Funds</h5>
+<img class="alignleft" alt="Loanable Funds Market SLF Shifts Left" src="http://www.compactcourse.com/images/LF Market SLF Left.png" width="299" height="278" />The following are common triggers that shift the supply of loanable funds curve:
+<ul>
+	<li>An increase/decrease in the supply of money will shift the S<sub>LF</sub> to the right/left, respectively
+<ul>
+	<li style="text-align: center;">*Will learn more about later</li>
+</ul>
+</li>
+	<li>An increase/decrease in the marginal propensity to save (people start saving more money) will shift the S<sub>LF</sub> to the right/left, respectively</li>
+</ul>
+As you can see, shifting the S<sub>LF</sub> curve will change real interest rates, which will set off the chain reaction described above. Don't memorize which shift direction will increase/decrease real interest rates. Just know how to shift the curve, and then interpret the graph. In the instance of the graph to the left, you'll see that shifting the S<sub>LF</sub> curve to the left decreases real interest rates. (Yes, I copied and pasted this paragraph.)
+
+&nbsp;
+<h4>Loanable Funds Market as a Market Mechanism</h4>
+Now that you understand the loanable funds market, we'll see how the loanable funds market could theoretically self correct an economy.
+
+&nbsp;
+<h5><img class="alignleft" alt="SLF Shfits Right" src="http://www.compactcourse.com/images/LF Market SLF Right.png" width="299" height="278" /> Recession</h5>
+&nbsp;
+
+Let's say that a nation that was previously at full employment experienced a drop in aggregate demand. Using the AD-AS graph, shifting the AD curve to the left would yield lower real GDP and lower price levels . This would correlate with lower inflation and higher unemployment. Because of such high unemployment, people would be fearful of losing their jobs and thus start saving more money in order to support them in case they do become unemployed. Obviously, this means that banks would hold more money, causing an increase in the supply of loanable funds, shifting the S<sub>LF</sub> curve to the right.
+
+&nbsp;
+
+<img class="alignleft" alt="AD Shifts Twice" src="http://www.compactcourse.com/images/AD-AS AD Shift Twice.png" width="300" height="263" />This shift in the S<sub>LF</sub> curve would cause real interest rates to drop, as seen on the Market for Loanable Funds graph. Because real interest rates would be lower, the profitability of loans for businesses would increase, thus increasing business investment (don't forget the investment demand curve; you should be able to use this to prove the increase in business investment). This increase in business investment would increase aggregate demand, shifting the AD curve to the right, bringing the economy back to full employment.
+
+The entire process is shown in the graph. Red is the first shift, and blue is the second shift.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h5><img class="alignleft" alt="DLF Shifts Left" src="http://www.compactcourse.com/images/LF Market DLF Left.png" width="299" height="278" />Inflation</h5>
+&nbsp;
+
+Let's say that a nation that was previously at full employment experienced an increase in aggregate demand. Using the AD-AS graph, shifting the AD curve to the right would yield higher real GDP and price levels. This would correlate with higher inflation and lower unemployment. The high inflation would reduce the purchasing power of money. Therefore, businesses (and households) would have to take out more loans in order to continue to finance their investment/purchases. Thus, the demand for loanable funds would increase, shifting the D<sub>LF</sub> curve to the right.
+
+&nbsp;
+
+<img class="alignleft" alt="AD Shifts Twice" src="http://www.compactcourse.com/images/AD-AS AD Shift Twice2.png" width="339" height="263" />This shift in the D<sub>LF</sub> curve would cause real interest rates to increase, as seen on the Market for Loanable Funds graph. Because real interest rates would be higher, the profitability of loans for businesses would decrease, thus decreasing business investment. This decrease in business investment would decrease aggregate demand, shifting the AD curve to the left, bringing the economy back to full employment.
+
+The entire process is shown in the graph. Red is the first shift, and blue is the second shift.
+<h4>Rational Expectations Theory</h4>
+The good thing about this section is that you've already learned the process. Rational expectations theory is notion that households (people) make economic decisions based on their expectations of the future in the pursuit of self-interest. In doing so, however, they make economic policies ineffective. You'll learn about monetary and fiscal policies later, but knowledge of them is not necessary to understand rational expectations theory.
+
+Really all rational expectations theory is price-wage flexibility. The AP exam will often ask how an increase in the expected amount of inflation will affect the economy. This is just like the example we did <a title="Price Wage Flexibility - Inflation" href="#Price Wage Inflation">above</a>, except the inflation is already <em>expected</em>. This means that workers will quickly act to demand higher nominal wages. The rest of the process is the same as above, except that the shift in AD and the shift in AS happen at the same time.
+
+If the AP exam asks about expected unemployment, it's just the same concept of price wage flexibility discussed above about recessions. Once again, since it's already expected, the processes are simultaneous. However, the College Board will almost always ask about inflation instead.
+
+Just remember: rational expectations theory is exactly the same thing as price-wage flexibility. When policy makers try to influence the economy, rational expectations theory essentially makes their efforts ineffective. In the case of expected inflation, rational expectations theory results in the economy having same real GDP but higher inflation (thus higher nominal GDP as well). You shouldn't memorize this, just go through the process to figure it out. On the AP exam, you'll most likely be given an economic policy (will discuss next chapter) and will have to understand that it will create high inflation/unemployment, from which point, the rest is just price-wage flexibility.
+<h3>Summary</h3>
+The most important parts of classical economics are understanding the processes and graphs used. You probably won't see that whole "loanable funds market mechanism," but you should understand it. However, the AP exam will definitely include questions regarding price-wage flexibility and rational expectations theory, so make sure you know them. It shouldn't be too hard, considering they're the same thing, eh?
+<h1>Keynesian Economics</h1>
+Keynesian economics is all about the government aiding the economy. You've already seen Keynesian economics at work.
+
+For example, if the economy is in a recession, the government might increase its expenditures. This increase in government spending would increase aggregate demand, shifting the AD curve to the right to bring the economy back to full employment.
+
+Another example: if the economy is facing high inflation, the government might increase personal income taxes. This would leave people with less money to spend, and as a result, consumer spending/consumption would decrease. Therefore, aggregate demand would decrease as well, shifting the AD curve to the left to bring the economy back to full employment.
+
+Keynesian economics is just basic aggregate demand change due to government actions
+<h2>Range of AS Curve</h2>
+<img class="alignleft" alt="Keynesian Range" src="http://www.compactcourse.com/images/Keynesian Range.png" width="318" height="275" />Keynesian economists believe that more often than not, economies are in recessions, and the government must aid them in order to push them towards full employment. This is why many questions regarding Keynesian economics have to do with recessions. Traditionally, Keynesian economists think that economies are so far in recession that they lie along the flat part of the AS curve (far to the left), known as the Keynesian range. This results in their belief that increases in aggregate demand due to government involvement in the economy will raise real GDP while only increasing the general price level by a slim amount.
+
+The graph to the left is a good illustration of the Keynesian economists' belief. As you can see, shifting the AD curve to the right raises price levels by a negligible amount when the economy lies on the Keynesian range of the AS curve.
+
+There is a classical range of the AS curve as well, but it's not in the scope of this course.
+<h2>Crowding Out</h2>
+As you know, classical economists believe that the government shouldn't interfere with the economy. They think that the work of Keynesian economics is ineffective because of the crowding out affect. Crowding out is basically the phenomenon that increasing government spending reduces business investment.
+<h3>Walk Through</h3>
+Let's say that a nation that is in a recession. In order to combat this, Keynesian economists would advocate that the government increase its expenditures.. This increase in government spending would increase aggregate demand as well, shifting the AD curve to the right and bringing the economy back to full employment.
+
+But wait, how would the government pay for the increase in expenditures? If the government received no extra revenue but increased its expenses, it would have a <span style="color: #007fff;">budget deficit</span> - more money going out that coming in. In order to finance its budget deficit, the government would actually have to borrow from the private sector (banks). This increase in borrowing would result in an increase in the demand for loanable funds as well, shifting the D<sub>LF</sub> curve to the right. This would result in the increase of real interest rates.
+
+If real interest rates became higher, the profitability of loans that businesses take out would decrease, which means that business investment would decrease as well. The decrease in business investment would also decrease aggregate demand, shifting the AD curve the left, pulling the economy back into a recession. Furthermore, this decrease in business investment will decrease the production of factors of production, which will slow down the long-run economic growth rate of the nation.
+
+As you can see, the crowding out effect makes government interaction with the economy ineffective. More important, however, is how crowding out specifically decreases business investment and therefore long-run economic growth rates.
+
+The crowding out effect happens as a result of Keynesian economics. Classical economists use the crowding out effect as an argument for why Keynesian economics hurt the economy. Please don't think that crowding out is something that Keynesian economists "came up with." It is just a possible side effect of Keynesian economics on the economy.
+
+&nbsp;
+<h2>Investment Demand Elasticity</h2>
+The concepts of the loanable funds market as a market mechanism and crowding out are alike in that they affect business investment through real interest rates.
+
+Clearly, a classical economist would agree that both of them have a large impact on the economy. The loanable funds market is capable of self-correction of the economy, and the crowding out effect really does lower business investment.
+
+On the other hand, a Keynesian economist would be of the opinion that neither of them has an appreciable effect on the economy. The loanable funds market can't heal an economy on its own, and the crowding out effect is exaggerated.
+
+The truth lies somewhere in the middle. There is no denying that both of them change real interest rates. What is open-ended, however, is how changes in real interest rates truly do affect business investment. Classical economists believe that business investment is heavily responsive, or elastic, to real interest rates, while Keynesian economists think that business investment is largely independent of real interest rates.
+
+The relationship between business investment and real interest rates can be shown on the investment demand curve, which you've already seen before. I drew the curves straight instead of curved just for simplicity. In case I never told you, you don't have to draw curved lines on the AP exam. Straight lines are fine as well.
+
+&nbsp;
+<h3><img class="alignleft" alt="Classical Investment Demand" src="/images/Classical Investment Demand.png" width="299" height="270" />Classical Investment Demand</h3>
+&nbsp;
+
+Classical economists believe that real interest rates have a profound impact on business investment. Their concept of the investment demand curve is that business investment is elastic, or very dependent on real interest rates. A change in real interest rates results in a large change in business investment. This is consistent with the classical ideology discussed above.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<h3><img class="alignleft" alt="Keynesian Investment Demand" src="/images/Keynesian Investment Demand.png" width="299" height="270" />Keynesian Investment Demand</h3>
+&nbsp;
+
+Keynesian economists believe that real interest rates don't have a large effect on business investment. Their concept of the investment demand curve is that business investment is inelastic, or largely independent of real interest rates. The same change in real interest rates used in the graph above yields a very small change in business investment. This is consistent with the Keynesian ideology discussed above.

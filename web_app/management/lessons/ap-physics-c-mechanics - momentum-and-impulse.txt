@@ -1,0 +1,39 @@
+<p style="text-align: center;"><span style="color: #ff0000;"><a href="www.compactcourse.com/courses/ap-physics-b/kinematics/kinematics-lesson/" target="_blank"><span style="color: #ff0000;">See AP Physics B - Momentum and Impulse - Lesson for Basic Information</span></a></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Momentum and Impulse with Calculus</span></h2>
+<h3 style="text-align: center;">Momentum</h3>
+<span style="color: #ff0000;">Recall <img alt="{\color{Red} \Delta p=\Delta mv}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\Delta&amp;space;p=\Delta&amp;space;mv}" align="absmiddle" />.</span>
+
+From Newton's Second Law, <img alt="F_{net}=ma" src="http://latex.codecogs.com/gif.latex?F_{net}=ma" align="absmiddle" /> and since <img alt="a=\frac{\Delta v}{\Delta t}" src="http://latex.codecogs.com/gif.latex?a=\frac{\Delta&amp;space;v}{\Delta&amp;space;t}" align="absmiddle" />, we get <img alt="F_{net}=m\frac{\Delta v}{\Delta t}=\frac{\Delta p}{\Delta t}" src="http://latex.codecogs.com/gif.latex?F_{net}=m\frac{\Delta&amp;space;v}{\Delta&amp;space;t}=\frac{\Delta&amp;space;p}{\Delta&amp;space;t}" align="absmiddle" />. This can be seen in calculus terms as
+<p style="text-align: center;"><img alt="{\color{Blue} F(t)=\frac{\mathrm{d} p}{\mathrm{d} t}}\, \, \, or\, \, \, {\color{Blue} F(t)={p}'(t)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F(t)=\frac{\mathrm{d}&amp;space;p}{\mathrm{d}&amp;space;t}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;F(t)={p}'(t)}" align="absmiddle" /></p>
+
+<h3 style="text-align: center;">Conservation of Momentum</h3>
+<span style="color: #ff0000;">Recall: <img alt="{\color{Red} p_{i}=p_{f}\, \, \, or\, \, \, mv_{i}=mv_{f}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;p_{i}=p_{f}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;mv_{i}=mv_{f}}" align="absmiddle" />.</span>
+<ul>
+	<li>Since <img alt="F_{net}=\frac{\Delta p}{\Delta t}" src="http://latex.codecogs.com/gif.latex?F_{net}=\frac{\Delta&amp;space;p}{\Delta&amp;space;t}" align="absmiddle" />, if <img alt="F_{net}=0" src="http://latex.codecogs.com/gif.latex?F_{net}=0" align="absmiddle" />, then <img alt="\Delta p=0" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;p=0" align="absmiddle" /></li>
+	<li><img alt="\Delta p=p_{f}-p_{i}" src="http://latex.codecogs.com/gif.latex?\Delta&amp;space;p=p_{f}-p_{i}" align="absmiddle" /> so then <img alt="0=p_{f}-p_{i}" src="http://latex.codecogs.com/gif.latex?0=p_{f}-p_{i}" align="absmiddle" /></li>
+	<li>This can be manipulated to get our equation</li>
+</ul>
+<p style="text-align: center;"><img alt="{\color{Blue} p_{i}=p_{f}}\, \, \, or\, \, \, {\color{Blue} mv_{i}=mv_{f}}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;p_{i}=p_{f}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;mv_{i}=mv_{f}}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where p<sub>i</sub> and p<sub>f</sub> are the initial and final momentums, m is the mass of the object, and v<sub>i</sub> and v<sub>f</sub> are the initial and final velocities of the object</span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Impulse</span></h2>
+<p style="text-align: left;"><span style="color: #ff0000;">Recall <img alt="{\color{Red} J=F\Delta t\, \, \, or\, \, \, J=\Delta p}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;J=F\Delta&amp;space;t\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;J=\Delta&amp;space;p}" align="absmiddle" />.</span></p>
+<p style="text-align: left;">Since <img alt="F=\frac{\mathrm{d} p}{\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?F=\frac{\mathrm{d}&amp;space;p}{\mathrm{d}&amp;space;t}" align="absmiddle" />, this can be rewritten as <img alt="F\, \mathrm{d} t=\mathrm{d} p" src="http://latex.codecogs.com/gif.latex?F\,&amp;space;\mathrm{d}&amp;space;t=\mathrm{d}&amp;space;p" align="absmiddle" />. If we integrate this, we get the equation</p>
+<p style="text-align: center;"><img alt="{\color{Blue} \int F\mathrm{d} t=\int \mathrm{d} p=\Delta p=J}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;\int&amp;space;F\mathrm{d}&amp;space;t=\int&amp;space;\mathrm{d}&amp;space;p=\Delta&amp;space;p=J}" align="absmiddle" /></p>
+<p style="text-align: left; padding-left: 30px;">ex.) A force acting on an object varies as a function of time according to the equation <img alt="F(t)=\frac{5}{4}t^{3}" src="http://latex.codecogs.com/gif.latex?F(t)=\frac{5}{4}t^{3}" align="absmiddle" />. If the object had an initial momentum of 0 at time t = 0, what is the momentum of the object at time t = 3?</p>
+
+<ul>
+	<li><span style="color: #ff0000;">Givens</span>
+<ul>
+	<li><img alt="{\color{Red} p_{i}=0}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;p_{i}=0}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} F(t)=\frac{5}{4}t^{3}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;F(t)=\frac{5}{4}t^{3}}" align="absmiddle" /></li>
+</ul>
+</li>
+	<li><img alt="{\color{Red} \Delta p=\int F(t)\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;\Delta&amp;space;p=\int&amp;space;F(t)\mathrm{d}&amp;space;t}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} p_{f}-p_{i}=\int_{0}^{3}\left (\frac{5}{4}t^{3} \right )\mathrm{d} t}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;p_{f}-p_{i}=\int_{0}^{3}\left&amp;space;(\frac{5}{4}t^{3}&amp;space;\right&amp;space;)\mathrm{d}&amp;space;t}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} p_{f}-0=\left [\frac{5}{16}t^{4} \right ]^{3}_{0}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;p_{f}-0=\left&amp;space;[\frac{5}{16}t^{4}&amp;space;\right&amp;space;]^{3}_{0}}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} p_{f}=25.3}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;p_{f}=25.3}" align="absmiddle" /></li>
+</ul>
+<h3 style="text-align: center;">Graphic Relationship</h3>
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/Impulse.png"><img class="size-full wp-image-4545 aligncenter" alt="Impulse" src="http://www.compactcourse.com/wp-content/uploads/2013/07/Impulse.png" width="432" height="348" /></a>The area under the Force vs Time graph equals the impulse since <img alt="\int F\mathrm{d} t=J" src="http://latex.codecogs.com/gif.latex?\int&amp;space;F\mathrm{d}&amp;space;t=J" align="absmiddle" />.</p>

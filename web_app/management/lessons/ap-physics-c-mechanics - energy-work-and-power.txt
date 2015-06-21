@@ -1,0 +1,49 @@
+<p style="text-align: center;"><span style="color: #ff0000;"><a href="http://www.compactcourse.com/courses/ap-physics-b/kinematics/kinematics-lesson/" target="_blank"><span style="color: #ff0000;">See AP Physics B - Energy, Work, and Power - Lesson for Basic Information</span></a></span></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Work</span></h2>
+<h3 style="text-align: center;">Dot Product for Work</h3>
+<span style="color: #ff0000;">Recall <img alt="{\color{Red} W=Fd\cos \Theta }" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;W=Fd\cos&amp;space;\Theta&amp;space;}" align="absmiddle" />.</span>
+
+With our knowledge of the dot product, the new equation for work can be seen as
+<p style="text-align: center;"><img alt="{\color{Blue} W=F\cdot d}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;W=F\cdot&amp;space;d}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F is the force and d is the distance in which the force acts</span></p>
+
+<h3 style="text-align: center;">Finding the Work with Calculus</h3>
+When the force is changing, we can find the work by integrating the force function as seen in the equation
+<p style="text-align: center;"><img alt="{\color{Blue} W=\int F(x)\, dx}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;W=\int&amp;space;F(x)\,&amp;space;dx}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where F(x) is the force function with respect to its position, x</span></p>
+<p style="text-align: left; padding-left: 30px;">ex.) The force F on an object is shown above as a function of its position given as <img alt="F(x)=3x^{2}-5" src="http://latex.codecogs.com/gif.latex?F(x)=3x^{2}-5" align="absmiddle" />. If the object moves from <img alt="x=0" src="http://latex.codecogs.com/gif.latex?x=0" align="absmiddle" /> to <img alt="x=4" src="http://latex.codecogs.com/gif.latex?x=4" align="absmiddle" />, what is the total work done?</p>
+
+<ul>
+	<li><img alt="{\color{Red} W=\int F(x)\, dx}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;W=\int&amp;space;F(x)\,&amp;space;dx}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} W=\int_{0}^{4}3x^{2}-5\, \, \mathrm{d} x=\left [ x^{3}-5x \right ]_{0}^{4}=44}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;W=\int_{0}^{4}3x^{2}-5\,&amp;space;\,&amp;space;\mathrm{d}&amp;space;x=\left&amp;space;[&amp;space;x^{3}-5x&amp;space;\right&amp;space;]_{0}^{4}=44}" align="absmiddle" /></li>
+	<li><span style="color: #ff0000;">Therefore the total work done is equal to 44 N</span></li>
+</ul>
+<h3 style="text-align: center;">Finding the Force Function with Calculus</h3>
+<p style="text-align: left;"><img alt="W=-\Delta U" src="http://latex.codecogs.com/gif.latex?W=-\Delta&amp;space;U" align="absmiddle" /> and since <img alt="W=F\Delta x" src="http://latex.codecogs.com/gif.latex?W=F\Delta&amp;space;x" align="absmiddle" />, we can use substitution to get <img alt="-\Delta U=F\Delta x" src="http://latex.codecogs.com/gif.latex?-\Delta&amp;space;U=F\Delta&amp;space;x" align="absmiddle" />. By manipulation, we get <img alt="F=-\frac{\Delta U}{\Delta x}" src="http://latex.codecogs.com/gif.latex?F=-\frac{\Delta&amp;space;U}{\Delta&amp;space;x}" align="absmiddle" /> which in calculus terms becomes</p>
+<p style="text-align: center;"><img alt="{\color{Blue} F(x)=-\frac{\mathrm{d} U}{\mathrm{d} x}}\, \, \, or\, \, \, {\color{Blue} F(x)=-{U}'(x)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;F(x)=-\frac{\mathrm{d}&amp;space;U}{\mathrm{d}&amp;space;x}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;F(x)=-{U}'(x)}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where U is the potential energy with respect to its position, x</span></p>
+<p style="text-align: left; padding-left: 30px;">ex.) Stretching a non-linear spring requires an amount of work given by the function <img alt="U=5x^{2}-13x^{3}" src="http://latex.codecogs.com/gif.latex?U=5x^{2}-13x^{3}" align="absmiddle" /> where <img alt="U" src="http://latex.codecogs.com/gif.latex?U" align="absmiddle" /> is  in Joules and <img alt="x" src="http://latex.codecogs.com/gif.latex?x" align="absmiddle" /> is in meters. How much force is required to hold this spring stretched out <img alt="3.0\,\, m" src="http://latex.codecogs.com/gif.latex?3.0\,\,&amp;space;m" align="absmiddle" /> from its equilibrium position?</p>
+
+<ul>
+	<li><img alt="{\color{Red} F(x)=-{U}'(x)=-(10x-39x^{2})}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;F(x)=-{U}'(x)=-(10x-39x^{2})}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} F(3)=-(10(3)-39(3)^{2})=321}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;F(3)=-(10(3)-39(3)^{2})=321}" align="absmiddle" /></li>
+	<li><span style="color: #ff0000;">Therefore the work necessary to keep it stretched is 321 N</span></li>
+</ul>
+<h3 style="text-align: center;">Graphic Relationship</h3>
+Since <img alt="W=\int F(x)\, dx" src="http://latex.codecogs.com/gif.latex?W=\int&amp;space;F(x)\,&amp;space;dx" align="absmiddle" />, the work done by the force can be found by measuring the area below the curve as seen below
+<p style="text-align: center;"><a href="http://www.compactcourse.com/wp-content/uploads/2013/07/work-graph-2.png"><img class="size-full wp-image-4551 aligncenter" alt="work graph 2" src="http://www.compactcourse.com/wp-content/uploads/2013/07/work-graph-2.png" width="351" height="327" /></a></p>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Power</span></h2>
+<span style="color: #ff0000;">Recall <img alt="{\color{Red} P=\frac{W}{t}}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;P=\frac{W}{t}}" align="absmiddle" />.</span>
+
+Since power is the rate at which work gets done, we can find the power in calculus terms. This equation is
+<p style="text-align: center;"><img alt="{\color{Blue} P=\frac{\mathrm{d} W}{\mathrm{d} t}}\, \, \, or\, \, \, {\color{Blue} P={W}'(t)}" src="http://latex.codecogs.com/gif.latex?{\color{Blue}&amp;space;P=\frac{\mathrm{d}&amp;space;W}{\mathrm{d}&amp;space;t}}\,&amp;space;\,&amp;space;\,&amp;space;or\,&amp;space;\,&amp;space;\,&amp;space;{\color{Blue}&amp;space;P={W}'(t)}" align="absmiddle" /></p>
+<p style="text-align: center;"><span style="color: #007fff;">where W is the work over a time t</span></p>
+<p style="text-align: left; padding-left: 30px;">ex.) If work is done by the equation with respect to time <img alt="W(t)=9t^{2}-2t+34" src="http://latex.codecogs.com/gif.latex?W(t)=9t^{2}-2t+34" align="absmiddle" />, what is the power function with respect to time, t?</p>
+
+<ul>
+	<li><img alt="{\color{Red} P={W}'(t)}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;P={W}'(t)}" align="absmiddle" /></li>
+	<li><img alt="{\color{Red} W{}'(t)=18t-2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;W{}'(t)=18t-2}" align="absmiddle" /></li>
+	<li><span style="color: #ff0000;">Therefore <img alt="{\color{Red} P(t)=18t-2}" src="http://latex.codecogs.com/gif.latex?{\color{Red}&amp;space;P(t)=18t-2}" align="absmiddle" /></span></li>
+</ul>

@@ -1,0 +1,25 @@
+Water is the solvent of life. It has unique physical and chemical characteristics that allow it to facilitate many metabolic processes for billions of organisms. But before we dive into these characteristics, its important to understand the root of them.
+<h2 style="text-align: center;"><span style="color: #007fff;">The Polarity of Water</span></h2>
+Water is made up of 2 hydrogen atoms and one oxygen atom; the oxygen (O) and hydrogen (H) molecules are a special type of covalent bond called a <span style="color: #007fff;">hydrogen bond</span>. Hydrogen bonds are formed between only H molecules and either O, Fluorine (F), or Nitrogen (N). The large disparity between the electronegativities (the ability to attract electrons) between H and O, F, and N (note- H has a very low electronegativity and O, F, and N have large ones). The hydrogen bonds result in an uneven sharing of electrons, with a net negative dipole created near the oxygen and a net positive created near the hydrogen. This uneven sharing causes attractive intermolecular forces to function between water molecules and facilitates water's unique nature.
+<h2 style="text-align: center;"><span style="color: #007fff;">Water's Special Properties</span></h2>
+There are four essential properties of water that are integrated into many biological processes:
+<ul>
+	<li><span style="line-height: 14px;"><span style="color: #007fff;">Cohesiveness</span> - the ability of water molecules to attract to other water molecules due to collective polarity.</span>
+<ul>
+	<li>This also relates to adhesion, the ability of water molecules to polarize and attract to other molecules, and high surface tension.</li>
+</ul>
+</li>
+	<li><span style="color: #007fff;">Temperature Moderation</span> - the nature of dipole dipole interactions created by Water's H bonds causes it to have very high specific heat. <span style="color: #007fff;">Specific heat</span> is the amount of heat energy gained or lost when a gram of a substances changes its temperature by 1 degree Celsius. With a high specific heat, water is able to take in and release large amounts of energy without having its' internal temperature change.
+<ul>
+	<li>Water Specific heat = 4.184 J/(g * degree Celcius)</li>
+	<li>This specific heat allows water to have a high heat of vaporization and engage in evaporative cooling (cooling of the surface of water when the molecules with the highest energy leave the liquid state)</li>
+</ul>
+</li>
+	<li><span style="color: #007fff;">Ice Insulation of Water</span> - H bonding causes water to form a lattice structure while freezing; this lattice structure integrates space/holes into the molecular structure resulting in ice being less dense than water. In nature, it's usually the other way around. Therefore, bodies of water can still support life forms even when the surface freezes, since the lower levels of water remain liquid and habitable</li>
+	<li><span style="color: #007fff;">Universal Solvent <span style="color: #333333;">-  is a polar covalent solvent due to the dipole's created by H bonding. This means it can help dissolve ionic, polar, and nonpolar compounds (to a certain degree). This makes water a staple biological solvent, since it's able to dissociate many types of solutes and facilitate different reactions and processes</span></span></li>
+</ul>
+<h2 style="text-align: center;"><span style="color: #007fff;">Water Dissociation and Acids and Bases</span></h2>
+Molecules dissociate, or break apart, in varying degrees, and water is no exception. Water dissociates into hydrogen ions (H3O+) and hydroxide ions (OH-). The dissociation concentrations of water determine the pH of solutions, with normal concentrations being 10^-7 M. Note- water is in a situation of dynamic equilibrium, where water molecules constantly dissociate and reform as shown below:
+<p style="text-align: center;">2 H2O ---&gt; H3O+ + OH-</p>
+<p style="text-align: left;">When water interacts with acids and bases in nature, different pH's result depending on the strength of the acid/base. For the purposes of this course, however, you will not have to calculate pH's or know pH range interactions. Buffers are the only essential topic.</p>
+<p style="text-align: left;">A buffer system is a compound that minimizes volatility in hydrogen and hydroxide concentrations. It usually consists of a acid or base, and it's conjugate sitting in equilibrium. These systems are important in nature to control spikes in pH. For example, if human blood leaves it's usual range of pH for a couple minute, one could die. A common buffer system is bicarbonate and its conjugate- carbonic acid (H2CO3 ---&gt; HCO3- + H+)</p>

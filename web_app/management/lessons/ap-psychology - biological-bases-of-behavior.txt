@@ -1,0 +1,117 @@
+<h2 style="text-align: center;">The Neuron</h2>
+<h3>Makeup of the neuron</h3>
+Neurons are the individual nerve cells that make up the entire nervous system. Glial cells are a main function in your body because they help and maintain the growth of your neurons. A neurons job is to receive, decode and process, and send information to the rest of the body. Every neuron is made up of many different parts.
+<ol>
+	<li>Cell body (soma) contains the nucleus and other substances that are vital to the life of a neuron.</li>
+	<li>Dendrites are branch-like structures that grow out of the neuron so the neuron and connect with other neurons. This allows information to be passed from neuron to neuron.</li>
+	<li>Axon comes out of the cell body and ends in terminal buttons.</li>
+	<li>Terminal buttons are the figures that branch out from the axon that contain neurotransmitters.</li>
+	<li>Neurotransmitter are chemical structures that lie at the ends of dendrites and terminal buttons and are what is needed for the neurons to communicate. Different neurotransmitters have different chemical makeups and so they will perform different tasks.</li>
+	<li>Myelin sheath is the fatty covering around the axon which speeds up process. It is usually made up of Schwann's cells.</li>
+	<li>Synapse is the space between terminal buttons of a neuron and the dendrites of another.</li>
+	<li>Nodes of Ranvier are the gaps in the myelin sheath.</li>
+</ol>
+<h3>Types of Neurons</h3>
+Sensory neurons or afferent neurons are neurons that relay information to the brain from specific receptors in the body. Motor neurons or efferent neurons are the messages sent from the brain to the rest of the body. For example, when the brain signal the muscles to relax or contract. Interneurons are the neurons that communicate from one neuron to the next.
+<h3>How the Neuron Communicates Within itself</h3>
+When a the brain or special organs want to send a message to somewhere else in the body, they will fire a neurotransmitters that contain the message. This happens very quickly. Before the neurotransmitter can be fired between cells, there is a process within the neuron itself. The neuron must receive a sufficient amount of stimulation for an action potential to occur but if it does not have enough, there will be no action potential. This is called the all or none principal. It will either fully fire or wont fire at all. There are no inbetweens. In the polarized stage (resting potential), the neuron is prepared and ready to activate and communicate with other neurons. This is where the action potential is created and then the depolarization stage (action potential) is when the neuron fired and the action potential occurs. After the neuron is depolarized, it must be repolarized (refractory period). This is when the neuron can't fire and the neuron is trying to build up the action potential again.
+<h3>How the neurons communicate with eachother</h3>
+The pre-synaptic neuron is the neuron sending the message which sends the message through the synapse. The synapse is the point of communication between the two neurons. The post-synaptic neuron is the neuron that is receiving the message. When the message doesnt send send correctly, there is reuptake and that is when a pre-synaptic neuron absorbs the neurotransmitter from a post-synpatic neuron so the neurotransmitter can be used again. The two types of messages from neuron to neuron. There is an excitatory message and an inhibitory message.
+<ul>
+	<li>Excitatory message increases the chance that the post-synaptic neuron will fully receive the message and create an action potential</li>
+	<li>Inhibitory message decreases the chance the post-synaptic neuron will activate.</li>
+</ul>
+<h3>Types of Neurotransmitters</h3>
+<ol>
+	<li>Acetylcholine which causes muscle contraction and involved in memory function. Too much can cause seizures while too little can cause Alzheimer's and paralysis.</li>
+	<li>Serotonin regulates sleep, emotions, aggression, impulsivity, and appetite. If there is too much, OCD occurs. If there is too little, depression can occur.</li>
+	<li>Norepinephrine is a hormone produced by the adrenal glands and controls learning and memory and survival instincts. Too much can cause neurotic behavior while too little can cause depression and stress.</li>
+	<li>Dopamine regulates body movement, thought porcesses, and sensations. Schizophrenia and hallucinations can be produced if there is too much dopamine but too will can cause Parkinson's diease or drug addiction.</li>
+	<li>Endorphins control pain perceptions and positive emotions. It is a natural opiate released when experiencing pain. Having too many endorphins can cause a person to physically harm themselves to feel pain while too little will cause a person to become addicted to opiate and have cronic pain.</li>
+</ol>
+<h2 style="text-align: center;">The Nervous System</h2>
+The nervous system is broken down into two different systems: the central nervous system and the peripheral nervous system.
+<h3>The central nervous System</h3>
+The central nervous system is broken down into the brain and the spinal chord. The brain controls us and relays messages to the rest of the body. The spinal chord connects the brain and the peripheral nervous system.
+<h3>The Peripheral Nervous System</h3>
+The peripheral nervous system carries messages to and from the central nervous system. This system is broken down agin into the somatic nervous system and the autonomic nervous system.
+<ul>
+	<li>The somactic nervous system controls voluntary muscles and transmits snesory information to the central nervous system</li>
+	<li>The autonomic nervous system controls involuntary body function. This system is broken down into the sympathetic nervous system and the parasympathetic nervous system. The sympathetic system arouses the body to use energy while the parasympathetic system calms the body and trys to maintain energy.</li>
+</ul>
+<h2 style="text-align: center;">The Glands of the Endocrine System</h2>
+<h3>Pituitary Gland</h3>
+This gland regulates the production of other hormones released in the endocrine system. It also produces the growth hormone in the body. It is located just under the brain.
+<h3>Pineal Gland</h3>
+The pineal gland communicates with the pituitary gland. This gland produces melatonin which regulates the sleep cycle of a person. It controls sleep and wakefulness. This is located in the center of the brain.
+<h3>Thyroid and Pancreas</h3>
+The thyroid controls metabolism and is located in the throat. The pancreas regulates bloos sugar leavels and controls how hungry a person is. This is near the stomach.
+<h3>Adrenal glands</h3>
+The adrenal glands produce hormones that respond to stress and also produce epinephrine, norpinephrine, and adrenaline which control the flight or fight of a person. This is located behind the kidneys.
+<h3>Gonads</h3>
+The gonads are the sex organs so they are found in the ovaries and testes. These control the testesterone and the estrogen in a male and female.
+<h2 style="text-align: center;">The Brain</h2>
+<h3>The Forebrain</h3>
+This is the largest part of the brain. It is made up of several structures but mostly the cerebral cortex. The cerebral cortex is divided into hemipsheres and is responsible for higher thought level and sensory and motor processing. The cerebral cortex is connected by the corpus callosum. The two hemispheres of the frontal lobe have completely different functions.
+
+The left brain functions are of the math and science focused and like concrete answers.
+<ul>
+	<li>uses logic, facts and rules, math and science, knowing, sequntial list maker</li>
+	<li>speech words and good speller</li>
+	<li>practical and safe</li>
+	<li>reality based and forms strategies</li>
+</ul>
+The right brain functions are more art, english and more creative.
+<ul>
+	<li>uses feelings, symbols and images, good at visualizing an outcome, fantasy based</li>
+	<li>art, music, acting, architecture</li>
+	<li>risk taking</li>
+	<li>spatial perception, appreciates, philosophy and religion</li>
+</ul>
+<h3>Hindbrain</h3>
+The hindbrain is the region at the base of the brain that contains structures that contain basic life functions.
+<ul>
+	<li>Medulla controls vital life functions like breathing, blood pressure, heart beat, and circulation.</li>
+	<li>Cerebellum is located at the back of the brain and is responsible for muscle coordination,maintaining posture, and balance and coordination.</li>
+	<li>Pons connects the medulla to the cerebellum and also helps coordinate the movement of each side of the body. It helps make sure the body is doing the same thing.</li>
+	<li>Recticular Activating System (RAS) is a network of neurons that filters incoming informations and regulates mood.</li>
+</ul>
+<h3>MId Brain</h3>
+The mid brain is the smallest brain region and is involved in processing hearing and seeing. The substantia nigra is apart of motor control and contains large amounts of dopamine while the locus coeruleus involved in stress/panic and releases norepinephrine.
+<h3>THE Lobes</h3>
+Frontal lobe is the largest lobe and it processes voluntary muscle movements and it controls strategies, plans, good decision making, thinking, planning,and emotional control.
+<ul>
+	<li>Broca's area produces speech so if damaged a person can no longer speak.</li>
+	<li>Motor strip controls voluntary movements.</li>
+	<li>The pre-frontal cortex regulates personality and the recreating of things in the mind.</li>
+</ul>
+Parietal lobe is located on both hemishperes and processes body snesations like touch and pressure. The somato-sensory strip receives informations from touch receptors in the body.
+
+The temporal lobe is located on both hemispheres and by the temples of a person head and it the primary place to receive auditory information. Located only in the left temporal lobe is the Wernicke's area and that's main purpose is to comphrend what a persons heaard so if that's damaged, a person will not be able to understand a person talking.
+
+Occipital lobe is located at the back of the cerebral cortex and its main purpose is to receive and process visual information. The lobe sees images before the person even knows the have seen it.
+<h3 style="text-align: left;">The Limbic system</h3>
+The limbic system are structures that form around the brain stem that control learning, emotion, motivation, and memory.
+<ul>
+	<li>The hippocampus is involved in long term memory, new memories, and learning.</li>
+	<li>The thalamus receives sensory information, processes it, and then sends the sensory message to the correct part of the cerebral cortex.</li>
+	<li>The amygdala is involved in emotion, memory, fear and rage, and helps make humans decisions until theyre 25.</li>
+	<li>The hypothalamus regulates survival, fight or flight, feelings, mating, passes genes to next generation, eating, and drinking. The suprachiasmatic nucleus controls the sleep cycle of a person and other psyiological rhythms of the body.</li>
+</ul>
+<h2 style="text-align: center;">How to Study the Brain</h2>
+There are many different ways that people study the brian and many of those are used through technology. The different methods used measure and learn different things about the brain.
+<ul>
+	<li>EEG measure the brains waves and activities</li>
+	<li>PET scan measure radioactivity tagged substance that will show up while a person does a stimulating activity.</li>
+	<li>MRI produces highly detailed images of the brain and the bodys structures.</li>
+	<li>FMRI shows moment by moment changes of the brain's activity. This is the most advanced way to look at the brain.</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

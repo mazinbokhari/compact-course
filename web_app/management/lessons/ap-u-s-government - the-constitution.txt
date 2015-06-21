@@ -1,0 +1,76 @@
+<h2 style="text-align: center;"><span style="color: #007fff;"><span style="color: #007fff;">The Articles of Confederation</span>
+</span></h2>
+<p style="padding-left: 30px;">The Articles of Confederation formed a weak, decentralized national government. The states mostly retained their independence and sovereignty, leaving the federal government without much power, including the <em>inabilities</em> to:</p>
+
+<ul style="padding-left: 30px;">
+	<li><span style="line-height: 14px;">Levy taxes on citizens</span></li>
+	<li>Regulate interstate commerce/trade</li>
+	<li>Enforce executive authority</li>
+	<li>Establish a judicial or executive branch</li>
+	<li>Draft soldiers</li>
+	<li>Amend the Articles without a unanimous consensus of the states</li>
+</ul>
+<h3><span style="color: #007fff;">Shays' Rebellion</span></h3>
+The weaknesses of the Articles of Confederation were evident during <span style="color: #007fff;">Shays' Rebellion</span>, a six month period in which thousands of armed Massachusetts farmers protested the foreclosure of their estates. Shays' Rebellion helped demonstrate why a stronger federal government was necessary to keep peace and prosperity in America.
+<h2 style="text-align: center;"><span style="color: #007fff;">The Constitutional Convention</span></h2>
+The Framers of the Constitution were generally young but experienced. Many of them were actually lawyers. While they all agreed that a stronger central government was necessary, many were divided on the question of how much power should be placed in the hands of the federal government. The Framers feared the "excessive democracy" that state governments had at the time, but also were cognizant of a possible tyranny caused by too much central power, much like what happened in England. Therefore, the Framers proposed a limited central government with a system of checks and balances created by separation of powers. The main debate during the convention was over the issue of representation. Three plans arose from the Convention:
+<ul>
+	<li><span style="line-height: 22px;">The <span style="color: #007fff;">New Jersey Plan</span> proposed equal representation of each state in a unicameral (one house) legislature. This plan favored the small states because they would get the same political power and influence as larger states who had greater populations..</span></li>
+	<li>The <span style="color: #007fff;">Virginia Plan</span> called for representation proportional to a state's population in a bicameral (two house) legislature. This plan favored the large states, whose large populations would have given them more representatives in the legislature.</li>
+	<li>The <span style="color: #007fff;">Great Compromise</span>, also known as the <span style="color: #007fff;">Connecticut Plan</span>, which accommodated both large and small states by calling for equal representation in one house - the Senate- and for proportional representation in another house - the House of Representatives - in a bicameral legislature. This plan was adopted and is what formed the Congress we know today. Regardless of the compromise, small states still technically have a disproportionate political power in Congress due to every state receiving two seats in the Senate each.</li>
+</ul>
+<h3><span style="color: #007fff;">Three-Fifths Compromise</span></h3>
+Even with the Great Compromise, other issues had to be addressed, such as the representation of a state based on its population of slaves. In what is known as the Three-Fifths Compromise, the Framers declared that a slave would be counted as three-fifths of a free man towards a state's population in determining its representation in Congress.
+<h2 style="text-align: center;"><span style="color: #007fff;">The Constitution</span></h2>
+The Constitution itself proposed three branches in order to separate the powers of the national government.
+<h3><span style="color: #007fff;">The Legislative Branch</span></h3>
+Article I of the Constitution established the legislative branch, which was meant to be the most powerful of the three. This new Congress had much more economic power than the central government of the Articles of Confederation. Most importantly, Congress was granted the power to levy revenue taxes and regulate interstate commerce.
+<h3><span style="color: #007fff;">The Executive Branch</span></h3>
+Article II established the executive branch, which consisted of a president chosen by an electoral college.
+<h3><span style="color: #007fff;">The Judicial Branch</span></h3>
+Article III established the judicial branch, which included the Supreme Court. It is important to note that the Constitution itself did not establish any other court system, nor did the Supreme Court have the ability to do so. Congress was given the power to establish other federal courts.
+<h3><span style="color: #007fff;">Checks and Balances</span></h3>
+As aforementioned, the Constitution set up a system of check and balances. While this may slow legislation, it prevents one body of government from gaining too much power over the others. Examples of checks and balances are:
+<ul>
+	<li><span style="line-height: 14px;">The President can <span style="color: #007fff;">veto</span> (deny) a bill passed by Congress. However, Congress can override this veto with a two-thirds vote in both the Senate and the House of Representatives.</span></li>
+	<li>The Supreme Court can declare congressional and presidential acts as unconstitutional in a process that is known as <span style="color: #007fff;">judicial review</span>. However, if Congress passes a constitutional amendment, the Supreme Court must abide by it.</li>
+	<li>The Senate must ratify treaties made by the President. Additionally, the Senate must confirm presidential nominations to the Supreme Court.</li>
+</ul>
+<h3><span style="color: #007fff;">Individual Freedoms</span></h3>
+The Constitution protected individual rights with the following:
+<ul>
+	<li>Prohibition of <span style="color: #007fff;">bills of attainder</span>, which are acts that allow punishment before a fair trial</li>
+	<li>Prohibition of <span style="color: #007fff;">ex post facto laws</span>, which are laws that allow the punishment of a man for an act that became illegal <em>after</em> he committed it</li>
+	<li>Guarantee of <span style="color: #007fff;">writ of habeas corpus</span>, which is a legal action that requires a person under arrest to be brought before a judge in a legal court</li>
+	<li>Prohibition of religious requirements to hold office</li>
+</ul>
+<h3><span style="color: #007fff;">Insulation from Popular Passions</span></h3>
+The Framers believed that the best interest of the people is not always what the majority supports. Therefore, they set up the Constitution in a way to safeguard from such "excessive democracy" in the following ways:
+<ul>
+	<li><span style="line-height: 14px;">Federal judges are appointed by the President and serve life terms. Therefore, they need not be supported by the majority to get and stay in power.</span></li>
+	<li>The President himself was not elected by the popular vote. The President was originally chosen by electors sent by state legislatures. However, now electors are chosen by the popular vote in each state.</li>
+	<li>The Senate was originally chosen by state legislatures, not the people. However, once again, this was later changed.</li>
+	<li>The longer term than in the House of Representatives, along with the staggered term of office (not every Senator is up for election in the same year), allowed the Senate to not radically change composition if some popular movement garnered a lot of support.</li>
+</ul>
+&nbsp;
+<h2 style="text-align: center;"><span style="color: #007fff;">Ratification</span></h2>
+Since the Constitution was a separate document from the Articles of Confederation, the process of ratification only required 9 of the 13 states, instead of all 13. Two political groups debated ratification of the Constitution:
+<ul>
+	<li><span style="line-height: 14px;">The Federalists, who supported the Constitution, advocated a strong national government.</span></li>
+	<li>The Anti-Federalists favored strong state governments, which is why they were hesitant to accept the Constitution. Anti-Federalists were worrisome of their civil liberties and demanded a Bill of Rights to protect them.</li>
+</ul>
+<h3><span style="color: #007fff;">The Federalist Papers</span></h3>
+In order to garner support for the Constitution, a group of Federalists wrote a series of 85 essays and articles. Among them was James Madison, who argued in the <em>Federalist Number 10</em> that political factions were obviously unwanted but virtually inevitable. He said that a strong and large national government would divide political power and authority and thus lessen the hazard of political factions.
+<h3><span style="color: #007fff;">Historical Ratification</span></h3>
+All the states eventually ratified the Constitution, and, as the Federalists promised the Anti-Federalists, the Bill of Rights was introduced in the first session of Congress.
+<h2 style="text-align: center;"><span style="color: #007fff;">Amending the Constitution</span></h2>
+An amendment of the Constitution can be proposed by two methods:
+<ul>
+	<li><span style="line-height: 22px;">A two-thirds vote in both the Senate and the House of Representatives</span></li>
+	<li><span style="line-height: 22px;">A national convention assembled at the request of two-thirds of the state legislatures</span></li>
+</ul>
+An amendment of the Constitution can be <span style="color: #007fff;"><em>ratified</em> </span>by two methods:
+<ul>
+	<li><span style="line-height: 14px;">Ratifying conventions in three-fourths of the states</span></li>
+	<li>Three-fourths of the state legislatures</li>
+</ul>
